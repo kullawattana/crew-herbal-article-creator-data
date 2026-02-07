@@ -1,0 +1,23 @@
+# ===LAB_DATA=== 
+## Internal Lab Evidence for: ขมิ้นชัน / Turmeric
+* **main_sources:**
+  * 42_KhaMinChun.pdf (p.5)
+  * 24_Prik.pdf (p.5)
+* **linkage_to_target_herb:**
+  * TLC and GC-MS performed on ethanol extract of turmeric rhizome (เหง้าขมิ้น)
+  * Curcumin and turmerone detected in turmeric oil sample (from ขมิ้นชัน)
+* **experimental_methods:**
+  * TLC: silica gel F254, solvent hexane:ethyl acetate 7:3
+  * Extraction: 95% ethanol maceration for 7 days, filtered and evaporated
+* **identified_compounds:**
+  * Curcumin (TLC band hRf 41)
+  * Turmerone (GC-MS major peak at RT=12.5 min)
+* **chromatography_details:**
+  * TLC: 3 bands detected, Rf 0.41 (yellow), 0.56, 0.72
+  * GC-MS: Peaks identified via NIST database match
+* **pharmacological_findings:**
+  * Antibacterial activity against Staph. aureus (zone of inhibition: 14 mm)
+* **quality_control_observations:**
+  * No contaminants detected, ethanol yield: 12.3% w/w
+* **notes:**
+  * Study suggests turmeric extract has potential for topical antibacterial formulation

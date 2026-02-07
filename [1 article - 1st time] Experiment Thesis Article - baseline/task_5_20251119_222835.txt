@@ -1,0 +1,32 @@
+# ===SAFETY_DATA=== 
+## International Safety Data for: Turmeric
+* **herb_name:** Turmeric
+* **source_browsed:** https://dailymed.nlm.nih.gov/dailymed/drugInfo.cfm?setid=3ac87193-198b-49a6-98b8-e925441d578c&audience=consumer
+### Drug Facts Label
+* **active_ingredients:**
+    * **Ingredient 1:**
+        * **name:** Turmeric Root
+        * **strength:** 2X HPUS
+        * **purpose:** Temporarily relieves acute symptoms of migraine headaches
+    * **Ingredient 2:**
+        * **name:** Curcuma longa
+        * **strength:** 4X HPUS
+        * **purpose:** Temporarily relieves acute symptoms of migraine headaches
+    * **Ingredient 3:**
+        * **name:** Boswelia Serrata Extract
+        * **strength:** 4X HPUS
+        * **purpose:** Temporarily relieves acute symptoms of migraine headaches
+    * **Ingredient 4:**
+        * **name:** Ginger
+        * **strength:** 5X HPUS
+        * **purpose:** Temporarily relieves acute symptoms of migraine headaches
+    * **Ingredient 5:**
+        * **name:** Feverfew
+        * **strength:** 3X HPUS
+        * **purpose:** Temporarily relieves acute symptoms of migraine headaches
+* **uses:** Temporarily relieves acute symptoms of migraine headaches such as: pressure, pulsating, stabbing headache, nausea, sensitivity
+* **warnings:** Ask a doctor before giving it to children under 12 years old. Stop using immediately contact a doctor if symptoms get worse or persist more than 7 days in a row. If pregnant or breast-feeding, ask a health professional before use. Keep out of reach of children
+* **directions:** Mix one packet with 12 ounces of water, one drink. You can add honey or cane sugar to make it sweeter. For a Dreamsicle smoothie, add some ice cubes, 2 teaspoons pure vanilla extract and 12 ounces of coconut and almond milk in a blender. Pulsate until smooth
+* **other_information:** Not found
+* **inactive_ingredients:** RIBOFLAVIN, MAGNESIUM, SIRAITIA GROSVENORII FRUIT
+* **questions:** Not found

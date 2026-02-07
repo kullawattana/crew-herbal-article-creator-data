@@ -1,0 +1,14 @@
+# ===TRENDS_DATA===
+## Wellness Trends for: Turmeric (Curcuma longa)
+### Finding 1
+* **herb_name:** Turmeric (Curcuma longa)
+* **wellness_context_summary:** Turmeric, a spice commonly found in Indian and Middle Eastern cooking, has been shown to have numerous health benefits due to its active compound curcumin. It has potent antioxidant and anti-inflammatory properties, which may help prevent chronic diseases such as heart disease, cancer, and Alzheimer's disease. Turmeric may also improve symptoms of depression and arthritis.
+* **source_url:** https://www.healthline.com/nutrition/top-10-evidence-based-health-benefits-of-turmeric
+### Finding 2
+* **herb_name:** Turmeric (Curcuma longa)
+* **wellness_context_summary:** Turmeric has been used in traditional medicine for centuries, and its active compound curcumin has been shown to have anti-inflammatory and antioxidant properties. It may help reduce inflammation and improve symptoms of osteoarthritis, and may also have a role in preventing the development of Alzheimer's disease.
+* **source_url:** https://www.hopkinsmedicine.org/health/wellness-and-prevention/turmeric-benefits
+### Finding 3
+* **herb_name:** Turmeric (Curcuma longa)
+* **wellness_context_summary:** Turmeric may help reduce inflammation and improve symptoms of chronic diseases such as heart disease, cancer, and Alzheimer's disease. Its active compound curcumin has been shown to have potent antioxidant and anti-inflammatory properties, and may also improve symptoms of depression and arthritis.
+* **source_url:** https://health.clevelandclinic.org/turmeric-health-benefits/

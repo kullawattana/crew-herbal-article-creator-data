@@ -1,0 +1,11 @@
+{
+  "model": "meta/llama-3.3-70b-instruct",
+  "herbs": "\u0e02\u0e21\u0e34\u0e49\u0e19\u0e0a\u0e31\u0e19",
+  "runtime_sec": 485.8,
+  "cpu_percent": 2.3,
+  "memory_mb_change": -9.91,
+  "total_tokens": 0,
+  "prompt_tokens": 0,
+  "completion_tokens": 0,
+  "total_cost": 0.0
+}

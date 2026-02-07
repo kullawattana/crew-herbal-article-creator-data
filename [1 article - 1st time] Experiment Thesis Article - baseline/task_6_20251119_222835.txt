@@ -1,0 +1,9 @@
+# ===TOXICITY_DATA=== 
+## Clinical Toxicity Data for: Turmeric
+* **herb_name:** Turmeric
+* **source_browsed:** https://www.ncbi.nlm.nih.gov/books/NBK548561/
+### Clinical Summary
+* **toxicity_summary:** Turmeric, a spice and popular botanical product, has been associated with a low rate of transient serum enzyme elevations during therapy. However, some turmeric products have recently been implicated in several dozen instances of clinically apparent acute liver injury. The clinical features of turmeric-induced liver injury include fatigue, nausea, abdominal pain, and jaundice, with a latency period of 1-4 months. The liver injury is typically hepatocellular, with marked elevations in serum aminotransferase levels, and can be severe, leading to acute liver failure and death.
+* **mechanism_of_injury:** The mechanism of turmeric-induced liver injury is thought to be idiosyncratic, possibly immunologically mediated, and has been linked to the HLA-B*35:01 allele.
+* **reported_side_effects:** Common side effects of turmeric include gastrointestinal upset, dermatitis, and yellow stool. More severe side effects include liver injury, with symptoms such as fatigue, nausea, abdominal pain, and jaundice.
+* **case_report_summary:** Several case reports have been published describing turmeric-induced liver injury, including a case of a 57-year-old woman who developed acute hepatitis with jaundice after taking turmeric for 2-3 weeks, and a case of a 35-year-old man who developed acute hepatitis with jaundice after taking curcumin with black pepper for 2 months. In both cases, the liver injury was severe and required hospitalization.
