@@ -1,0 +1,33 @@
+# ===RESEARCH_DATA===
+## Scientific Evidence for: Parkia speciosa
+* **herb_name:** Parkia speciosa
+* **herb_name_scientific:** Parkia speciosa Hassk
+### Validated Compounds
+* **Compound 1:**
+    * **compound_name:** 1,2,4-Trithiolane
+    * **mechanism_name:** Antioxidant
+    * **supporting_studies:**
+        * **Study 1:** (Data from the first item in studies_data)
+            * **study_type:** Journal Article
+            * **abstract_raw:** The Polysulfide Containing Medicinal Plant Parkia speciosa Hassk. has Both Antioxidant and Cardioprotective Activity.
+            * **key_findings:** The study investigated the cardioprotective potential of hydrogen sulfide (H2S) released by oil extracted from Parkia speciosa Hassk. seeds (PsH). The results showed that PsH restored ISO-suppressed serum and urinary H2S levels and reversed ISO-elevation of serum lipid profile, cardiac oxidative stress, and serum markers of cardiac damage.
+            * **pmid:** 40651035
+            * **canonical_url:** https://doi.org/10.1002/cbdv.202500094
+            * **citation_apa:** Asif, A., Ahmad, F.-U.-D., Mothana, R. A., Al-Yousef, H. M., & Sewell, R. D. E. (2025). The Polysulfide Containing Medicinal Plant Parkia speciosa Hassk. has Both Antioxidant and Cardioprotective Activity. Chemistry & Biodiversity, 22(11), e00094.
+        * **Study 2:** (Data from the second item in studies_data)
+            * **study_type:** Journal Article
+            * **abstract_raw:** Effect of Boiling, Steaming and Microwaving on the Antioxidant and Antibacterial Properties of Parkia speciosa Seeds.
+            * **key_findings:** The study investigated the effects of boiling, steaming, and microwaving on the total phenolic content, cyclic polysulfide content, antioxidant, and antibacterial properties of Parkia speciosa seeds. The results showed that microwaving displayed the highest decrease in total phenolic content, followed by boiling, while steaming retained most total phenolic content.
+            * **pmid:** 40237845
+            * **canonical_url:** https://doi.org/10.1007/s11130-025-01351-6
+            * **citation_apa:** Limas, L. F., Jeyaraj, E. J., Ng, K. Y., & Choo, W. S. (2025). Effect of Boiling, Steaming and Microwaving on the Antioxidant and Antibacterial Properties of Parkia speciosa Seeds. Plant Foods for Human Nutrition, 80(2), 110.
+        * **Study 3:** (Data from the third item in studies_data)
+            * **study_type:** Journal Article
+            * **abstract_raw:** Antibacterial potency of mid-polar extracts obtained from Malaysian plant Parkia speciosa against human pathogenic bacteria.
+            * **key_findings:** The study evaluated the antibacterial potential of extract fractions associated with Parkia speciosa pods and beans against human pathogenic bacteria. The results showed that four fractions showed significant antimicrobial activity against the six microorganisms tested.
+            * **pmid:** 39566830
+            * **canonical_url:** https://doi.org/10.1016/j.micpath.2024.107134
+            * **citation_apa:** Goh, S. M., Dassanayake, M. K., Foan, C. C., Wiart, C., Symonds, R., Khoo, T.-J., ... & Elfar, O. A. (2024). Antibacterial potency of mid-polar extracts obtained from Malaysian plant Parkia speciosa against human pathogenic bacteria. Microbial Pathogenesis, 198, 107134.
+
+### Overall Summary
+* **summary:** Parkia speciosa has been found to have antioxidant and cardioprotective activities, as well as antibacterial properties against human pathogenic bacteria.

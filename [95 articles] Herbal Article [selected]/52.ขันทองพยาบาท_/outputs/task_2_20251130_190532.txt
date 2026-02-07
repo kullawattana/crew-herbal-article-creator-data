@@ -1,0 +1,3 @@
+Thought: I have now retrieved the relevant snippets from the internal herbal PDFs Knowledge Base using both the Thai query "ขันทองพยาบาท" and the English/Scientific query "Suregada multiflora".
+
+Action: None

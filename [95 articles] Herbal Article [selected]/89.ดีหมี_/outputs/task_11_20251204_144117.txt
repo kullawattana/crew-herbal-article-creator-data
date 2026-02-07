@@ -1,0 +1,75 @@
+# ===MASTER_FACT_SHEET===
+## Consolidated Facts for: Cleidion spiciflorum
+* **Trend Fact:** Not found
+* **Lab Fact (Experimental Method):** Not found
+* **Lab Fact (Extraction Method):** Not found
+* **Lab Fact (Compound Identified):** spiciflorin
+* **Lab Fact (Chromatography - TLC):** Not found
+* **Lab Fact (Pharmacological Finding):** Clerodanes and other constituents of Cleidion spiciflorum.
+* **Lab Fact (Cosmetic or Clinical Effect):** Not found
+* **Lab Fact (Quality Control):** Not found
+* **Science Fact (Herb):** Cleidion spiciflorum
+* **Science Fact (Compound):** spiciflorin
+* **Science Fact (Abstracts):**
+  * **Study 1:**
+    * **abstract_raw:** Not found
+    * **citation_apa:** Not found
+* **Compliance Fact (Food Registration 1):** None found
+* **Compliance Fact (Safety Dosage):** Not found
+* **Compliance Fact (Safety Warning):** None found
+* **Safety Fact (Active Ingredient):** Not found
+* **Safety Fact (Ingredient Purpose):** Not found
+* **Safety Fact (Uses):** Not found
+* **Safety Fact (Warnings):** Not found
+* **Safety Fact (Directions):** Not found
+* **Safety Fact (Other Info):** Not found
+* **Safety Fact (Inactive Ingredients):** Not found
+* **Safety Fact (Questions):** Not found
+* **Toxicity Fact (Summary):** The polyoxygenated clerodane, spiciflorin (1a), was isolated from Cleidion spiciflorum (Burm. f.) Merr. (Euphorbiaceae). Other constituents were the glucoside of anol (2), columbin, scopoletin, 3,3',4-O-trimethylellagic acid, acetylaleuritolic acid, common triterpenes and phenols.
+* **Toxicity Fact (Mechanism):** Not found
+* **Toxicity Fact (Side Effects):** Not found
+* **Toxicity Fact (Case Reports):** Not found
+* **Culture Fact (Community - Ban Tha Di Mi):** Ban Tha Di Mi
+* **Culture Fact (Location - Ban Tha Di Mi):** Pak Tom
+* **Culture Fact (Ethnic Group - Ban Tha Di Mi):** Thai Yuan
+* **Culture Fact (Community Highlight - Ban Tha Di Mi):** Ban Tha Di Mi is a border village that has received support and development from military units, security agencies, and the 23rd Ranger Regiment. The last development project was around 1999-2002, when the 2nd Army Region supported the construction of a large Buddha image, which is now a tourist attraction in Chiang Kham District, Lampang Province.
+* **Culture Fact (Name Etymology - Ban Tha Di Mi):** No herbal-related information found.
+* **Culture Fact (Environment - Ban Tha Di Mi):** No herbal-related information found.
+* **Culture Fact (Local Wisdom - Ban Tha Di Mi):** Di Mi or Di Mi Pa is mixed with a little water to create a permanent tattoo.
+* **Culture Fact (Organization - Ban Tha Di Mi):** No herbal-related information found.
+* **Culture Fact (Local Name - Ban Tha Di Mi):** Di Mi
+* **Culture Fact (Use - Ban Tha Di Mi):** Tattooing
+* **Culture Fact (Processing - Ban Tha Di Mi):** Tattooing
+* **Culture Fact (Source - Ban Tha Di Mi):** https://wikicommunity.sac.or.th/community/1759
+* **Culture Fact (Community - Lanna):** Lanna
+* **Culture Fact (Location - Lanna):** Chiang Mai
+* **Culture Fact (Ethnic Group - Lanna):** Thai Yuan
+* **Culture Fact (Community Highlight - Lanna):** Tattooing is a distinctive feature of the Lanna people, which can be used to distinguish them from other ethnic groups. However, it is not unique to the Lanna people, as there has been cultural exchange and transmission of tattooing techniques among different groups.
+* **Culture Fact (Name Etymology - Lanna):** No herbal-related information found.
+* **Culture Fact (Environment - Lanna):** No herbal-related information found.
+* **Culture Fact (Local Wisdom - Lanna):** Di Mi or Di Mi Pa is mixed with a little water to create a permanent tattoo.
+* **Culture Fact (Organization - Lanna):** No herbal-related information found.
+* **Culture Fact (Local Name - Lanna):** Di Mi
+* **Culture Fact (Use - Lanna):** Tattooing
+* **Culture Fact (Processing - Lanna):** Tattooing
+* **Culture Fact (Source - Lanna):** https://www.sac.or.th/portal/th/article/detail/371
+* **Culture Fact (Community - Mlabri):** Mlabri
+* **Culture Fact (Location - Mlabri):** Phrae
+* **Culture Fact (Ethnic Group - Mlabri):** Mlabri
+* **Culture Fact (Community Highlight - Mlabri):** The Mlabri people are an ethnic group that has migrated between Thailand and Laos. They originally lived in the forest and survived by hunting and gathering. Now, they have settled in permanent villages and have a diverse range of livelihoods, including hunting and gathering, farming, animal husbandry, and wage labor.
+* **Culture Fact (Name Etymology - Mlabri):** No herbal-related information found.
+* **Culture Fact (Environment - Mlabri):** No herbal-related information found.
+* **Culture Fact (Local Wisdom - Mlabri):** Di Mi is used in traditional tattooing.
+* **Culture Fact (Organization - Mlabri):** No herbal-related information found.
+* **Culture Fact (Local Name - Mlabri):** Di Mi
+* **Culture Fact (Use - Mlabri):** Tattooing
+* **Culture Fact (Processing - Mlabri):** Not found
+* **Culture Fact (Source - Mlabri):** https://ethnicity.sac.or.th/database-ethnic/194?SacThesaurus_sort=access_point&Populations_sort=provinces
+* **Internal RAG Fact (Herbal):** Unfortunately, the provided internal knowledge context does not explicitly mention ดีหมี (Cleidion spiciflorum).
+* **Internal RAG Fact (Cultural):** ดีหมี (Dillenia indica) is a plant that has been used in Thai traditional medicine for a long time.
+* **Source URL (Trend):** Not found
+* **Source URL (Science):** https://pubmed.ncbi.nlm.nih.gov/16716368/
+* **Source URL (Compliance):** Not found
+* **Source URL (Safety):** Not found
+* **Source URL (Toxicity):** https://pubmed.ncbi.nlm.nih.gov/16716368/
+* **Source URL (Culture):** https://wikicommunity.sac.or.th/community/1759, https://www.sac.or.th/portal/th/article/detail/371, https://ethnicity.sac.or.th/database-ethnic/194?SacThesaurus_sort=access_point&Populations_sort=provinces

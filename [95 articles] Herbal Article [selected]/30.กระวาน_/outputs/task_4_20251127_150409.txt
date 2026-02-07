@@ -1,0 +1,13 @@
+# ===COMPLIANCE_DATA=== ## Thai FDA Status for: Elettaria cardamomum
+* **herb_name:** Elettaria cardamomum
+### Food Registrations 
+* **Food Registration 1:**
+    * **registration_number:** เลขสารบบอาหาร
+    * **product_name:** ชื่อผลิตภัณฑ์(TH)
+    * **company_name:** ชื่อผู้รับอนุญาต
+    * **status:** สถานะผลิตภัณฑ์
+* **Food Registration 2:**
+    * **registration_number:** None found
+    * **product_name:** None found
+    * **company_name:** None found
+    * **status:** None found

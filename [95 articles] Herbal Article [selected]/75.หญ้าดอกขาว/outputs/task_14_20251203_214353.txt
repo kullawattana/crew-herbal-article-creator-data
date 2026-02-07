@@ -1,0 +1,32 @@
+# ===AUDIT_DATA_INTEGRITY_REPORT===
+*   **Collaboration Robustness (Data Loss):** 31.44%
+*   **Explanation Clarity (Hallucination/Handling):** 84.72%
+*   **Dropped Entities (Facts in Fact Sheet but not Article):**
+    *   **Trend Facts (21 facts):**
+        *   Naturista Kohila Root Powder benefits: reduce fat absorption, control blood cholesterol, beneficial for skin burns, tuberculosis, respiratory disorders, pneumonia.
+        *   Naturista Kohila Root Powder ingredients: polyphenol and ascorbic acids which control blood pressure and heal wounds in internal tissues.
+        *   Naturista Kohila Root Powder consumption advice: can be consumed as a drink/porridge (method of consumption partially lost), recommended to drink at least 6-8 glasses of water a day, avoid alcohol/drugs/smoking, use a well-ventilated perforated seat.
+        *   Kola kenda recipe details: with kohila root and red kekulu rice, kohila root and Brahmi leaves, little ironweed, especially heen bovitiya.
+    *   **Compliance Facts (20 facts):**
+        *   All 5 specific Herb/Drug Registrations (G184/60, G50013/63, G465/60, G51/60, G418/59), including their product names, company names, and statuses.
+    *   **Safety Facts (57 facts):**
+        *   All 22 Active Ingredients (e.g., Borax, Bryonia (Alba), Echinacea Purpurea, Juglans Cinerea, Kali Muriaticum, Magnesia Muriatica, Muriaticum Acidum, Discus Intervertebralis Suis, Oral Mucosa (Suis), Antimonium Crudum, Arsenicum Album, Bismuthum Subnitricum, Chamomilla, Cinchona Officinalis, Nux Moschata, Sambucus Nigra, Sepia, Mercurius Solubilis, Calcarea Phosphorica, Ignatia Amara, Oxygenium, Candida Albicans) and their specific strengths (e.g., 6X, 8X, 12X, 16X, 18X, 24X, 30X).
+        *   Uses: For temporary relief of symptoms related to oral health, such as cavitation, delayed dentition, dry mouth, painful eating, eruptions on the tongue and inner cheeks, and tooth sensitivity.
+        *   Warnings: Keep out of reach of children; in case of overdose, contact physician or Poison Control Center; if pregnant or breast-feeding, seek advice of a health professional; tamper seal details ("Sealed for Your Protection"); instruction not to use if seal is broken or missing.
+        *   Directions: 1-10 drops under the tongue, 3 times a day or as directed by a health professional; consult a physician for use in children under 12 years of age.
+        *   Other Info: Disclaimer regarding homeopathic product not being evaluated by FDA for safety or efficacy, and FDA not being aware of scientific evidence to support homeopathy as effective.
+        *   Inactive Ingredients: Demineralized Water, 25% Ethanol.
+        *   Questions: Distributor information (Deseret Biologicals, Inc., address, website).
+    *   **Culture Facts (35 facts):**
+        *   Specific details for Bang Noi-Tha Phru community: location (Narathiwat Province), ethnic groups (Thai Buddhist, Thai Muslim, Thai-Chinese), population (782 people, 360 males, 442 females, 403 households), community highlight, name etymology, community environment, local wisdom (general statement was included, but specific context was lost), community organizations, local name (White Flower Grass), traditional use (Medicinal herb), processing method (Planting White Flower Grass), source URL.
+        *   Specific details for Akha Ban Pha Mi community: location (Mae Sai District, Chiang Rai Province), ethnic group (Akha), population (563 people, 286 females, 277 males), community highlight, name etymology, community environment, local wisdom (general statement was included, but specific context was lost), community organizations, local name (White Flower Grass), traditional use (Medicinal herb), processing method (Planting White Flower Grass), source URL.
+        *   Specific details for Karen Community: location (Uthai Thani Province), ethnic group (Karen), community highlight, name etymology, community environment, local wisdom (general statement was included, but specific context was lost), community organizations, local name (White Flower Grass), traditional use (Medicinal herb), processing method (Planting White Flower Grass), source URL.
+*   **Hallucinated Entities (Facts in Article but not Fact Sheet):**
+    *   "The trend facts suggest a market opportunity for products that support these health conditions, presenting a potential for product development."
+    *   "This suggests potential technical feasibility for product development, particularly in the creation of herbal supplements or health products that utilize Vernonia cinerea as a key ingredient."
+    *   "The local wisdom of using Vernonia cinerea as a medicinal herb highlights the importance of preserving and promoting traditional knowledge and practices."
+    *   "Therefore, it is crucial to design products with safety and toxicity constraints in mind, ensuring that the dosage and formulation of Vernonia cinerea-based products are safe for human consumption."
+    *   "The compliance facts also highlight the importance of registering herbal products with the relevant authorities, such as the Thai FDA, to ensure safety and efficacy."
+    *   Statements under "Strategic Analysis and Product Opportunities" section (3 distinct interpretive/recommendation statements).
+    *   Statements under "Conclusion" section (3 distinct interpretive/summary statements).
+*   **Feedback:** The Final Article suffers from significant data loss, particularly in the detailed Compliance, Safety, and Culture sections. While it accurately captures high-level information and correctly handles "Not Found" entries by omission or explicit mention, it fails to transfer a large volume of specific, critical data points from the Master Fact Sheet. The article also includes several interpretive and strategic statements that, while perhaps derived from the facts, are not direct facts themselves from the source of truth, thus contributing to a lower clarity score due to hallucination of higher-level conclusions. The direct scientific facts, trend facts, toxicity summary, internal RAG facts, and source URLs were transferred with good accuracy.

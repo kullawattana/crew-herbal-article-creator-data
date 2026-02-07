@@ -1,0 +1,17 @@
+# ===SAFETY_DATA=== 
+## International Safety Data for: Ocimum basilicum
+* **herb_name:** Ocimum basilicum 
+* **source_browsed:** https://dailymed.nlm.nih.gov/dailymed/fda/fdaDrugXsl.cfm?setid=24933f5a-f653-9dda-e063-6394a90a556c&type=display
+### Drug Facts Label
+* **active_ingredients:**
+    * **Ingredient 1:**
+        * **name:** OCIMUM BASILICUM ROOT EXTRACT
+        * **strength:** 0.1g in 100mL
+        * **purpose:** Not found
+    * (If empty: * None found.)
+* **uses:** Not found
+* **warnings:** Not found
+* **directions:** Not found
+* **other_information:** Not found
+* **inactive_ingredients:** Not found
+* **questions:** Not found

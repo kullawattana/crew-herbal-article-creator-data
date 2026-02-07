@@ -1,0 +1,1 @@
+Thought: I have obtained a list of URLs from the search results. I will now filter out non-HTML and non-relevant results, and canonicalize the URLs.

@@ -1,0 +1,63 @@
+# ===AUDIT_DATA_INTEGRITY_REPORT===
+*   **Collaboration Robustness (Data Loss):** 28.38%
+*   **Explanation Clarity (Hallucination/Handling):** 88.24%
+*   **Dropped Entities (Facts in Fact Sheet but not Article):**
+    -   Lab Fact (Chromatography - TLC): No chromatography details available
+    -   Lab Fact (Cosmetic or Clinical Effect): No cosmetic or clinical effect available
+    -   Lab Fact (Quality Control): No quality control observation available
+    -   Science Fact (Compound): No compound name available
+    -   Compliance Fact (Food Registration 1): None found
+    -   Compliance Fact (Food Registration 2): None found
+    -   Compliance Fact (Safety Dosage): Not found
+    -   Compliance Fact (Safety Warning): None found
+    -   Safety Fact (Active Ingredient 1 - name): Dolichos pruriens 9C
+    -   Safety Fact (Active Ingredient 1 - strength): 0.443 mg of the active ingredient per pellet
+    -   Safety Fact (Active Ingredient 1 - purpose): Not found
+    -   Safety Fact (Ingredient Purpose): Not found
+    -   Safety Fact (Uses): Itching worse at night
+    -   Safety Fact (Directions): Adults and children: At the onset of symptoms, dissolve 5 pellets under the tongue 3 times a day until symptoms are relieved or as directed by a doctor.
+    -   Safety Fact (Other Info): Do not use if pellet dispenser seal is broken. Contains approx 80 pellets. How to dispense pellets? Turn tube upside down. Twist until 5 pellets are dispensed into cap. Carefully remove the cap and use it to pour pellets under the tongue.
+    -   Safety Fact (Inactive Ingredients): lactose, sucrose
+    -   Safety Fact (Questions): 1-800-BOIRON-1 (1-800-264-7661), BoironUSA.com Info@boiron.com
+    -   Culture Fact (Community - Ban Nuea - community_name): Ban Nuea
+    -   Culture Fact (Community - Ban Nuea - location): Ubon Ratchathani Province
+    -   Culture Fact (Community - Ban Nuea - ethnic_group): Thai
+    -   Culture Fact (Community - Ban Nuea - community_highlight): No herbal-related information found
+    -   Culture Fact (Community - Ban Nuea - name_etymology): No herbal-related information found
+    -   Culture Fact (Community - Ban Nuea - community_environment): No herbal-related information found
+    -   Culture Fact (Community - Ban Nuea - local_wisdom): Mamui is a plant with medicinal properties, used in the stem and branches, which are boiled or dried and consumed.
+    -   Culture Fact (Community - Ban Nuea - community_organizations): No herbal-related information found
+    -   Culture Fact (Community - Ban Nuea - local_name): Mamui
+    -   Culture Fact (Community - Ban Nuea - traditional_use): Used in the stem and branches, which are boiled or dried and consumed.
+    -   Culture Fact (Community - Ban Nuea - processing_method): Boiling or drying
+    -   Culture Fact (Community - Ban Tam Yae - community_name): Ban Tam Yae
+    -   Culture Fact (Community - Ban Tam Yae - location): Ubon Ratchathani Province
+    -   Culture Fact (Community - Ban Tam Yae - ethnic_group): Thai
+    -   Culture Fact (Community - Ban Tam Yae - community_highlight): No herbal-related information found
+    -   Culture Fact (Community - Ban Tam Yae - name_etymology): No herbal-related information found
+    -   Culture Fact (Community - Ban Tam Yae - community_environment): No herbal-related information found
+    -   Culture Fact (Community - Ban Tam Yae - local_wisdom): Agriculture is the main occupation that supports life and family.
+    -   Culture Fact (Community - Ban Tam Yae - community_organizations): No herbal-related information found
+    -   Culture Fact (Community - Ban Tam Yae - local_name): Ban Tam Yae
+    -   Culture Fact (Community - Ban Tam Yae - traditional_use): Agriculture
+    -   Culture Fact (Community - Ban Tam Yae - processing_method): Agriculture
+    -   Culture Fact (Community - Ban Wang Kan - community_name): Ban Wang Kan
+    -   Culture Fact (Community - Ban Wang Kan - location): Mae Hong Son Province
+    -   Culture Fact (Community - Ban Wang Kan - ethnic_group): Thai
+    -   Culture Fact (Community - Ban Wang Kan - community_highlight): No herbal-related information found
+    -   Culture Fact (Community - Ban Wang Kan - name_etymology): No herbal-related information found
+    -   Culture Fact (Community - Ban Wang Kan - community_environment): No herbal-related information found
+    -   Culture Fact (Community - Ban Wang Kan - local_wisdom): Agriculture is the main occupation that supports life and family.
+    -   Culture Fact (Community - Ban Wang Kan - community_organizations): No herbal-related information found
+    -   Culture Fact (Community - Ban Wang Kan - local_name): Ban Wang Kan
+    -   Culture Fact (Community - Ban Wang Kan - traditional_use): Agriculture
+    -   Culture Fact (Community - Ban Wang Kan - processing_method): Agriculture
+    -   Internal RAG Fact (Herbal): No herbal internal summary available
+    -   Source URL (Trend): No trend source URL available
+    -   Source URL (Science): No science source URL available
+*   **Hallucinated Entities (Facts in Article but not Fact Sheet):**
+    -   The statement "The product should be designed with safety precautions in mind, and further research is needed to fully understand the potential toxicity and safety concerns associated with Mucuna pruriens" is an interpretation and recommendation, not a direct fact from the Master Fact Sheet. The toxicity facts provided are specifically for Itraconazole, not Mucuna pruriens.
+    -   The statement "The critical constraints for product development include safety concerns and the need for further research to confirm efficacy" is a synthesized conclusion/recommendation, not a direct fact.
+    -   The statement "The strategic recommendation is to conduct further research on the active compounds, extraction methods, and pharmacological effects of Mucuna pruriens, prioritizing safety precautions and adhering to regulatory compliance" is a strategic recommendation, not a direct fact.
+    -   The statement "With further research and development, a new product could be created to capitalize on this opportunity while ensuring safety and efficacy" is a future-oriented statement/recommendation, not a direct fact.
+*   **Feedback:** The article successfully incorporated key "No X available" facts and the detailed "Internal RAG Fact (Cultural)" and "Toxicity Fact" sections. The handling of "citation_apa: not_found" was accurate. However, there was significant data loss, particularly regarding specific compliance data, detailed safety facts (e.g., active ingredients, dosage, directions), and granular cultural community information. These specific facts were entirely omitted. Additionally, the article introduced several synthesized conclusions and recommendations that were not directly present as facts in the Master Fact Sheet, leading to a moderate hallucination score. To improve robustness, more explicit mention or acknowledgment of the absence of certain facts (like specific lab details or compliance data) would be beneficial, rather than simply omitting them. To improve clarity, all statements should be directly traceable to the Master Fact Sheet, avoiding interpretations or recommendations not explicitly stated.

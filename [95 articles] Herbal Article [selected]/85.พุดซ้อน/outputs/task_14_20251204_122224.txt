@@ -1,0 +1,33 @@
+# ===AUDIT_DATA_INTEGRITY_REPORT===
+*   **Collaboration Robustness (Data Loss):** 71.15%
+*   **Explanation Clarity (Hallucination/Handling):** 95.83%
+*   **Dropped Entities (Facts in Fact Sheet but not Article):**
+    *   **Trend Fact:** "mechanism may be related to the regulation of hippocampal metabolites and intestinal microflora composition." (from Fructus gardeniae study)
+    *   **Trend Fact:** "Ellis" and "improved subjective sleep quality in healthy adult men with mild sleep complaints." (from Crocetin study)
+    *   **Trend Fact:** "Alzheimer's disease and Parkinson's disease." (from Genipin neurodegenerative potential)
+    *   **Trend Fact:** "regulating macrophage polarization via the FOS/MAPK signaling pathway." (from Geniposide anti-atherosclerotic effect)
+    *   **Trend Fact:** "regulating macrophage polarization via the CXCL14 expression by perivascular adipose tissue (PVAT)." (from Geniposide anti-atherosclerotic effect)
+    *   **Compliance Fact:** All specific details of Food Registration 1 (registration_number=15-2-00363-6-0002, product_name=พุดซ้อน, company_name=บริษัท ยั่งยืนพืชผล จำกัด สาขา 00001, status=สถานะผลิตภัณฑ์(คงอยู่)\ สถานะสถานที่ (คงอยู่))
+    *   **Compliance Fact:** All specific details of Food Registration 2 (registration_number=50-2-06554-6-0205, product_name=น้ำดื่ม ตรา พุดซ้อน / POODSON DRINKING WATER, company_name=บริษัท น้ำใส ใจจริง จำกัด, status=สถานะผลิตภัณฑ์(คงอยู่)\ สถานะสถานที่ (คงอยู่))
+    *   **Compliance Fact:** All specific details of Cosmetic Registration 1 (registration_number=10-1-6010056332, product_name=ลามิเเน๊ต น้ำมันนวดตัวลามิเเน๊ต พุดซ้อน / LAMENATT LAMENATT MASSAGE OIL Pudson, company_name=บริษัท เมดิคอส จำกัด, status=คงอยู่)
+    *   **Compliance Fact:** All specific details of Cosmetic Registration 2 (registration_number=13-1-6800037307, product_name=ไทยเมืองเพียร์ แนชเชอรัล แฮนด์เมด โซป พุดซ้อน / THAI MUANG PEA NATURAL HANDMADE SOAP Pud Sorn, company_name=บริษัท สบู่ (ไทยแลนด์) จำกัด, status=คงอยู่)
+    *   **Safety Fact:** Active Ingredient: Scutellaria Baicalensis Root, Coptis Japonica Root, Phellodendron Chinensis Bark, Gardenia Jasminoides Fruit, Rheum Palmatum Root
+    *   **Safety Fact:** Ingredient Purpose: prevention of cerebrovascular diseases, cardiovascular disease
+    *   **Safety Fact:** Uses: prevention of cerebrovascular diseases, cardiovascular disease
+    *   **Safety Fact:** Specific warning phrase: "KEEP THE PRODUCT INFORMATION. IT CONTAINS IMPORTANT INFORMATION."
+    *   **Safety Fact:** Directions: For adults, take 2 capsules, once a day, before or between meals
+    *   **Safety Fact:** Inactive Ingredients: Corn Starch, Animal originated ingredients, Magnesium Stearate (specific components other than Lactose Hydrate)
+    *   **Safety Fact:** Questions (other conditions): "liver enzyme value (AST, ALT) levels more than 3 times normal", "a patient who is being treated by a doctor or taking other medications", "an elderly person (in general, elderly people should take with care, such as reducing their dosage, as their physiological function has deteriorated.)", "a child (the safety of children's use is not established. (Less experience in use))"
+    *   **Culture Fact:** Community: "their knowledge has been passed down through generations."
+    *   **Culture Fact:** Location: Prachinburi Province
+    *   **Culture Fact:** Ethnic Group: Thai
+    *   **Culture Fact:** Community Highlight: Ban Dong Bang is a community that is rich in cultural heritage. The community has a number of traditional festivals and ceremonies, which are an important part of their cultural identity.
+    *   **Culture Fact:** Environment: "Ban Dong Bang is situated near a river"
+    *   **Culture Fact:** Local Wisdom: "which has been passed down through generations."
+    *   **Culture Fact:** Organization: The community has a number of organizations that promote their traditional herbal medicine. These organizations work to preserve the community's knowledge and expertise, and to promote their herbal products to a wider audience.
+    *   **Culture Fact:** Processing: The community dries the herbs in the sun to preserve them for later use.
+    *   **Internal RAG Fact:** Herbal: "The context primarily discusses the benefits and uses of traditional Thai medicine, as well as the importance of using local herbs and plants for health and wellness."
+*   **Hallucinated Entities (Facts in Article but not Fact Sheet):**
+    *   The explicit assertion that "Khamin Chan (Gardenia jasminoides)" are the same. The Master Fact Sheet mentions "Khamin Chan is a type of herb that is commonly used in their traditional medicine" and "Science Fact (Herb): Gardenia jasminoides" separately, but does not equate them.
+*   **Feedback:**
+    The Final Article demonstrates good effort in incorporating scientific and safety information, and correctly handles "Not found" entries for toxicity data, which is commendable. All provided citations and source URLs are accurately transferred. However, there is significant data loss across several categories, particularly for specific compliance registration details, comprehensive safety information (active ingredients, full directions, warnings, and patient considerations beyond liver dysfunction), and many specific cultural facts about Ban Dong Bang. Additionally, the article contains a critical hallucination by directly equating "Khamin Chan" with "Gardenia jasminoides," which is not supported by the Master Fact Sheet. Several other facts were transferred with a loss of specific nuances and details, impacting the overall robustness score.

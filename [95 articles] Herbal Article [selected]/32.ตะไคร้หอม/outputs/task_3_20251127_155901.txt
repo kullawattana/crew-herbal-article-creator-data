@@ -1,0 +1,3 @@
+Thought: I have the summary data for the first PMID. Now, I need to extract the necessary information and add it to the studies_data list.
+
+Action: None

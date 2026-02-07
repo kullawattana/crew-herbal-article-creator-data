@@ -1,0 +1,13 @@
+# ===TRENDS_DATA===
+### Finding 1
+* **herb_name:** False Daisy (Eclipta alba)
+* **wellness_context_summary:** False Daisy is an herb used in Ayurveda to increase hair growth. According to a study from 2014, False Daisy helps stimulate hair follicles and provokes a faster hair growth stage in nude mice.
+* **source_url:** https://www.healthline.com/health/herbs-for-hair-growth
+### Finding 2
+* **herb_name:** False Daisy (Eclipta alba)
+* **wellness_context_summary:** False Daisy is used in herbal hair oils to help stimulate hair growth. It is also used in polyherbal ointments to strengthen hair and promote hair growth.
+* **source_url:** https://www.healthline.com/health/herbs-for-hair-growth
+### Finding 3
+* **herb_name:** False Daisy (Eclipta alba)
+* **wellness_context_summary:** False Daisy is used in herbal creams to help stimulate hair growth. It is also used in cubosomal suspensions to target the delivery of drugs and herbal remedies.
+* **source_url:** https://www.healthline.com/health/herbs-for-hair-growth

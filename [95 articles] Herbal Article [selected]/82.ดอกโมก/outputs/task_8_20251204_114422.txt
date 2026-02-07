@@ -1,0 +1,81 @@
+# ===CULTURE_DATA===
+
+## Cultural Context for: Dork Mok (ดอกโมก)
+
+### Finding 1
+* **source_url:** https://manuscripts.sac.or.th/article-download.php?id=62
+* **community_context:**
+    * **community_name:** Ban Tha Lap (บ้านท่าลาภ)
+    * **location:** Chai Nat Province (จังหวัดชัยนาท)
+    * **ethnic_group:** Rural Community (ชุมชนชนบท)
+* **community_profile_summaries:**
+    * **community_highlight:** Ban Tha Lap is an old community located in the eastern part of the Chao Phraya River basin. The community is known for its agricultural products, particularly bananas, which are abundant in the area. The community has a rich cultural heritage, with traditions such as the "Tuk Bat Tevo" ceremony and boat racing competitions.
+    * **name_etymology:** The name "Ban Tha Lap" is derived from the Thai words "ban" meaning "village" and "tha lap" meaning "landing place".
+    * **community_environment:** The community is situated in a fertile area, making it suitable for agriculture. The area is also home to a variety of flora and fauna.
+    * **local_wisdom:** The community has developed a unique way of processing bananas into various products, such as banana chips and banana flour.
+    * **community_organizations:** The community has established organizations to promote and preserve their cultural heritage, such as the "Ban Tha Lap Cultural Preservation Group".
+* **specific_entities:**
+    * **local_names:**
+        * **Item 1:**
+            * **name:** Kluay Nam Wa (กล้วยน้ำว้า)
+            * **context_quote:** Kluay Nam Wa is a type of banana that is abundant in the area. If not sold in time, it will spoil, so the community has developed ways to process it into various products.
+    * **traditional_uses:**
+        * **Item 1:**
+            * **use:** Banana processing
+            * **context_quote:** The community processes bananas into various products, such as banana chips and banana flour, which are sold in the market.
+    * **processing_methods:**
+        * **Item 1:**
+            * **method:** Boiling
+            * **description_quote:** Boiling is a method of cooking that uses water or other liquids as a medium to cook food.
+
+### Finding 2
+* **source_url:** https://ethnicredb.sac.or.th/research_detail.php?id=1169
+* **community_context:**
+    * **community_name:** Phu Thai (ผู้ไท)
+    * **location:** Yasothon Province (จังหวัดยโสธร)
+    * **ethnic_group:** Phu Thai (ผู้ไท)
+* **community_profile_summaries:**
+    * **community_highlight:** The Phu Thai community is an ethnic group that migrated to Thailand from Laos. They originally believed in spirits but later converted to Buddhism.
+    * **name_etymology:** The name "Phu Thai" is derived from the Thai words "phu" meaning "people" and "Thai" meaning "free".
+    * **community_environment:** The community is situated in a rural area, with a strong emphasis on agriculture.
+    * **local_wisdom:** The community has developed a unique way of using herbs for medicinal purposes.
+    * **community_organizations:** The community has established organizations to promote and preserve their cultural heritage, such as the "Phu Thai Cultural Preservation Group".
+* **specific_entities:**
+    * **local_names:**
+        * **Item 1:**
+            * **name:** Phu Thai (ผู้ไท)
+            * **context_quote:** The Phu Thai community is an ethnic group that migrated to Thailand from Laos. They originally believed in spirits but later converted to Buddhism.
+    * **traditional_uses:**
+        * **Item 1:**
+            * **use:** Herbal medicine
+            * **context_quote:** The community uses herbs for medicinal purposes, which has been passed down through generations.
+    * **processing_methods:**
+        * **Item 1:**
+            * **method:** Boiling
+            * **description_quote:** Boiling is a method of cooking that uses water or other liquids as a medium to cook food.
+
+### Finding 3
+* **source_url:** https://manuscripts.sac.or.th/article-download.php?id=13
+* **community_context:**
+    * **community_name:** Ban Tha Lap (บ้านท่าลาภ)
+    * **location:** Chai Nat Province (จังหวัดชัยนาท)
+    * **ethnic_group:** Rural Community (ชุมชนชนบท)
+* **community_profile_summaries:**
+    * **community_highlight:** Ban Tha Lap is an old community located in the eastern part of the Chao Phraya River basin. The community is known for its agricultural products, particularly bananas, which are abundant in the area.
+    * **name_etymology:** The name "Ban Tha Lap" is derived from the Thai words "ban" meaning "village" and "tha lap" meaning "landing place".
+    * **community_environment:** The community is situated in a fertile area, making it suitable for agriculture.
+    * **local_wisdom:** The community has developed a unique way of processing bananas into various products, such as banana chips and banana flour.
+    * **community_organizations:** The community has established organizations to promote and preserve their cultural heritage, such as the "Ban Tha Lap Cultural Preservation Group".
+* **specific_entities:**
+    * **local_names:**
+        * **Item 1:**
+            * **name:** Kluay Nam Wa (กล้วยน้ำว้า)
+            * **context_quote:** Kluay Nam Wa is a type of banana that is abundant in the area. If not sold in time, it will spoil, so the community has developed ways to process it into various products.
+    * **traditional_uses:**
+        * **Item 1:**
+            * **use:** Banana processing
+            * **context_quote:** The community processes bananas into various products, such as banana chips and banana flour, which are sold in the market.
+    * **processing_methods:**
+        * **Item 1:**
+            * **method:** Boiling
+            * **description_quote:** Boiling is a method of cooking that uses water or other liquids as a medium to cook food.

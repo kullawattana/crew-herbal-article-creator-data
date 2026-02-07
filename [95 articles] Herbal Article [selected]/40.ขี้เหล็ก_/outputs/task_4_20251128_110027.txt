@@ -1,0 +1,29 @@
+# ===COMPLIANCE_DATA=== 
+## Thai FDA Status for: Senna siamea
+* **herb_name:** Senna siamea
+### Food Registrations 
+* **Food Registration 1:**
+    * **registration_number:** 10-1-13660-5-0157
+    * **product_name:** Cassod Tree
+    * **company_name:** บริษัท โพธิ์ประดิษฐ์สมุนไพร จำกัด
+    * **status:** สถานะผลิตภัณฑ์(คงอยู่)\ สถานะสถานที่ (คงอยู่)
+* **Food Registration 2:**
+    * **registration_number:** 10-1-13660-5-0158
+    * **product_name:** Cassod Tree (Powder)
+    * **company_name:** บริษัท โพธิ์ประดิษฐ์สมุนไพร จำกัด
+    * **status:** สถานะผลิตภัณฑ์(คงอยู่)\ สถานะสถานที่ (คงอยู่)
+* **Food Registration 3:**
+    * **registration_number:** 34-2-01367-6-0001
+    * **product_name:** กุนเชียง โชคชัย
+    * **company_name:** โชคชัย
+    * **status:** สถานะผลิตภัณฑ์(คงอยู่)\ สถานะสถานที่ (คงอยู่)
+* **Food Registration 4:**
+    * **registration_number:** 34-2-01367-6-0002
+    * **product_name:** ลูกชิ้นเนื้อ โชคชัย
+    * **company_name:** โชคชัย
+    * **status:** สถานะผลิตภัณฑ์(คงอยู่)\ สถานะสถานที่ (คงอยู่)
+* **Food Registration 5:**
+    * **registration_number:** 34-2-01367-6-0003
+    * **product_name:** ลูกชิ้นหมู โชคชัย
+    * **company_name:** โชคชัย
+    * **status:** สถานะผลิตภัณฑ์(คงอยู่)\ สถานะสถานที่ (คงอยู่)

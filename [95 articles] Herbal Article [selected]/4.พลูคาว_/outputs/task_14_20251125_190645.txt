@@ -1,0 +1,36 @@
+# ===AUDIT_DATA_INTEGRITY_REPORT===
+* **Collaboration Robustness (Data Loss):** 80%
+* **Explanation Clarity (Hallucination/Handling):** 90%
+* **Dropped Entities (Facts in Fact Sheet but not Article):** 
+  - Lab Fact (Experimental Method)
+  - Lab Fact (Extraction Method)
+  - Lab Fact (Compound Identified)
+  - Lab Fact (Chromatography - TLC)
+  - Lab Fact (Pharmacological Finding)
+  - Lab Fact (Cosmetic or Clinical Effect)
+  - Lab Fact (Quality Control)
+  - Science Fact (Compound)
+  - Science Fact (Abstracts)
+  - Compliance Fact (Safety Dosage)
+  - Compliance Fact (Safety Warning)
+  - Safety Fact (Active Ingredient)
+  - Safety Fact (Ingredient Purpose)
+  - Safety Fact (Uses)
+  - Safety Fact (Warnings)
+  - Safety Fact (Directions)
+  - Safety Fact (Other Info)
+  - Safety Fact (Inactive Ingredients)
+  - Safety Fact (Questions)
+  - Toxicity Fact (Summary)
+  - Toxicity Fact (Mechanism)
+  - Toxicity Fact (Side Effects)
+  - Toxicity Fact (Case Reports)
+  - Source URL (Trend)
+  - Source URL (Science)
+  - Source URL (Compliance)
+  - Source URL (Safety)
+  - Source URL (Toxicity)
+* **Hallucinated Entities (Facts in Article but not Fact Sheet):** 
+  - Strategic Analysis and Product Opportunities
+  - Herbal Knowledge Summary
+* **Feedback:** The audit reveals a moderate level of data loss, with several critical facts from the Master Fact Sheet missing in the Final Article, particularly in the areas of scientific research, safety, and toxicity. However, the article demonstrates clarity in explanation, with minimal hallucination, indicating that the information presented is largely based on the Master Fact Sheet. The handling of "Not Found" results is generally correct, with the article omitting or correctly stating the absence of certain information. To improve, it is essential to ensure that all critical facts from the Master Fact Sheet are accurately transferred to the Final Article, and any "Not Found" results are consistently handled to avoid confusion. Additionally, minimizing hallucination by strictly adhering to the facts presented in the Master Fact Sheet will enhance the overall integrity of the data pipeline.

@@ -1,0 +1,3 @@
+Thought: I have found the 'Drug Facts' label for Piper nigrum on the DailyMed (US FDA) website. I will now parse the label fields and extract the specific fields (e.g., Active Ingredients, Uses, Warnings, Directions) into the required output format.
+
+Action: None

@@ -1,0 +1,79 @@
+# ===CULTURE_DATA===
+## Cultural Context for: Daw Reuang Farang (ดาวเรืองฝรั่ง)
+### Finding 1
+* **source_url:** https://wikicommunity.sac.or.th/community/621
+* **community_context:**
+    * **community_name:** Tha Phut (ท่าพูด)
+    * **location:** Nakhon Pathom Province (จังหวัดนครปฐม)
+    * **ethnic_group:** -
+* **community_profile_summaries:**
+    * **community_highlight:** No herbal-related information found.
+    * **name_etymology:** According to the legend about the origin of this community, it is said that two brothers sat near a large termite mound. When the older brother fell asleep, the younger brother saw a firefly crawling out of his brother's nose and disappearing into the termite mound. Later, the younger brother fell asleep and had a dream in which a spirit told him where to find a treasure. The spirit asked him to dig up the treasure and sell it to build a temple. When the brothers woke up, they dug up the termite mound and found a lot of treasure. They sold the treasure and used the money to build a temple, which they named "Wat Jet Phut" (วัดเจตภูติ). Later, the name was changed to "Wat Ta Phut" (วัดตะพูด) and finally to "Wat Tha Phut" (วัดท่าพูด).
+    * **community_environment:** No herbal-related information found.
+    * **local_wisdom:** No herbal-related information found.
+    * **community_organizations:** No herbal-related information found.
+* **specific_entities:**
+    * **local_names:**
+        * **Item 1:**
+            * **name:** -
+            * **context_quote:** -
+    * **traditional_uses:**
+        * **Item 1:**
+            * **use:** -
+            * **context_quote:** -
+    * **processing_methods:**
+        * **Item 1:**
+            * **method:** -
+            * **description_quote:** -
+
+### Finding 2
+* **source_url:** https://manuscripts.sac.or.th/source-relate.php?page=2&id=3
+* **community_context:**
+    * **community_name:** -
+    * **location:** -
+    * **ethnic_group:** -
+* **community_profile_summaries:**
+    * **community_highlight:** No herbal-related information found.
+    * **name_etymology:** No herbal-related information found.
+    * **community_environment:** No herbal-related information found.
+    * **local_wisdom:** No herbal-related information found.
+    * **community_organizations:** No herbal-related information found.
+* **specific_entities:**
+    * **local_names:**
+        * **Item 1:**
+            * **name:** -
+            * **context_quote:** -
+    * **traditional_uses:**
+        * **Item 1:**
+            * **use:** -
+            * **context_quote:** -
+    * **processing_methods:**
+        * **Item 1:**
+            * **method:** -
+            * **description_quote:** -
+
+### Finding 3
+* **source_url:** https://ethnicity.sac.or.th/database-ethnic/179/
+* **community_context:**
+    * **community_name:** -
+    * **location:** -
+    * **ethnic_group:** -
+* **community_profile_summaries:**
+    * **community_highlight:** No herbal-related information found.
+    * **name_etymology:** No herbal-related information found.
+    * **community_environment:** No herbal-related information found.
+    * **local_wisdom:** No herbal-related information found.
+    * **community_organizations:** No herbal-related information found.
+* **specific_entities:**
+    * **local_names:**
+        * **Item 1:**
+            * **name:** -
+            * **context_quote:** -
+    * **traditional_uses:**
+        * **Item 1:**
+            * **use:** -
+            * **context_quote:** -
+    * **processing_methods:**
+        * **Item 1:**
+            * **method:** -
+            * **description_quote:** -

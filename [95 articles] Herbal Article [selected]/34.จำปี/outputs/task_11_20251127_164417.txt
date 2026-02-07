@@ -1,0 +1,58 @@
+# ===MASTER_FACT_SHEET=== 
+## Consolidated Facts for: Michelia alba
+* **Trend Fact:** No findings available
+* **Lab Fact (Experimental Method):** Not found
+* **Lab Fact (Extraction Method):** Not found
+* **Lab Fact (Compound Identified):** Not found
+* **Lab Fact (Chromatography - TLC):** Not found
+* **Lab Fact (Pharmacological Finding):** Not found
+* **Lab Fact (Cosmetic or Clinical Effect):** Not found
+* **Lab Fact (Quality Control):** Not found
+* **Science Fact (Herb):** Michelia alba
+* **Science Fact (Compound):** Silver nanoparticles, Sesquiterpenoids
+* **Science Fact (Abstracts):**
+  * **Study 1:**
+    * **abstract_raw:** Green synthesis of silver nanoparticles using Magnolia alba leaf extracts and evaluating their antimicrobial, anticancer, antioxidant, and photocatalytic properties.
+    * **citation_apa:** De Mel, S., Gruenler, J., Khoury, L., Heynes, A., Fazekas, J., Damaske, K., Galbadage, T., Gunasekera, R. S., & Anderson, R. S. (2025). Green synthesis of silver nanoparticles using Magnolia alba leaf extracts and evaluating their antimicrobial, anticancer, antioxidant, and photocatalytic properties. Scientific Reports, 15(1), 23709. https://doi.org/10.1038/s41598-025-08468-3
+  * **Study 2:**
+    * **abstract_raw:** Diverse Sesquiterpenoids From Michelia alba and Their Cytotoxic and Nitric Oxide Inhibitory Activities.
+    * **citation_apa:** Zheng, T.-Y., Ding, L.-F., Wang, Q.-H., Li, Z.-Q., Zhao, Q.-Y., Zhou, H.-L., Song, L.-D., Tu, W.-C., Wu, X.-D., & Zhang, H.-Y. (2025). Diverse Sesquiterpenoids From Michelia alba and Their Cytotoxic and Nitric Oxide Inhibitory Activities. Chemistry & Biodiversity, 22(9), e202500499. https://doi.org/10.1002/cbdv.202500499
+* **Compliance Fact (Food Registration 1):** registration_number=10-1-05956-5-0057, product_name=น้ำดื่มตรา จำปีบุรี /  DRINKING WATER JUMPEE BURI BRAND, company_name=ห้างหุ้นส่วนสามัญริชชี่, status=สถานะผลิตภัณฑ์(คงอยู่)\ สถานะสถานที่ (คงอยู่)
+* **Compliance Fact (Food Registration 2):** registration_number=30-2-04054-2-0001, product_name=น้ำดื่ม (เครื่องหมายการค้าจดทะเบียน จำปีจำปา), company_name=ร้านน้ำดื่มจำปี จำปา, status=สถานะผลิตภัณฑ์(คงอยู่)\ สถานะสถานที่ (คงอยู่)
+* **Compliance Fact (Food Registration 3):** registration_number=70-2-05763-6-0001, product_name=ขนมโก๋งาเจ๊จู่, company_name=จำปี ขนมโก๋, status=สถานะผลิตภัณฑ์(คงอยู่)\ สถานะสถานที่ (คงอยู่)
+* **Compliance Fact (Food Registration 4):** registration_number=70-2-05763-6-0002, product_name=ขนมโก๋อ่อนเจ๊จู่, company_name=จำปี ขนมโก๋, status=สถานะผลิตภัณฑ์(คงอยู่)\ สถานะสถานที่ (คงอยู่)
+* **Compliance Fact (Food Registration 5):** registration_number=70-2-05763-6-0003, product_name=ขนมโก๋ไส้เจ๊จู่, company_name=จำปี ขนมโก๋, status=สถานะผลิตภัณฑ์(คงอยู่)\ สถานะสถานที่ (คงอยู่)
+* **Compliance Fact (Safety Dosage):** Not found
+* **Compliance Fact (Safety Warning):** None found
+* **Safety Fact (Active Ingredient):** Not found
+* **Safety Fact (Ingredient Purpose):** Not found
+* **Safety Fact (Uses):** Not found
+* **Safety Fact (Warnings):** Not found
+* **Safety Fact (Directions):** Not found
+* **Safety Fact (Other Info):** Not found
+* **Safety Fact (Inactive Ingredients):** Not found
+* **Safety Fact (Questions):** Not found
+* **Toxicity Fact (Summary):** Not found
+* **Toxicity Fact (Mechanism):** Not found
+* **Toxicity Fact (Side Effects):** Not found
+* **Toxicity Fact (Case Reports):** Not found
+* **Culture Fact (Community - Ban Dong Bang):** Ban Dong Bang
+* **Culture Fact (Location - Ban Dong Bang):** Chiang Mai Province
+* **Culture Fact (Ethnic Group - Ban Dong Bang):** Indigenous People
+* **Culture Fact (Community Highlight - Ban Dong Bang):** Ban Dong Bang is a community that has been actively involved in the conservation and restoration of natural resources, particularly forests and water sources. The community has implemented various initiatives, such as reforestation programs, water conservation projects, and sustainable agriculture practices, to ensure the long-term sustainability of their natural resources.
+* **Culture Fact (Name Etymology - Ban Dong Bang):** The name "Ban Dong Bang" is derived from the Thai words "ban" meaning village, "dong" meaning forest, and "bang" meaning river. The name reflects the community's close relationship with the natural environment and their dependence on the forest and river for their livelihood.
+* **Culture Fact (Environment - Ban Dong Bang):** The community is located in a mountainous area, surrounded by forests and water sources. The environment is rich in biodiversity, with many species of plants and animals found in the area. The community has implemented measures to protect and conserve the environment, including the establishment of a community forest and the promotion of sustainable agriculture practices.
+* **Culture Fact (Local Wisdom - Ban Dong Bang):** The community has a rich cultural heritage, with many traditional practices and customs still observed today. The community places a strong emphasis on the importance of living in harmony with nature and has developed a number of traditional practices and customs that reflect this philosophy.
+* **Culture Fact (Organization - Ban Dong Bang):** The community has a number of organizations and groups that work together to promote the conservation and restoration of natural resources. These include the Ban Dong Bang Community Forest Group, the Ban Dong Bang Water Conservation Group, and the Ban Dong Bang Sustainable Agriculture Group.
+* **Culture Fact (Local Name - Ban Dong Bang):** Khamin Chan (ขมิ้นจันทร์)
+* **Culture Fact (Use - Ban Dong Bang):** Relieve stomach pain
+* **Culture Fact (Processing - Ban Dong Bang):** Drying
+* **Culture Fact (Source - Ban Dong Bang):** https://db.sac.or.th/thailand-cultural-encyclopedia/list.php?page=428
+* **Internal RAG Fact (Herbal):** The internal knowledge context does not explicitly mention จำปี (Michelia alba) in the provided text. However, the context discusses Thai traditional medicine, its benefits, and the use of herbal remedies in Thai culture. According to the context, traditional Thai medicine is considered old-fashioned and not suitable for modern times, but it has been used effectively to treat minor illnesses and reduce medical expenses. The context also mentions the importance of using locally grown and chemical-free herbs, as well as the traditional methods of preparing and consuming these herbs. Additionally, the context highlights the significance of Thai traditional medicine in reducing the country's reliance on imported medicines and promoting self-sufficiency.
+* **Internal RAG Fact (Cultural):** No relevant information about จำปี was found in the provided cultural context.
+* **Source URL (Trend):** Not found
+* **Source URL (Science):** https://doi.org/10.1038/s41598-025-08468-3, https://doi.org/10.1002/cbdv.202500499
+* **Source URL (Compliance):** Not found
+* **Source URL (Safety):** Not found
+* **Source URL (Toxicity):** Not found
+* **Source URL (Culture):** https://db.sac.or.th/thailand-cultural-encyclopedia/list.php?page=428

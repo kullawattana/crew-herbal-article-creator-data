@@ -1,0 +1,30 @@
+# ===CULTURE_DATA===
+
+## Cultural Context for: Dork Kae (ดอกแค)
+
+### Finding 1
+
+* **source_url:** https://wikicommunity.sac.or.th/community/1213
+* **community_context:**
+    * **community_name:** Ban Klang
+    * **location:** Lampang Province
+    * **ethnic_group:** Karen Pwo
+* **community_profile_summaries:**
+    * **community_highlight:** The Ban Klang community is a Karen Pwo ethnic group that has been living in the area for over 300 years. The community is known for its rich cultural heritage and traditional practices, including the use of herbal medicine. The community has a strong connection with nature and uses various plants and herbs for food, medicine, and other purposes.
+    * **name_etymology:** The name "Ban Klang" is derived from the Karen language, which means "middle village." The community is situated in a valley surrounded by mountains, and the name reflects its geographical location.
+    * **community_environment:** The community is located in a mountainous area with a rich biodiversity of flora and fauna. The community has a strong tradition of living in harmony with nature and uses sustainable practices to manage the natural resources.
+    * **local_wisdom:** The community has a rich tradition of herbal medicine, and the elderly members of the community are knowledgeable about the various plants and herbs that can be used for medicinal purposes. The community also has a strong tradition of storytelling and passing down knowledge from one generation to the next.
+    * **community_organizations:** The community has a number of organizations that work together to promote the well-being of the community, including the village committee, the women's group, and the youth group. These organizations work together to manage the community's resources, provide support to members, and promote the community's cultural heritage.
+* **specific_entities:**
+    * **local_names:**
+        * **Item 1:**
+            * **name:** Dork Kae
+            * **context_quote:** Dork Kae is a plant that can be found in the area during certain seasons, such as summer, when it is used as a food source.
+    * **traditional_uses:**
+        * **Item 1:**
+            * **use:** Food
+            * **context_quote:** Dork Kae is a plant that can be used as a food source, and it is often eaten during the summer months when it is in season.
+    * **processing_methods:**
+        * **Item 1:**
+            * **method:** Cooking
+            * **description_quote:** Dork Kae can be cooked in a variety of ways, including boiling, steaming, and frying, and it is often served as a side dish or used as an ingredient in traditional dishes.

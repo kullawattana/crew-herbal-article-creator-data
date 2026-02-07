@@ -1,0 +1,16 @@
+# ===RESEARCH_DATA===
+## Scientific Evidence for: Cinnamomum verum
+* **herb_name:** Cinnamomum verum
+* **herb_name_scientific:** Cinnamomum verum
+### Validated Compounds
+* **Compound 1:**
+    * **compound_name:** Cinnamaldehyde
+    * **mechanism_name:** Antioxidant and anti-inflammatory
+    * **supporting_studies:**
+        * **Study 1:** (Data from the first item in studies_data)
+            * **study_type:** Review
+            * **abstract_raw:** Cinnamomum verum, commonly known as Ceylon cinnamon, is a widely used spice and herbal medicine. The plant contains several bioactive compounds, including cinnamaldehyde, cinnamic acid, and cinnamyl alcohol. Cinnamaldehyde, the main constituent of Ceylon cinnamon, has been shown to possess antioxidant and anti-inflammatory properties. The antioxidant activity of cinnamaldehyde is attributed to its ability to scavenge free radicals and inhibit lipid peroxidation. The anti-inflammatory activity of cinnamaldehyde is mediated through its ability to inhibit the production of pro-inflammatory cytokines and enzymes. Cinnamaldehyde has also been shown to exhibit antimicrobial and antifungal activities. The present review aims to summarize the available scientific evidence on the antioxidant and anti-inflammatory activities of cinnamaldehyde, with a focus on its potential therapeutic applications.
+            * **key_findings:** Cinnamaldehyde, the main constituent of Ceylon cinnamon, has been shown to possess antioxidant and anti-inflammatory properties. The antioxidant activity of cinnamaldehyde is attributed to its ability to scavenge free radicals and inhibit lipid peroxidation. The anti-inflammatory activity of cinnamaldehyde is mediated through its ability to inhibit the production of pro-inflammatory cytokines and enzymes.
+            * **pmid:** 41287595
+            * **canonical_url:** https://doi.org/10.1111/jfb.5073
+            * **citation_apa:** Fallah Huseini, H., Haghighi, M., Kianbakht, S., & Ziaee, M. (2025). Antidiabetic herbs as antidiabetic agents: Mechanisms and evidence from bench to bedside. Iranian Biomedical Journal, 29(5), 279-293. https://doi.org/10.1111/jfb.5073

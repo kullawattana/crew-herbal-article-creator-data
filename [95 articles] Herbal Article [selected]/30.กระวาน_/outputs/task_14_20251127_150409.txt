@@ -1,0 +1,32 @@
+# ===AUDIT_DATA_INTEGRITY_REPORT===
+*   **Collaboration Robustness (Data Loss):** 53.7%
+*   **Explanation Clarity (Hallucination/Handling):** 71.4%
+*   **Dropped Entities (Facts in Fact Sheet but not Article):**
+    -   `Lab Fact (Chromatography - TLC)`: Not found (Omitted without mention)
+    -   `Lab Fact (Cosmetic or Clinical Effect)`: Not found (Omitted without mention)
+    -   `Lab Fact (Quality Control)`: Not found (Omitted without mention)
+    -   `Science Fact (Compound)`: Not found (Article used information from Toxicity Summary instead of explicitly stating "Not found" for this specific fact)
+    -   `Compliance Fact (Food Registration 1 - registration_number)`: เลขสารบบอาหาร (Specific registration details omitted)
+    -   `Compliance Fact (Food Registration 1 - product_name)`: ชื่อผลิตภัณฑ์(TH) (Specific registration details omitted)
+    -   `Compliance Fact (Food Registration 1 - company_name)`: ชื่อผู้รับอนุญาต (Specific registration details omitted)
+    -   `Compliance Fact (Food Registration 1 - status)`: สถานะผลิตภัณฑ์ (Specific registration details omitted)
+    -   `Compliance Fact (Food Registration 2 - registration_number)`: None found (Omitted without mention of a second registration's absence)
+    -   `Compliance Fact (Food Registration 2 - product_name)`: None found (Omitted without mention)
+    -   `Compliance Fact (Food Registration 2 - company_name)`: None found (Omitted without mention)
+    -   `Compliance Fact (Food Registration 2 - status)`: None found (Omitted without mention)
+    -   `Compliance Fact (Safety Dosage)`: Not found (Article infers a need for consideration but does not state "Not found" for this specific fact)
+    -   `Compliance Fact (Safety Warning)`: Not found (Article infers a need for consideration but does not state "Not found" for this specific fact)
+    -   `Safety Fact (Active Ingredient)`: Not found (Omitted without mention)
+    -   `Safety Fact (Ingredient Purpose)`: Not found (Omitted without mention)
+    -   `Safety Fact (Uses)`: Not found (Omitted without mention)
+    -   `Safety Fact (Warnings)`: Not found (Omitted without mention)
+    -   `Safety Fact (Directions)`: Not found (Omitted without mention)
+    -   `Safety Fact (Other Info)`: Not found (Omitted without mention)
+    -   `Safety Fact (Inactive Ingredients)`: Not found (Omitted without mention)
+    -   `Safety Fact (Questions)`: Not found (Omitted without mention)
+    -   `Culture Fact (Name Etymology - Chong Community)`: The name "Kravan" is derived from the Khmer language... (Omitted without mention)
+    -   `Culture Fact (Environment - Chong Community)`: The Chong community is located in the Chanthaburi Province, which is known for its rich natural resources and diverse wildlife... (Location mentioned, but specific environmental details of the fact were omitted)
+    -   `Culture Fact (Organization - Chong Community)`: The Chong community has a number of organizations... (Omitted without mention)
+*   **Hallucinated Entities (Facts in Article but not Fact Sheet):**
+    -   None
+*   **Feedback:** The Collaboration Robustness score reflects significant data loss, as 25 out of 54 critical facts from the Master Fact Sheet were either entirely missing from the Final Article or not handled appropriately (e.g., specific compliance data, numerous 'Not found' safety and lab facts, and certain cultural details were not transferred). The Explanation Clarity score is a composite of two aspects: the absence of hallucination (100% accurate, as no facts were invented or contradicted the source) and the handling of "Not found" results. While the article correctly acknowledged 12 "Not found" entries (e.g., `citation_apa: not_found`, several `Lab Fact` and `Toxicity Fact` absences), it failed to explicitly address a considerable number (16 out of 28) of other "Not found" entries, simply omitting them without any indication of their absence. This inconsistency in handling 'Not found' facts reduced the overall clarity score, despite the complete absence of hallucinated content.

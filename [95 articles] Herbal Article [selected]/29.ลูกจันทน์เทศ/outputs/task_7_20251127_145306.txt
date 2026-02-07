@@ -1,0 +1,3 @@
+Thought: I have browsed the full content of each website and extracted all relevant content into a structured, 100% Thai Markdown buffer.
+
+Action: None

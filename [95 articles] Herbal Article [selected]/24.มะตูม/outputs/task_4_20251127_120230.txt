@@ -1,0 +1,54 @@
+# ===COMPLIANCE_DATA===
+## Thai FDA Status for: Aegle marmelos
+* **herb_name:** Aegle marmelos
+### Food Registrations
+* **Food Registration 1:**
+    * **registration_number:** 10-1-00450-1-0002
+    * **product_name:** ชาสมุนไพร มะตูม (ตราเอ็นทู ที) / BAEL FRUIT HERBAL TEA (N2 TEA BRAND)
+    * **company_name:** บริษัท คัลเลอร์-พลาส จำกัด
+    * **status:** สถานะผลิตภัณฑ์(คงอยู่)\ สถานะสถานที่ (คงอยู่)
+* **Food Registration 2:**
+    * **registration_number:** 10-1-00450-1-0029
+    * **product_name:** ชาสมุนไพร มะตูม (ตรา จีอีโอ) / BAEL FRUIT HERBAL TEA (GEO BRAND)
+    * **company_name:** บริษัท คัลเลอร์-พลาส จำกัด
+    * **status:** สถานะผลิตภัณฑ์(คงอยู่)\ สถานะสถานที่ (คงอยู่)
+* **Food Registration 3:**
+    * **registration_number:** 10-1-00653-1-0065
+    * **product_name:** แกซซ์ (ผลิตภัณฑ์เสริมอาหารชนิดแคปซูลจาก กล้วย, ข้าวกล้องงอก, ถั่วเขียว, มะตูม, ลิ้นจี่, มันฝรั่ง และพุทราจีน) / GAZZ (DIETARY SUPPLEMENT PRODUCT CAPSULE FROM BANANA, GERMINATED BROWN RICE, MUNG BEAN, BAEL, LYCHEE, POTATO AND CHINESE JUJUBE)
+    * **company_name:** บริษัท สยาม ไบโอเบสท์ จำกัด
+    * **status:** สถานะผลิตภัณฑ์(คงอยู่)\ สถานะสถานที่ (คงอยู่)
+* **Food Registration 4:**
+    * **registration_number:** 10-1-01657-5-0025
+    * **product_name:** เฮอร์โมนี่ ที (หม่อน, โรมันคาโมมายล์, บัวหลวง, กุหลาบ, มะตูม, คำฝอยและหญ้าหวาน) (ชาจากพืช) / Hermony Tea (Mulberry, Roman chamomile,  Sacred Lotus, Rose, Bael fruit, Safflower and Stevia)
+    * **company_name:** บริษัท จงไท้เจี้ยนหมิงเอี้ยวเอี้ย (กรุ๊ป) จำกัด
+    * **status:** สถานะผลิตภัณฑ์(คงอยู่)\ สถานะสถานที่ (คงอยู่)
+* **Food Registration 5:**
+    * **registration_number:** 10-1-01657-5-0033
+    * **product_name:** ฌามชา  (เห็ดหลินจือ, มะตูม, เตย, กระเจี๊ยบแดงและหญ้าหวาน) (ชาจากพืช) / CHARMCHA (Reishi, Bael fruit, Pandan, Roselle and Stevia)
+    * **company_name:** บริษัท จงไท้เจี้ยนหมิงเอี้ยวเอี้ย (กรุ๊ป) จำกัด
+    * **status:** สถานะผลิตภัณฑ์(คงอยู่)\ สถานะสถานที่ (คงอยู่)
+* **Food Registration 6:**
+    * **registration_number:** 10-1-01764-5-0005
+    * **product_name:** มะตูมแห้ง /  Dried Bael Fruit
+    * **company_name:** บริษัท มั่งมี ทวีคูณ เทรดดิ้ง จำกัด สาขา 00001
+    * **status:** สถานะผลิตภัณฑ์(คงอยู่)\ สถานะสถานที่ (คงอยู่)
+* **Food Registration 7:**
+    * **registration_number:** 10-1-02745-5-0008
+    * **product_name:** มะตูมอบแห้ง (ตรา ด็อกเตอร์กรีน) /  Dried Bael Fruit (Dr.Green Brand)
+    * **company_name:** ด็อกเตอร์กรีน
+    * **status:** สถานะผลิตภัณฑ์(คงอยู่)\ สถานะสถานที่ (คงอยู่)
+* **Food Registration 8:**
+    * **registration_number:** 10-1-02745-5-0097
+    * **product_name:** มะตูม-ใบเตยอบแห้ง (ตรา ด็อกเตอร์กรีน) / Dried Bael Fruit - Pandanus leaves (Dr.Green Brand)
+    * **company_name:** ด็อกเตอร์กรีน
+    * **status:** สถานะผลิตภัณฑ์(คงอยู่)\ สถานะสถานที่ (คงอยู่)
+* **Food Registration 9:**
+    * **registration_number:** 10-1-02745-5-0105
+    * **product_name:** มะตูมอบแห้ง /  Dried Bael Fruit
+    * **company_name:** ด็อกเตอร์กรีน
+    * **status:** สถานะผลิตภัณฑ์(คงอยู่)\ สถานะสถานที่ (คงอยู่)
+* **Food Registration 10:**
+    * **registration_number:** 10-1-02846-1-0011
+    * **product_name:** มะตูมผงสำเร็จรูป (ตราโลฮัน) / INSTANT BAEL FRUIT POWDER (LOHAN BRAND)
+    * **company_name:** ห้างหุ้นส่วนจำกัด ลิม อินเตอร์เนชั่นแนล
+    * **status:** สถานะผลิตภัณฑ์(คงอยู่)\ สถานะสถานที่ (คงอยู่)

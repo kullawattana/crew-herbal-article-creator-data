@@ -1,0 +1,53 @@
+# ===MASTER_FACT_SHEET=== 
+## Consolidated Facts for: Sensitive Plant
+* **Trend Fact:** Unfortunately, no trend data is provided in the given context.
+* **Lab Fact (Experimental Method):** No lab data is provided in the given context.
+* **Lab Fact (Extraction Method):** No lab data is provided in the given context.
+* **Lab Fact (Compound Identified):** No lab data is provided in the given context.
+* **Lab Fact (Chromatography - TLC):** No lab data is provided in the given context.
+* **Lab Fact (Pharmacological Finding):** No lab data is provided in the given context.
+* **Lab Fact (Cosmetic or Clinical Effect):** No lab data is provided in the given context.
+* **Lab Fact (Quality Control):** No lab data is provided in the given context.
+* **Science Fact (Herb):** Mimosa pudica
+* **Science Fact (Compound):** No specific compound is mentioned in the given context.
+* **Science Fact (Abstracts):**
+  * **Study 1:**
+    * **abstract_raw:** The chloroform extract of Mimosa pudica leaves has been found to have hypolipidemic activity, with significant reduction in the level of serum cholesterol, triglyceride, LDL, VLDL, and increase in HDL level. The extract also exhibited significant atherogenic index and percentage protection against hyperlipidemia.
+    * **citation_apa:** Not found
+* **Compliance Fact (Food Registration 1):** None found.
+* **Compliance Fact (Drug Registration 1):** registration_number=G65/49, product_name=ยาแคปซูลไมยราบ / -, company_name=กฤษฎาสมุนไพร, status=คงอยู่
+* **Compliance Fact (Safety Dosage):** Not found
+* **Compliance Fact (Safety Warning):** None found
+* **Safety Fact (Active Ingredient):** No safety data is provided in the given context.
+* **Safety Fact (Ingredient Purpose):** No safety data is provided in the given context.
+* **Safety Fact (Uses):** Unfortunately, the DailyMed website does not have any information about Mimosa pudica.
+* **Safety Fact (Warnings):** Unfortunately, the DailyMed website does not have any information about Mimosa pudica.
+* **Safety Fact (Directions):** Unfortunately, the DailyMed website does not have any information about Mimosa pudica.
+* **Safety Fact (Other Info):** Unfortunately, the DailyMed website does not have any information about Mimosa pudica.
+* **Safety Fact (Inactive Ingredients):** Unfortunately, the DailyMed website does not have any information about Mimosa pudica.
+* **Safety Fact (Questions):** Unfortunately, the DailyMed website does not have any information about Mimosa pudica.
+* **Toxicity Fact (Summary):** The chloroform extract of Mimosa pudica leaves has been found to have hypolipidemic activity, with significant reduction in the level of serum cholesterol, triglyceride, LDL, VLDL, and increase in HDL level. The extract also exhibited significant atherogenic index and percentage protection against hyperlipidemia.
+* **Toxicity Fact (Mechanism):** The mechanism of injury is not explicitly stated in the text, but it is suggested that the flavonoids present in the plant may be responsible for its hypolipidemic action.
+* **Toxicity Fact (Side Effects):** No side effects are mentioned in the text.
+* **Toxicity Fact (Case Reports):** No case reports are mentioned in the text.
+* **Culture Fact (Community - Maierab):** 
+    * **Culture Fact (Community - Maierab):** Maierab
+    * **Culture Fact (Location - Maierab):** Lamphun Province
+    * **Culture Fact (Ethnic Group - Maierab):** Yong
+    * **Culture Fact (Community Highlight - Maierab):** The Maierab community is known for its rich cultural heritage, particularly in the use of traditional herbs for medicinal purposes.
+    * **Culture Fact (Name Etymology - Maierab):** The name "Maierab" is derived from the Thai words "mai" meaning "wood" and "rab" meaning "bitter", which refers to the bitter taste of the plant's roots.
+    * **Culture Fact (Environment - Maierab):** The Maierab community is situated in the Lamphun Province, where the climate is warm and humid, making it an ideal location for the growth of various plant species, including the Maierab plant.
+    * **Culture Fact (Local Wisdom - Maierab):** The Maierab community has a deep understanding of the medicinal properties of the Maierab plant, which has been passed down through generations.
+    * **Culture Fact (Organization - Maierab):** The Maierab community has a strong social structure, with various organizations and groups that work together to promote the use of traditional herbs for medicinal purposes.
+    * **Culture Fact (Local Name - Maierab):** Maierab
+    * **Culture Fact (Use - Maierab):** Used as a medicine to treat stomach pain, diarrhea, and fever.
+    * **Culture Fact (Processing - Maierab):** Used as a medicine to treat stomach pain, diarrhea, and fever.
+    * **Culture Fact (Source - Maierab):** https://traditional-objects.sac.or.th/th/, https://db.sac.or.th/inscriptions/, https://ethnicredb.sac.or.th/research_detail.php?id=523
+* **Internal RAG Fact (Herbal):** Mimosa pudica, also known as ไมยราบ, is not explicitly mentioned in the provided context. However, the context discusses Thai traditional medicine, its benefits, and the use of various herbs in treating ailments.
+* **Internal RAG Fact (Cultural):** ไมยราบ (Mimosa pudica) has been used for healing in Thai wisdom for a long time. According to the provided context, ไมยราบ has been used as a medicine for various ailments, including digestive issues and skin problems.
+* **Source URL (Trend):** Not found
+* **Source URL (Science):** https://pmc.ncbi.nlm.nih.gov/articles/PMC3558166/
+* **Source URL (Compliance):** Not found
+* **Source URL (Safety):** Unfortunately, the DailyMed website does not have any information about Mimosa pudica.
+* **Source URL (Toxicity):** https://pmc.ncbi.nlm.nih.gov/articles/PMC3558166/
+* **Source URL (Culture):** https://traditional-objects.sac.or.th/th/, https://db.sac.or.th/inscriptions/, https://ethnicredb.sac.or.th/research_detail.php?id=523

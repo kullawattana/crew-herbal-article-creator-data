@@ -1,0 +1,29 @@
+# ===CULTURE_DATA===
+
+## Cultural Context for: Khantong Phayabat (ขันทองพยาบาท)
+
+### Finding 1
+* **source_url:** https://sac-research.sac.or.th/uploads/article//2020_20200731100408-1.pdf
+* **community_context:**
+    * **community_name:** Takhian Thong Community (ชุมชนตะเคียนทอง)
+    * **location:** Chanthaburi Province (จังหวัดจันทบุรี)
+    * **ethnic_group:** Chong People (ชาวชอง)
+* **community_profile_summaries:**
+    * **community_highlight:** The Takhian Thong community is known for its rich cultural heritage and traditional practices, particularly in the use of herbal medicine. The community has a strong belief in the effectiveness of herbal remedies, which are often used in conjunction with spiritual practices to treat various ailments.
+    * **name_etymology:** The name "Takhian Thong" is derived from the abundance of Takhian trees in the area. The community's original name was "Ban Tayat," but it was later changed to "Ban Takhian Thong" due to the presence of these trees.
+    * **community_environment:** The community is surrounded by lush forests and is home to a variety of plant species, including those used in traditional medicine. The community's close relationship with nature is reflected in their spiritual practices and daily life.
+    * **local_wisdom:** The community has a deep understanding of the medicinal properties of various plants and uses this knowledge to create remedies for common ailments. This traditional wisdom is passed down through generations and is an essential part of the community's cultural heritage.
+    * **community_organizations:** The community has a strong sense of social organization, with various groups and associations working together to promote cultural preservation and community development.
+* **specific_entities:**
+    * **local_names:**
+        * **Item 1:**
+            * **name:** Khantong Phayabat (ขันทองพยาบาท)
+            * **context_quote:** Khantong Phayabat is a type of herbal medicine used to treat various ailments, including poison and curses.
+    * **traditional_uses:**
+        * **Item 1:**
+            * **use:** Used to treat poison and curses
+            * **context_quote:** Khantong Phayabat is used to treat poison and curses, and is an essential component of traditional medicine in the community.
+    * **processing_methods:**
+        * **Item 1:**
+            * **method:** Used as a component in traditional medicine
+            * **description_quote:** Khantong Phayabat is used as a component in traditional medicine, and is often combined with other herbs to create remedies for various ailments.

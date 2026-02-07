@@ -1,0 +1,97 @@
+# ===MASTER_FACT_SHEET=== 
+## Consolidated Facts for: Cissus quadrangularis
+* **Trend Fact:** Not found
+* **Lab Fact (Experimental Method):** Not found
+* **Lab Fact (Extraction Method):** Not found
+* **Lab Fact (Compound Identified):** Not found
+* **Lab Fact (Chromatography - TLC):** Not found
+* **Lab Fact (Pharmacological Finding):** Not found
+* **Lab Fact (Cosmetic or Clinical Effect):** Not found
+* **Lab Fact (Quality Control):** Not found
+* **Science Fact (Herb):** Cissus quadrangularis
+* **Science Fact (Compound):** Apiin
+* **Science Fact (Abstracts):**
+  * **Study 1:**
+    * **abstract_raw:** In orthodox medicine, Cissus quadrangularis is ordinarily used to treat asthma, menstrual disorders, diabetes, skin infections, bone fractures, burns, and wounds. But despite its extensive use, there are not many systematic studies that combine phytochemical profiling with computational and experimental methods to clarify how it works to prevent inflammatory and diabetic complications. The present study is aimed to find out the potential pharmacophore and innovation of C. quadrangularis to treat inflammatory and diabetic complications. 
+    * **citation_apa:** Mondal, I., Zilani, M. N. H., Lisany, N. F., Yasmin, F., Bibi, S., Biswas, P., Tauhida, S. J., Rahman, M. S., Albadrani, G. M., Al-Ghadi, M. Q., Sayed, A. A., Hasan, M. N., & Abdel-Daim, M. M. (2025). Cissus quadrangularis Revealed as a Potential Source of Anti-Inflammatory and Anti-Diabetic Pharmacophore in Experimental and Computational Studies. Chemistry & Biodiversity, e00903. https://doi.org/10.1002/cbdv.202500903
+* **Compliance Fact (Food Registration 1):** registration_number=10-1-13660-5-0072, product_name=เพชรสังฆาต (ผง) / Cissus quadrangularis L. (Powder), company_name=บริษัท โพธิ์ประดิษฐ์สมุนไพร จำกัด, status=สถานะผลิตภัณฑ์(ยกเลิกโดยผู้ประกอบการ 26/10/2561) \ สถานะสถานที่ (คงอยู่ )
+* **Compliance Fact (Food Registration 2):** registration_number=10-1-13660-5-0073, product_name=เพชรสังฆาต / Cissus quadrangularis L., company_name=บริษัท โพธิ์ประดิษฐ์สมุนไพร จำกัด, status=สถานะผลิตภัณฑ์(ยกเลิกโดยผู้ประกอบการ 26/10/2561) \ สถานะสถานที่ (คงอยู่ )
+* **Compliance Fact (Herbal Product 1):** registration_number=G564/51, product_name=ยาแคปซูลเพชรสังฆาต / COMPOUND PETCH-SANG-KART CAPSULE, company_name=บริษัท บี.ซี.คอสเมติคส์ จำกัด, status=ทะเบียนคงอยู่ แต่ผู้ผลิต ไม่ต่ออายุใบอนุญาตฯ ทำให้ไม่สามารถผลิตได้
+* **Compliance Fact (Herbal Product 2):** registration_number=G226/52, product_name=ยาแคปซูลเพชรสังฆาต ตรามาเธอร์ / -, company_name=บริษัท บางกอก คอนซูเมอร์ โพรดัค เซอร์วิส, status=ทะเบียนคงอยู่ แต่ผู้ผลิต ไม่ต่ออายุใบอนุญาตฯ ทำให้ไม่สามารถผลิตได้
+* **Compliance Fact (Herbal Product 3):** registration_number=G506/46, product_name=ยาแคปซูลสมุนไพรเพชรสังฆาต ตราช้าง 9 เชือก / -, company_name=เอเซียฟาร์มาซี, status=ทะเบียนคงอยู่ แต่ผู้ผลิต ไม่ต่ออายุใบอนุญาตฯ ทำให้ไม่สามารถผลิตได้
+* **Compliance Fact (Herbal Product 4):** registration_number=G352/58, product_name=ตำรับยาผสมเพชรสังฆาต ชนิดแคปซูล / COMPOUND CISSUS QUADRANGULARIS CAPSULE, company_name=บริษัท ที.ซี.ฟาร์มา-เคม จำกัด (สาขา 2), status=คงอยู่
+* **Compliance Fact (Herbal Product 5):** registration_number=G127/47, product_name=ยาแคปซูลเพชรสังฆาต / YA-CAPSULE PED-SUNG-KARD, company_name=บริษัท อังกฤษตรางู (แอล.พี.) จำกัด, status=ยกเลิก
+* **Compliance Fact (Safety Dosage):** Not found
+* **Compliance Fact (Safety Warning):** Not found
+* **Safety Fact (Active Ingredient):** 
+    * **Ingredient 1:**
+        * **name:** Menthol
+        * **strength:** 10%
+        * **purpose:** Natural support for healthy joints
+    * **Ingredient 2:**
+        * **name:** Camphor
+        * **strength:** 5%
+        * **purpose:** Natural support for healthy joints
+* **Safety Fact (Ingredient Purpose):** 
+    * **Ingredient 1:**
+        * **name:** Menthol
+        * **strength:** 10%
+        * **purpose:** Natural support for healthy joints
+    * **Ingredient 2:**
+        * **name:** Camphor
+        * **strength:** 5%
+        * **purpose:** Natural support for healthy joints
+* **Safety Fact (Uses):** Temporary relieves minor aches and pains of muscles and joints associated with simple backache, arthritis, strains, bruises and sprains.
+* **Safety Fact (Warnings):** Do not apply on an open wound or to exposed skin. If you are pregnant or breast-feeding, consult your healthcare professional before use. If condition gets worse or skin irritation occurs, stop usage and consult your doctor.
+* **Safety Fact (Directions):** Gently massage the oil over the affected body parts or as directed by physician.
+* **Safety Fact (Other Info):** Apply on small area of skin to test any allergic reactions before using. (*These statements have not been evaluated by the Food and Drug Administration. This product is not intended to diagnose, treat, cure or prevent any disease.)
+* **Safety Fact (Inactive Ingredients):** Mustard oil, Linseed oil, Wintergreen oil, Ajowa oil, Boswelia oil, Mustard oil processed with Castor, Drum stick, Thorn apple, Cissus quandragularis
+* **Safety Fact (Questions):** Not found
+* **Toxicity Fact (Summary):** Not found
+* **Toxicity Fact (Mechanism):** Not found
+* **Toxicity Fact (Side Effects):** Not found
+* **Toxicity Fact (Case Reports):** Not found
+* **Culture Fact (Community - Ban Dong Bang):** Ban Dong Bang
+* **Culture Fact (Location - Ban Dong Bang):** Prachinburi
+* **Culture Fact (Ethnic Group - Ban Dong Bang):** Thai
+* **Culture Fact (Community Highlight - Ban Dong Bang):** Ban Dong Bang is a community with abundant natural resources, particularly fertile soil suitable for growing herbs and crops such as rice, fruit orchards, and ornamental plants. The area is also home to a variety of naturally occurring trees.
+* **Culture Fact (Name Etymology - Ban Dong Bang):** No herbal-related information found
+* **Culture Fact (Environment - Ban Dong Bang):** The community's environment is characterized by its rich soil and natural resources, making it an ideal location for farming and herbal plant cultivation.
+* **Culture Fact (Local Wisdom - Ban Dong Bang):** No herbal-related information found
+* **Culture Fact (Organization - Ban Dong Bang):** No herbal-related information found
+* **Culture Fact (Local Name - Ban Dong Bang):** Phet Sangkhat is a herb with medicinal properties.
+* **Culture Fact (Use - Ban Dong Bang):** Phet Sangkhat has medicinal properties.
+* **Culture Fact (Processing - Ban Dong Bang):** Planting Phet Sangkhat requires special techniques.
+* **Culture Fact (Source - Ban Dong Bang):** https://wikicommunity.sac.or.th/community/431
+* **Culture Fact (Community - Database of Inscriptions in Thailand):** Database of Inscriptions in Thailand
+* **Culture Fact (Location - Database of Inscriptions in Thailand):** Bangkok
+* **Culture Fact (Ethnic Group - Database of Inscriptions in Thailand):** Thai
+* **Culture Fact (Community Highlight - Database of Inscriptions in Thailand):** No herbal-related information found
+* **Culture Fact (Name Etymology - Database of Inscriptions in Thailand):** No herbal-related information found
+* **Culture Fact (Environment - Database of Inscriptions in Thailand):** No herbal-related information found
+* **Culture Fact (Local Wisdom - Database of Inscriptions in Thailand):** No herbal-related information found
+* **Culture Fact (Organization - Database of Inscriptions in Thailand):** No herbal-related information found
+* **Culture Fact (Local Name - Database of Inscriptions in Thailand):** Phet Sangkhat is a herb with medicinal properties.
+* **Culture Fact (Use - Database of Inscriptions in Thailand):** Phet Sangkhat has medicinal properties.
+* **Culture Fact (Processing - Database of Inscriptions in Thailand):** Planting Phet Sangkhat requires special techniques.
+* **Culture Fact (Source - Database of Inscriptions in Thailand):** https://db.sac.or.th/inscriptions/inscribe/search
+* **Culture Fact (Community - Database of Anthropological Archives):** Database of Anthropological Archives
+* **Culture Fact (Location - Database of Anthropological Archives):** Bangkok
+* **Culture Fact (Ethnic Group - Database of Anthropological Archives):** Thai
+* **Culture Fact (Community Highlight - Database of Anthropological Archives):** No herbal-related information found
+* **Culture Fact (Name Etymology - Database of Anthropological Archives):** No herbal-related information found
+* **Culture Fact (Environment - Database of Anthropological Archives):** No herbal-related information found
+* **Culture Fact (Local Wisdom - Database of Anthropological Archives):** No herbal-related information found
+* **Culture Fact (Organization - Database of Anthropological Archives):** No herbal-related information found
+* **Culture Fact (Local Name - Database of Anthropological Archives):** Phet Sangkhat is a herb with medicinal properties.
+* **Culture Fact (Use - Database of Anthropological Archives):** Phet Sangkhat has medicinal properties.
+* **Culture Fact (Processing - Database of Anthropological Archives):** Planting Phet Sangkhat requires special techniques.
+* **Culture Fact (Source - Database of Anthropological Archives):** https://db.sac.or.th/anthroarchives/series.php?c_id=36&s_id=73
+* **Internal RAG Fact (Herbal):** Unfortunately, the provided internal knowledge context does not explicitly mention เพชรสังฆาต (Cissus quadrangularis). However, the context discusses Thai traditional medicine, its benefits, and usage. It highlights the importance of using traditional Thai medicine to reduce medical expenses and promote health. The context also mentions the use of various herbs and plants in traditional Thai medicine, but does not specifically mention Cissus quadrangularis.
+* **Internal RAG Fact (Cultural):** เพชรสังฆาต (Petchsanghat) is a type of Thai herb that has been used for medicinal purposes for a long time. According to the provided context, Petchsanghat has been used to treat various ailments, including digestive issues and respiratory problems. It is also believed to have antioxidant properties and can help to boost the immune system. In traditional Thai medicine, Petchsanghat is often used in combination with other herbs to create remedies for various health conditions. Additionally, Petchsanghat is also used as a food ingredient in some Thai dishes, where it is valued for its unique flavor and nutritional properties. Overall, Petchsanghat is a versatile and valuable herb in Thai culture, with a range of uses that extend beyond its medicinal properties.
+* **Source URL (Science):** https://doi.org/10.1002/cbdv.202500903
+* **Source URL (Compliance):** https://www.fda.moph.go.th/
+* **Source URL (Safety):** https://dailymed.nlm.nih.gov/dailymed/search.cfm?adv=1&query=3VMW64U790
+* **Source URL (Culture - Ban Dong Bang):** https://wikicommunity.sac.or.th/community/431
+* **Source URL (Culture - Database of Inscriptions in Thailand):** https://db.sac.or.th/inscriptions/inscribe/search
+* **Source URL (Culture - Database of Anthropological Archives):** https://db.sac.or.th/anthroarchives/series.php?c_id=36&s_id=73

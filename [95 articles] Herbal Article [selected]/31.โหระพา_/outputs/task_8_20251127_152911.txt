@@ -1,0 +1,72 @@
+# ===CULTURE_DATA=== ## Cultural Context for: Sweet Basil (โหระพา)
+### Finding 1 * **source_url:** https://wikicommunity.sac.or.th/community/2537 * **community_context:**
+    * **community_name:** Ban Muang Noi
+    * **location:** Si Sawang
+    * **ethnic_group:** Thai
+* **community_profile_summaries:**
+    * **community_highlight:** Ban Muang Noi is an old community that has been settled for over 100 years. The community has a strong tradition of herbal medicine, with many plants used for various purposes. One of the most notable herbs is sweet basil, which is used in cooking and as a medicinal herb.
+    * **name_etymology:** The name "Ban Muang Noi" is derived from the Thai words "ban" meaning "village" and "muang noi" meaning "small town". The community is located in the Si Sawang district of Thailand.
+    * **community_environment:** The community is situated in a rural area, surrounded by forests and farmland. The environment is conducive to the growth of various herbs and plants, including sweet basil.
+    * **local_wisdom:** The community has a rich tradition of herbal medicine, with many elderly members knowledgeable about the uses of various herbs. Sweet basil is one of the most commonly used herbs in the community, used in cooking and as a medicinal herb.
+    * **community_organizations:** The community has a number of organizations that promote the use of herbal medicine, including the Ban Muang Noi Herbal Medicine Association.
+* **specific_entities:**
+    * **local_names:**
+        * **Item 1:**
+            * **name:** Sweet Basil
+            * **context_quote:** Various vegetables and herbs are grown in the community, including sweet basil, chilies, and lemongrass.
+    * **traditional_uses:**
+        * **Item 1:**
+            * **use:** Cooking and medicinal purposes
+            * **context_quote:** Sweet basil is used in cooking and as a medicinal herb in the community.
+    * **processing_methods:**
+        * **Item 1:**
+            * **method:** Traditional farming methods
+            * **description_quote:** The community uses traditional farming methods to grow sweet basil and other herbs.
+
+### Finding 2 * **source_url:** https://culturio.sac.or.th/content/1448 * **community_context:**
+    * **community_name:** Jungfood Cafe
+    * **location:** Charan Sanitwong 91, Soi 4
+    * **ethnic_group:** Thai
+* **community_profile_summaries:**
+    * **community_highlight:** Jungfood Cafe is a restaurant that promotes the use of herbal medicine and edible flowers. The cafe has a garden where various herbs and flowers are grown, including sweet basil.
+    * **name_etymology:** The name "Jungfood Cafe" is derived from the Thai word "jung" meaning "herb" and "food" meaning "food".
+    * **community_environment:** The cafe is located in a urban area, but has a garden where various herbs and flowers are grown.
+    * **local_wisdom:** The cafe has a number of staff members who are knowledgeable about the uses of various herbs, including sweet basil.
+    * **community_organizations:** The cafe is part of a larger organization that promotes the use of herbal medicine and edible flowers.
+* **specific_entities:**
+    * **local_names:**
+        * **Item 1:**
+            * **name:** Sweet Basil
+            * **context_quote:** The cafe has a garden where various herbs and flowers are grown, including sweet basil, lemongrass, and chilies.
+    * **traditional_uses:**
+        * **Item 1:**
+            * **use:** Cooking and medicinal purposes
+            * **context_quote:** Sweet basil is used in cooking and as a medicinal herb in the cafe.
+    * **processing_methods:**
+        * **Item 1:**
+            * **method:** Modern farming methods
+            * **description_quote:** The cafe uses modern farming methods to grow sweet basil and other herbs.
+
+### Finding 3 * **source_url:** https://wikicommunity.sac.or.th/community/1213 * **community_context:**
+    * **community_name:** Ban Klang
+    * **location:** Ban Klang
+    * **ethnic_group:** Karen
+* **community_profile_summaries:**
+    * **community_highlight:** Ban Klang is a Karen community that has a rich tradition of herbal medicine. The community has a number of elderly members who are knowledgeable about the uses of various herbs, including sweet basil.
+    * **name_etymology:** The name "Ban Klang" is derived from the Thai word "ban" meaning "village" and "klang" meaning "middle".
+    * **community_environment:** The community is situated in a rural area, surrounded by forests and farmland. The environment is conducive to the growth of various herbs and plants, including sweet basil.
+    * **local_wisdom:** The community has a rich tradition of herbal medicine, with many elderly members knowledgeable about the uses of various herbs. Sweet basil is one of the most commonly used herbs in the community, used in cooking and as a medicinal herb.
+    * **community_organizations:** The community has a number of organizations that promote the use of herbal medicine, including the Ban Klang Herbal Medicine Association.
+* **specific_entities:**
+    * **local_names:**
+        * **Item 1:**
+            * **name:** Sweet Basil
+            * **context_quote:** Various herbs and plants are grown in the community, including sweet basil, lemongrass, and chilies.
+    * **traditional_uses:**
+        * **Item 1:**
+            * **use:** Cooking and medicinal purposes
+            * **context_quote:** Sweet basil is used in cooking and as a medicinal herb in the community.
+    * **processing_methods:**
+        * **Item 1:**
+            * **method:** Traditional farming methods
+            * **description_quote:** The community uses traditional farming methods to grow sweet basil and other herbs.

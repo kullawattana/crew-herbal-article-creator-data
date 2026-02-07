@@ -1,0 +1,9 @@
+# ===AUDIT_DATA_INTEGRITY_REPORT===
+*   **Collaboration Robustness (Data Loss):** 96.43%
+*   **Explanation Clarity (Hallucination/Handling):** 100%
+*   **Dropped Entities (Facts in Fact Sheet but not Article):**
+    - Toxicity Fact (Mechanism): Not found (The article does not mention the absence of this information)
+    - Toxicity Fact (Case Reports): Not found (The article does not mention the absence of this information)
+*   **Hallucinated Entities (Facts in Article but not Fact Sheet):**
+    - None
+*   **Feedback:** The Final Article demonstrated high data integrity. All trend, lab, science, compliance, safety, culture, internal RAG facts, and source URLs (including their 'Not found' status) were accurately transferred or correctly omitted. The article successfully avoided any hallucination. Two toxicity facts, specifically the 'Not found' status for "Mechanism" and "Case Reports," were omitted from the article, leading to a minor data loss in the robustness score. However, this omission did not result in hallucination, and the article correctly handled all other "Not found" findings, such as `citation_apa: not_found`, by explicitly stating their absence or appropriately omitting references.

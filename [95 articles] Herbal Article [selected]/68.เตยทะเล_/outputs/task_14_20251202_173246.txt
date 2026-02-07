@@ -1,0 +1,22 @@
+```markdown
+# ===AUDIT_DATA_INTEGRITY_REPORT===
+* **Collaboration Robustness (Data Loss):** 92%
+* **Explanation Clarity (Hallucination/Handling):** 100%
+* **Dropped Entities (Facts in Fact Sheet but not Article):**
+    - Lab Fact (Chromatography - TLC): 3 bands detected, Rf 0.41 (yellow), 0.56, 0.72
+    - Compliance Fact (Food Registration 1): None found
+    - Compliance Fact (Safety Dosage): Not found
+    - Compliance Fact (Safety Warning): None found
+    - Safety Fact (Active Ingredient): Not available
+    - Safety Fact (Ingredient Purpose): Not available
+    - Safety Fact (Uses): Not available
+    - Safety Fact (Warnings): Not available
+    - Safety Fact (Directions): Not available
+    - Safety Fact (Other Info): Not available
+    - Safety Fact (Inactive Ingredients): Not available
+    - Safety Fact (Questions): Not available
+    - Science Fact (Compound): Not available
+* **Hallucinated Entities (Facts in Article but not Fact Sheet):**
+    - None
+* **Feedback:** The article accurately reflects most facts from the fact sheet. The dropped entities are mostly related to safety facts that are "Not available" and very specific lab results. The handling of "Not available" abstracts is correct. All facts in the article are traceable to the fact sheet, indicating no hallucinations. The score for Collaboration Robustness is slightly lower due to the number of dropped safety and compliance facts, even though these were mostly "Not available" in the original fact sheet.
+```

@@ -1,0 +1,29 @@
+# ===COMPLIANCE_DATA===
+## Thai FDA Status for: Acanthus ebracteatus
+* **herb_name:** Acanthus ebracteatus
+### Food Registrations
+* **Food Registration 1:**
+    * **registration_number:** 10-1-13660-5-0080
+    * **product_name:** เหงือกปลาหมอ / Sea Holly
+    * **company_name:** บริษัท โพธิ์ประดิษฐ์สมุนไพร จำกัด
+    * **status:** สถานะผลิตภัณฑ์(ยกเลิกโดยผู้ประกอบการ 26/10/2561) \ สถานะสถานที่ (คงอยู่ )
+* **Food Registration 2:**
+    * **registration_number:** 10-1-13660-5-0081
+    * **product_name:** เหงือกปลาหมอ (ผง) / Sea Holly (Powder)
+    * **company_name:** บริษัท โพธิ์ประดิษฐ์สมุนไพร จำกัด
+    * **status:** สถานะผลิตภัณฑ์(ยกเลิกโดยผู้ประกอบการ 26/10/2561) \ สถานะสถานที่ (คงอยู่ )
+* **Food Registration 3:**
+    * **registration_number:** G413/64
+    * **product_name:** ยาขี้ผึ้งผสมเหงือกปลาหมอ ตราศิลาทอง  / COMPOUND SEA HOLLY OINTMENT GOLDSTONE BRAND
+    * **company_name:** ลิ้มเซ่งฮึง
+    * **status:** คงอยู่
+* **Food Registration 4:**
+    * **registration_number:** G741/60
+    * **product_name:** ยาแคปซูลผสมเหงือกปลาหมอ / -
+    * **company_name:** บริษัท เดวา เฮิร์บ จำกัด
+    * **status:** คงอยู่
+* **Food Registration 5:**
+    * **registration_number:** G596/49
+    * **product_name:** ยาแคปซูลเหงือกปลาหมอ / -
+    * **company_name:** กลุ่มสตรีในโครงการพระราชประสงค์ดอนขุนห้วย
+    * **status:** คงอยู่

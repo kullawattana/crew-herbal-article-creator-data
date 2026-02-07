@@ -1,0 +1,11 @@
+{
+  "model": "meta/llama-3.3-70b-instruct",
+  "herbs": "Zea mays",
+  "runtime_sec": 627.61,
+  "cpu_percent": 3.5,
+  "memory_mb_change": -220.05,
+  "total_tokens": 0,
+  "prompt_tokens": 0,
+  "completion_tokens": 0,
+  "total_cost": 0.0
+}

@@ -1,0 +1,20 @@
+# ===AUDIT_DATA_INTEGRITY_REPORT===
+* **Collaboration Robustness (Data Loss):** 93%
+* **Explanation Clarity (Hallucination/Handling):** 100%
+* **Dropped Entities (Facts in Fact Sheet but not Article):**
+    - Lab Fact (Experimental Method): Not found
+    - Lab Fact (Extraction Method): Not found
+    - Lab Fact (Chromatography - TLC): Not found
+    - Lab Fact (Cosmetic or Clinical Effect): Not found
+    - Lab Fact (Quality Control): Not found
+    - Compliance Fact (Food Registration 1): None found
+    - Compliance Fact (Safety Dosage): Not found
+    - Toxicity Fact (Mechanism): Not found
+    - Toxicity Fact (Side Effects): Not found
+    - Toxicity Fact (Case Reports): Not found
+    - Safety Fact (Ingredient Purpose): Not found
+    - Source URL (Trend): Not found
+    - Source URL (Compliance): Not found
+* **Hallucinated Entities (Facts in Article but not Fact Sheet):**
+    - None
+* **Feedback:** The article accurately reflects most of the key facts from the fact sheet. The "Not Found" results for citation_apa are correctly handled by omitting the citation where it was not available. The article does not hallucinate any information. The Collaboration Robustness score is high, but there are some lab facts and other compliance/safety facts that are not found in the article, which accounts for the slightly lower score.

@@ -1,0 +1,11 @@
+{
+  "model": "meta/llama-3.3-70b-instruct",
+  "herbs": "Houttuynia cordata",
+  "runtime_sec": 383.01,
+  "cpu_percent": 1.8,
+  "memory_mb_change": -102.03,
+  "total_tokens": 0,
+  "prompt_tokens": 0,
+  "completion_tokens": 0,
+  "total_cost": 0.0
+}

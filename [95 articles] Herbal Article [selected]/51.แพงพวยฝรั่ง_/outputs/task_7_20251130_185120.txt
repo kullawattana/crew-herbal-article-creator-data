@@ -1,0 +1,65 @@
+# ===RAW_THAI_DATA===
+## ข้อมูลวัฒนธรรมดิบสำหรับ: แพงพวยฝรั่ง
+
+### การค้นหา 1
+* **source_url:** https://db.sac.or.th/manuscriptsofthailand/
+* **community_context:**
+    * **community_name:** วัดน้ำจำ
+    * **location:** ต.ร้องวัวแดง อ.สันกำแพง จ.เชียงใหม่
+    * **ethnic_group:** ไม่ระบุ
+* **full_thai_narrative_context:** หน้าหลัก : เอกสารโบราณในประเทศไทย : Manuscripts of Thailand
+* **specific_entities:**
+    * **local_names:**
+        * **Item 1:**
+            * **name:** กัมมวาจา
+            * **context_quote:** บทสวด, คำไหวต่างๆ
+    * **traditional_uses:**
+        * **Item 1:**
+            * **use:** กัมมัฏฐาน
+            * **context_quote:** บทสวด, คำไหวต่างๆ
+    * **processing_methods:**
+        * **Item 1:**
+            * **method:** กัมมัฏฐาน 3 เหง้า
+            * **description_quote:** ธรรมทั่วไป
+
+### การค้นหา 2
+* **source_url:** https://db.sac.or.th/thailand-cultural-encyclopedia/region_book.php?region=6
+* **community_context:**
+    * **community_name:** สารานุกรมวัฒนธรรมไทย
+    * **location:** ภาคใต้
+    * **ethnic_group:** ไม่ระบุ
+* **full_thai_narrative_context:** ใต้ E-Book : สารานุกรมวัฒนธรรมไทย | Thailand Cultural Encyclopedia
+* **specific_entities:**
+    * **local_names:**
+        * **Item 1:**
+            * **name:** สารานุกรมวัฒนธรรมไทย ภาคใต้ เล่ม 1 (ก ข้อ ก กา สุภาษิต - เกาะ, เรือ)
+            * **context_quote:** อ่านรายละเอียด
+    * **traditional_uses:**
+        * **Item 1:**
+            * **use:** สารานุกรมวัฒนธรรมไทย ภาคใต้ เล่ม 2 (เกาะ : อายัด - ค้อ, ปลา)
+            * **context_quote:** อ่านรายละเอียด
+    * **processing_methods:**
+        * **Item 1:**
+            * **method:** สารานุกรมวัฒนธรรมไทย ภาคใต้ เล่ม 3 (คอกช้าง : การจับช้างเถื่อน - จับ ฐิตธมโม)
+            * **description_quote:** อ่านรายละเอียด
+
+### การค้นหา 3
+* **source_url:** https://db.sac.or.th/anthroarchives/collection.php?c_id=104
+* **community_context:**
+    * **community_name:** ฐานข้อมูลจดหมายเหตุมานุษยวิทยา
+    * **location:** ไม่ระบุ
+    * **ethnic_group:** ไม่ระบุ
+* **full_thai_narrative_context:** ฐานข้อมูลจดหมายเหตุมานุษยวิทยา
+* **specific_entities:**
+    * **local_names:**
+        * **Item 1:**
+            * **name:** การทำงานภาคสนาม (จ้วง) ในกวางสี
+            * **context_quote:** ภาพถ่าย
+    * **traditional_uses:**
+        * **Item 1:**
+            * **use:** การทำงานภาคสนาม (จ้วง) ในกวางสี
+            * **context_quote:** ภาพถ่าย
+    * **processing_methods:**
+        * **Item 1:**
+            * **method:** การทำงานภาคสนาม (จ้วง) ในกวางสี
+            * **description_quote:** ภาพถ่าย

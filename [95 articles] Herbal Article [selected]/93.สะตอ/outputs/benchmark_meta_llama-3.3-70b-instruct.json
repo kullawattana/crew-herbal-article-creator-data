@@ -1,0 +1,11 @@
+{
+  "model": "meta/llama-3.3-70b-instruct",
+  "herbs": "Parkia speciosa",
+  "runtime_sec": 713.59,
+  "cpu_percent": 7.5,
+  "memory_mb_change": -348.25,
+  "total_tokens": 0,
+  "prompt_tokens": 0,
+  "completion_tokens": 0,
+  "total_cost": 0.0
+}

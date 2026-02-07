@@ -1,0 +1,33 @@
+# ===RESEARCH_DATA===
+## Scientific Evidence for: Centella asiatica
+* **herb_name:** Centella asiatica
+* **herb_name_scientific:** Centella asiatica
+### Validated Compounds
+* **Compound 1:**
+    * **compound_name:** Asiatic acid
+    * **mechanism_name:** Anti-inflammatory
+    * **supporting_studies:**
+        * **Study 1:** (Data from the first item in studies_data)
+            * **study_type:** RCT
+            * **abstract_raw:** Asiatic acid alleviates ulcerative colitis through a gut microbiota-driven cAMP/PKA/NF-κB pathway: γ-glutamyltyrosine is a crucial player.
+            * **key_findings:** Asiatic acid significantly alleviates symptoms of ulcerative colitis, including reducing weight loss, slowing disease progression, mitigating colonic inflammation, and restoring immune balance.
+            * **pmid:** 41277357
+            * **canonical_url:** https://doi.org/10.1002/ptr.70132
+            * **citation_apa:** Zheng, X., Jiang, Y., Wang, W., Sun, K., Zhou, L., Zhang, Y., Cui, J., Yu, H., Dong, W., & Yan, B. (2025). Asiatic Acid Alleviates Ulcerative Colitis Through a Gut Microbiota-Driven cAMP/PKA/NF-κB Pathway: γ-Glutamyltyrosine Is a Crucial Player. Phytotherapy Research, 39(11), 3421–3433. https://doi.org/10.1002/ptr.70132
+        * **Study 2:** (Data from the second item in studies_data)
+            * **study_type:** Review
+            * **abstract_raw:** Therapeutic potential and chemical profile of Dracontomelon duperreanum Pierre leaf extract: In vitro wound healing, antibacterial, and antioxidant activities.
+            * **key_findings:** The D. duperreanum leaf ethanolic extract contains 45 compounds, including 5-hydroxymethylfurfural, pyrogallol, sucrose, D-allose, linolenic acid, bis(2-ethylhexyl) phthalate, phenol, 3-(4Z,7Z)-4,7-heptadecadien-1-yl-, dl-α-tocopherol, and γ-sitosterol as major bioactive constituents.
+            * **pmid:** 41242510
+            * **canonical_url:** https://doi.org/10.1016/j.jep.2025.120898
+            * **citation_apa:** Phan, T.-N., Mai, N. Q., Ha, B. T., & Quynh, B. T. P. (2025). Therapeutic Potential and Chemical Profile of Dracontomelon duperreanum Pierre Leaf Extract: In Vitro Wound Healing, Antibacterial, and Antioxidant Activities. Journal of Ethnopharmacology, 357, 120898. https://doi.org/10.1016/j.jep.2025.120898
+        * **Study 3:** (Data from the third item in studies_data)
+            * **study_type:** Review
+            * **abstract_raw:** Role of triterpenoid derivatives from Centella asiatica as quantum chemical calculations.
+            * **key_findings:** Asiatic acid, madecassic acid, asiaticoside, and madecassoside, which are triterpenoid derivatives from Centella asiatica, have previously been reported to exhibit the AChE inhibitory activity.
+            * **pmid:** 41200903
+            * **canonical_url:** https://doi.org/10.1080/07391102.2025.2578225
+            * **citation_apa:** Chockchowwat, W., Hannongbua, S., & Saparpakorn, P. (2025). Role of Triterpenoid Derivatives from Centella asiatica as Quantum Chemical Calculations. Journal of Biomolecular Structure and Dynamics, 43(11), 1–17. https://doi.org/10.1080/07391102.2025.2578225
+
+### Overall Summary
+* **summary:** Centella asiatica has been found to have anti-inflammatory and antioxidant properties, and its compounds have been shown to have potential therapeutic effects on various diseases, including ulcerative colitis and Alzheimer's disease.

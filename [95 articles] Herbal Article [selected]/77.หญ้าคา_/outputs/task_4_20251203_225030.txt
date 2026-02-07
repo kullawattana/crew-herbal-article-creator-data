@@ -1,0 +1,25 @@
+# ===COMPLIANCE_DATA===
+## Thai FDA Status for: Imperata cylindrica
+* **herb_name:** Imperata cylindrica
+### Food Registrations
+* **Food Registration 1:**
+    * **registration_number:** 10-1-13660-5-0268
+    * **product_name:** หญ้าคา (ผง) / Alang-alang (Powder)
+    * **company_name:** บริษัท โพธิ์ประดิษฐ์สมุนไพร จำกัด
+    * **status:** สถานะผลิตภัณฑ์(คงอยู่)\ สถานะสถานที่ (คงอยู่)
+* **Food Registration 2:**
+    * **registration_number:** 10-1-13660-5-0269
+    * **product_name:** หญ้าคา / Alang-alang
+    * **company_name:** บริษัท โพธิ์ประดิษฐ์สมุนไพร จำกัด
+    * **status:** สถานะผลิตภัณฑ์(คงอยู่)\ สถานะสถานที่ (คงอยู่)
+* **Food Registration 3:**
+    * **registration_number:** 50-1-16256-1-0001
+    * **product_name:** เครื่องดื่มใบเจี่ยวกู้หลาน,ใบหม่อน,หญ้าคา,ดอกคำฝอย,ใบแป๊ะก๊วยและโสมชนิดแห้ง (ตรา ดอยปุย) / JIAOGULAN LEAVES,MULBERRY LEAVES,LALANG SAFFLOWER,GINKGO LEAVES AND GINSENG BEVERAGE POWDER (DOIPUI BRAND)
+    * **company_name:** บริษัท ดอย ปุย เฮิร์บส จำกัด
+    * **status:** สถานะผลิตภัณฑ์(คงอยู่)\ สถานะสถานที่ (คงอยู่)
+### Cosmetic Registrations
+* **Cosmetic Registration 1:**
+    * **registration_number:** 34-1-6300034586
+    * **product_name:** กัส สกิน หญ้าคา ไวท์เทนนิ่ง มาส์ก / GUS SKIN YAR KAR WHITENING MASK
+    * **company_name:** นางสาว อมรรัตน์ สุวรรณรมย์
+    * **status:** สิ้นอายุ

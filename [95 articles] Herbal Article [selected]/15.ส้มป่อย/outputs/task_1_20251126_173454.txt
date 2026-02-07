@@ -1,0 +1,18 @@
+# ===TRENDS_DATA===
+## Wellness Trends for: Soap Pod
+### Finding 1
+* **herb_name:** Soap Pod
+* **wellness_context_summary:** Soap Pod is not explicitly mentioned in the provided URLs. However, the URLs provide information on various wellness trends and topics, including the benefits of hydrothermal bathing, the growth of the wellness economy, and the importance of wellness in everyday life.
+* **source_url:** https://globalwellnessinstitute.org/press-room/media-highlights/
+### Finding 2
+* **herb_name:** Soap Pod
+* **wellness_context_summary:** Soap Pod is not explicitly mentioned in the provided URLs. However, the URLs provide information on various wellness trends and topics, including the benefits of hydrothermal bathing, the growth of the wellness economy, and the importance of wellness in everyday life.
+* **source_url:** https://globalwellnessinstitute.org/wp-content/uploads/2018/12/biophilicdesignguide-en.pdf
+### Finding 3
+* **herb_name:** Soap Pod
+* **wellness_context_summary:** Soap Pod is not explicitly mentioned in the provided URLs. However, the URLs provide information on various wellness trends and topics, including the benefits of hydrothermal bathing, the growth of the wellness economy, and the importance of wellness in everyday life.
+* **source_url:** https://globalwellnessinstitute.org/wp-content/uploads/2019/12/GWI_Hydrothermal_2018_US-final-updated_1125191.pdf
+### Finding 4
+* **herb_name:** Soap Pod
+* **wellness_context_summary:** Soap Pod is not explicitly mentioned in the provided URLs. However, the URLs provide information on various wellness trends and topics, including the benefits of hydrothermal bathing, the growth of the wellness economy, and the importance of wellness in everyday life.
+* **source_url:** https://globalwellnessinstitute.org/wp-content/uploads/2025/11/2025-GWI-WE-Monitor_DIGITAL-FINAL.pdf

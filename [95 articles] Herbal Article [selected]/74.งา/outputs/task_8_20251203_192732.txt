@@ -1,0 +1,67 @@
+# ===CULTURE_DATA=== ## Cultural Context for: Nga (Ngaa)
+
+### Finding 1 * **source_url:** https://traditional-objects.sac.or.th/th/equipment-detail.php?ob_id=112 * **community_context:** 
+    * **community_name:** Ban Huai Yang Community
+    * **location:** Khon Kaen Province
+    * **ethnic_group:** Thai * **community_profile_summaries:** 
+    * **community_highlight:** The Ban Huai Yang community is known for its expertise in creating traditional equipment, including the Nga, a tool used for hunting hedgehogs. The community's traditional knowledge and skills have been passed down through generations, and their equipment is highly regarded for its effectiveness and durability.
+    * **name_etymology:** The name "Nga" is derived from the Thai word for "hunting tool." The Nga is a crucial part of the community's hunting tradition, and its name reflects its importance in their cultural heritage.
+    * **community_environment:** The Ban Huai Yang community is located in the Khon Kaen Province, an area known for its rich biodiversity and natural resources. The community's traditional equipment, including the Nga, is designed to work in harmony with the environment and to promote sustainable hunting practices.
+    * **local_wisdom:** The Ban Huai Yang community has developed a deep understanding of the local ecosystem and the behavior of the animals they hunt. Their traditional knowledge and skills are essential to the effective use of the Nga and other hunting equipment.
+    * **community_organizations:** The Ban Huai Yang community has a strong sense of cooperation and mutual support. Their traditional organizations and social structures play a crucial role in the preservation and transmission of their cultural heritage, including their traditional equipment and hunting practices. * **specific_entities:** 
+    * **local_names:** 
+        * **Item 1:** 
+            * **name:** Nga Dak Men (Hedgehog Hunting Tool)
+            * **context_quote:** Nga Dak Men is a tool used for hunting hedgehogs by utilizing the Nga technique as its mechanism.
+    * **traditional_uses:** 
+        * **Item 1:** 
+            * **use:** Hunting hedgehogs
+            * **context_quote:** Nga Dak Men is a tool used for hunting hedgehogs by utilizing the Nga technique as its mechanism.
+    * **processing_methods:** 
+        * **Item 1:** 
+            * **method:** Weaving a cone-shaped basket
+            * **description_quote:** The Nga's mechanism is derived from its cone-shaped basket design, with a wide entrance and a narrow, pointed interior.
+
+### Finding 2 * **source_url:** https://culturio.sac.or.th/content/1405 * **community_context:** 
+    * **community_name:** Ban Huai Yang Community
+    * **location:** Khon Kaen Province
+    * **ethnic_group:** Thai * **community_profile_summaries:** 
+    * **community_highlight:** The Ban Huai Yang community is known for its expertise in creating traditional equipment, including the Nga, a tool used for testing food for poison. The community's traditional knowledge and skills have been passed down through generations, and their equipment is highly regarded for its effectiveness and durability.
+    * **name_etymology:** The name "Nga" is derived from the Thai word for "hunting tool." The Nga is a crucial part of the community's cultural heritage, and its name reflects its importance in their traditional practices.
+    * **community_environment:** The Ban Huai Yang community is located in the Khon Kaen Province, an area known for its rich biodiversity and natural resources. The community's traditional equipment, including the Nga, is designed to work in harmony with the environment and to promote sustainable practices.
+    * **local_wisdom:** The Ban Huai Yang community has developed a deep understanding of the local ecosystem and the behavior of the animals they interact with. Their traditional knowledge and skills are essential to the effective use of the Nga and other traditional equipment.
+    * **community_organizations:** The Ban Huai Yang community has a strong sense of cooperation and mutual support. Their traditional organizations and social structures play a crucial role in the preservation and transmission of their cultural heritage, including their traditional equipment and practices. * **specific_entities:** 
+    * **local_names:** 
+        * **Item 1:** 
+            * **name:** Nga Chang (Elephant Tusk Nga)
+            * **context_quote:** Nga Chang has letters written on it, with the text being somewhat faded. The Nga Chang is white, with black letters, measuring 6.9 x 1.5 cm.
+    * **traditional_uses:** 
+        * **Item 1:** 
+            * **use:** Testing food for poison
+            * **context_quote:** Nga Chang is used to test food for poison by inserting it into the food containing poison, causing the Nga to change color from white to dark.
+    * **processing_methods:** 
+        * **Item 1:** 
+            * **method:** Inserting the Nga into food
+            * **description_quote:** Nga Chang is used to test food for poison by inserting it into the food containing poison, causing the Nga to change color from white to dark.
+
+### Finding 3 * **source_url:** https://traditional-objects.sac.or.th/th/equipment-detail.php?ob_id=56 * **community_context:** 
+    * **community_name:** Ban Huai Yang Community
+    * **location:** Khon Kaen Province
+    * **ethnic_group:** Thai * **community_profile_summaries:** 
+    * **community_highlight:** The Ban Huai Yang community is known for its expertise in creating traditional equipment, including the Lob Yuen, a tool used for fishing. The community's traditional knowledge and skills have been passed down through generations, and their equipment is highly regarded for its effectiveness and durability.
+    * **name_etymology:** The name "Lob Yuen" is derived from the Thai word for "fishing tool." The Lob Yuen is a crucial part of the community's fishing tradition, and its name reflects its importance in their cultural heritage.
+    * **community_environment:** The Ban Huai Yang community is located in the Khon Kaen Province, an area known for its rich biodiversity and natural resources. The community's traditional equipment, including the Lob Yuen, is designed to work in harmony with the environment and to promote sustainable fishing practices.
+    * **local_wisdom:** The Ban Huai Yang community has developed a deep understanding of the local ecosystem and the behavior of the fish they catch. Their traditional knowledge and skills are essential to the effective use of the Lob Yuen and other fishing equipment.
+    * **community_organizations:** The Ban Huai Yang community has a strong sense of cooperation and mutual support. Their traditional organizations and social structures play a crucial role in the preservation and transmission of their cultural heritage, including their traditional equipment and fishing practices. * **specific_entities:** 
+    * **local_names:** 
+        * **Item 1:** 
+            * **name:** Lob Yuen (Fishing Tool)
+            * **context_quote:** Lob Yuen is a tool with an uncertain name, also known as "Sai Nang" or "Lob Tung" in different areas, named after the fishing method used.
+    * **traditional_uses:** 
+        * **Item 1:** 
+            * **use:** Fishing
+            * **context_quote:** Lob Yuen is a tool with an uncertain name, also known as "Sai Nang" or "Lob Tung" in different areas, named after the fishing method used.
+    * **processing_methods:** 
+        * **Item 1:** 
+            * **method:** Using grass to block the end
+            * **description_quote:** Lob Yuen is a tool with an uncertain name, also known as "Sai Nang" or "Lob Tung" in different areas, named after the fishing method used.

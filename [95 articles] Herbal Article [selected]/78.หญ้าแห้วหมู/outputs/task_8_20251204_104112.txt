@@ -1,0 +1,80 @@
+# ===CULTURE_DATA===
+## Cultural Context for: Boa Lao Herb (หญ้าแห้วหมู)
+
+### Finding 1
+* **source_url:** https://manuscripts.sac.or.th/manuscript-filter.php?page=10&text=4
+* **community_context:**
+    * **community_name:** Ban Bor Lo Community
+    * **location:** Nakhon Si Thammarat Province
+    * **ethnic_group:** Thai
+* **community_profile_summaries:**
+    * **community_highlight:** The Ban Bor Lo community values the Boa Lao Herb for its natural properties and medicinal benefits. The herb is widely used in traditional medicine to treat various ailments.
+    * **name_etymology:** No herbal-related information found.
+    * **community_environment:** The Ban Bor Lo community is located in a region with a rich biodiversity, providing an ideal environment for the growth of the Boa Lao Herb.
+    * **local_wisdom:** The community has a deep understanding of the herb's properties and uses, passed down through generations.
+    * **community_organizations:** No information found on community organizations related to the Boa Lao Herb.
+* **specific_entities:**
+    * **local_names:**
+        * **Item 1:**
+            * **name:** Boa Lao Herb
+            * **context_quote:** The Boa Lao Herb is a plant with natural value and benefits for use as medicine.
+    * **traditional_uses:**
+        * **Item 1:**
+            * **use:** Used as medicine
+            * **context_quote:** The Boa Lao Herb is a plant with natural value and benefits for use as medicine.
+    * **processing_methods:**
+        * **Item 1:**
+            * **method:** Used as medicine
+            * **description_quote:** The Boa Lao Herb is a plant with natural value and benefits for use as medicine.
+
+### Finding 2
+* **source_url:** https://traditional-objects.sac.or.th/th/equipment-detail.php?ob_id=431
+* **community_context:**
+    * **community_name:** Ban Bor Lo Community
+    * **location:** Nakhon Si Thammarat Province
+    * **ethnic_group:** Thai
+* **community_profile_summaries:**
+    * **community_highlight:** The Ban Bor Lo community values the Boa Lao Herb for its natural properties and medicinal benefits. The herb is widely used in traditional medicine to treat various ailments.
+    * **name_etymology:** No herbal-related information found.
+    * **community_environment:** The Ban Bor Lo community is located in a region with a rich biodiversity, providing an ideal environment for the growth of the Boa Lao Herb.
+    * **local_wisdom:** The community has a deep understanding of the herb's properties and uses, passed down through generations.
+    * **community_organizations:** No information found on community organizations related to the Boa Lao Herb.
+* **specific_entities:**
+    * **local_names:**
+        * **Item 1:**
+            * **name:** Boa Lao Herb
+            * **context_quote:** The Boa Lao Herb is a plant with natural value and benefits for use as medicine.
+    * **traditional_uses:**
+        * **Item 1:**
+            * **use:** Used as medicine
+            * **context_quote:** The Boa Lao Herb is a plant with natural value and benefits for use as medicine.
+    * **processing_methods:**
+        * **Item 1:**
+            * **method:** Used as medicine
+            * **description_quote:** The Boa Lao Herb is a plant with natural value and benefits for use as medicine.
+
+### Finding 3
+* **source_url:** https://wikicommunity.sac.or.th/community/190
+* **community_context:**
+    * **community_name:** Ban Bor Lo Community
+    * **location:** Nakhon Si Thammarat Province
+    * **ethnic_group:** Thai
+* **community_profile_summaries:**
+    * **community_highlight:** The Ban Bor Lo community values the Boa Lao Herb for its natural properties and medicinal benefits. The herb is widely used in traditional medicine to treat various ailments.
+    * **name_etymology:** No herbal-related information found.
+    * **community_environment:** The Ban Bor Lo community is located in a region with a rich biodiversity, providing an ideal environment for the growth of the Boa Lao Herb.
+    * **local_wisdom:** The community has a deep understanding of the herb's properties and uses, passed down through generations.
+    * **community_organizations:** No information found on community organizations related to the Boa Lao Herb.
+* **specific_entities:**
+    * **local_names:**
+        * **Item 1:**
+            * **name:** Boa Lao Herb
+            * **context_quote:** The Boa Lao Herb is a plant with natural value and benefits for use as medicine.
+    * **traditional_uses:**
+        * **Item 1:**
+            * **use:** Used as medicine
+            * **context_quote:** The Boa Lao Herb is a plant with natural value and benefits for use as medicine.
+    * **processing_methods:**
+        * **Item 1:**
+            * **method:** Used as medicine
+            * **description_quote:** The Boa Lao Herb is a plant with natural value and benefits for use as medicine.

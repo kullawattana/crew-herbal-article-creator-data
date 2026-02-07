@@ -1,0 +1,33 @@
+# ===RESEARCH_DATA===
+## Scientific Evidence for: Glycyrrhiza glabra
+* **herb_name:** Glycyrrhiza glabra 
+* **herb_name_scientific:** Glycyrrhiza glabra 
+### Validated Compounds
+* **Compound 1:**
+    * **compound_name:** Isoliquiritigenin 
+    * **mechanism_name:** Anti-inflammatory 
+    * **supporting_studies:**
+        * **Study 1:** (Data from the first item in studies_data)
+            * **study_type:** Journal Article 
+            * **abstract_raw:** Glycyrrhiza polysaccharide-adjuvanted liposomal vaccine potentiates tumor immunotherapy through lymph node-targeted modulation of the DC-T cell axis. 
+            * **key_findings:** NGUP activates dendritic cells through the TLR4/MyD88/TRAF6/NF-κB signaling pathway. NGUPL@OVA demonstrates efficient lymph node targeting capacity, significantly enhancing dendritic cell maturation and antigen cross-presentation, thereby promoting robust CD8+ T cell activation and inducing potent cellular immune responses with long-term immunological memory. In both prophylactic and therapeutic settings, NGUPL@OVA exhibits significant melanoma growth inhibition without observable toxic side effects. 
+            * **pmid:** 41316414 
+            * **canonical_url:** https://doi.org/10.1186/s13046-025-03601-6 
+            * **citation_apa:** Yao, X., Zhang, K., Zhang, X., Lu, S., Hu, J., Wang, Y., Lin, J., Wu, Y., Zhang, W., Chen, H., Liu, X., Wang, B., & Luan, X. (2025). Glycyrrhiza polysaccharide-adjuvanted liposomal vaccine potentiates tumor immunotherapy through lymph node-targeted modulation of the DC-T cell axis. Journal of Experimental & Clinical Cancer Research, 44(1), 1363. https://doi.org/10.1186/s13046-025-03601-6 
+        * **Study 2:** (Data from the second item in studies_data)
+            * **study_type:** Journal Article 
+            * **abstract_raw:** Isoliquiritigenin ameliorates Parkinson's disease via gut microbiota remodeling: potential mediating role of Parabacteroides distasonis. 
+            * **key_findings:** ISL and FMT significantly improved motor deficits and protected dopaminergic neurons in the substantia nigra. ISL treatment compositionally reshaped the gut microbiota by lowering the Firmicutes/Bacteroidota (F/B) ratio and increasing the relative abundance of beneficial bacterial taxa. 
+            * **pmid:** 41316345 
+            * **canonical_url:** https://doi.org/10.1186/s12967-025-07435-w 
+            * **citation_apa:** Li, M., Zhang, X., Lu, J., Xiang, J., Wu, J., Zheng, M., Yang, S., He, L., Shao, X., Li, X., & Xu, Y. (2025). Isoliquiritigenin ameliorates Parkinson's disease via gut microbiota remodeling: potential mediating role of Parabacteroides distasonis. Journal of Translational Medicine, 23(1), 1363. https://doi.org/10.1186/s12967-025-07435-w 
+        * **Study 3:** (Data from the third item in studies_data)
+            * **study_type:** Journal Article 
+            * **abstract_raw:** Research on the Antiaging Activity of Licorice Water Extract in Aging Mice via Antioxidation, Neuronal Protection, Gut Microbiota Restoration, and PI3K/AKT/mTOR Modulation. 
+            * **key_findings:** LW administration significantly improved body weight gain, organ indices, and hippocampal structure in aging mice, increased antioxidant enzyme activity, and decreased the proportion of SA-β-Gal-positive cells. 
+            * **pmid:** 41311553 
+            * **canonical_url:** https://doi.org/10.1155/mi/8844859 
+            * **citation_apa:** Yu, Y., Xue, B., Liu, T., Yue, X., Liu, D., Yu, X., Xu, Y., Zhao, X., Li, X., & Wang, Y. (2025). Research on the Antiaging Activity of Licorice Water Extract in Aging Mice via Antioxidation, Neuronal Protection, Gut Microbiota Restoration, and PI3K/AKT/mTOR Modulation. Mediators of Inflammation, 2025, 8844859. https://doi.org/10.1155/mi/8844859 
+
+### Overall Summary 
+* **summary:** Glycyrrhiza glabra has been shown to have anti-inflammatory, anti-aging, and neuroprotective effects in various studies.

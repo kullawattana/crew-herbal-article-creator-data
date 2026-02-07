@@ -1,0 +1,34 @@
+# ===COMPLIANCE_DATA=== ## Thai FDA Status for: Gardenia jasminoides
+* **herb_name:** Gardenia jasminoides
+### Food Registrations 
+* **Food Registration 1:**
+    * **registration_number:** 15-2-00363-6-0002
+    * **product_name:** พุดซ้อน
+    * **company_name:** บริษัท ยั่งยืนพืชผล จำกัด สาขา 00001
+    * **status:** สถานะผลิตภัณฑ์(คงอยู่)\ สถานะสถานที่ (คงอยู่)
+* **Food Registration 2:**
+    * **registration_number:** 50-2-06554-6-0205
+    * **product_name:** น้ำดื่ม ตรา พุดซ้อน / POODSON DRINKING WATER
+    * **company_name:** บริษัท น้ำใส ใจจริง จำกัด
+    * **status:** สถานะผลิตภัณฑ์(คงอยู่)\ สถานะสถานที่ (คงอยู่)
+* **Food Registration 3:** 
+    * **registration_number:** None found
+    * **product_name:** None found
+    * **company_name:** None found
+    * **status:** None found
+### Cosmetic Registrations 
+* **Cosmetic Registration 1:**
+    * **registration_number:** 10-1-6010056332
+    * **product_name:** ลามิเเน๊ต น้ำมันนวดตัวลามิเเน๊ต พุดซ้อน / LAMENATT LAMENATT MASSAGE OIL Pudson
+    * **company_name:** บริษัท เมดิคอส จำกัด
+    * **status:** คงอยู่
+* **Cosmetic Registration 2:**
+    * **registration_number:** 13-1-6800037307
+    * **product_name:** ไทยเมืองเพียร์ แนชเชอรัล แฮนด์เมด โซป พุดซ้อน / THAI MUANG PEA NATURAL HANDMADE SOAP Pud Sorn
+    * **company_name:** บริษัท สบู่ (ไทยแลนด์) จำกัด
+    * **status:** คงอยู่
+* **Cosmetic Registration 3:** 
+    * **registration_number:** None found
+    * **product_name:** None found
+    * **company_name:** None found
+    * **status:** None found

@@ -1,0 +1,51 @@
+# ===AUDIT_DATA_INTEGRITY_REPORT===
+*   **Collaboration Robustness (Data Loss):** 57%
+*   **Explanation Clarity (Hallucination/Handling):** 82%
+*   **Dropped Entities (Facts in Fact Sheet but not Article):**
+    -   Lab Fact (Chromatography - TLC): Not found in the provided context.
+    -   Lab Fact (Cosmetic or Clinical Effect): Not found in the provided context.
+    -   Lab Fact (Quality Control): Not found in the provided context.
+    -   Science Fact (Compound): Not found in the provided context.
+    -   Compliance Fact (Food Registration 1): registration_number=19-2-03460-6-0136
+    -   Compliance Fact (Food Registration 1): company_name=บริษัท ผักอร่อย ฟาร์ม จำกัด
+    -   Compliance Fact (Food Registration 1): status=สถานะผลิตภัณฑ์(คงอยู่)\ สถานะสถานที่ (คงอยู่)
+    -   Compliance Fact (Food Registration 2): registration_number=40-2-05363-6-0026
+    -   Compliance Fact (Food Registration 2): product_name=น้ำดื่มตรา ดอกแคร์ / DOK CARE DRINKING WATER (Article uses "ดอกแคร()" which is a minor inaccuracy)
+    -   Compliance Fact (Food Registration 2): company_name=บริษัท มหาโชค 888 จำกัด
+    -   Compliance Fact (Food Registration 2): status=สถานะผลิตภัณฑ์(คงอยู่)\ สถานะสถานที่ (คงอยู่)
+    -   Compliance Fact (Food Registration 3): registration_number=82-4-00157-6-0409
+    -   Compliance Fact (Food Registration 3): product_name=ดอกแคปเปอร์ในน้ำเกลือ-มอนเต อาร์เจนโต / FRUTTI DI CAPPERO-MONTE ARGENTO
+    -   Compliance Fact (Food Registration 3): company_name=บริษัท ไซโน ฟูด ไทย จำกัด
+    -   Compliance Fact (Food Registration 3): status=สถานะผลิตภัณฑ์(ยกเลิกเนื่องจากย้ายใบอนุญาต ) \ สถานะสถานที่ (ย้าย 27/5/2557)
+    -   Compliance Fact (Food Registration 4): registration_number=83-4-00136-2-0014
+    -   Compliance Fact (Food Registration 4): product_name=ดอกแคปเปอร์ดอง (ตราเดลิซิ่ง ) / -
+    -   Compliance Fact (Food Registration 4): company_name=บริษัท อินเตอร์มาร์โก จำกัด
+    -   Compliance Fact (Food Registration 4): status=สถานะผลิตภัณฑ์(สิ้นสภาพเนื่องจากใบอนุญาตขาดต่ออายุ 31/12/2559) \ สถานะสถานที่ (ขาดต่ออายุ 31/12/2559)
+    -   Compliance Fact (Food Registration 5): registration_number=10-3-44857-6-0409
+    -   Compliance Fact (Food Registration 5): product_name=ดอกแคปเปอร์ในน้ำเกลือ-มอนเต อาร์เจนโต / FRUTTI DI CAPPERO-MONTE ARGENTO
+    -   Compliance Fact (Food Registration 5): company_name=บริษัท ไซโน ฟูด ไทย จำกัด
+    -   Compliance Fact (Food Registration 5): status=สถานะผลิตภัณฑ์(คงอยู่)\ สถานะสถานที่ (คงอยู่)
+    -   Toxicity Fact (Mechanism): The mechanism of injury for Sesbania grandiflora is not fully understood, but it is thought to involve the accumulation of lead in the plant's tissues, which can lead to oxidative stress and damage to cellular components.
+    -   Toxicity Fact (Case Reports): There are no case reports of Sesbania grandiflora toxicity in humans. However, studies have shown that the plant can tolerate and detoxify lead and other heavy metals, which may have implications for its use in phytoremediation and other applications.
+    -   Culture Fact (Community Highlight - Ban Klang): ...living in the area for over 300 years.
+    -   Culture Fact (Community Highlight - Ban Klang): ...uses various plants and herbs for food, medicine, and other purposes.
+    -   Culture Fact (Environment - Ban Klang): The community is located in a mountainous area with a rich biodiversity of flora and fauna.
+    -   Culture Fact (Environment - Ban Klang): The community has a strong tradition of living in harmony with nature.
+    -   Culture Fact (Local Wisdom - Ban Klang): The community also has a strong tradition of storytelling and passing down knowledge from one generation to the next.
+    -   Culture Fact (Organization - Ban Klang): The community has a number of organizations that work together to promote the well-being of the community, including the village committee, the women's group, and the youth group. These organizations work together to manage the community's resources, provide support to members, and promote the community's cultural heritage.
+    -   Culture Fact (Use - Ban Klang): ...and it is often eaten during the summer months when it is in season.
+    -   Culture Fact (Processing - Ban Klang): Dork Kae can be cooked in a variety of ways, including boiling, steaming, and frying, and it is often served as a side dish or used as an ingredient in traditional dishes.
+    -   Source URL (Trend): Not found in the provided context.
+*   **Hallucinated Entities (Facts in Article but not Fact Sheet):**
+    -   The statement "make it an attractive ingredient for new product development."
+    -   The statement "there is a clear market demand."
+    -   The statement "the strategy will focus on leveraging its cultural and traditional significance."
+    -   The specific recommendation of "proper cultivation, processing, and quality control measures to minimize lead content."
+    -   The statement "The market opportunity for Sesbania grandiflora lies in its traditional use in Thai medicine and its potential health benefits."
+    -   The statement "The technical feasibility of developing a new product is supported by its existing use in food and traditional medicine."
+    -   The specific "strategic recommendation" to develop a new product that leverages the cultural significance and traditional use of Sesbania grandiflora while addressing the safety concerns related to lead exposure.
+    -   The statement "potential to become a valuable ingredient in a variety of products, from food and beverages to herbal remedies" (excluding the derived "phytoremediation applications").
+*   **Feedback:**
+    The audit reveals significant data loss, primarily due to the omission of specific details from compliance facts (registration numbers, company names, full product names, statuses) and several granular cultural and toxicity facts. Additionally, some "Not Found" facts from the Master Fact Sheet (e.g., Lab Facts, Science Fact (Compound), Source URL (Trend)) were not acknowledged as missing in the article, contributing to data loss. The Collaboration Robustness score reflects these numerous omissions and minor inaccuracies.
+
+    Conversely, the Explanation Clarity score is higher because the article generally handles existing facts from the Master Fact Sheet well and explicitly states when certain information (like trend facts, abstract_raw, or general safety/lab facts) is "not found." However, the article introduces several interpretative statements, strategic recommendations, and forward-looking analyses that, while potentially valuable for an article, are not direct facts from the provided Master Fact Sheet and are therefore flagged as hallucinations in this audit.

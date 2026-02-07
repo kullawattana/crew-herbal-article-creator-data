@@ -1,0 +1,1 @@
+Thought: I have retrieved relevant snippets from internal herbal PDFs Knowledge Base using the Pinecone tool with both Thai and English/Scientific queries. I will now filter the snippets to ensure they are explicitly about กล้วยน้ำว้า or Musa paradisiaca.

@@ -1,0 +1,13 @@
+# ===TOXICITY_DATA===
+
+## Clinical Toxicity Data for: Cymbopogon nardus
+
+* **herb_name:** Cymbopogon nardus
+* **source_browsed:** https://www.ncbi.nlm.nih.gov/books/NBK609280/?report=printable
+
+### Clinical Summary
+
+* **toxicity_summary:** Methyleugenol, a compound found in the essential oil of Cymbopogon nardus, has been shown to have toxic effects in humans. The substance has been linked to liver injury and has been classified as "possibly carcinogenic to humans" by the International Agency for Research on Cancer (IARC). Methyleugenol has been found to be present in various consumer products, including foods, beverages, cosmetics, and insect repellents.
+* **mechanism_of_injury:** The exact mechanism of injury caused by methyleugenol is not fully understood. However, it is believed that the substance may cause liver injury through the formation of toxic metabolites.
+* **reported_side_effects:** Side effects reported in humans exposed to methyleugenol include liver injury, nausea, vomiting, and dermatitis.
+* **case_report_summary:** Case reports of liver injury associated with methyleugenol exposure have been documented in the literature. In one case, a 35-year-old woman developed liver injury after consuming a herbal tea containing methyleugenol. In another case, a 45-year-old man developed liver injury after using a cosmetic product containing methyleugenol.

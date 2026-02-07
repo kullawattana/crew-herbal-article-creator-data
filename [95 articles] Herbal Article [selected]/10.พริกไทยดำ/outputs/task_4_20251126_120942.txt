@@ -1,0 +1,29 @@
+# ===COMPLIANCE_DATA===
+## Thai FDA Status for: Black Pepper
+* **herb_name:** Black Pepper
+### Food Registrations
+* **Food Registration 1:**
+    * **registration_number:** 10-1-00856-1-0008
+    * **product_name:** พริกไทยดำป่น (ตรา โฮมเฟรชมาร์ท)
+    * **company_name:** บริษัท จูนำชัย (พริกไทย) จำกัด
+    * **status:** สถานะผลิตภัณฑ์(คงอยู่)\ สถานะสถานที่ (คงอยู่)
+* **Food Registration 2:**
+    * **registration_number:** 10-1-00856-5-0002
+    * **product_name:** พริกไทยดำป่น (ตราบิกส์) / black pepper (Big's)
+    * **company_name:** บริษัท จูนำชัย (พริกไทย) จำกัด
+    * **status:** สถานะผลิตภัณฑ์(คงอยู่)\ สถานะสถานที่ (คงอยู่)
+* **Food Registration 3:**
+    * **registration_number:** 10-1-01047-1-0004
+    * **product_name:** น้ำสลัด พริกไทยดำ
+    * **company_name:** สาริณี บุญชู
+    * **status:** สถานะผลิตภัณฑ์(คงอยู่)\ สถานะสถานที่ (คงอยู่)
+* **Food Registration 4:**
+    * **registration_number:** 10-1-02152-5-0253
+    * **product_name:** พริกไทยดำเม็ด  /  BLACK PEPPER
+    * **company_name:** บริษัท ฟาทิสโก้ จำกัด
+    * **status:** สถานะผลิตภัณฑ์(คงอยู่)\ สถานะสถานที่ (คงอยู่)
+* **Food Registration 5:**
+    * **registration_number:** 10-1-02745-1-0070
+    * **product_name:** พริกไทยดำเม็ด (เครื่องเทศ) (ตราด็อกเตอร์กรีน)
+    * **company_name:** ด็อกเตอร์กรีน
+    * **status:** สถานะผลิตภัณฑ์(คงอยู่)\ สถานะสถานที่ (คงอยู่)

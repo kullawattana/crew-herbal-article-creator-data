@@ -1,0 +1,21 @@
+# ===SAFETY_DATA===
+## International Safety Data for: Mucuna pruriens
+* **herb_name:** Mucuna pruriens
+* **source_browsed:** https://dailymed.nlm.nih.gov/dailymed/drugInfo.cfm?setid=857c3301-6fd1-474e-e053-2991aa0a4f89
+
+### Drug Facts Label
+* **active_ingredients:**
+    * **Ingredient 1:**
+        * **name:** Dolichos pruriens 9C
+        * **strength:** 0.443 mg of the active ingredient per pellet
+        * **purpose:** Not found
+    * (If empty: * None found.)
+* **uses:** Itching worse at night*
+* **warnings:** Stop use and ask a doctor if symptoms persist for more than 3 days or worsen
+* **directions:** Adults and children: At the onset of symptoms, dissolve 5 pellets under the tongue 3 times a day until symptoms are relieved or as directed by a doctor.
+* **other_information:** Do not use if pellet dispenser seal is broken. 
+Contains approx 80 pellets.
+How to dispense pellets? Turn tube upside down. Twist until 5 pellets are dispensed into cap. Carefully remove the cap and use it to pour pellets under the tongue.
+* **inactive_ingredients:** lactose, sucrose
+* **questions:** 1-800-BOIRON-1 (1-800-264-7661),  
+BoironUSA.com  Info@boiron.com

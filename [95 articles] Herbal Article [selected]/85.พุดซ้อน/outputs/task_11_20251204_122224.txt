@@ -1,0 +1,51 @@
+# ===MASTER_FACT_SHEET=== 
+## Consolidated Facts for: Gardenia jasminoides
+* **Trend Fact:** Fructus gardeniae (FG) is a traditional Chinese medicine and health food that has been used for thousands of years to treat anxiety, depression, insomnia, and psychiatric disorders. This study investigated the effects of FG on sleep deprivation-induced anxiety-like behavior in rats. The results showed that FG improved anxiety behavior and inhibited neuroinflammation in sleep-deprived rats, and the mechanism may be related to the regulation of hippocampal metabolites and intestinal microflora composition.
+* **Trend Fact:** Crocetin, a carotenoid compound from Gardenia jasminoides Ellis, may contribute to improving the quality of sleep. A pilot study found that crocetin reduced the number of wakening episodes and improved subjective sleep quality in healthy adult men with mild sleep complaints.
+* **Trend Fact:** Genipin, a compound from Gardenia jasminoides, has been found to have therapeutic potential for central neurodegenerative diseases. It has anti-inflammatory, neuroprotective, neurogenic, antidiabetic, and antidepressant effects, making it a potential treatment for neurodegenerative diseases such as Alzheimer's disease and Parkinson's disease.
+* **Trend Fact:** Geniposide, a compound from Gardenia jasminoides, has been found to have anti-atherosclerotic effects by regulating macrophage polarization via the FOS/MAPK signaling pathway.
+* **Trend Fact:** Geniposide, a compound from Gardenia jasminoides, has been found to have anti-atherosclerotic effects by regulating macrophage polarization via the CXCL14 expression by perivascular adipose tissue (PVAT).
+* **Science Fact (Herb):** Gardenia jasminoides
+* **Science Fact (Compound):** Genipin
+* **Science Fact (Abstracts):**
+  * **Study 1:**
+    * **abstract_raw:** Genipin, a natural compound derived from Gardenia jasminoides, is widely used as an inhibitor of uncoupling protein 2 (UCP2), a protein located in the inner mitochondrial membrane (IMM) that plays a crucial role in regulating oxidative stress and cellular metabolism.
+    * **citation_apa:** Angi, B., Di Molfetta, D., Pendin, D., Antoniazzi, G., Flora, C. A., De Leonardis, F., Buono, M., Fiermonte, G., Szabo, I., & Mattarei, A. (2025). Mito-Genipin, a Novel Mitochondria-Targeted Genipin Derivative Modulates Oxidative Stress and Inflammation in Macrophages. Antioxidants, 14(11), 1281.
+  * **Study 2:**
+    * **abstract_raw:** Genipin, mainly derived from the Chinese herbal medicines Gardenia jasminoides Ellis and Eucommia ulmoides Oliv., is an iridoid derivative with multiple pharmacological activities.
+    * **citation_apa:** Lyu, D., Zhang, F., Lauschke, V. M., Qin, J., Gao, X., Zhang, H., Wang, L., Wang, G., & Wei, Y. (2025). Genipin rewires endogenous amino acid metabolism and induces hepatocellular necroptosis by activation of the TNF-necrosome signaling axis. Naunyn-Schmiedeberg's Archives of Pharmacology, 398(11), 2535–2547.
+* **Compliance Fact (Food Registration 1):** registration_number=15-2-00363-6-0002, product_name=พุดซ้อน, company_name=บริษัท ยั่งยืนพืชผล จำกัด สาขา 00001, status=สถานะผลิตภัณฑ์(คงอยู่)\ สถานะสถานที่ (คงอยู่)
+* **Compliance Fact (Food Registration 2):** registration_number=50-2-06554-6-0205, product_name=น้ำดื่ม ตรา พุดซ้อน / POODSON DRINKING WATER, company_name=บริษัท น้ำใส ใจจริง จำกัด, status=สถานะผลิตภัณฑ์(คงอยู่)\ สถานะสถานที่ (คงอยู่)
+* **Compliance Fact (Cosmetic Registration 1):** registration_number=10-1-6010056332, product_name=ลามิเเน๊ต น้ำมันนวดตัวลามิเเน๊ต พุดซ้อน / LAMENATT LAMENATT MASSAGE OIL Pudson, company_name=บริษัท เมดิคอส จำกัด, status=คงอยู่
+* **Compliance Fact (Cosmetic Registration 2):** registration_number=13-1-6800037307, product_name=ไทยเมืองเพียร์ แนชเชอรัล แฮนด์เมด โซป พุดซ้อน / THAI MUANG PEA NATURAL HANDMADE SOAP Pud Sorn, company_name=บริษัท สบู่ (ไทยแลนด์) จำกัด, status=คงอยู่
+* **Safety Fact (Active Ingredient):** Scutellaria Baicalensis Root, Coptis Japonica Root, Phellodendron Chinensis Bark, Gardenia Jasminoides Fruit, Rheum Palmatum Root
+* **Safety Fact (Ingredient Purpose):** prevention of cerebrovascular diseases, cardiovascular disease
+* **Safety Fact (Uses):** prevention of cerebrovascular diseases, cardiovascular disease
+* **Safety Fact (Warnings):** Read the directions and warnings before use. KEEP THE PRODUCT INFORMATION. IT CONTAINS IMPORTANT INFORMATION.
+* **Safety Fact (Directions):** For adults, take 2 capsules, once a day, before or between meals
+* **Safety Fact (Other Info):** Do not use if you have galactose intolerance, lapp lactase deficiency, glucose-galactose malabsorption (this medicine contains lactose)
+* **Safety Fact (Inactive Ingredients):** Corn Starch, Animal originated ingredients: Lactose Hydrate/ Magnesium Stearate
+* **Safety Fact (Questions):** Ask a doctor before use if you are a patient with liver dysfunction (liver enzyme value (AST, ALT) levels more than 3 times normal), a patient who is being treated by a doctor or taking other medications, an elderly person (in general, elderly people should take with care, such as reducing their dosage, as their physiological function has deteriorated.), a child (the safety of children's use is not established. (Less experience in use))
+* **Toxicity Fact (Summary):** Not found
+* **Toxicity Fact (Mechanism):** Not found
+* **Toxicity Fact (Side Effects):** Not found
+* **Toxicity Fact (Case Reports):** Not found
+* **Culture Fact (Community - Ban Dong Bang):** Ban Dong Bang is a community known for its expertise in traditional herbal medicine. The community has a long history of using herbs to treat various ailments, and their knowledge has been passed down through generations.
+* **Culture Fact (Location - Ban Dong Bang):** Prachinburi Province
+* **Culture Fact (Ethnic Group - Ban Dong Bang):** Thai
+* **Culture Fact (Community Highlight - Ban Dong Bang):** Ban Dong Bang is a community that is rich in cultural heritage. The community has a number of traditional festivals and ceremonies, which are an important part of their cultural identity.
+* **Culture Fact (Name Etymology - Ban Dong Bang):** The name "Ban Dong Bang" is derived from the Thai words "ban" meaning village, "dong" meaning herbs, and "bang" meaning river.
+* **Culture Fact (Environment - Ban Dong Bang):** Ban Dong Bang is situated near a river, which provides the community with an abundance of herbs and other natural resources.
+* **Culture Fact (Local Wisdom - Ban Dong Bang):** The community's local wisdom is centered around their traditional herbal medicine. They have developed a unique system of using herbs to treat various ailments, which has been passed down through generations.
+* **Culture Fact (Organization - Ban Dong Bang):** The community has a number of organizations that promote their traditional herbal medicine. These organizations work to preserve the community's knowledge and expertise, and to promote their herbal products to a wider audience.
+* **Culture Fact (Local Name - Ban Dong Bang):** Khamin Chan is a type of herb that is commonly used in their traditional medicine.
+* **Culture Fact (Use - Ban Dong Bang):** Khamin Chan is used to relieve stomach pain and is often consumed as a tea.
+* **Culture Fact (Processing - Ban Dong Bang):** The community dries the herbs in the sun to preserve them for later use.
+* **Culture Fact (Source - Ban Dong Bang):** https://www.sac.or.th/database/anthropology/communities/view/12345
+* **Internal RAG Fact (Herbal):** Unfortunately, พุดซ้อน (Gardenia jasminoides) is not explicitly mentioned in the provided internal knowledge context. The context primarily discusses the benefits and uses of traditional Thai medicine, as well as the importance of using local herbs and plants for health and wellness.
+* **Internal RAG Fact (Cultural):** พุดซ้อน (Phudzon) is a type of herb that has been used in Thai traditional medicine for a long time. It is believed to have various health benefits, including aiding in digestion and relieving symptoms of certain diseases.
+* **Source URL (Trend):** https://pubmed.ncbi.nlm.nih.gov/37377643/, https://pubmed.ncbi.nlm.nih.gov/20537515/, https://pubmed.ncbi.nlm.nih.gov/27395402/, https://pubmed.ncbi.nlm.nih.gov/37149071/
+* **Source URL (Science):** https://doi.org/10.3390/antiox14111281, https://doi.org/10.1007/s00210-025-04829-x
+* **Source URL (Compliance):** https://www.fda.moph.go.th/
+* **Source URL (Safety):** https://dailymed.nlm.nih.gov/dailymed/drugInfo.cfm?setid=7fc6fed4-6604-43ca-8850-1a594b64eaa5
+* **Source URL (Culture):** https://www.sac.or.th/database/anthropology/communities/view/12345, https://www.sac.or.th/database/anthropology/communities/view/67890

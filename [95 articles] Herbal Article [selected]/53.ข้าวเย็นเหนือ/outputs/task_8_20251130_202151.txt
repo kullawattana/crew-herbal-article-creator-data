@@ -1,0 +1,26 @@
+# ===CULTURE_DATA=== ## Cultural Context for: Sakai (ซาไก)
+### Finding 1 
+* **source_url:** https://db.sac.or.th/thailand-cultural-encyclopedia/list.php?page=211
+* **community_context:**
+    * **community_name:** Sakai
+    * **location:** Trang, Phatthalung, Satun, Yala, and Narathiwat Provinces
+    * **ethnic_group:** Mani, Manik, Orang Asli, Asli, Jahai
+* **community_profile_summaries:**
+    * **community_highlight:** The Sakai people are a minority group living in the southern part of Thailand, scattered in small groups in the dense forests and mountainous areas of Trang, Phatthalung, Satun, Yala, and Narathiwat provinces. They have a unique way of life, including their food gathering methods, shelter construction, beliefs, and rituals. However, some Sakai groups have started to settle down and intermarry with locals, leading to an increase in mixed Sakai descendants. Despite adapting to urban culture, some Sakai groups still face challenges in adjusting to certain aspects of city life.
+    * **name_etymology:** The name "Sakai" is derived from the Malay word "sakai," meaning "forest dweller" or "aboriginal people."
+    * **community_environment:** The Sakai people live in the dense forests and mountainous areas of southern Thailand, where they have developed a unique relationship with nature. However, their way of life is threatened by the destruction of their natural habitat and the exploitation of their resources by outsiders.
+    * **local_wisdom:** The Sakai people have a rich cultural heritage, including their traditional knowledge of forest products, hunting methods, and spiritual practices. However, their lack of formal education and the disregard for their rights by outsiders have made them vulnerable to exploitation.
+    * **community_organizations:** There are no specific community organizations mentioned in the text.
+* **specific_entities:**
+    * **local_names:**
+        * **Item 1:**
+            * **name:** Sakai
+            * **context_quote:** The Sakai people are a minority group living in the southern part of Thailand, scattered in small groups in the dense forests and mountainous areas of Trang, Phatthalung, Satun, Yala, and Narathiwat provinces.
+    * **traditional_uses:**
+        * **Item 1:**
+            * **use:** Food gathering
+            * **context_quote:** The Sakai people do not practice agriculture, but instead gather food from nature, eating only what they need and not storing food for later.
+    * **processing_methods:**
+        * **Item 1:**
+            * **method:** Hunting
+            * **description_quote:** The Sakai people hunt animals one at a time, as their tools are not suitable for large-scale hunting, and they do not know how to preserve food.

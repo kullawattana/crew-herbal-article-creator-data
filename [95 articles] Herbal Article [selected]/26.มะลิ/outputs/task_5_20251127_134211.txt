@@ -1,0 +1,17 @@
+# ===SAFETY_DATA=== 
+## International Safety Data for: Jasminum sambac
+* **herb_name:** Jasminum sambac
+* **source_browsed:** https://dailymed.nlm.nih.gov/dailymed/drugInfo.cfm?setid=bb9dd9a9-ec01-4e94-9172-3a72e68a417a&version=2#!/labelinfo.cfm?setid=bb9dd9a9-ec01-4e94-9172-3a72e68a417a&version=2
+### Drug Facts Label
+* **active_ingredients:**
+    * **Ingredient 1:**
+        * **name:** Zinc Oxide
+        * **strength:** 15.8%
+        * **purpose:** Sunscreen
+    * (If empty: * None found.)
+* **uses:** Helps prevent sunburn. If used as directed with other sun protection measures (See Directions), decreases the risk of skin cancer and early skin aging cause by the sun.
+* **warnings:** For external use only. Do not use on damaged or broken skin. When using this product keep out of eyes. Rinse with water to remove. Stop use and ask doctor if skin rash occurs. Keep out of reach of children. If product is swallowed, get medical help or contact a Poison Control Center right away.
+* **directions:** Apply daily to cleansed skin, 15 minutes before sun exposure. Dispense into palm of hand and apply evenly across face and neck using upward strokes.
+* **other_information:** Protect this product from excessive heat and direct sun.
+* **inactive_ingredients:** Water, Caprylic/Capric Triglyceride, Dimethicone, Polyhydroxystearic Acid, Aloe Barbadensis Leaf Juice Powder, Jasminum Sambac (Jasmine) Leaf Cell Extract, Theobroma Cacao (Cocoa) Seed Extract, Schinus Molle Extract, Niacinamide, Hydroxyethyl Acrylate/Sodium Acryloyldimethyl Taurate Copolymer, Propanediol, Butylene Glycol, Polyisobutene, Methylpropanediol, Cetearyl Alcohol, Glyceryl Stearate Citrate, PEG-7 Trimethylolpropane Coconut Ether, Caprylyl Glycol, Sorbitan Isostearate, Polyquaternium-80, Glyceryl Caprylate, Didecyldimonium Chloride.
+* **questions:** Questions or comments? Call 760-940-2125

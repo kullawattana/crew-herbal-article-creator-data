@@ -1,0 +1,3 @@
+Thought: I have browsed the page and filtered the content to find the relevant paragraphs that mention Ginger.
+
+Action: None

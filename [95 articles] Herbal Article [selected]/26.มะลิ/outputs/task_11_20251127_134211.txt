@@ -1,0 +1,58 @@
+# ===MASTER_FACT_SHEET=== 
+## Consolidated Facts for: Jasminum sambac
+* **Trend Fact:** Not found
+* **Lab Fact (Experimental Method):** Not found
+* **Lab Fact (Extraction Method):** Not found
+* **Lab Fact (Compound Identified):** Not found
+* **Lab Fact (Chromatography - TLC):** Not found
+* **Lab Fact (Pharmacological Finding):** Not found
+* **Lab Fact (Cosmetic or Clinical Effect):** Not found
+* **Lab Fact (Quality Control):** Not found
+* **Science Fact (Herb):** Jasminum sambac
+* **Science Fact (Compound):** Linalool
+* **Science Fact (Abstracts):**
+  * **Study 1:**
+    * **abstract_raw:** The effects of Arabian jasmine on zebrafish behavior depends on strain, sex, and personality.
+    * **citation_apa:** Atiratana, T., Goldson, A. R., Samosorn, S., Rajput, N., Praphairaksit, N., & Kenney, J. W. (2025). The effects of Arabian jasmine on zebrafish behavior depends on strain, sex, and personality. PLOS ONE, 20(9), e0332642.
+* **Compliance Fact (Food Registration 1):** registration_number=10-1-02963-5-0247, product_name=น้ำดื่มตรา มะลิวรรณ์ สาย3 / Maliwan Sai 3 Drinking Water, company_name=บริษัท ไวท์ ปาร์ตี้ พลัส จำกัด, status=สถานะผลิตภัณฑ์(คงอยู่)\ สถานะสถานที่ (คงอยู่)
+* **Compliance Fact (Food Registration 2):** registration_number=10-1-03051-5-0019, product_name=ขนมบุปผา (มะลิ) / Blooms Thai Shortbread Cookies (Jasmine), company_name=กลุ่มอาชีพหมู่ 5 กระทุ่มราย, status=สถานะผลิตภัณฑ์(คงอยู่)\ สถานะสถานที่ (คงอยู่)
+* **Compliance Fact (Food Registration 3):** registration_number=10-1-03644-1-0097, product_name=ช็อกโก้ คริสปี้ เบรกฟาสต์ จัสมินไรซ์ ซีเรียล ช็อกโกแลต เฟลเวอร์ (อาหารเช้า ธัญพืชจากข้าวกล้องหอม มะลิ ช็อกโกแลต)(ตรา ลูนนี่ย์ตูน) / CHOCO KRISPY BREAKFAST JASMINE RICE CEREAL CHOCOLATE FLAVOR (LOONEY TUNES BRAND), company_name=บริษัท ไทยวิคเตอร์ฟู้ด จำกัด, status=สถานะผลิตภัณฑ์(คงอยู่)\ สถานะสถานที่ (คงอยู่)
+* **Compliance Fact (Food Registration 4):** registration_number=10-1-03644-1-0103, product_name=อาหารเช้าซีเรียลจากข้าวกล้องหอม มะลิ รส โกโก้ (ตรา ช็อกโก้บูม), company_name=บริษัท ไทยวิคเตอร์ฟู้ด จำกัด, status=สถานะผลิตภัณฑ์(คงอยู่)\ สถานะสถานที่ (คงอยู่)
+* **Compliance Fact (Food Registration 5):** registration_number=10-1-03644-1-0104, product_name=อาหารเช้าซีเรียลจากข้าวกล้องหอม มะลิ รส สตรอเบอร์รี่ (ตรา พิ้งกี้บูม), company_name=บริษัท ไทยวิคเตอร์ฟู้ด จำกัด, status=สถานะผลิตภัณฑ์(คงอยู่)\ สถานะสถานที่ (คงอยู่)
+* **Compliance Fact (Food Registration 6):** registration_number=10-1-03644-1-0105, product_name=อาหารเช้าซีเรียลจากข้าวกล้องหอม มะลิ รส น้ำผึ้ง(ตรา ฮันนี่บูม), company_name=บริษัท ไทยวิคเตอร์ฟู้ด จำกัด, status=สถานะผลิตภัณฑ์(คงอยู่)\ สถานะสถานที่ (คงอยู่)
+* **Compliance Fact (Food Registration 7):** registration_number=10-1-04741-1-0936, product_name=โฮล หอม-มะลิ ไรซ์ พาวเดอร์ ดริ๊งค์ (เครื่องดื่มข้าวกล้องหอมมะลิชนิดผง) (เครื่องหมายการค้า อัลฟาเมตะ) / WHOLE HOM-MALI RICE POWDER DRINK (BROWN JASMINE RICE POWDER DRINK) (ALPHAMETA (TM)), company_name=บริษัท โควิก เคทท์ อินเตอร์เนชั่นแนล (ประเทศไทย) จำกัด, status=สถานะผลิตภัณฑ์(คงอยู่)\ สถานะสถานที่ (คงอยู่)
+* **Compliance Fact (Food Registration 8):** registration_number=10-1-06754-5-1035, product_name=เค้กนม ตรา โบว์ มะลิ / Milky Cake, company_name=บริษัท โบว์เบเกอรี่เฮ้าส์ จำกัด, status=สถานะผลิตภัณฑ์(คงอยู่)\ สถานะสถานที่ (คงอยู่)
+* **Compliance Fact (Food Registration 9):** registration_number=10-1-08064-5-0035, product_name=ชาจากพืช ทาร์ตเชอร์รี่ สตรอว์เบอร์รี่ เอลเดอร์เบอร์รี่ ราสป์เบอร์รี่ คาโมมายล์ ดอกคำฝอย ใบหม่อน มะลิ ชาอู่หลง (ตราชารมย์-ดี) / TART CHERRY, STRAWBERRY, ELDERBERRY, RASPBERRY, CHAMOMILE, SAFFLOWER, MULBERRY, JASMINE, OOLONG TEA INFUSION TEA (CHAROM-D BRAND), company_name=บริษัท จมิรา จำกัด, status=สถานะผลิตภัณฑ์(ยกเลิกโดยผู้ประกอบการ 19/4/2565) \ สถานะสถานที่ (คงอยู่ )
+* **Compliance Fact (Food Registration 10):** registration_number=10-1-11652-5-0057, product_name=ชาดอกไม้รวมแพ็ค 4 ชนิด​ (กุหลาบ ลาเวนเดอร์ มะลิ คาโมมายล์) (ตราอิ่มเอิบ) / Four Assorted Flower Teas (Rose Lavender Jasmine Chamomile) (Im-Erb Brand), company_name=บริษัท ชีวารมณ์ จำกัด, status=สถานะผลิตภัณฑ์(คงอยู่)\ สถานะสถานที่ (คงอยู่)
+* **Safety Fact (Active Ingredient):** Zinc Oxide
+* **Safety Fact (Ingredient Purpose):** Sunscreen
+* **Safety Fact (Uses):** Helps prevent sunburn. If used as directed with other sun protection measures (See Directions), decreases the risk of skin cancer and early skin aging cause by the sun.
+* **Safety Fact (Warnings):** For external use only. Do not use on damaged or broken skin. When using this product keep out of eyes. Rinse with water to remove. Stop use and ask doctor if skin rash occurs. Keep out of reach of children. If product is swallowed, get medical help or contact a Poison Control Center right away.
+* **Safety Fact (Directions):** Apply daily to cleansed skin, 15 minutes before sun exposure. Dispense into palm of hand and apply evenly across face and neck using upward strokes.
+* **Safety Fact (Other Info):** Protect this product from excessive heat and direct sun.
+* **Safety Fact (Inactive Ingredients):** Water, Caprylic/Capric Triglyceride, Dimethicone, Polyhydroxystearic Acid, Aloe Barbadensis Leaf Juice Powder, Jasminum Sambac (Jasmine) Leaf Cell Extract, Theobroma Cacao (Cocoa) Seed Extract, Schinus Molle Extract, Niacinamide, Hydroxyethyl Acrylate/Sodium Acryloyldimethyl Taurate Copolymer, Propanediol, Butylene Glycol, Polyisobutene, Methylpropanediol, Cetearyl Alcohol, Glyceryl Stearate Citrate, PEG-7 Trimethylolpropane Coconut Ether, Caprylyl Glycol, Sorbitan Isostearate, Polyquaternium-80, Glyceryl Caprylate, Didecyldimonium Chloride.
+* **Safety Fact (Questions):** Questions or comments? Call 760-940-2125
+* **Toxicity Fact (Summary):** Jasmine (Jasminum spp.) flowers contain a variety of chemicals, although none have been identified with specific pharmacologic activity. In India (ayurvedic medicine), jasmine has been used to suppress lactation, and one published study found that jasmine leaves applied to the breasts suppressed postpartum lactation as effectively as oral bromocriptine. However, the study was not of high quality. No data exist on the excretion of any components of jasmine into breastmilk or on the safety and efficacy of jasmine in nursing mothers or infants. Jasmine is "generally recognized as safe" (GRAS) as a food ingredient by the U.S. Food and Drug Administration. Occasional allergic reactions to jasmine have been reported. It is unlikely typical jasmine intake, such as drinking small amounts of jasmine tea, would be harmful during nursing.
+* **Toxicity Fact (Mechanism):** Not found
+* **Toxicity Fact (Side Effects):** Not found
+* **Toxicity Fact (Case Reports):** A nonrandomized, unblinded study compared the daily topical application of jasmine (Jasminum sambac) flowers to the breasts to oral bromocriptine 2.5 mg three times a day to suppress lactation in postpartum women in India. At the end of 72 hours, almost all women in both groups had their lactation suppressed, although the women in the bromocriptine group had lower serum prolactin levels than those in the jasmine group.
+* **Culture Fact (Community - Malisamphan Community):** Malisamphan Community
+* **Culture Fact (Location - Malisamphan Community):** Yala Province
+* **Culture Fact (Ethnic Group - Malisamphan Community):** Malay
+* **Culture Fact (Community Highlight - Malisamphan Community):** The Malisamphan Community is known for its strong cultural heritage, particularly in the preservation of traditional Malay customs and practices. The community's name is derived from the jasmine flower, which was once abundant in the area. Today, the community continues to thrive, with many of its members actively involved in promoting and preserving their cultural identity.
+* **Culture Fact (Name Etymology - Malisamphan Community):** The name "Malisamphan" is derived from the Thai word "มะลิ" (jasmine) and "สัมพันธ์" (relation or connection). The name reflects the community's historical connection to the jasmine flower, which was once a significant part of the area's landscape.
+* **Culture Fact (Environment - Malisamphan Community):** The Malisamphan Community is located in the heart of Yala Province, surrounded by lush green forests and rolling hills. The community's proximity to nature has played a significant role in shaping its cultural practices and traditions.
+* **Culture Fact (Local Wisdom - Malisamphan Community):** The community places great emphasis on preserving traditional Malay customs and practices, particularly during special occasions such as the Songkran water festival. During this time, community members come together to participate in traditional activities, such as pouring water on elders and seeking blessings.
+* **Culture Fact (Organization - Malisamphan Community):** The community has several organizations that work together to promote and preserve its cultural heritage. These organizations include cultural groups, traditional dance troupes, and community centers that offer classes and workshops on traditional Malay arts and crafts.
+* **Culture Fact (Local Name - Malisamphan Community):** Malisamphan
+* **Culture Fact (Use - Malisamphan Community):** Songkran water festival
+* **Culture Fact (Processing - Malisamphan Community):** Azurao preparation
+* **Culture Fact (Source - Malisamphan Community):** https://wikicommunity.sac.or.th/community/703
+* **Internal RAG Fact (Herbal):** The internal knowledge context does not explicitly mention มะลิ (Jasminum sambac). However, it discusses the benefits and uses of traditional Thai medicine, which may include various herbs and plants. The context highlights the importance of using natural and locally available resources for health and wellness, as well as the potential for cost savings by using traditional medicine instead of imported pharmaceuticals. Additionally, the context touches on the idea of self-sufficiency and growing one's own food and herbs to maintain good health. While มะลิ (Jasminum sambac) is not specifically mentioned, the context provides insight into the broader context of traditional Thai medicine and its potential applications.
+* **Internal RAG Fact (Cultural):** Jasminum sambac, or มะลิ in Thai, has been used for healing in Thai wisdom for a long time. It is believed to have various health benefits, including aiding digestion and relieving symptoms of certain illnesses. In traditional Thai medicine, มะลิ is used to make herbal remedies, such as teas and infusions, which are consumed to promote overall health and well-being. Additionally, มะลิ is used in Thai cooking, particularly in desserts and beverages, where its fragrance and flavor are highly valued. The herb is also used in traditional Thai ceremonies and rituals, where its fragrance is believed to have spiritual significance. Overall, มะลิ is a highly revered herb in Thai culture, not only for its medicinal properties but also for its cultural and spiritual significance.
+* **Source URL (Trend):** Not found
+* **Source URL (Science):** https://doi.org/10.1371/journal.pone.0332642
+* **Source URL (Compliance):** https://www.fda.moph.go.th/
+* **Source URL (Safety):** https://dailymed.nlm.nih.gov/dailymed/drugInfo.cfm?setid=bb9dd9a9-ec01-4e94-9172-3a72e68a417a&version=2#!/labelinfo.cfm?setid=bb9dd9a9-ec01-4e94-9172-3a72e68a417a&version=2
+* **Source URL (Toxicity):** https://www.ncbi.nlm.nih.gov/books/NBK501843/
+* **Source URL (Culture):** https://wikicommunity.sac.or.th/community/703

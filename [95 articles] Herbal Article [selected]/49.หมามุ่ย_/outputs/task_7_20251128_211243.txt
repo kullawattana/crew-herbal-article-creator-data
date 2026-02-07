@@ -1,0 +1,65 @@
+# ===RAW_THAI_DATA===
+## ข้อมูลวัฒนธรรมดิบสำหรับ: หมามุ่ย
+
+### การค้นหา 1
+* **source_url:** https://db.sac.or.th/thailand-cultural-encyclopedia/region.php?region=1&char=%E0%B8%AB&page=14
+* **community_context:**
+	+ **community_name:** หมู่บ้านเหนือ
+	+ **location:** จังหวัดอุบลราชธานี
+	+ **ethnic_group:** ไทย
+* **full_thai_narrative_context:** หมามุ่ยเป็นพืชที่มีสรรพคุณเป็นยา ใช้บริเวณลำต้น กิ่ง มาต้มหรือนำไปตากแห้งและนำไปดื่ม
+* **specific_entities:**
+	+ **local_names:**
+		- **Item 1:**
+			- **name:** หมามุ่ย
+			- **context_quote:** หมามุ่ยเป็นพืชที่มีสรรพคุณเป็นยา
+	+ **traditional_uses:**
+		- **Item 1:**
+			- **use:** ใช้บริเวณลำต้น กิ่ง มาต้มหรือนำไปตากแห้งและนำไปดื่ม
+			- **context_quote:** ใช้บริเวณลำต้น กิ่ง มาต้มหรือนำไปตากแห้งและนำไปดื่ม
+	+ **processing_methods:**
+		- **Item 1:**
+			- **method:** ต้มหรือนำไปตากแห้ง
+			- **description_quote:** ต้มหรือนำไปตากแห้ง
+
+### การค้นหา 2
+* **source_url:** https://wikicommunity.sac.or.th/community/2900
+* **community_context:**
+	+ **community_name:** บ้านตำแย
+	+ **location:** จังหวัดอุบลราชธานี
+	+ **ethnic_group:** ไทย
+* **full_thai_narrative_context:** บ้านตำแยเป็นหมู่บ้านที่มีเกษตรกรรมเป็นอาชีพหลักหล่อเลี้ยงชีวิตและครอบครัว
+* **specific_entities:**
+	+ **local_names:**
+		- **Item 1:**
+			- **name:** บ้านตำแย
+			- **context_quote:** บ้านตำแยเป็นหมู่บ้านที่มีเกษตรกรรมเป็นอาชีพหลักหล่อเลี้ยงชีวิตและครอบครัว
+	+ **traditional_uses:**
+		- **Item 1:**
+			- **use:** เกษตรกรรม
+			- **context_quote:** เกษตรกรรมเป็นอาชีพหลักหล่อเลี้ยงชีวิตและครอบครัว
+	+ **processing_methods:**
+		- **Item 1:**
+			- **method:** เกษตรกรรม
+			- **description_quote:** เกษตรกรรมเป็นอาชีพหลักหล่อเลี้ยงชีวิตและครอบครัว
+
+### การค้นหา 3
+* **source_url:** https://wikicommunity.sac.or.th/community/1909
+* **community_context:**
+	+ **community_name:** บ้านวังคัน
+	+ **location:** จังหวัดแม่ฮ่องสอน
+	+ **ethnic_group:** ไทย
+* **full_thai_narrative_context:** บ้านวังคันเป็นหมู่บ้านเล็ก ๆ ที่มีเกษตรกรรมเป็นอาชีพหลักหล่อเลี้ยงชีวิตและครอบครัว
+* **specific_entities:**
+	+ **local_names:**
+		- **Item 1:**
+			- **name:** บ้านวังคัน
+			- **context_quote:** บ้านวังคันเป็นหมู่บ้านเล็ก ๆ ที่มีเกษตรกรรมเป็นอาชีพหลักหล่อเลี้ยงชีวิตและครอบครัว
+	+ **traditional_uses:**
+		- **Item 1:**
+			- **use:** เกษตรกรรม
+			- **context_quote:** เกษตรกรรมเป็นอาชีพหลักหล่อเลี้ยงชีวิตและครอบครัว
+	+ **processing_methods:**
+		- **Item 1:**
+			- **method:** เกษตรกรรม
+			- **description_quote:** เกษตรกรรมเป็นอาชีพหลักหล่อเลี้ยงชีวิตและครอบครัว

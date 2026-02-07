@@ -1,0 +1,80 @@
+# ===CULTURE_DATA=== 
+## Cultural Context for: Namjoung Village (บ้านน้ำจวง)
+
+### Finding 1 
+* **source_url:** https://wikicommunity.sac.or.th/community/2424 
+* **community_context:** 
+    * **community_name:** Ban Namjoung 
+    * **location:** Phitsanulok 
+    * **ethnic_group:** Hmong 
+* **community_profile_summaries:** 
+    * **community_highlight:** The community of Ban Namjoung is known for its herbal wisdom, particularly in the use of ginger and other herbs for medicinal purposes. The villagers sell these herbs to middlemen who then export them to other countries. In addition, the community grows various vegetables for consumption, including Chinese kale, bok choy, and dragon's breath, which is rich in antioxidants and has anti-cancer properties. 
+    * **name_etymology:** No herbal-related information found. 
+    * **community_environment:** The community is located in a mountainous area, and the villagers have adapted to the environment by growing crops that are suitable for the high altitude. 
+    * **local_wisdom:** The community has a strong tradition of using herbal medicine, with many villagers knowledgeable about the properties and uses of various herbs. 
+    * **community_organizations:** No herbal-related information found. 
+* **specific_entities:** 
+    * **local_names:** 
+        * **Item 1:** 
+            * **name:** Wan Chak Mod Look (ว่านชักมดลูก) 
+            * **context_quote:** The villagers grow various herbs, including Wan Chak Mod Look, which is used for medicinal purposes. 
+    * **traditional_uses:** 
+        * **Item 1:** 
+            * **use:** Herbal medicine 
+            * **context_quote:** The villagers use various herbs, including Wan Chak Mod Look, to treat ailments and promote health. 
+    * **processing_methods:** 
+        * **Item 1:** 
+            * **method:** Drying 
+            * **description_quote:** The villagers dry the herbs to preserve them for later use. 
+
+### Finding 2 
+* **source_url:** https://wikicommunity.sac.or.th/community/1774 
+* **community_context:** 
+    * **community_name:** Bang Phli Old Market 
+    * **location:** Samut Prakan 
+    * **ethnic_group:** Thai-Chinese 
+* **community_profile_summaries:** 
+    * **community_highlight:** The community of Bang Phli Old Market is known for its traditional herbal shops, which sell a variety of herbs and medicinal plants. 
+    * **name_etymology:** No herbal-related information found. 
+    * **community_environment:** The community is located in a urban area, and the villagers have adapted to the environment by selling herbs and medicinal plants to locals and tourists. 
+    * **local_wisdom:** The community has a strong tradition of using herbal medicine, with many villagers knowledgeable about the properties and uses of various herbs. 
+    * **community_organizations:** No herbal-related information found. 
+* **specific_entities:** 
+    * **local_names:** 
+        * **Item 1:** 
+            * **name:** Wan Chak Mod Look (ว่านชักมดลูก) 
+            * **context_quote:** The villagers sell various herbs, including Wan Chak Mod Look, which is used for medicinal purposes. 
+    * **traditional_uses:** 
+        * **Item 1:** 
+            * **use:** Herbal medicine 
+            * **context_quote:** The villagers use various herbs, including Wan Chak Mod Look, to treat ailments and promote health. 
+    * **processing_methods:** 
+        * **Item 1:** 
+            * **method:** Packaging 
+            * **description_quote:** The villagers package the herbs in various forms, including dried and fresh, for sale to locals and tourists. 
+
+### Finding 3 
+* **source_url:** https://wikicommunity.sac.or.th/community/276 
+* **community_context:** 
+    * **community_name:** Bang Phli Old Market 
+    * **location:** Samut Prakan 
+    * **ethnic_group:** Thai-Chinese 
+* **community_profile_summaries:** 
+    * **community_highlight:** The community of Bang Phli Old Market is known for its traditional herbal shops, which sell a variety of herbs and medicinal plants. 
+    * **name_etymology:** No herbal-related information found. 
+    * **community_environment:** The community is located in a urban area, and the villagers have adapted to the environment by selling herbs and medicinal plants to locals and tourists. 
+    * **local_wisdom:** The community has a strong tradition of using herbal medicine, with many villagers knowledgeable about the properties and uses of various herbs. 
+    * **community_organizations:** No herbal-related information found. 
+* **specific_entities:** 
+    * **local_names:** 
+        * **Item 1:** 
+            * **name:** Wan Chak Mod Look (ว่านชักมดลูก) 
+            * **context_quote:** The villagers sell various herbs, including Wan Chak Mod Look, which is used for medicinal purposes. 
+    * **traditional_uses:** 
+        * **Item 1:** 
+            * **use:** Herbal medicine 
+            * **context_quote:** The villagers use various herbs, including Wan Chak Mod Look, to treat ailments and promote health. 
+    * **processing_methods:** 
+        * **Item 1:** 
+            * **method:** Packaging 
+            * **description_quote:** The villagers package the herbs in various forms, including dried and fresh, for sale to locals and tourists.

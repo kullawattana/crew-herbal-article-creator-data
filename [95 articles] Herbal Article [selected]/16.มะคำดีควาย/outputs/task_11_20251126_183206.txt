@@ -1,0 +1,75 @@
+# ===MASTER_FACT_SHEET=== 
+## Consolidated Facts for: Sapindus rarak
+* **Trend Fact:** Soap Nut, also known as Reetha, is a natural and effective surfactant that has been used for centuries in Ayurvedic medicine. It has various benefits, including being hypoallergenic and safe for sensitive skin, and can be used as a natural detergent. Soap Nut has also been used to treat various health issues, such as acne, dandruff, hair breakage, and hair thinning. 
+* **Trend Fact:** Soap Nut is a natural and effective way to clean and wash hair and skin. It has been used for centuries in Ayurvedic medicine and has various benefits, including promoting hair growth, improving hair thickness, and preventing hair fall. Soap Nut is also used to treat various health issues, such as acne, dandruff, and hair breakage. 
+* **Trend Fact:** Soap Nut is a natural and effective way to clean and wash hair and skin. It has been used for centuries in Ayurvedic medicine and has various benefits, including promoting hair growth, improving hair thickness, and preventing hair fall. Soap Nut is also used to treat various health issues, such as acne, dandruff, and hair breakage. 
+* **Lab Fact (Experimental Method):** Not found
+* **Lab Fact (Extraction Method):** Not found
+* **Lab Fact (Compound Identified):** Saponin
+* **Lab Fact (Chromatography - TLC):** Not found
+* **Lab Fact (Pharmacological Finding):** Not found
+* **Lab Fact (Cosmetic or Clinical Effect):** Not found
+* **Lab Fact (Quality Control):** Not found
+* **Science Fact (Herb):** Sapindus rarak
+* **Science Fact (Compound):** Saponin
+* **Science Fact (Abstracts):**
+  * **Study 1:**
+    * **abstract_raw:** High-purity CaO cubic crystallites extracted from limestone exhibited excellent activity as base catalysts for waste cooking oil (WCO) conversion into biodiesel. Saponin from Sapindus rarak extract acted as a surfactant in CaO extraction and transformation into well-defined cubic microcrystallites. The application of saponin from Sapindus rarak extract as a surfactant for CaO production results in a high level of CaO purity and particle size reduction compared to directly calcined limestone (CaO-MgO). The catalytic activity was evaluated on CaO from hydrothermal and co-precipitation synthesis, MgO and CaO-MgO derived from limestone, giving hydrothermal CaO catalysts enhanced biodiesel yield. Optimization of transesterification conditions using Box Behnken Design response surface methodology achieved 92.40% biodiesel yield at 65 degrees C, 3 h reaction time and when using 5% of CaO catalysts.
+    * **citation_apa:** (Widiarti et al., 2024)
+  * **Study 2:**
+    * **abstract_raw:** Saponin is a plant-derived chemical with an amphiphilic glycoconjugate structure extracted from sapindaceae plants like Sapindus rarak. This study investigated saponin extract of Sapindus rarak as a natural template for formation of mesoporous zeolite Y. Surface area and mesoporosity of zeolite Y were improved with optimization of Sapindus rarak extract (SRE) concentration (Y-Ln; n = 2, 5, 10 or 15 mL), reaching 216.26 m(2) mesoporous area and 0.214 cm(3) g(-1) mesoporous volume for Y-L10 samples. A different loading of Ni was impregnated onto Y-L10 zeolite to improve Lewis/Bronsted acidity as catalysts in the deoxygenation of Reutealis trisperma oil (RTO) into hydrocarbon fuels. Impregnating 15% Ni on NaY zeolite enhanced Lewis acidity to 0.4556 mmol g(-1), producing 48.8% liquid oil with 85.43% degree of deoxygenation. A high selectivity towards C15 and C17 hydrocarbon was analyzed from liquid yield, indicating the contributing factor from Lewis acidity and mesoporosity to enhance deoxygenation and prevent the hydrocracking reaction.
+    * **citation_apa:** (Aziz et al., 2023)
+* **Compliance Fact (Food Registration 1):** None found
+* **Compliance Fact (Food Registration 2):** None found
+* **Compliance Fact (Safety Dosage):** Not found
+* **Compliance Fact (Safety Warning):** None found
+* **Safety Fact (Active Ingredient):** OXYBENZONE, OCTINOXATE, OCTISALATE, AVOBENZONE
+* **Safety Fact (Ingredient Purpose):** Sunscreen
+* **Safety Fact (Uses):** helps prevent sunburn, if used as directed with other sun protection measures (see Directions), decreases the risk of skin cancer and skin aging caused by the sun
+* **Safety Fact (Warnings):** For external use only, Do not use on damaged broken skin, When using this product keep out of eyes. Rinse with water to remove, Stop use and ask a doctor if rash occurs., Keep out of reach of children., If swallowed, get medical help or contact a Poison Control Center right away.
+* **Safety Fact (Directions):** apply liberally 15 minutes before sun exposure, children less than 6 months of age: ask a doctor, reapply at least every 2 hours, use a water resistant sunscreen if swimming or sweating
+* **Safety Fact (Other Info):** protect the product in this container from excessive heat and direct sun, the product may stain certain types of fabrics
+* **Safety Fact (Inactive Ingredients):** WATER, GLYCERIN, SILICA, DIMETHICONE, STEARIC ACID, STEARYL ALCOHOL, NONENOL, SAPINDUS RARAK FRUIT EXTRACT, POUZOLZIA PENTANDRA EXTRACT, METHOXYBENZOYL METHYLSULFONYL OXOPIPERIDINYL PIPERAZINECARBOXAMIDE, THIAZOLYLALANINE, TRISILOXANE, DIMETHICONOL, MYRISTYL MYRISTATE, MALTODEXTRIN, PEG-100 STEARATE, CAPRYLYL GLYCOL, GLYCERYL STEARATE, SODIUM POLYACRYLATE, POLYURETHANE-40, POTASSIUM HYDROXIDE, ACRYLATES/C10-30 ALKYL ACRYLATE CROSSPOLYMER, DISODIUM EDTA, 1,2-HEXANEDIOL, FRAGRANCE
+* **Safety Fact (Questions):** Not found
+* **Toxicity Fact (Summary):** Not found
+* **Toxicity Fact (Mechanism):** Not found
+* **Toxicity Fact (Side Effects):** Not found
+* **Toxicity Fact (Case Reports):** Not found
+* **Culture Fact:** 
+  * **Culture Fact (Community - Shan People):** Shan People
+  * **Culture Fact (Location - Shan People):** Chiang Mai Province
+  * **Culture Fact (Ethnic Group - Shan People):** Shan
+  * **Culture Fact (Community Highlight - Shan People):** The Shan people place great importance on the practice of merit-making and generosity. Those who make significant contributions to the temple and Buddhism are highly respected and revered in Shan society. The Shan people's way of life, from birth to death, is closely tied to Buddhism.
+  * **Culture Fact (Name Etymology - Shan People):** No herbal-related information found.
+  * **Culture Fact (Environment - Shan People):** No herbal-related information found.
+  * **Culture Fact (Local Wisdom - Shan People):** No herbal-related information found.
+  * **Culture Fact (Organization - Shan People):** No herbal-related information found.
+  * **Culture Fact (Local Name - Shan People):** Makham Dee Kwai
+  * **Culture Fact (Use - Shan People):** Laundry
+  * **Culture Fact (Processing - Shan People):** Using Makham Dee Kwai
+  * **Culture Fact (Source - Shan People):** https://www.sac.or.th/library/subject_guide/category/32?per_page=5
+  * **Culture Fact (Community - Ban Kang Pla):** Ban Kang Pla
+  * **Culture Fact (Location - Ban Kang Pla):** Loei Province
+  * **Culture Fact (Ethnic Group - Ban Kang Pla):** Shan
+  * **Culture Fact (Community Highlight - Ban Kang Pla):** Ban Kang Pla is an agricultural community that has traditionally relied on the rich natural resources of the area. However, environmental changes have impacted the agricultural system, leading to a shift towards sustainable farming practices that prioritize soil conservation and produce safe and healthy crops, ultimately enhancing community capacity and quality of life.
+  * **Culture Fact (Name Etymology - Ban Kang Pla):** No herbal-related information found.
+  * **Culture Fact (Environment - Ban Kang Pla):** No herbal-related information found.
+  * **Culture Fact (Local Wisdom - Ban Kang Pla):** No herbal-related information found.
+  * **Culture Fact (Organization - Ban Kang Pla):** No herbal-related information found.
+  * **Culture Fact (Local Name - Ban Kang Pla):** Makham Dee Kwai
+  * **Culture Fact (Use - Ban Kang Pla):** Treatment of skin conditions
+  * **Culture Fact (Processing - Ban Kang Pla):** Using the Kang Pla tree
+  * **Culture Fact (Source - Ban Kang Pla):** https://wikicommunity.sac.or.th/community/2455
+* **Internal RAG Fact (Herbal):** Unfortunately, the provided internal knowledge context does not explicitly mention มะคำดีควาย (Sapindus rarak). The context primarily discusses the benefits and uses of traditional Thai medicine, emphasizing its cost-effectiveness and suitability for treating minor ailments. It highlights the importance of self-sufficiency in food production and consumption, suggesting that growing one's own herbs and vegetables can ensure safety from chemical contaminants and promote better health. Additionally, the context touches upon the use of certain herbs and plants in traditional Thai medicine, such as ใบมะกรูด (lemon basil), but does not provide specific information about มะคำดีควาย (Sapindus rarak).
+* **Internal RAG Fact (Cultural):** No relevant information about มะคำดีควาย was found in the provided cultural context.
+* **Source URL (Trend):** https://curlvana.in/blogs/ingredient-directory/soapnut-or-reetha?srsltid=AfmBOoqlsQ8xYm19qHEA1_dG6fIsBovIEKuCmuRcro081fZl7hYTElmO
+* **Source URL (Trend):** https://zanducare.com/blogs/exploring-ayurveda/the-ultimate-guide-to-the-benefits-and-uses-of-reetha-in-ayurveda?srsltid=AfmBOoq6zj6RbpiVQTe9boR3PwqdEd5nbBaJiGHNNG8Kk2BqvqxeTrqf
+* **Source URL (Trend):** https://www.keralanaturals.com/blogs/uses-of-aritha-soapnut-powder/?srsltid=AfmBOoox5N4gaLmY3BHQJsNN75D8VhbeEYLqiLn8G2Kky_215SZpFb9-
+* **Source URL (Science):** https://pubmed.ncbi.nlm.nih.gov/39049891/
+* **Source URL (Science):** https://pubmed.ncbi.nlm.nih.gov/37936636/
+* **Source URL (Compliance):** https://www.fda.moph.go.th/
+* **Source URL (Safety):** https://dailymed.nlm.nih.gov/dailymed/fda/fdaDrugXsl.cfm?setid=29ac7183-e575-506e-e063-6394a90a77c9&type=display
+* **Source URL (Toxicity):** Not found
+* **Source URL (Culture):** https://www.sac.or.th/library/subject_guide/category/32?per_page=5
+* **Source URL (Culture):** https://www.sac.or.th/library/subject_guide/category/32?order=asc&type=8&per_page=2
+* **Source URL (Culture):** https://wikicommunity.sac.or.th/community/2455

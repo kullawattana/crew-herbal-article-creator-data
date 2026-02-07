@@ -1,0 +1,1 @@
+Thought: I have the search results, but I need to extract the URLs and filter out non-HTML and PDF links.

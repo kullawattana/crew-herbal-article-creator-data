@@ -1,0 +1,66 @@
+# ===MASTER_FACT_SHEET=== 
+## Consolidated Facts for: Pueraria mirifica
+* **Trend Fact:** Unfortunately, no specific mentions of White Kwao Krua were found in the articles from the Global Wellness Institute website. However, the website provides information on various wellness modalities, including herbal medicine, and their medical evidence.
+* **Trend Fact:** The Global Wellness Institute website mentions various herbs and plants used in traditional medicine, but no specific information on White Kwao Krua was found.
+* **Trend Fact:** The website provides information on the global wellness economy and its growth, but no specific mentions of White Kwao Krua were found.
+* **Lab Fact (Experimental Method):** Not found
+* **Lab Fact (Extraction Method):** Not found
+* **Lab Fact (Compound Identified):** Not found
+* **Lab Fact (Chromatography - TLC):** Not found
+* **Lab Fact (Pharmacological Finding):** Not found
+* **Lab Fact (Cosmetic or Clinical Effect):** Not found
+* **Lab Fact (Quality Control):** Not found
+* **Science Fact (Herb):** Pueraria mirifica
+* **Science Fact (Compound):** Puerarin
+* **Science Fact (Abstracts):**
+  * **Study 1:**
+    * **abstract_raw:** Puerarin improves MASLD by remodeling intestinal microenvironment to promote mitochondrial fusion and autophagy.
+    * **citation_apa:** Sun et al. (2025). Puerarin improves MASLD by remodeling intestinal microenvironment to promote mitochondrial fusion and autophagy. Journal of Pharmacological Sciences, 158(1), 27-41. doi: 10.1016/j.jphs.2025.03.001
+  * **Study 2:**
+    * **abstract_raw:** Bioinformatics combined with network pharmacology and experimental validation to identify key biomarkers of hepatocellular carcinoma and corresponding compounds in Radix Astragali and Pueraria Mirifica.
+    * **citation_apa:** Li et al. (2024). Bioinformatics combined with network pharmacology and experimental validation to identify key biomarkers of hepatocellular carcinoma and corresponding compounds in Radix Astragali and Pueraria Mirifica. Naunyn-Schmiedeberg's Archives of Pharmacology, 398(5), 5351-5371. doi: 10.1007/s00210-024-03597-4
+  * **Study 3:**
+    * **abstract_raw:** Dietary Puerarin Supplementation Improves Immune Response and Antioxidant Capacity of Sows.
+    * **citation_apa:** Cao et al. (2024). Dietary Puerarin Supplementation Improves Immune Response and Antioxidant Capacity of Sows. Antioxidants, 13(3), 290. doi: 10.3390/antiox13030290
+* **Compliance Fact (Food Registration 1):** registration_number=10-1-13660-5-0113, product_name=กวาวเครือขาว / Pueraria mirifica, company_name=บริษัท โพธิ์ประดิษฐ์สมุนไพร จำกัด, status=สถานะผลิตภัณฑ์(ยกเลิกโดยผู้ประกอบการ 26/10/2561) \ สถานะสถานที่ (คงอยู่ )
+* **Compliance Fact (Food Registration 2):** registration_number=10-1-13660-5-0114, product_name=กวาวเครือขาว (ผง) / Pueraria mirifica (Powder), company_name=บริษัท โพธิ์ประดิษฐ์สมุนไพร จำกัด, status=สถานะผลิตภัณฑ์(ยกเลิกโดยผู้ประกอบการ 26/10/2561) \ สถานะสถานที่ (คงอยู่ )
+* **Compliance Fact (Food Registration 3):** registration_number=G347/46, product_name=ยาแคปซูลกวาวเครือขาว / COMPOUND PUERARIA MIRIFICA CAPSULES, company_name=ศูนย์พัฒนา สมุนไพรไทย, status=คงอยู่
+* **Compliance Fact (Food Registration 4):** registration_number=G291/49, product_name=ยาเม็ดกวาวเครือขาว / COMPOUND PUERARIA MIRIFICA TABLET, company_name=None, status=ยกเลิก(23 เมษายน 2562)
+* **Compliance Fact (Food Registration 5):** registration_number=G422/49, product_name=ยาแคปซูลกวาวเครือขาว /  -, company_name=บริษัท ไทย - ล้านนา เฮอร์บอล อินดัสตรี้ จำกัด, status=ทะเบียนคงอยู่ แต่ผู้ผลิตยกเลิกกิจการ ทำให้ไม่สามารถผลิตได้
+* **Compliance Fact (Safety Dosage):** Not found
+* **Compliance Fact (Safety Warning):** Not found
+* **Safety Fact (Active Ingredient):** Pyridoxine, Niacin, Cyanocobalamin, Vitamin A
+* **Safety Fact (Ingredient Purpose):** Dietary Supplement
+* **Safety Fact (Uses):** Intense Sexual Desire
+* **Safety Fact (Warnings):** Consult with a physician to determine if this product is safe for you to use or not. This product contains herbs, powders and extracts that can have an effect on your health. Do not take this product if you are taking any drug, alcohol, caffeine or any ingredient that increases energy or affects blood pressure higher or lower. This product is not intended to cure any disease or condition. Do not take if you have any heart issues, high blood pressure, liver issues, or any condition you are being treated for. Consult with your physician before you take this product or any sexual enhancement product.
+* **Safety Fact (Directions):** Take 1 capsule 60-180 minutes prior to sexual activity. Do not take with food, it works best when taken in between meals, or at least one hour after eating.
+* **Safety Fact (Other Info):** Effects are normally active only when physically stimulated. NOT INTENDED FOR USE BY PERSONS UNDER THE AGE OF 18
+* **Safety Fact (Inactive Ingredients):** Pueraria Candollei Var. Mirifica Root, Epimedium Wushanense Whole, Yohimbine, White Rice
+* **Safety Fact (Questions):** None
+* **Toxicity Fact (Summary):** Not found
+* **Toxicity Fact (Mechanism):** Not found
+* **Toxicity Fact (Side Effects):** Not found
+* **Toxicity Fact (Case Reports):** Not found
+* **Culture Fact (Community - Ban Natong):** Ban Natong
+* **Culture Fact (Location - Ban Natong):** Phrae Province
+* **Culture Fact (Ethnic Group - Ban Natong):** Thai
+* **Culture Fact (Community Highlight - Ban Natong):** Ban Natong is a village located in the midst of high mountains, surrounded by lush forests. The village is situated about 35 kilometers from the city center and is known for its natural beauty and rich biodiversity. The villagers have a strong connection with nature and have developed unique traditional practices to live in harmony with the environment. One of the notable practices is the cultivation of "miang" (fermented tea leaves), which is a major source of income for the villagers.
+* **Culture Fact (Name Etymology - Ban Natong):** The name "Ban Natong" is derived from the Thai words "ban" meaning village and "natong" meaning a type of tree that is commonly found in the area.
+* **Culture Fact (Environment - Ban Natong):** The village is surrounded by high mountains and forests, which provide a rich source of natural resources. The villagers have developed sustainable practices to manage the natural resources, such as reforestation and conservation of wildlife.
+* **Culture Fact (Local Wisdom - Ban Natong):** The villagers have a deep understanding of the natural environment and have developed unique traditional practices to live in harmony with nature. They have a strong connection with the forest and its resources, which is reflected in their daily lives and cultural practices.
+* **Culture Fact (Organization - Ban Natong):** The villagers have formed community organizations to manage the natural resources and promote sustainable development. These organizations work together to protect the environment and preserve the cultural heritage of the village.
+* **Culture Fact (Local Name - Ban Natong):** Kwaao Kruu Khao (กวาวเครือขาว)
+* **Culture Fact (Use - Ban Natong):** Enhancing the bust
+* **Culture Fact (Processing - Ban Natong):** Making miang (fermented tea leaves)
+* **Culture Fact (Source - Ban Natong):** https://db.sac.or.th/museum/museum-detail/61
+* **Internal RAG Fact (Herbal):** Pueraria mirifica, also known as กวาวเครือขาว, is a herb used in traditional Thai medicine. Although it is not explicitly mentioned in the provided context, the discussions on Thai traditional medicine and herbal remedies are relevant to its application.
+* **Internal RAG Fact (Cultural):** กวาวเครือขาว (White Kwao Krua) has been used in Thai traditional medicine for a long time. It is believed to have various health benefits, including the ability to balance the body's elements and help with digestion. The herb is also used to make a type of chili paste that is said to aid in the digestion of food and help with weight management. Additionally, กวาวเครือขาว is used in traditional Thai medicine to treat various ailments, including fever, rheumatism, and skin conditions. It is also believed to have anti-inflammatory properties and is used to help reduce swelling and pain.
+* **Source URL (Trend):** https://globalwellnessinstitute.org/wellnessevidence/
+* **Source URL (Trend):** https://globalwellnessinstitute.org/what-is-wellness/
+* **Source URL (Trend):** https://globalwellnessinstitute.org/press-room/press-releases/the-global-wellness-economy-hits-a-record-6-8-trillion-and-is-forecast-to-reach-9-8-trillion-by-2029/
+* **Source URL (Science):** https://doi.org/10.1016/j.jphs.2025.03.001
+* **Source URL (Science):** https://doi.org/10.1007/s00210-024-03597-4
+* **Source URL (Science):** https://doi.org/10.3390/antiox13030290
+* **Source URL (Compliance):** https://www.fda.moph.go.th/
+* **Source URL (Safety):** https://dailymed.nlm.nih.gov/dailymed/fda/fdaDrugXsl.cfm?setid=451f75a8-5c9c-4e41-a5e5-4df3eae8c83f&type=display
+* **Source URL (Culture):** https://db.sac.or.th/museum/museum-detail/61

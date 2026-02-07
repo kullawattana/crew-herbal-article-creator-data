@@ -1,0 +1,18 @@
+# ===AUDIT_DATA_INTEGRITY_REPORT===
+* **Collaboration Robustness (Data Loss):** 90%
+* **Explanation Clarity (Hallucination/Handling):** 100%
+* **Dropped Entities (Facts in Fact Sheet but not Article):**
+    - Source URL (Safety): Not found
+    - Safety Fact (Ingredient Purpose): Not found
+    - Safety Fact (Uses): Not found
+    - Safety Fact (Warnings): Not found
+    - Safety Fact (Directions): Not found
+    - Safety Fact (Other Info): Not found
+    - Safety Fact (Inactive Ingredients): Not found
+    - Safety Fact (Questions): Not found
+    - Compliance Fact (Food Registration 1): None found
+    - Compliance Fact (Safety Dosage): Not found
+    - Compliance Fact (Safety Warning): None found
+* **Hallucinated Entities (Facts in Article but not Fact Sheet):**
+    - None
+* **Feedback:** The article accurately reflects most of the facts from the fact sheet. The "not found" compliance, safety and source URL facts were not included. The article correctly handles the "citation_apa: not_found" by stating "Not found" in the references section.

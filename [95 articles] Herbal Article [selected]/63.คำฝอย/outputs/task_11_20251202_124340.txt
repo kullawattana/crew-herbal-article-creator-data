@@ -1,0 +1,72 @@
+# ===MASTER_FACT_SHEET=== 
+## Consolidated Facts for: Carthamus tinctorius
+* **Trend Fact:** Safflower is a versatile plant with a rich history and diverse uses. It has been traditionally used for its potential health benefits, including reducing inflammation, improving heart health, and supporting skin and hair care. Safflower oil, extracted from the seeds, is rich in polyunsaturated fats and has been shown to have anti-inflammatory properties. The plant has also been used as a natural dye and in traditional medicine.
+* **Trend Fact:** Safflower is a thistle-like annual plant that has been cultivated for thousands of years for its multifaceted uses. The seeds are used to extract vegetable oil, which is utilized in various industries such as cosmetics, food production, and industrial applications. Safflower oil has been linked to reductions in low-density lipoprotein levels and has been studied for potential health benefits in various conditions.
+* **Trend Fact:** Safflower is one of the oldest known cultivated crops, being cultivated in Mesopotamia potentially as early as 2500BCE. It has been a highly valuable resource for thousands of years, used as a dye for both clothing and food, and as a cheap alternative to saffron. Today, safflower is used as a cooking oil and vital ingredient in skin and hair care products.
+* **Lab Fact (Experimental Method):** Not found
+* **Lab Fact (Extraction Method):** Not found
+* **Lab Fact (Compound Identified):** Not found
+* **Lab Fact (Chromatography - TLC):** Not found
+* **Lab Fact (Pharmacological Finding):** Not found
+* **Lab Fact (Cosmetic or Clinical Effect):** Not found
+* **Lab Fact (Quality Control):** Not found
+* **Science Fact (Herb):** Carthamus tinctorius
+* **Science Fact (Compound):** Not found
+* **Science Fact (Abstracts):**
+  * **Study 1:**
+    * **abstract_raw:** Genome-Wide Screening for MYB Transcription Factors Involved in Flavonoid Glycoside Biosynthesis in Carthamus tinctorius L.
+    * **citation_apa:** Not found
+  * **Study 2:**
+    * **abstract_raw:** Safflower gas exchange, leaf water potential, and water-saving irrigation in surface and subsurface drip irrigation systems at different lateral spacings.
+    * **citation_apa:** Not found
+  * **Study 3:**
+    * **abstract_raw:** Emerging molecular targets and natural therapeutics for idiopathic pulmonary fibrosis: Insights into mechanisms, risks, and COVID-19 links.
+    * **citation_apa:** Not found
+* **Compliance Fact (Food Registration 1):** registration_number=10-1-01657-5-0025, product_name=เฮอร์โมนี่ ที (หม่อน, โรมันคาโมมายล์, บัวหลวง, กุหลาบ, มะตูม, คำฝอยและหญ้าหวาน) (ชาจากพืช) / Hermony Tea (Mulberry, Roman chamomile,  Sacred Lotus, Rose, Bael fruit, Safflower and Stevia), company_name=บริษัท จงไท้เจี้ยนหมิงเอี้ยวเอี้ย (กรุ๊ป) จำกัด, status=สถานะผลิตภัณฑ์(คงอยู่)\ สถานะสถานที่ (คงอยู่)
+* **Compliance Fact (Food Registration 2):** registration_number=10-1-12063-5-0009, product_name=แอลดับบลิว เฮอร์เบิล ที (ชาจากพืช) (ชาสมุนไพร ขิง มะขามป้อม กระเจี๊ยบแดง คำฝอย และหญ้าหวาน) /  LW Herbal Tea, company_name=บริษัท โชคชัย เฮิร์บ จำกัด, status=สถานะผลิตภัณฑ์(คงอยู่)\ สถานะสถานที่ (คงอยู่)
+* **Compliance Fact (Food Registration 3):** registration_number=10-1-19337-1-0046, product_name=คำฝอยสกัด(ผลิตภัณฑ์เสริมอาหาร)(ตรา แซนด์-เอ็ม แฮนดี้เฮิร์บ) / SAFFLOWER EXTACT (DIETARY SUPPLEMENT PRODUCT)(SAND-M HANDYHERB  BRAND), company_name=บริษัท แซนด์ เอ็ม  อินเตอร์เนชั่นแนล  จำกัด, status=สถานะผลิตภัณฑ์(ผู้ประกอบการแจ้งยกเลิกใบอนุญาต 2/6/2563) \ สถานะสถานที่ (ผู้ประกอบการแจ้งยกเลิก 2/6/2563)
+* **Compliance Fact (Food Registration 4):** registration_number=10-1-19337-1-0052, product_name=ชาเขียวสกัด คำฝอยสกัด ส้มแขกสกัด (ผลิตภัณฑ์เสริมอาหาร) / GREE TEA EXTRACT,SAFFLOWER EXTRACT,GARCINIA CAMBOGIA EXTRACT (DIETARY SUPPLEMENT PRODUCT), company_name=บริษัท แซนด์ เอ็ม  อินเตอร์เนชั่นแนล  จำกัด, status=สถานะผลิตภัณฑ์(ผู้ประกอบการแจ้งยกเลิกใบอนุญาต 2/6/2563) \ สถานะสถานที่ (ผู้ประกอบการแจ้งยกเลิก 2/6/2563)
+* **Compliance Fact (Food Registration 5):** registration_number=10-1-22862-5-0004, product_name=เครื่องดื่ม ส้มแขก พริกไทยดำ และ คำฝอย ชนิดแห้ง (ตรา เรือนไม้ใบชา) / DRIED ASAM GELUGUR BLACK PEPPER AND SAFFLOWER DRINK (RUENMAIBAICHA BRAND), company_name=เรือนไม้ใบชา (RUENMAIBAICHA), status=สถานะผลิตภัณฑ์(คงอยู่)\ สถานะสถานที่ (คงอยู่)
+* **Compliance Fact (Food Registration 6):** registration_number=10-1-24946-5-0021, product_name=คำฝอย พลัส (ผลิตภัณฑ์เสริมอาหาร ชนิดแคปซูล)(ตรา ดุสิตตา) / Safflower Plus (Capsule Dietary Supplement Product )(Dusitta Brand), company_name=บริษัท ชาเขียว จำกัด, status=สถานะผลิตภัณฑ์(ยกเลิกโดยผู้ประกอบการ 15/7/2564) \ สถานะสถานที่ (คงอยู่ )
+* **Compliance Fact (Food Registration 7):** registration_number=10-1-24946-5-0072, product_name=คำฝอย พลัส (ผลิตภัณฑ์เสริมอาหารอาหาร ชนิดแคปซูล)(ตรา เรนอง) /  Safflower Plus (Capsule Dietary Supplement Product)(Ranong Brand), company_name=บริษัท ชาเขียว จำกัด, status=สถานะผลิตภัณฑ์(คงอยู่)\ สถานะสถานที่ (คงอยู่)
+* **Compliance Fact (Food Registration 8):** registration_number=11-1-08646-5-0016, product_name=คำฝอยแคปซูล ตราธันยพรสมุนไพร ผลิตภัณฑ์เสริมอาหาร / SAFFLOWER CAPSULE THANYAPORN HERBS BRAND DIETARY SUPPLEMENT PRODUCT, company_name=บริษัท ธันยพรสมุนไพร จำกัด, status=สถานะผลิตภัณฑ์(คงอยู่)\ สถานะสถานที่ (คงอยู่)
+* **Compliance Fact (Food Registration 9):** registration_number=11-1-13958-6-0007, product_name=ชาอัสสัม, กระเจี๊ยบแดง, คำฝอย, ฟักข้าว เเละ หญ้าหวาน /  Assam tea, Roselle , Safflower, Gac and Stevia, company_name=บริษัท สเปเชียลตี้ อินโนเวชั่น จำกัด, status=สถานะผลิตภัณฑ์(คงอยู่)\ สถานะสถานที่ (คงอยู่)
+* **Compliance Fact (Food Registration 10):** registration_number=11-2-00765-6-0010, product_name=เครื่องดื่มสมุนไพรรวม (เห็ดหลินจือ ลำไย กระชายดำ พุทราจีน โสม ตังเซียม เง็กเต็ก โป๊ยกั๊ก อบเชยเทศ คำฝอย ถั่งเช่า), company_name=บริษัท หนั่งฮั้ว เฮอร์เบิล อินดัสทรี จำกัด, status=สถานะผลิตภัณฑ์(คงอยู่)\ สถานะสถานที่ (คงอยู่)
+* **Safety Fact (Active Ingredient):** Not found
+* **Safety Fact (Ingredient Purpose):** Not found
+* **Safety Fact (Uses):** Not found
+* **Safety Fact (Warnings):** Not found
+* **Safety Fact (Directions):** Not found
+* **Safety Fact (Other Info):** Not found
+* **Safety Fact (Inactive Ingredients):** Not found
+* **Safety Fact (Questions):** Not found
+* **Toxicity Fact (Summary):** Carthamus tinctorius, also known as safflower, is a plant that has been used in traditional medicine for various purposes, including the treatment of diabetes. The plant contains several bioactive compounds, including corosolic acid and ellagitannins, which have been shown to have hypoglycemic and anti-inflammatory effects. However, the use of Carthamus tinctorius for diabetes treatment is not supported by strong scientific evidence, and its safety and efficacy have not been extensively studied.
+* **Toxicity Fact (Mechanism):** The mechanism of injury associated with Carthamus tinctorius is not well understood, but it is thought to involve the inhibition of alpha-glucosidase and the reduction of nutrient load, as well as the stimulation of glucose uptake in cells.
+* **Toxicity Fact (Side Effects):** The reported side effects of Carthamus tinctorius include dizziness, headache, tremor, weakness, diaphoresis, and nausea.
+* **Toxicity Fact (Case Reports):** There are limited case reports available on the use of Carthamus tinctorius for diabetes treatment. However, one study reported that the use of Carthamus tinctorius extract resulted in a significant reduction in blood glucose levels in patients with type 2 diabetes.
+* **Culture Fact (Community - Central Region):** Central Region
+* **Culture Fact (Location - Central Region):** Central Thailand
+* **Culture Fact (Ethnic Group - Central Region):** No information available
+* **Culture Fact (Community Highlight - Central Region):** No herbal-related information found.
+* **Culture Fact (Name Etymology - Central Region):** No herbal-related information found.
+* **Culture Fact (Environment - Central Region):** No herbal-related information found.
+* **Culture Fact (Local Wisdom - Central Region):** No herbal-related information found.
+* **Culture Fact (Organization - Central Region):** No herbal-related information found.
+* **Culture Fact (Local Name - Central Region):** Khamin Chan : Plant, Central Region
+* **Culture Fact (Use - Central Region):** Khamin Chan : Plant, Central Region
+* **Culture Fact (Processing - Central Region):** No information available
+* **Culture Fact (Source - Central Region):** https://db.sac.or.th/thailand-cultural-encyclopedia/region.php?region=2&char=%E0%B8%84&page=11
+* **Internal RAG Fact (Herbal):** Unfortunately, the provided internal knowledge context does not explicitly mention คำฝอย (Carthamus tinctorius). The context primarily discusses the benefits and uses of traditional Thai medicine, the process of cultivating and preparing herbs, and the importance of relying on oneself for health and wellness. It highlights the advantages of using Thai herbal medicine, such as cost-effectiveness and the avoidance of chemicals. However, none of the provided queries or PDF excerpts specifically mention Carthamus tinctorius or its properties, uses, or benefits. Therefore, there is no information available to summarize regarding คำฝอย (Carthamus tinctorius) in the given context.
+* **Internal RAG Fact (Cultural):** คำฝอย has been used in traditional Thai medicine for a long time. It is believed to have various health benefits, including aiding digestion and relieving symptoms of certain illnesses. In Thai culture, คำฝอย is considered a valuable herb that can be used to make medicinal remedies. It is also used as a ingredient in traditional Thai cooking, particularly in dishes that require a spicy and sour flavor. Additionally, คำฝอย is believed to have antioxidant properties, which can help to protect the body against free radicals and oxidative stress. Overall, คำฝอย is a versatile and valuable herb in Thai culture, with a range of uses that extend beyond its medicinal properties.
+* **Source URL (Trend):** https://www.health.com/safflower-benefits-7970710
+* **Source URL (Trend):** https://damonherbs.com/safflower-uses-benefits-side-effects-and-more/
+* **Source URL (Trend):** https://www.kew.org/plants/safflower
+* **Source URL (Science):** https://pubmed.ncbi.nlm.nih.gov/41300828/
+* **Source URL (Science):** https://pubmed.ncbi.nlm.nih.gov/41291412/
+* **Source URL (Science):** https://pubmed.ncbi.nlm.nih.gov/41242507/
+* **Source URL (Compliance):** Not found
+* **Source URL (Safety):** Not found
+* **Source URL (Toxicity):** https://www.ncbi.nlm.nih.gov/books/NBK279062/
+* **Source URL (Culture):** https://db.sac.or.th/thailand-cultural-encyclopedia/region.php?region=2&char=%E0%B8%84&page=11
+* **Source URL (Culture):** https://db.sac.or.th/thailand-cultural-encyclopedia/freeterm.php?freeterm_id=5&page=16
+* **Source URL (Culture):** https://db.sac.or.th/thailand-cultural-encyclopedia/list.php?char=%E0%B8%84&page=50

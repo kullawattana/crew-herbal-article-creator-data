@@ -1,0 +1,10 @@
+# ===COMPLIANCE_DATA=== 
+## Thai FDA Status for: Moringa oleifera
+* **herb_name:** Moringa oleifera
+### Food Registrations 
+* **Food Registration 1:**
+    * **registration_number:** เลขสารบบอาหาร 10-3-XXXXX-X-XXXX 
+    * **product_name:** มะรุม 
+    * **company_name:** ไม่มีข้อมูล 
+    * **status:** ไม่มีข้อมูล 
+* **None found.**

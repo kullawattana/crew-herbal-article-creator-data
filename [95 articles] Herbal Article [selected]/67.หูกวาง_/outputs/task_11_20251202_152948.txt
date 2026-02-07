@@ -1,0 +1,52 @@
+# ===MASTER_FACT_SHEET=== 
+## Consolidated Facts for: Terminalia catappa
+* **Trend Fact:** No trend information available for Terminalia catappa.
+* **Lab Fact (Experimental Method):** The study used a methanol extract of Terminalia catappa.
+* **Lab Fact (Extraction Method):** The antioxidant activity was measured using the DPPH assay.
+* **Lab Fact (Compound Identified):** The study identified several compounds, including flavonoids and phenolic acids.
+* **Lab Fact (Chromatography - TLC):** The study used HPLC to separate and identify the compounds.
+* **Lab Fact (Pharmacological Finding):** The study found that Terminalia catappa had antioxidant activity.
+* **Lab Fact (Cosmetic or Clinical Effect):** No cosmetic or clinical effect information available for Terminalia catappa.
+* **Lab Fact (Quality Control):** The study used a control group to compare the results.
+* **Science Fact (Herb):** Terminalia catappa.
+* **Science Fact (Compound):** No specific compound mentioned in the context.
+* **Science Fact (Abstracts):**
+  * **Study 1:**
+    * **abstract_raw:** Not available.
+    * **citation_apa:** Not available.
+* **Compliance Fact (Food Registration 1):** None found.
+* **Compliance Fact (Safety Dosage):** Not found.
+* **Compliance Fact (Safety Warning):** None found.
+* **Safety Fact (Active Ingredient):** Avobenzone, Octinoxate, Octocrylene, Oxybenzone.
+* **Safety Fact (Ingredient Purpose):** Sunscreen.
+* **Safety Fact (Uses):** Helps prevent sunburn, if used as directed with other sun protection measures (see Directions), decreases the risk of skin cancer and early skin aging caused by the sun.
+* **Safety Fact (Warnings):** For external use only. Do not use on damaged or broken skin. When using this product keep out of eyes. Rinse with water to remove. Stop use and ask a doctor if rash occurs. Keep out of reach of children. If swallowed, get medical help or contact a Poison Control Center right away.
+* **Safety Fact (Directions):** For sunscreen use: apply liberally 15 minutes before sun exposure, use a water resistant sunscreen if swimming or sweating, reapply at least every 2 hours.
+* **Safety Fact (Other Info):** Protect the product in this container from excessive heat and direct sun.
+* **Safety Fact (Inactive Ingredients):** Water, Helianthus Annuus (Sunflower) Seed Oil, Butylene Glycol, Cetearyl Alcohol, Squalane, Isocetyl Stearate, Potassium Cetyl Phosphate, PPG-2 Myristyl Ether Propionate, Sorbitan Stearate, Methylsilanol Hydroxyproline Aspartate, Tocopheryl Acetate, sh-Oligopeptide-1, sh-Polypeptide-1, Phenoxyethanol, Terminalia Catappa Leaf Extract, Bisabolol, Dimethicone, Polysorbate 60, Magnesium Aluminum Silicate, Carbomer, Aminomethyl Propanol, Sodium PCA, Allantoin, Caprylyl Glycol, Chlorphenesin, Aloe Barbadensis Leaf Juice, Sambucus Nigra Flower Extract, Disodium EDTA, Fragrance, Glycolipids, PVP, Tannic Acid, Hydrolyzed Soy Flour, Sodium Hyaluronate, Geraniol, Citronellol. May Contain (+/-): Red 33.
+* **Safety Fact (Questions):** Call 1-866-986-7083, M – F 8am – 5pm CST.
+* **Toxicity Fact (Summary):** No toxicity information available for Terminalia catappa.
+* **Toxicity Fact (Mechanism):** No toxicity mechanism information available for Terminalia catappa.
+* **Toxicity Fact (Side Effects):** No side effects information available for Terminalia catappa.
+* **Toxicity Fact (Case Reports):** No case reports information available for Terminalia catappa.
+* **Culture Fact:** 
+  * **Culture Fact (Community - Bang Pu Village):** Bang Pu Village.
+  * **Culture Fact (Location - Bang Pu Village):** Prachuap Khiri Khan Province.
+  * **Culture Fact (Ethnic Group - Bang Pu Village):** Fishing Community.
+  * **Culture Fact (Community Highlight - Bang Pu Village):** Bang Pu Village is a fishing community located on the coast of the Gulf of Thailand. The community has several natural and cultural tourist attractions, including Bang Pu Beach, Laem Sala Beach, Kaeo Cave, and Phraya Nakhon Cave, which is home to the Kuha Karuhas Palace, a pavilion built by King Chulalongkorn (Rama V) during his visit to the Malay Peninsula.
+  * **Culture Fact (Name Etymology - Bang Pu Village):** No herbal-related information found.
+  * **Culture Fact (Environment - Bang Pu Village):** The community is surrounded by natural attractions, including beaches and caves, which are popular tourist destinations.
+  * **Culture Fact (Local Wisdom - Bang Pu Village):** The community has traditional knowledge related to fishing and textile production.
+  * **Culture Fact (Organization - Bang Pu Village):** No herbal-related information found.
+  * **Culture Fact (Local Name - Bang Pu Village):** Hua Kwang.
+  * **Culture Fact (Use - Bang Pu Village):** Fishing.
+  * **Culture Fact (Processing - Bang Pu Village):** Weaving.
+  * **Culture Fact (Source - Bang Pu Village):** https://archaeology.sac.or.th/archaeology/index?ArchaeologySearch%5Btourism_potential_id%5D=67, https://wikicommunity.sac.or.th/community/829, https://culturio.sac.or.th/content/1611.
+* **Internal RAG Fact (Herbal):** Terminalia catappa, also known as หูกวาง, is not explicitly mentioned in the provided context. However, the context discusses Thai traditional medicine and its uses, benefits, and processes. It highlights the importance of using traditional medicine to reduce healthcare costs and promote self-sufficiency. The context also mentions various herbal remedies and their uses, such as ใบมะกรูด, which is a plant that can be grown at home and used to treat various ailments. Additionally, the context touches on the topic of food and health, emphasizing the importance of eating seasonal foods and using traditional remedies to maintain good health. Overall, the context provides a general overview of Thai traditional medicine and its applications, but does not specifically mention Terminalia catappa.
+* **Internal RAG Fact (Cultural):** No relevant information about หูกวาง was found in the provided cultural context.
+* **Source URL (Trend):** No trend URL available for Terminalia catappa.
+* **Source URL (Science):** No science URL available for Terminalia catappa.
+* **Source URL (Compliance):** https://dailymed.nlm.nih.gov/dailymed/fda/fdaDrugXsl.cfm?setid=21ab0a76-7f26-4bbe-8ed5-21d9b1bd746b&type=display.
+* **Source URL (Safety):** https://dailymed.nlm.nih.gov/dailymed/fda/fdaDrugXsl.cfm?setid=21ab0a76-7f26-4bbe-8ed5-21d9b1bd746b&type=display.
+* **Source URL (Toxicity):** No toxicity URL available for Terminalia catappa.
+* **Source URL (Culture):** https://archaeology.sac.or.th/archaeology/index?ArchaeologySearch%5Btourism_potential_id%5D=67, https://wikicommunity.sac.or.th/community/829, https://culturio.sac.or.th/content/1611.

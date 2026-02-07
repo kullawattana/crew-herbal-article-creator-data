@@ -1,0 +1,19 @@
+# ===AUDIT_DATA_INTEGRITY_REPORT===
+* **Collaboration Robustness (Data Loss):** 80%
+* **Explanation Clarity (Hallucination/Handling):** 90%
+* **Dropped Entities (Facts in Fact Sheet but not Article):** 
+  - Science Fact (Compound)
+  - Science Fact (Abstracts)
+  - Compliance Fact (Safety Dosage)
+  - Compliance Fact (Safety Warning)
+  - Safety Fact (Active Ingredient)
+  - Safety Fact (Ingredient Purpose)
+  - Safety Fact (Uses)
+  - Safety Fact (Warnings)
+  - Safety Fact (Directions)
+  - Safety Fact (Other Info)
+  - Safety Fact (Inactive Ingredients)
+  - Safety Fact (Questions)
+* **Hallucinated Entities (Facts in Article but not Fact Sheet):** 
+  - None
+* **Feedback:** The audit revealed that while the article effectively captures many critical facts from the Master Fact Sheet, there are notable omissions, particularly in the science and safety sections. The absence of specific science facts, such as compound details and abstracts, and safety information like dosage, warnings, and ingredient purposes, indicates a data loss of 20%. On the other hand, the article does not introduce new, unfounded facts (hallucinations), suggesting a high clarity score of 90%. The handling of "Not Found" results, such as the citation for the reference, was appropriately managed, supporting the clarity score. Overall, the article demonstrates a good understanding of the subject matter but requires enhancement in comprehensively covering all relevant facts from the Master Fact Sheet to achieve full data integrity.

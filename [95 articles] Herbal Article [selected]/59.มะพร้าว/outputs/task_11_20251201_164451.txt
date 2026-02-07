@@ -1,0 +1,85 @@
+# ===MASTER_FACT_SHEET=== 
+## Consolidated Facts for: Cocos nucifera
+* **Trend Fact:** Not found
+* **Lab Fact (Experimental Method):** Not found
+* **Lab Fact (Extraction Method):** Not found
+* **Lab Fact (Compound Identified):** Not found
+* **Lab Fact (Chromatography - TLC):** Not found
+* **Lab Fact (Pharmacological Finding):** Not found
+* **Lab Fact (Cosmetic or Clinical Effect):** Not found
+* **Lab Fact (Quality Control):** Not found
+* **Science Fact (Herb):** Cocos nucifera
+* **Science Fact (Compound):** Not found
+* **Science Fact (Abstracts):**
+  * **Study 1:**
+    * **abstract_raw:** Not found
+    * **citation_apa:** Not found
+  * **Study 2:**
+    * **abstract_raw:** Not found
+    * **citation_apa:** Not found
+  * **Study 3:**
+    * **abstract_raw:** Not found
+    * **citation_apa:** Not found
+* **Compliance Fact (Food Registration 1):** registration_number=10-1-00337-1-0261, product_name=โคโคนัท บาร์(มะพร้าวคั่วอัดแท่งผสม ธัญพืช)(ตรา ไทย โคโคนัท) / COCONUT BAR (ROASTED COCONUT BAR WITH CEREAL)(THAI COCONUT BRAND), company_name=ห้างหุ้นส่วนจำกัด ฟลาวเวอร์ ฟูด, status=สถานะผลิตภัณฑ์(คงอยู่)\ สถานะสถานที่ (คงอยู่)
+* **Compliance Fact (Food Registration 2):** registration_number=10-1-00337-5-0059, product_name=มะพร้าวผงรสหวาน (ผลิตภัณฑ์สำหรับเครื่องดื่ม และทาขนมปัง) (ตรา โกโก้ฮัท) / Coconut Powder Sweet Flavor (Kokoahut Brand), company_name=ห้างหุ้นส่วนจำกัด ฟลาวเวอร์ ฟูด, status=สถานะผลิตภัณฑ์(คงอยู่)\ สถานะสถานที่ (คงอยู่)
+* **Compliance Fact (Food Registration 3):** registration_number=10-1-00560-5-0018, product_name=คราฟสแน๊ค บราวนี่อบกรอบ รสคาราเมล มะพร้าว / Craft Snac Brownie Thin Coconut Caramel, company_name=ชัชชา, status=สถานะผลิตภัณฑ์(คงอยู่)\ สถานะสถานที่ (คงอยู่)
+* **Compliance Fact (Food Registration 4):** registration_number=10-1-01159-1-0003, product_name=ดราย โคโคนัท (มะพร้าวอบแห้ง) / DRIED COCONUT, company_name=บริษัท รอยัล ฟรุ๊ต จำกัด, status=สถานะผลิตภัณฑ์(คงอยู่)\ สถานะสถานที่ (คงอยู่)
+* **Compliance Fact (Food Registration 5):** registration_number=10-1-01561-5-0013, product_name=น้ำผักผลไม้รวม 100%(แอปเปิ้ลเขียว,คะน้า,สับปะรด,มะพร้าว,ลูกแพร,มะนาว)(ตรา ดริ๊งมี)  / 100%MIXED VEGETABLE AND MIXED FRUIT JUICE(GEEEN APPLE,KALE,PINEAPPLE,COCONUT,PEAR,LIME) (DRINK ME BRAND), company_name=บริษัท ดริ๊งค์มี ฟู้ด แอนด์ เบเวอเรจ จำกัด, status=สถานะผลิตภัณฑ์(คงอยู่)\ สถานะสถานที่ (คงอยู่)
+* **Compliance Fact (Safety Dosage):** Not found
+* **Compliance Fact (Safety Warning):** Not found
+* **Safety Fact (Active Ingredient):** Not found
+* **Safety Fact (Ingredient Purpose):** Not found
+* **Safety Fact (Uses):** Not found
+* **Safety Fact (Warnings):** Not found
+* **Safety Fact (Directions):** Not found
+* **Safety Fact (Other Info):** Not found
+* **Safety Fact (Inactive Ingredients):** Not found
+* **Safety Fact (Questions):** Not found
+* **Toxicity Fact (Summary):** Not found
+* **Toxicity Fact (Mechanism):** Not found
+* **Toxicity Fact (Side Effects):** Not found
+* **Toxicity Fact (Case Reports):** Not found
+* **Culture Fact (Community - Ban Suan Thung):** Ban Suan Thung
+* **Culture Fact (Location - Ban Suan Thung):** Samut Songkhram Province
+* **Culture Fact (Ethnic Group - Ban Suan Thung):** Thai
+* **Culture Fact (Community Highlight - Ban Suan Thung):** Ban Suan Thung community is a self-sufficient economy community located at the mouth of the Mae Klong River, where the main occupation is making coconut sugar from coconuts that are grown in a water-filled ditch, which makes the coconut trees grow well. Coconuts produce clear sugar when made into coconut sugar.
+* **Culture Fact (Name Etymology - Ban Suan Thung):** No herbal-related information found
+* **Culture Fact (Environment - Ban Suan Thung):** The community is located at the mouth of the Mae Klong River, where the main occupation is making coconut sugar from coconuts.
+* **Culture Fact (Local Wisdom - Ban Suan Thung):** The community has been making coconut sugar for a long time, and it is their main occupation.
+* **Culture Fact (Organization - Ban Suan Thung):** No herbal-related information found
+* **Culture Fact (Local Name - Ban Suan Thung):** Coconut is a plant that provides many benefits, and every part of the coconut tree generates income.
+* **Culture Fact (Use - Ban Suan Thung):** Making coconut sugar is the main occupation of the people in the community for a long time.
+* **Culture Fact (Processing - Ban Suan Thung):** Boiling coconut sugar uses consistent fire for about 1 hour and 30 minutes, the sugar will slowly thicken until it becomes yellow or what is called "dok mai", it will become small bubbles, boiling further for a while, the bubbles will become bigger, indicating that it is ready.
+* **Culture Fact (Source - Ban Suan Thung):** https://db.sac.or.th/thailand-cultural-encyclopedia/freeterm.php?freeterm_id=1852
+* **Culture Fact (Community - Bang O Mosque Community):** Bang O Mosque Community
+* **Culture Fact (Location - Bang O Mosque Community):** Samut Songkhram Province
+* **Culture Fact (Ethnic Group - Bang O Mosque Community):** Thai
+* **Culture Fact (Community Highlight - Bang O Mosque Community):** No herbal-related information found
+* **Culture Fact (Name Etymology - Bang O Mosque Community):** No herbal-related information found
+* **Culture Fact (Environment - Bang O Mosque Community):** No herbal-related information found
+* **Culture Fact (Local Wisdom - Bang O Mosque Community):** No herbal-related information found
+* **Culture Fact (Organization - Bang O Mosque Community):** No herbal-related information found
+* **Culture Fact (Local Name - Bang O Mosque Community):** Coconut, which has a sweet taste and is sweeter than the dough.
+* **Culture Fact (Use - Bang O Mosque Community):** Khanom Sai, or Khanom Sod Sai, is an ancient Thai dessert that uses coconut, flour, and sugar as main ingredients.
+* **Culture Fact (Processing - Bang O Mosque Community):** Making dough uses glutinous rice flour and water.
+* **Culture Fact (Source - Bang O Mosque Community):** https://culturio.sac.or.th/content/1870
+* **Culture Fact (Community - Ban Suan Thung):** Ban Suan Thung
+* **Culture Fact (Location - Ban Suan Thung):** Samut Songkhram Province
+* **Culture Fact (Ethnic Group - Ban Suan Thung):** Thai
+* **Culture Fact (Community Highlight - Ban Suan Thung):** Ban Suan Thung community is a self-sufficient economy community located at the mouth of the Mae Klong River, where the main occupation is making coconut sugar from coconuts that are grown in a water-filled ditch, which makes the coconut trees grow well. Coconuts produce clear sugar when made into coconut sugar.
+* **Culture Fact (Name Etymology - Ban Suan Thung):** No herbal-related information found
+* **Culture Fact (Environment - Ban Suan Thung):** The community is located at the mouth of the Mae Klong River, where the main occupation is making coconut sugar from coconuts.
+* **Culture Fact (Local Wisdom - Ban Suan Thung):** The community has been making coconut sugar for a long time, and it is their main occupation.
+* **Culture Fact (Organization - Ban Suan Thung):** No herbal-related information found
+* **Culture Fact (Local Name - Ban Suan Thung):** Coconut is a plant that provides many benefits, and every part of the coconut tree generates income.
+* **Culture Fact (Use - Ban Suan Thung):** Making coconut sugar is the main occupation of the people in the community for a long time.
+* **Culture Fact (Processing - Ban Suan Thung):** Boiling coconut sugar uses consistent fire for about 1 hour and 30 minutes, the sugar will slowly thicken until it becomes yellow or what is called "dok mai", it will become small bubbles, boiling further for a while, the bubbles will become bigger, indicating that it is ready.
+* **Culture Fact (Source - Ban Suan Thung):** https://wikicommunity.sac.or.th/community/888
+* **Internal RAG Fact (Herbal):** Cocos nucifera, commonly known as มะพร้าว in Thai, is not explicitly mentioned in the provided internal knowledge context. However, the context discusses Thai traditional medicine, its benefits, and the use of various herbs in treating ailments. It highlights the importance of using locally grown and self-cultivated herbs to avoid chemical contamination and reduce medical expenses. The context also touches on the traditional methods of preparing and consuming these herbs, such as making "คั่วบานะบายข้าวกิน" to improve appetite during seasonal changes. Additionally, it mentions the use of certain herbs in traditional Thai medicine, but does not specifically mention Cocos nucifera. The context emphasizes the value of traditional Thai wisdom in using herbs for health benefits and the potential for reducing reliance on imported medicines. **JSON: [Herbs_traditional_Thai_medicine_in_the_lives_of_Thai_people.json, p.N/A] | PDF: [Romprayom-2563.pdf, p.9, 17, 32]**
+* **Internal RAG Fact (Cultural):** Coconut (มะพร้าว) has been used for healing in Thai wisdom for a long time. It is believed to have various health benefits, including aiding in digestion and relieving symptoms of certain illnesses. In traditional Thai medicine, coconut is used to treat various ailments, such as fever, cough, and skin conditions. The oil extracted from coconuts is also used in cooking and as a natural remedy for hair and skin care. Additionally, coconut water is consumed as a refreshing beverage and is believed to have detoxifying properties. Overall, coconut is considered a versatile and nutritious food in Thai culture, and its various uses are deeply rooted in traditional Thai wisdom.
+* **Source URL (Trend):** Not found
+* **Source URL (Science):** https://pubmed.ncbi.nlm.nih.gov/41316845/, https://pubmed.ncbi.nlm.nih.gov/41310262/, https://pubmed.ncbi.nlm.nih.gov/41304324/
+* **Source URL (Compliance):** Not found
+* **Source URL (Safety):** Not found
+* **Source URL (Toxicity):** Not found
+* **Source URL (Culture):** https://db.sac.or.th/thailand-cultural-encyclopedia/freeterm.php?freeterm_id=1852, https://culturio.sac.or.th/content/1870, https://wikicommunity.sac.or.th/community/888

@@ -1,0 +1,85 @@
+# ===MASTER_FACT_SHEET=== 
+## Consolidated Facts for: Millingtonia hortensis
+* **Trend Fact:** No trend fact provided in the given context.
+* **Lab Fact (Experimental Method):** No lab fact provided in the given context.
+* **Lab Fact (Extraction Method):** No lab fact provided in the given context.
+* **Lab Fact (Compound Identified):** No lab fact provided in the given context.
+* **Lab Fact (Chromatography - TLC):** No lab fact provided in the given context.
+* **Lab Fact (Pharmacological Finding):** No lab fact provided in the given context.
+* **Lab Fact (Cosmetic or Clinical Effect):** No lab fact provided in the given context.
+* **Lab Fact (Quality Control):** No lab fact provided in the given context.
+* **Science Fact (Herb):** Millingtonia hortensis
+* **Science Fact (Compound):** Hispidulin
+* **Science Fact (Abstracts):**
+  * **Study 1:**
+    * **abstract_raw:** The present research work was done to evaluate the anatomical differences among selected species of the family Bignoniaceae, as limited anatomical data is available for this family in Pakistan. Bignoniaceae is a remarkable family for its various medicinal properties and anatomical characterization is an important feature for the identification and classification of plants.
+    * **citation_apa:** (Cheaha et al., 2024)
+  * **Study 2:**
+    * **abstract_raw:** The ethnopharmacological relevance of the Millingtonia hortensis (M. hortensis) flower's aqueous extract lies in its traditional use as a herbal remedy in Southeast Asia. With a rich history in folk medicine, this aqueous has been esteemed for its purported sedative and anxiolytic properties. Our research delves into the scientific basis of these traditional claims, exploring the potential mechanisms underlying the observed effects of M. hortensis flower's aqueous extract on sleep promotion and mood regulation.
+    * **citation_apa:** (Sonia et al., 2025)
+  * **Study 3:**
+    * **abstract_raw:** Sedative and hypnotic effects with cortical EEG sleep-wake profiles of Millingtonia hortensis dried flower aqueous in mice.
+    * **citation_apa:** (Cheaha et al., 2024)
+* **Compliance Fact (Food Registration 1):** registration_number=25-2-01159-6-0001, product_name=น้ำดื่มตรา ดอกปีบ  / Dokpeeb Brand Drinking Water, company_name=น้ำดื่มดอกปีป, status=สถานะผลิตภัณฑ์(คงอยู่)\ สถานะสถานที่ (คงอยู่)
+* **Compliance Fact (Food Registration 2):** None found.
+* **Compliance Fact (Safety Dosage):** Not found.
+* **Compliance Fact (Safety Warning):** None found.
+* **Safety Fact (Active Ingredient):** Not found.
+* **Safety Fact (Ingredient Purpose):** Not found.
+* **Safety Fact (Uses):** Not found.
+* **Safety Fact (Warnings):** Not found.
+* **Safety Fact (Directions):** Not found.
+* **Safety Fact (Other Info):** Not found.
+* **Safety Fact (Inactive Ingredients):** Not found.
+* **Safety Fact (Questions):** Not found.
+* **Toxicity Fact (Summary):** Not found.
+* **Toxicity Fact (Mechanism):** Not found.
+* **Toxicity Fact (Side Effects):** Not found.
+* **Toxicity Fact (Case Reports):** Not found.
+* **Culture Fact (Community - Sakein Village):** 
+    * **community_name:** Sakein Village
+    * **location:** Nan Province
+    * **ethnic_group:** Kuay (อึมปี้)
+    * **community_highlight:** Sakein Village, located in Nan Province, is home to the Kuay (อึมปี้) ethnic group. The village has a rich history, with its original name being "Suekuen," which translates to "land of tigers." The village was renamed Sakein, and its inhabitants were tasked with producing gunpowder from bat guano found in the nearby Sakein Cave. This traditional practice has been passed down through generations, with the Kuay people developing expertise in gunpowder production.
+    * **name_etymology:** The name "Sakein" is derived from the Thai word for "bat guano," which was a valuable resource for the production of gunpowder. The village's original name, "Suekuen," was changed to Sakein due to the abundance of bat guano in the area.
+    * **community_environment:** Sakein Village is situated in a remote area of Nan Province, surrounded by mountains and forests. The village is located near the Sakein Cave, which is a significant source of bat guano.
+    * **local_wisdom:** The Kuay people of Sakein Village possess traditional knowledge related to gunpowder production, which has been passed down through generations. This expertise is highly valued and is an important part of the village's cultural heritage.
+    * **community_organizations:** The village has a strong sense of community, with various organizations and groups working together to preserve traditional practices and promote cultural heritage.
+    * **local_name:** Kuay (อึมปี้)
+    * **traditional_use:** Gunpowder production
+    * **processing_method:** Gunpowder production from bat guano
+    * **source_url:** https://traditional-objects.sac.or.th/th/equipment-detail.php?ob_id=244
+* **Culture Fact (Community - Sakein Village 2):** 
+    * **community_name:** Sakein Village
+    * **location:** Nan Province
+    * **ethnic_group:** Kuay
+    * **community_highlight:** The Kuay people are an ethnic group that has lived in the area for generations, with a rich cultural heritage and traditional practices. They possess expertise in metalworking and have developed a unique technology for producing a type of bronze alloy.
+    * **name_etymology:** The name "Kuay" is derived from the Thai word for "bronze," which is a significant resource for the Kuay people.
+    * **community_environment:** The Kuay people live in a remote area of Nan Province, surrounded by mountains and forests.
+    * **local_wisdom:** The Kuay people possess traditional knowledge related to metalworking and bronze production, which has been passed down through generations.
+    * **community_organizations:** The village has a strong sense of community, with various organizations and groups working together to preserve traditional practices and promote cultural heritage.
+    * **local_name:** Kuay
+    * **traditional_use:** Metalworking and bronze production
+    * **processing_method:** Metalworking and bronze production
+    * **source_url:** https://ethnicity.sac.or.th/database-ethnic/161
+* **Culture Fact (Community - Sakein Village 3):** 
+    * **community_name:** Sakein Village
+    * **location:** Nan Province
+    * **ethnic_group:** Kuay
+    * **community_highlight:** The Kuay people of Sakein Village possess traditional knowledge related to textile production, including the use of natural dyes and intricate patterns.
+    * **name_etymology:** The name "Kuay" is derived from the Thai word for "textile," which is a significant resource for the Kuay people.
+    * **community_environment:** The Kuay people live in a remote area of Nan Province, surrounded by mountains and forests.
+    * **local_wisdom:** The Kuay people possess traditional knowledge related to textile production, which has been passed down through generations.
+    * **community_organizations:** The village has a strong sense of community, with various organizations and groups working together to preserve traditional practices and promote cultural heritage.
+    * **local_name:** Hijab
+    * **traditional_use:** Textile production
+    * **processing_method:** Natural dyeing and pattern-making
+    * **source_url:** https://www.sac.or.th/portal/th/article/detail/485
+* **Internal RAG Fact (Herbal):** Unfortunately, the provided internal knowledge context does not explicitly mention ดอกปีบ (Millingtonia hortensis) or its specific context.
+* **Internal RAG Fact (Cultural):** No relevant information about ดอกปีบ was found in the provided cultural context.
+* **Source URL (Trend):** Not found.
+* **Source URL (Science):** https://doi.org/10.1007/s00705-025-06464-6, https://doi.org/10.1186/s12870-025-06098-5, https://doi.org/10.1016/j.heliyon.2024.e37531
+* **Source URL (Compliance):** Not found.
+* **Source URL (Safety):** Not found.
+* **Source URL (Toxicity):** Not found.
+* **Source URL (Culture):** https://traditional-objects.sac.or.th/th/equipment-detail.php?ob_id=244, https://ethnicity.sac.or.th/database-ethnic/161, https://www.sac.or.th/portal/th/article/detail/485

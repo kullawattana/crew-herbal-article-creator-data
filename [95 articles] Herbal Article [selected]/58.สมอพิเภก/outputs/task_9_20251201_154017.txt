@@ -1,0 +1,13 @@
+# ===HERBAL_INTERNAL_SUMMARY===
+
+Terminalia bellirica, also known as สมอพิเภก in Thai, is not explicitly mentioned in the provided internal knowledge context. However, the context discusses Thai traditional medicine and its various aspects, including the use of herbal remedies, cultivation, and processing.
+
+The context highlights the importance of traditional Thai medicine in the lives of Thai people, emphasizing its cost-effectiveness and ability to treat minor ailments. It also mentions the use of herbal remedies, such as ใบมะกรูด (leaf of the Terminalia bellirica tree), which is believed to be safe from chemicals and can be consumed throughout the year.
+
+Additionally, the context touches on the preparation of traditional Thai dishes, such as คั่วบานะบายข้าวกิน (roasted Terminalia bellirica with rice), which is used to improve appetite during seasonal changes. The recipe involves grinding the Terminalia bellirica fruit, possibly extracting the juice, and then roasting it with pork, ginger, and fermented soybeans.
+
+The context also mentions the use of Terminalia bellirica in traditional Thai medicine, citing its ability to treat various ailments, although the specific details are not provided.
+
+Overall, while the context does not provide explicit information on Terminalia bellirica, it highlights the significance of traditional Thai medicine and the use of herbal remedies in Thai culture.
+
+**JSON: [Herbs_traditional_Thai_medicine_in_the_lives_of_Thai_people.json, p.N/A] | PDF: [Romprayom-2563.pdf, p.9, 17, 32]**

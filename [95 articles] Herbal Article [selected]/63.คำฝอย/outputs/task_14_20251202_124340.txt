@@ -1,0 +1,16 @@
+# ===AUDIT_DATA_INTEGRITY_REPORT===
+*   **Collaboration Robustness (Data Loss):** 80.5%
+*   **Explanation Clarity (Hallucination/Handling):** 100%
+*   **Dropped Entities (Facts in Fact Sheet but not Article):**
+    -   Compliance Fact: The explicit detail that food registrations have *varying statuses* (e.g., some current, some cancelled). The article only generally mentions "several food registrations" for various products.
+    -   Toxicity Fact (Summary): Safflower's specific traditional medicine use "including the treatment of diabetes".
+    -   Toxicity Fact (Summary): The specific names of bioactive compounds: "corosolic acid and ellagitannins". The article only mentions "several bioactive compounds".
+    -   Toxicity Fact (Mechanism): The specific details of the mechanism of injury: "inhibition of alpha-glucosidase and the reduction of nutrient load, as well as the stimulation of glucose uptake in cells."
+    -   Toxicity Fact (Case Reports): The entire fact about "limited case reports available on the use of Carthamus tinctorius for diabetes treatment."
+    -   Toxicity Fact (Case Reports): The entire fact about "one study reported that the use of Carthamus tinctorius extract resulted in a significant reduction in blood glucose levels in patients with type 2 diabetes."
+    -   Culture Fact (Community - Central Region): The specific "Community" name "Central Region". The article mentions "Central Thailand" which is the location, but not the community as a distinct fact.
+    -   Internal RAG Fact (Herbal): The meta-information detailing what the internal knowledge context *does* discuss (e.g., "benefits and uses of traditional Thai medicine, the process of cultivating and preparing herbs, and the importance of relying on oneself for health and wellness. It highlights the advantages of using Thai herbal medicine, such as cost-effectiveness and the avoidance of chemicals."). The article only states the absence of information regarding คำฝอย.
+*   **Hallucinated Entities (Facts in Article but not Fact Sheet):**
+    -   None
+*   **Feedback:**
+    The article successfully transferred the majority of critical facts from the Master Fact Sheet, achieving an 80.5% robustness score. All "Not Found" entries from the Fact Sheet (e.g., Lab Facts, specific Science Compounds, APA citations, Safety Facts, and certain Culture details) were handled perfectly by either omitting the information or explicitly stating "Not found" in the references, demonstrating 100% clarity and preventing hallucination. There were no instances of invented facts in the Final Article that were not derived from the Fact Sheet. However, several specific details, particularly regarding compliance status variations, named bioactive compounds, detailed toxicity mechanisms, case reports, a specific cultural community name, and the meta-details of the internal RAG herbal context, were not fully transferred or were generalized, leading to the identified data loss. Addressing these specific omissions would further enhance the article's completeness and accuracy.

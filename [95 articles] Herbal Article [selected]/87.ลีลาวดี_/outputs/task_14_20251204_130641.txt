@@ -1,0 +1,59 @@
+# ===AUDIT_DATA_INTEGRITY_REPORT===
+*   **Collaboration Robustness (Data Loss):** 54.93%
+*   **Explanation Clarity (Hallucination/Handling):** 60.00%
+*   **Dropped Entities (Facts in Fact Sheet but not Article):**
+    *   Lab Fact (Chromatography - TLC): Not found
+    *   Lab Fact (Cosmetic or Clinical Effect): Not found
+    *   Lab Fact (Quality Control): Not found
+    *   Compliance Fact (Food Registration 1): None found
+    *   Compliance Fact (Safety Dosage): Not found
+    *   Compliance Fact (Safety Warning): None found
+    *   Safety Fact (Active Ingredient) - Ingredient 1 - name: PLUMERIA RUBRA WHOLE
+    *   Safety Fact (Active Ingredient) - Ingredient 1 - strength: 6 [hp_C], 100 [hp_C], 1 [hp_M], 200 [hp_C], 500 [hp_C], 10 [hp_M], 30 [hp_C], 12 [hp_C]
+    *   Safety Fact (Active Ingredient) - Ingredient 1 - purpose: Not found
+    *   Safety Fact (Ingredient Purpose): Not found
+    *   Safety Fact (Uses): Not found
+    *   Safety Fact (Warnings): Not found
+    *   Safety Fact (Directions): Not found
+    *   Safety Fact (Other Info): Not found
+    *   Safety Fact (Inactive Ingredients) - Ingredient 1 - name: SUCROSE
+    *   Safety Fact (Inactive Ingredients) - Ingredient 1 - strength: Not found
+    *   Safety Fact (Questions): Not found
+    *   Toxicity Fact (Summary) - entrapment and loading efficiencies %, zeta size, zeta potential, and PDI were 89.0 %, 40.0 %, 18.5 nm, −1.65 mV, and 0.29, respectively.
+    *   Toxicity Fact (Summary) - reduced the parasitic tachyzoites’ count by 37, 43, and 49 % in the spleen, brain, and liver, respectively.
+    *   Toxicity Fact (Summary) - selectivity index 2.90 (from antiviral activity)
+    *   Toxicity Fact (Mechanism) - inference that antimicrobial and anti-inflammatory effects related to phytochemical compounds
+    *   Toxicity Fact (Mechanism) - list of phytochemical compounds: palmitic acid, linoleic acid, N-(O-Nitrophenylthio)-l-leucine, plumieridin B, lupeol, and rutin.
+    *   Culture Fact (Location - Ban Tha Makharm) - Tambon Tanawsri, Amphoe Suan Phueng
+    *   Culture Fact (Name Etymology - Ban Tha Makharm) - first village head, Pu Khiao Khot
+    *   Culture Fact (Name Etymology - Ban Tha Makharm) - makharm tree has since died
+    *   Culture Fact (Name Etymology - Ban Tha Makharm) - nearby jamapa tree, also planted by Pu Khiao's second wife, remains
+    *   Culture Fact (Environment - Ban Tha Makharm) - variety of flora and fauna
+    *   Culture Fact (Organization - Ban Tha Makharm) - a number of community-based tourism projects
+    *   Culture Fact (Local Name - Ban Tha Makharm): Thuenyamangklong
+    *   Internal RAG Fact (Cultural): No relevant information about ลีลาวดี was found in the provided cultural context.
+    *   Source URL (Trend): Not found
+    *   Source URL (Science): Not found
+*   **Hallucinated Entities (Facts in Article but not Fact Sheet):**
+    *   "cultural significance and traditional use in communities suggest a potential interest in herbal supplements or products leveraging its antimicrobial, anti-inflammatory, and antiviral properties." (The "suggest a potential interest" part)
+    *   "The lack of trend data indicates a need for market research to confirm demand and potential market size."
+    *   "The cytotoxic effect of these nanoparticles... underscores the need for careful dosage and formulation design to minimize toxicity." (The analytical part)
+    *   "The safety and regulatory considerations for Plumeria rubra are crucial."
+    *   "While Plumeria rubra nanoparticles have shown promising biological activities, their cytotoxic effect (IC50 of 503.2 μg/mL) necessitates careful consideration of dosage and formulation to ensure safety." (The analytical part)
+    *   "posing a challenge in predicting and mitigating potential adverse effects."
+    *   "which is positive, but thorough safety assessments, including clinical trials, are necessary to fully understand the safety profile of any product developed from Plumeria rubra."
+    *   "The strategic analysis for developing products based on Plumeria rubra indicates a potential market opportunity, especially considering its cultural significance and traditional use."
+    *   "However, this opportunity is tempered by the need for further research to elucidate its safety profile, optimal extraction methods, and viable compounds."
+    *   "The technical feasibility seems promising due to its demonstrated biological activities, but addressing safety and toxicity constraints is critical."
+    *   "A strategic recommendation would be to invest in further research and development, including pharmacological and toxicological studies, and clinical trials, to ensure the development of a safe and effective product."
+    *   "Market research should also be conducted to understand consumer demand and preferences better."
+    *   "Developing products that align with traditional uses and cultural significance could offer a unique selling proposition."
+    *   "Plumeria rubra, with its antimicrobial, anti-inflammatory, and antiviral properties, presents a potential opportunity for the development of herbal supplements or products." (The "presents a potential opportunity" part)
+    *   "However, this potential must be carefully balanced against the need for thorough safety assessments and further research into its properties, optimal extraction methods, and viable compounds."
+    *   "By leveraging traditional wisdom, addressing safety and toxicity constraints, and investing in research and development, it may be possible to unlock the full potential of Plumeria rubra in the wellness industry."
+    *   "symbolizing the community's history and cultural heritage."
+    *   "highlighting the community's traditional practices and beliefs surrounding the use of plants and natural resources."
+*   **Feedback:**
+    The **Collaboration Robustness (Data Loss)** score of 54.93% indicates a significant loss of specific factual details from the Master Fact Sheet. While some "Not found" entries were correctly identified (e.g., trend facts, scientific research citation), many others, particularly detailed compliance and safety facts (e.g., active/inactive ingredients, dosages, warnings), specific toxicity data (e.g., efficiencies, parasitic count reduction), and granular cultural details (e.g., specific location names, local names, full etymology details), were entirely omitted. The article also dropped the "Internal RAG Fact (Cultural)" and two "Source URL (Not found)" findings without explicitly stating their absence.
+
+    The **Explanation Clarity (Hallucination/Handling)** score of 60.00% reveals a substantial amount of analytical content, interpretations, and strategic recommendations in the Final Article that did not originate directly from the Master Fact Sheet. While the article generally handled "Not Found" results appropriately where explicitly mentioned (e.g., `citation_apa: not_found` as "Scientific Research: Not found"), the inclusion of numerous inferred conclusions and forward-looking statements significantly diluted the factual purity of the content. This suggests a tendency to generate analysis beyond the provided facts, impacting the article's clarity as a direct reflection of the source material.

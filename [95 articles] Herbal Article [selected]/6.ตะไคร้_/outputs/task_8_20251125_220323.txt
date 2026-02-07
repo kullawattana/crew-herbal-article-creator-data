@@ -1,0 +1,30 @@
+# ===CULTURE_DATA=== 
+## Cultural Context for: Lemongrass (ตะไคร้)
+
+### Finding 1 
+* **source_url:** https://ethnicredb.sac.or.th/research_detail.php?id=2099
+* **community_context:**
+    * **community_name:** Rawai Beach Community
+    * **location:** Phuket Province
+    * **ethnic_group:** Urak Lawoi
+* **community_profile_summaries:**
+    * **community_highlight:** The Rawai Beach Community is a coastal ethnic group that relies heavily on the marine ecosystem. Their food security is closely tied to the availability of land and food sources. The community's use of lemongrass is an example of their resourcefulness in utilizing local ingredients for cooking.
+    * **name_etymology:** No herbal-related information found.
+    * **community_environment:** The community's environment is characterized by a rich marine ecosystem, which provides them with a diverse range of food sources, including lemongrass.
+    * **local_wisdom:** The community's traditional use of lemongrass in cooking is an example of their local wisdom in utilizing available resources to create nutritious and flavorful dishes.
+    * **community_organizations:** No herbal-related information found.
+* **specific_entities:**
+    * **local_names:**
+        * **Item 1:**
+            * **name:** Lemongrass
+            * **context_quote:** The Rawai Beach Community uses lemongrass in cooking and it is one of the most commonly found vegetables in the area.
+    * **traditional_uses:**
+        * **Item 1:**
+            * **use:** Cooking
+            * **context_quote:** The Rawai Beach Community uses lemongrass in cooking and it is one of the most commonly found vegetables in the area.
+    * **processing_methods:**
+        * **Item 1:**
+            * **method:** Cooking
+            * **description_quote:** The Rawai Beach Community uses lemongrass in cooking and it is one of the most commonly found vegetables in the area.
+
+Note: The translations are based on the provided context and may not be perfect. However, I have strived to provide the most accurate translations possible.

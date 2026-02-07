@@ -1,0 +1,41 @@
+# ===AUDIT_DATA_INTEGRITY_REPORT===
+*   **Collaboration Robustness (Data Loss):** 48.48%
+*   **Explanation Clarity (Hallucination/Handling):** 100%
+*   **Dropped Entities (Facts in Fact Sheet but not Article):**
+    -   Lab Fact (Experimental Method): No lab fact available
+    -   Lab Fact (Extraction Method): No lab fact available
+    -   Lab Fact (Compound Identified): No lab fact available
+    -   Lab Fact (Chromatography - TLC): No lab fact available
+    -   Lab Fact (Pharmacological Finding): No lab fact available
+    -   Lab Fact (Cosmetic or Clinical Effect): No lab fact available
+    -   Lab Fact (Quality Control): No lab fact available
+    -   Science Fact (Compound): No compound fact available
+    -   Safety Fact (Active Ingredient): No safety fact available
+    -   Safety Fact (Ingredient Purpose): No safety fact available
+    -   Safety Fact (Uses): No safety fact available
+    -   Safety Fact (Warnings): No safety fact available
+    -   Safety Fact (Directions): No safety fact available
+    -   Safety Fact (Other Info): No safety fact available
+    -   Safety Fact (Inactive Ingredients): No safety fact available
+    -   Safety Fact (Questions): No safety fact available
+    -   Toxicity Fact (Case Reports): No case reports are mentioned in the article
+    -   Culture Fact (Location - Ban Wang Had): Taling Chan
+    -   Culture Fact (Ethnic Group - Ban Wang Had): Thai Sukhothai
+    -   Culture Fact (Organization - Ban Wang Had): No herbal-related information found.
+    -   Culture Fact (Local Name - Ban Wang Had): Wang Had
+    -   Culture Fact (Use - Ban Wang Had): Farming
+    -   Culture Fact (Processing - Ban Wang Had): Farming
+    -   Culture Fact (Location - Wat Ratchaorosaram Ratchaworawihan): Bangkok
+    -   Culture Fact (Ethnic Group - Wat Ratchaorosaram Ratchaworawihan): Thai
+    -   Culture Fact (Organization - Wat Ratchaorosaram Ratchaworawihan): No herbal-related information found.
+    -   Culture Fact (Local Name - Wat Ratchaorosaram Ratchaworawihan): Som Siew
+    -   Culture Fact (Processing - Wat Ratchaorosaram Ratchaworawihan): Medicine
+    -   Culture Fact (Location - Wat Samu Nimit): Surat Thani
+    -   Culture Fact (Ethnic Group - Wat Samu Nimit): Thai
+    -   Culture Fact (Organization - Wat Samu Nimit): No herbal-related information found.
+    -   Culture Fact (Local Name - Wat Samu Nimit): Nam Man Yang
+    -   Culture Fact (Use - Wat Samu Nimit): Oil
+    -   Culture Fact (Processing - Wat Samu Nimit): Oil
+*   **Hallucinated Entities (Facts in Article but not Fact Sheet):**
+    -   None
+*   **Feedback:** The Final Article demonstrated excellent clarity by not introducing any hallucinated facts and by correctly handling the "Not found" status for the APA citation. All factual statements presented in the article were directly traceable to the Master Fact Sheet. However, the robustness of data transfer suffered significantly due to the omission of numerous specific facts from the Master Fact Sheet. This includes a large number of "No X available/found" statements across lab and safety categories, as well as many granular details within the cultural facts (such as specific locations, ethnic groups, local names, and processing methods for communities). While the article sometimes summarized the *absence* of information generally, it did not explicitly convey each individual "No fact available" or specific cultural detail as recorded in the Master Fact Sheet. This resulted in a substantial loss of distinct factual entities from the source of truth.

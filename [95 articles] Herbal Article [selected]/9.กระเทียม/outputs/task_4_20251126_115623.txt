@@ -1,0 +1,31 @@
+# ===COMPLIANCE_DATA===
+
+## Thai FDA Status for: Allium sativum
+
+* **herb_name:** Allium sativum
+### Food Registrations
+* **Food Registration 1:**
+    * **registration_number:** 50-2-04629-6-0001
+    * **product_name:** กระเทียมตัดลอน คัดพิเศษ (ตราภูรินทร์)
+    * **company_name:** ร้าน ต เจริญ 88
+    * **status:** สถานะผลิตภัณฑ์(คงอยู่)\ สถานะสถานที่ (คงอยู่)
+* **Food Registration 2:**
+    * **registration_number:** 50-2-04629-6-0003
+    * **product_name:** กระเทียมไทยแกะกลีบ
+    * **company_name:** ร้าน ต เจริญ 88
+    * **status:** สถานะผลิตภัณฑ์(คงอยู่)\ สถานะสถานที่ (คงอยู่)
+* **Food Registration 3:**
+    * **registration_number:** 50-2-04629-6-0004
+    * **product_name:** กระเทียมโทนดำ ตรา กัมมี่ /  SINGLE TURB BLACK GARLIC GUMMY BRAND
+    * **company_name:** ร้าน ต เจริญ 88
+    * **status:** สถานะผลิตภัณฑ์(คงอยู่)\ สถานะสถานที่ (คงอยู่)
+* **Food Registration 4:**
+    * **registration_number:** 10-1-00155-5-0001
+    * **product_name:** กระเทียมปอกเปลือก /  Peeled Garlic
+    * **company_name:** ร้าน ต เจริญ 88
+    * **status:** สถานะผลิตภัณฑ์(คงอยู่)\ สถานะสถานที่ (คงอยู่)
+* **Food Registration 5:**
+    * **registration_number:** 10-1-00155-5-0005
+    * **product_name:** กระเทียมเจียว /  Fried Garlic
+    * **company_name:** ร้าน ต เจริญ 88
+    * **status:** สถานะผลิตภัณฑ์(คงอยู่)\ สถานะสถานที่ (คงอยู่)

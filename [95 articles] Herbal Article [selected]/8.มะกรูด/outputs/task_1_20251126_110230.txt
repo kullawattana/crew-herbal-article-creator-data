@@ -1,0 +1,5 @@
+# ===TRENDS_DATA=== 
+### Finding 1 
+* **herb_name:** Kaffir Lime (Thai name: Makrut Lime) 
+* **wellness_context_summary:** Kaffir lime is a citrus fruit native to tropical Southeast Asia. Its fruit and leaves are used in Southeast Asian cuisine, and its essential oil is used in perfumery. The leaves are the most frequently used part of the plant, fresh, dried, or frozen. The leaves are widely used in Thai cuisine (for dishes such as tom yum) and Cambodian cuisine (for the base paste "krueng"). The leaves are used in Vietnamese cuisine to add fragrance to chicken dishes and to decrease the pungent odor when steaming snails. Also, in Vietnamese villages that harvest silkworms, the silkworms in the pupa stage are stir-fried with the kaffir lime leaves. The leaves are used in Indonesian cuisine (especially Balinese cuisine and Javanese cuisine) for foods such as soto ayam and are used along with Indonesian bay leaf for chicken and fish. They are also found in Malaysian and Burmese cuisines. The rind (peel) is commonly used in Lao and Thai curry paste, adding an aromatic, astringent flavor. 
+* **source_url:** https://en.wikipedia.org/wiki/Kaffir_lime

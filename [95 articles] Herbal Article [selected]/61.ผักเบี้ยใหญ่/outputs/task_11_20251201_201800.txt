@@ -1,0 +1,59 @@
+# ===MASTER_FACT_SHEET=== 
+## Consolidated Facts for: Portulaca oleracea
+* **Trend Fact:** Not found in the provided context.
+* **Lab Fact (Experimental Method):** Not found in the provided context.
+* **Lab Fact (Extraction Method):** Not found in the provided context.
+* **Lab Fact (Compound Identified):** Not found in the provided context.
+* **Lab Fact (Chromatography - TLC):** Not found in the provided context.
+* **Lab Fact (Pharmacological Finding):** Not found in the provided context.
+* **Lab Fact (Cosmetic or Clinical Effect):** Not found in the provided context.
+* **Lab Fact (Quality Control):** Not found in the provided context.
+* **Science Fact (Herb):** Portulaca oleracea
+* **Science Fact (Compound):** PoMPK3
+* **Science Fact (Abstracts):**
+  * **Study 1:**
+    * **abstract_raw:** Clinical management of atopic dermatitis (AD) is challenged by its susceptibility to recurrence, side effects, and high costs. We found that Portulaca oleracea L.-derived nanovesicles (PDNV) exert anti-inflammatory effects by modulating macrophage M1/M2 polarization. These effects were achieved through pathways including inhibition of nuclear factor-κB (NF-κB) and stimulator of interferon genes (STING) protein expression in diseased tissues, demonstrating their potential to ameliorate AD symptoms. To increase the transdermal permeation of PDNV, dissolvable microneedles composed primarily of hyaluronic acid (HA) were developed as an adjunctive means of delivery. Meanwhile, polysaccharides of Portulaca oleracea L., which were synergistic with PDNV, were used as microneedle constituent materials to enhance the mechanical properties and physical stability of HA. This new means of delivery significantly improves the treatment of AD and also provides new options for the efficient utilization of plant extracellular vesicles and the treatment of AD. In addition, transcriptomic analysis of PDNV showed that the mRNAs of Portulaca oleracea L. are closest to those of ferns, which may shed light on related evolutionary and plant species identification studies.
+    * **citation_apa:** Long, M., Li, J., Zhu, Y., Ruan, H., Li, J., Xu, F., ... & Zhang, Y. (2025). Microneedle-facilitated Portulaca oleracea L.-derived nanovesicles ameliorate atopic dermatitis by modulating macrophage M1/M2 polarization and inhibiting NF-κB and STING signaling pathways. Acta Pharmaceutica Sinica B, 15(11), 5966-5987. doi: 10.1016/j.apsb.2025.08.021
+  * **Study 2:**
+    * **abstract_raw:** Integrated metabolome and transcriptome analysis provides insights into anthocyanin biosynthesis in Portulaca oleracea.
+    * **citation_apa:** Zhu, M., Wu, H., Fu, Y., You, L., Yang, C., Zhao, R., ... & Han, X. (2025). Integrated metabolome and transcriptome analysis provides insights into anthocyanin biosynthesis in Portulaca oleracea. BMC Plant Biology, 25(1), 1-13.
+  * **Study 3:**
+    * **abstract_raw:** PoMPK3, an MAPK Gene from Purslane (Portulaca oleracea), Conferred Salt Tolerance in Transgenic Arabidopsis thaliana.
+    * **citation_apa:** Sun, G., He, S., Dong, J., He, T., Zhu, X., Wang, K., ... & Xing, J. (2025). PoMPK3, an MAPK Gene from Purslane (Portulaca oleracea), Conferred Salt Tolerance in Transgenic Arabidopsis thaliana. Plants, 14(22), 3478.
+* **Compliance Fact (Food Registration 1):** None found.
+* **Compliance Fact (Cosmetic Registration 1):** registration_number=10-1-6200004631, product_name=อภัยภูเบศร ผักเบี้ยใหญ่ ฟิสิคอล ซีซี ครีม เอสพีเอฟ 50 พีเอ+++ เบอร์ 30, company_name=บริษัท คอมเพล็กชั่น ซายน์ จำกัด, status=คงอยู่
+* **Compliance Fact (Cosmetic Registration 2):** registration_number=10-1-6200005994, product_name=อภัยภูเบศร ผักเบี้ยใหญ่ เซนซิทีฟ คลีนซิ่ง วอเตอร์, company_name=บริษัท คอมเพล็กชั่น ซายน์ จำกัด, status=คงอยู่
+* **Compliance Fact (Cosmetic Registration 3):** registration_number=10-1-6200033680, product_name=อภัยภูเบศร ผักเบี้ยใหญ่ เซนซิทีฟ บอดี้ โลชั่น, company_name=บริษัท คอมเพล็กชั่น ซายน์ จำกัด, status=คงอยู่
+* **Compliance Fact (Cosmetic Registration 4):** registration_number=10-1-6400026282, product_name=อภัยภูเบศร ผักเบี้ยใหญ่ เดอร์ม่า ฟิลเลอร์, company_name=บริษัท คอมเพล็กชั่น ซายน์ จำกัด, status=คงอยู่
+* **Safety Fact (Active Ingredient):** Not found in the provided context.
+* **Safety Fact (Ingredient Purpose):** Not found in the provided context.
+* **Safety Fact (Uses):** Not found in the provided context.
+* **Safety Fact (Warnings):** Not found in the provided context.
+* **Safety Fact (Directions):** Not found in the provided context.
+* **Safety Fact (Other Info):** Not found in the provided context.
+* **Safety Fact (Inactive Ingredients):** Not found in the provided context.
+* **Safety Fact (Questions):** Not found in the provided context.
+* **Toxicity Fact (Summary):** Not found in the provided context.
+* **Toxicity Fact (Mechanism):** Not found in the provided context.
+* **Toxicity Fact (Side Effects):** Not found in the provided context.
+* **Toxicity Fact (Case Reports):** Not found in the provided context.
+* **Culture Fact (Community - Sala Sung Municipality, Lopburi):** community_name=Sala Sung Municipality, Lopburi
+* **Culture Fact (Location - Sala Sung Municipality, Lopburi):** location=Thale Chup Son Subdistrict, Mueang District, Lopburi Province
+* **Culture Fact (Ethnic Group - Sala Sung Municipality, Lopburi):** ethnic_group=Ancient Mon
+* **Culture Fact (Community Highlight - Sala Sung Municipality, Lopburi):** community_highlight=The Sala Sung Municipality in Lopburi Province is home to the ancient Mon community, known for their rich cultural heritage and traditional practices. The community has a strong emphasis on preserving their ancient traditions, including the use of herbal remedies. However, no specific information on herbal-related strengths was found.
+* **Culture Fact (Name Etymology - Sala Sung Municipality, Lopburi):** name_etymology=The name "Lopburi" is derived from the ancient Mon language, with "Lavo" meaning "city" and "Pura" meaning "land". This etymology is related to the ancient Mon kingdom that once flourished in the area.
+* **Culture Fact (Environment - Sala Sung Municipality, Lopburi):** community_environment=The community is situated in a rural area, surrounded by lush green forests and fertile plains. The environment is conducive to the growth of various herbs and plants, which are used in traditional medicine. However, no specific information on herbal-related environment was found.
+* **Culture Fact (Local Wisdom - Sala Sung Municipality, Lopburi):** local_wisdom=The ancient Mon community has a rich tradition of using herbal remedies for various ailments. However, no specific information on local wisdom related to herbs was found.
+* **Culture Fact (Organization - Sala Sung Municipality, Lopburi):** community_organizations=The community has several organizations that work towards preserving their cultural heritage and traditional practices. However, no specific information on community organizations related to herbs was found.
+* **Culture Fact (Local Name - Sala Sung Municipality, Lopburi):** local_name=Lavo Pura
+* **Culture Fact (Use - Sala Sung Municipality, Lopburi):** traditional_use=Making merit
+* **Culture Fact (Processing - Sala Sung Municipality, Lopburi):** processing_method=Inscription
+* **Culture Fact (Source - Sala Sung Municipality, Lopburi):** source_url=https://db.sac.or.th/inscriptions/inscribe/detail/921
+* **Internal RAG Fact (Herbal):** Portulaca oleracea, also known as ผักเบี้ยใหญ่, is not explicitly mentioned in the provided internal knowledge context. However, the context discusses Thai traditional medicine and its usage in treating various ailments. According to the context, Thai traditional medicine is considered old-fashioned and not suitable for modern times. However, it is also mentioned that using Thai traditional medicine can reduce medical expenses and is effective in treating minor ailments. The context also touches on the importance of using locally grown herbs and plants, such as ใบมะกรูด, which can be safely consumed without the risk of chemical contamination. Additionally, the context mentions the use of traditional Thai medicine in treating various health issues, such as digestive problems, and the importance of self-reliance in healthcare.
+* **Internal RAG Fact (Cultural):** Portulaca oleracea, or ผักเบี้ยใหญ่, has been used in Thai traditional medicine for its various health benefits. It is believed to have antioxidant and anti-inflammatory properties, which can help to protect against chronic diseases such as heart disease, diabetes, and cancer. In Thai traditional medicine, Portulaca oleracea is used to treat a range of health conditions, including fever, rheumatism, and digestive problems. The plant is also used as a diuretic and to treat respiratory problems such as bronchitis and asthma. Additionally, Portulaca oleracea is used in Thai traditional medicine to treat skin conditions such as eczema and acne. The plant is also believed to have antibacterial and antiviral properties, which can help to prevent infections. Overall, Portulaca oleracea is a versatile plant that has been used in Thai traditional medicine for centuries to promote overall health and well-being.
+* **Source URL (Trend):** Not found in the provided context.
+* **Source URL (Science):** https://doi.org/10.1016/j.apsb.2025.08.021
+* **Source URL (Compliance):** Not found in the provided context.
+* **Source URL (Safety):** Not found in the provided context.
+* **Source URL (Toxicity):** Not found in the provided context.
+* **Source URL (Culture):** https://db.sac.or.th/inscriptions/inscribe/detail/921

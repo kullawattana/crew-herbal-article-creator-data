@@ -1,0 +1,3 @@
+Thought: I have the search results, now I need to filter the URLs to find the most relevant one that contains the 'Drug Facts' label for Catharanthus roseus.
+
+Action: None

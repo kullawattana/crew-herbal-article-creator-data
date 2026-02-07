@@ -1,0 +1,15 @@
+# ===TRENDS_DATA===
+### Finding 1
+* **herb_name:** Safflower (Carthamus tinctorius)
+* **wellness_context_summary:** Safflower is a versatile plant with a rich history and diverse uses. It has been traditionally used for its potential health benefits, including reducing inflammation, improving heart health, and supporting skin and hair care. Safflower oil, extracted from the seeds, is rich in polyunsaturated fats and has been shown to have anti-inflammatory properties. The plant has also been used as a natural dye and in traditional medicine.
+* **source_url:** https://www.health.com/safflower-benefits-7970710
+
+### Finding 2
+* **herb_name:** Safflower (Carthamus tinctorius)
+* **wellness_context_summary:** Safflower is a thistle-like annual plant that has been cultivated for thousands of years for its multifaceted uses. The seeds are used to extract vegetable oil, which is utilized in various industries such as cosmetics, food production, and industrial applications. Safflower oil has been linked to reductions in low-density lipoprotein levels and has been studied for potential health benefits in various conditions.
+* **source_url:** https://damonherbs.com/safflower-uses-benefits-side-effects-and-more/
+
+### Finding 3
+* **herb_name:** Safflower (Carthamus tinctorius)
+* **wellness_context_summary:** Safflower is one of the oldest known cultivated crops, being cultivated in Mesopotamia potentially as early as 2500BCE. It has been a highly valuable resource for thousands of years, used as a dye for both clothing and food, and as a cheap alternative to saffron. Today, safflower is used as a cooking oil and vital ingredient in skin and hair care products.
+* **source_url:** https://www.kew.org/plants/safflower

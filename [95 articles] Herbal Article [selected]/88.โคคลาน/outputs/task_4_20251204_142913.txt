@@ -1,0 +1,40 @@
+# ===COMPLIANCE_DATA=== 
+## Thai FDA Status for: Mallotus repandus
+* **herb_name:** Mallotus repandus
+### Food Registrations 
+* **Food Registration 1:**
+    * **registration_number:** 10-1-13660-5-0252
+    * **product_name:** โคคลาน (ผง) / Anamirta cocculus (Powder)
+    * **company_name:** บริษัท โพธิ์ประดิษฐ์สมุนไพร จำกัด
+    * **status:** สถานะผลิตภัณฑ์(ยกเลิกโดยผู้ประกอบการ 26/10/2561) \ สถานะสถานที่ (คงอยู่ )
+* **Food Registration 2:**
+    * **registration_number:** 10-1-13660-5-0253
+    * **product_name:** โคคลาน  / Anamirta cocculus
+    * **company_name:** บริษัท โพธิ์ประดิษฐ์สมุนไพร จำกัด
+    * **status:** สถานะผลิตภัณฑ์(ยกเลิกโดยผู้ประกอบการ 26/10/2561) \ สถานะสถานที่ (คงอยู่ )
+### Herbal Products 
+* **Herbal Product 1:**
+    * **registration_number:** G207/58
+    * **product_name:** ยาน้ำสมุนไพรผสมโคคลาน / COMPOUND COCLAN MIXTURE
+    * **company_name:** ทิพย์เกสร เฮิร์บ แอนด์ เฮลท์
+    * **status:** คงอยู่
+* **Herbal Product 2:**
+    * **registration_number:** G446/54
+    * **product_name:** ยาผงบรรเทาอาการปวดเมื่อยผสมเถาโคคลาน / -
+    * **company_name:** สุทธิรักษ์สมุนไพรไทย
+    * **status:** ยกเลิก
+* **Herbal Product 3:**
+    * **registration_number:** G653/64
+    * **product_name:** ยาบรรเทาอาการปวดเมื่อย ผสมโคคลาน ตรา โคลเวอร์ เฮบ /  -
+    * **company_name:** เภสัชกรรมนครพัฒนา
+    * **status:** คงอยู่
+* **Herbal Product 4:**
+    * **registration_number:** G58/64
+    * **product_name:** ยาน้ำมันนวด ผสมเถาเอ็นอ่อน และเถาโคคลาน ตราศรนารายณ์ /  COMPOUND THAO EN ON AND THAO KHO KHLAN LINIMENT SORNNARAI BRAND
+    * **company_name:** ห้างหุ้นส่วน ศรนารายณ์โอสถ
+    * **status:** ยกเลิก
+* **Herbal Product 5:**
+    * **registration_number:** G266/63
+    * **product_name:** ยาผสมโคคลาน ตราสนารีโอสถ  / -
+    * **company_name:** ร้านทิพย์เจริญโอสถ
+    * **status:** คงอยู่

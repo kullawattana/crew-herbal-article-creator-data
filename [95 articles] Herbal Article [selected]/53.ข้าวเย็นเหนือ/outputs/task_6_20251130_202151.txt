@@ -1,0 +1,1 @@
+# ===TOXICITY_DATA=== ## Clinical Toxicity Data for: Smilax corbularia * **herb_name:** Smilax corbularia * **source_browsed:** None ### Clinical Summary * **toxicity_summary:** Not found * **mechanism_of_injury:** Not found * **reported_side_effects:** Not found * **case_report_summary:** Not found

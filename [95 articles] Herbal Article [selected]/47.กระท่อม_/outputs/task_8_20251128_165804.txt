@@ -1,0 +1,28 @@
+# ===CULTURE_DATA===
+## Cultural Context for: Ta Khan Pom (กระท่อม)
+
+### Finding 1
+* **source_url:** https://folktales.sac.or.th/folktale-details.php?id=221
+* **community_context:**
+    * **community_name:** Ta Khan Pom's Hut
+    * **location:** Forest
+    * **ethnic_group:** No information
+* **community_profile_summaries:**
+    * **community_highlight:** No herbal-related information found
+    * **name_etymology:** The name "Ta Khan Pom" is derived from the main character's name in the folktale, which is a story about a old man who lives in a hut in the forest.
+    * **community_environment:** The community is located in a forest, where the main character, Ta Khan Pom, plants a vegetable garden as his occupation.
+    * **local_wisdom:** Ta Khan Pom uses his urine to water his vegetable garden, which helps his eggplant to survive and thrive during the hot season.
+    * **community_organizations:** No information found
+* **specific_entities:**
+    * **local_names:**
+        * **Item 1:**
+            * **name:** Hut
+            * **context_quote:** Ta Khan Pom's hut
+    * **traditional_uses:**
+        * **Item 1:**
+            * **use:** Vegetable gardening
+            * **context_quote:** Planting a vegetable garden as an occupation
+    * **processing_methods:**
+        * **Item 1:**
+            * **method:** Urine watering
+            * **description_quote:** Watering with urine in the morning and evening

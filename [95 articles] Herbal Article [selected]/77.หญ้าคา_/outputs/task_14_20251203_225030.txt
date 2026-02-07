@@ -1,0 +1,48 @@
+# ===AUDIT_DATA_INTEGRITY_REPORT===
+*   **Collaboration Robustness (Data Loss):** 49%
+*   **Explanation Clarity (Hallucination/Handling):** 71%
+*   **Dropped Entities (Facts in Fact Sheet but not Article):**
+    *   Compliance Fact (Food Registration 1): registration_number=10-1-13660-5-0268, product_name=หญ้าคา (ผง) / Alang-alang (Powder), company_name=บริษัท โพธิ์ประดิษฐ์สมุนไพร จำกัด, status=สถานะผลิตภัณฑ์(คงอยู่)\ สถานะสถานที่ (คงอยู่)
+    *   Compliance Fact (Food Registration 2): registration_number=10-1-13660-5-0269, product_name=หญ้าคา / Alang-alang, company_name=บริษัท โพธิ์ประดิษฐ์สมุนไพร จำกัด, status=สถานะผลิตภัณฑ์(คงอยู่)\ สถานะสถานที่ (คงอยู่)
+    *   Compliance Fact (Food Registration 3): registration_number=50-1-16256-1-0001, product_name=เครื่องดื่มใบเจี่ยวกู้หลาน,ใบหม่อน,หญ้าคา,ดอกคำฝอย,ใบแป๊ะก๊วยและโสมชนิดแห้ง (ตรา ดอยปุย) / JIAOGULAN LEAVES,MULBERRY LEAVES,LALANG SAFFLOWER,GINKGO LEAVES AND GINSENG BEVERAGE POWDER (DOIPUI BRAND), company_name=บริษัท ดอย ปุย เฮิร์บส จำกัด, status=สถานะผลิตภัณฑ์(คงอยู่)\ สถานะสถานที่ (คงอยู่)
+    *   Compliance Fact (Cosmetic Registration 1): registration_number=34-1-6300034586, product_name=กัส สกิน หญ้าคา ไวท์เทนนิ่ง มาส์ก / GUS SKIN YAR KAR WHITENING MASK, company_name=นางสาว อมรรัตน์ สุวรรณรมย์, status=สิ้นอายุ
+    *   Toxicity Fact (Case Reports): There have been several case reports of liver injury associated with the use of Imperata cylindrica, including a case of acute liver failure.
+    *   Culture Fact (Location - Ban Dong Bang): Prachinburi
+    *   Culture Fact (Ethnic Group - Ban Dong Bang): Thai
+    *   Culture Fact (Community Highlight - Ban Dong Bang): Lemongrass is a significant herb in Ban Dong Bang, used in various traditional medicine and culinary practices.
+    *   Culture Fact (Name Etymology - Ban Dong Bang): The name 'หญ้าคา' is derived from the Thai words 'หญ้า' meaning 'grass' and 'คา' meaning 'fragrant'.
+    *   Culture Fact (Environment - Ban Dong Bang): Ban Dong Bang is situated in a fertile valley surrounded by lush forests and winding rivers.
+    *   Culture Fact (Organization - Ban Dong Bang): The Ban Dong Bang Community Organization plays a vital role in promoting lemongrass-related activities.
+    *   Culture Fact (Processing - Ban Dong Bang): Drying
+    *   Culture Fact (Location - Ban Khao Yai): Nakhon Ratchasima
+    *   Culture Fact (Ethnic Group - Ban Khao Yai): Thai
+    *   Culture Fact (Community Highlight - Ban Khao Yai): Ban Khao Yai is renowned for its lemongrass-infused products, such as teas, soaps, and candles.
+    *   Culture Fact (Name Etymology - Ban Khao Yai): The name 'หญ้าคา' is also used in Ban Khao Yai, reflecting the community's shared cultural heritage with Ban Dong Bang.
+    *   Culture Fact (Environment - Ban Khao Yai): Ban Khao Yai is situated in a mountainous region with rich soil and a mild climate, ideal for lemongrass cultivation.
+    *   Culture Fact (Local Wisdom - Ban Khao Yai): The local wisdom of Ban Khao Yai emphasizes the importance of community cooperation and innovation. (Specifically, the mention of "innovation" for Ban Khao Yai was omitted)
+    *   Culture Fact (Organization - Ban Khao Yai): The Ban Khao Yai Community Development Center provides training and support for local entrepreneurs.
+    *   Culture Fact (Processing - Ban Khao Yai): Distillation
+    *   Compliance Fact (Safety Dosage): No safety dosage is available in the provided context.
+    *   Compliance Fact (Safety Warning): No safety warning is available in the provided context.
+    *   Safety Fact (Active Ingredient): No active ingredient is available in the provided context.
+    *   Safety Fact (Ingredient Purpose): No ingredient purpose is available in the provided context.
+    *   Safety Fact (Uses): No uses are available in the provided context.
+    *   Safety Fact (Warnings): No warnings are available in the provided context.
+    *   Safety Fact (Directions): No directions are available in the provided context.
+    *   Safety Fact (Other Info): No other information is available in the provided context.
+    *   Safety Fact (Inactive Ingredients): No inactive ingredients are available in the provided context.
+    *   Safety Fact (Questions): No questions are available in the provided context.
+    *   Source URL (Trend): No trend URL is available in the provided context.
+    *   Source URL (Science): No science URL is available in the provided context.
+*   **Hallucinated Entities (Facts in Article but not Fact Sheet):**
+    *   "suggest a potential market opportunity for products leveraging this herb."
+    *   "The registrations and traditional uses indicate a level of demand and acceptance of Imperata cylindrica-based products."
+    *   "means that any development would need to start with thorough scientific research to identify viable compounds and safe extraction methods."
+    *   "The local wisdom of these communities emphasizes the importance of traditional knowledge and community cooperation." (The generalization of "traditional knowledge" to Ban Khao Yai, where the MFS only specified "community cooperation and innovation" for that community.)
+    *   "which necessitates careful consideration of safety protocols, dosage limits, and potential interactions with other substances."
+    *   "The strategic plan for new product development based on the Master Fact Sheet highlights the potential market opportunity and technical feasibility of developing Imperata cylindrica-based products."
+    *   "The recommendation is to invest in thorough scientific research to better understand the plant's chemical constituents, their effects on the human body, and how to safely harness its potential benefits."
+    *   "Imperata cylindrica has the potential to be developed into innovative, safe, and effective products that meet consumer demand while respecting its traditional and cultural significance."
+    *   "However, thorough scientific research is necessary to address the critical safety constraints associated with the herb."
+    *   "By prioritizing safety and conducting rigorous research, it's possible to unlock the traditional wisdom of Imperata cylindrica for modern wellness."
+*   **Feedback:** The Collaboration Robustness score of 49% indicates significant data loss. While the article successfully conveyed the primary subject (Imperata cylindrica), its traditional uses, its hepatotoxicity, and correctly handled the absence of several scientific and trend facts, it failed to transfer specific details regarding compliance registrations, detailed cultural facts (locations, ethnic groups, etymologies, environmental context, processing methods, specific community highlights/organizations), and specific toxicity case reports. Crucially, the explicit absence of numerous safety facts and source URLs from the Master Fact Sheet was not explicitly stated in the article, leading to further data loss. The Explanation Clarity score of 71% reflects a tendency for the article to introduce inferences, recommendations, and strategic/visionary statements not directly present as facts in the Master Fact Sheet. While these may be reasonable conclusions, they constitute hallucination under strict audit criteria. There was also a minor issue with generalization and loss of specificity in describing local wisdom. The handling of "Not Found" results (like `citation_apa: not_found` and `No lab fact is available`) was performed correctly and positively contributed to the scores.

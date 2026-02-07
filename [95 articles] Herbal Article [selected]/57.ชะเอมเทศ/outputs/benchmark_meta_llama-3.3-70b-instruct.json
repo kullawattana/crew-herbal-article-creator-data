@@ -1,0 +1,11 @@
+{
+  "model": "meta/llama-3.3-70b-instruct",
+  "herbs": "Glycyrrhiza glabra",
+  "runtime_sec": 1560.68,
+  "cpu_percent": -1.1,
+  "memory_mb_change": 314.41,
+  "total_tokens": 0,
+  "prompt_tokens": 0,
+  "completion_tokens": 0,
+  "total_cost": 0.0
+}

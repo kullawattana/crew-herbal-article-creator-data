@@ -1,0 +1,11 @@
+{
+  "model": "meta/llama-3.3-70b-instruct",
+  "herbs": "Coscinium fenestratum",
+  "runtime_sec": 949.61,
+  "cpu_percent": 14.3,
+  "memory_mb_change": -334.34,
+  "total_tokens": 0,
+  "prompt_tokens": 0,
+  "completion_tokens": 0,
+  "total_cost": 0.0
+}

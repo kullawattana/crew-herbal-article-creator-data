@@ -1,0 +1,54 @@
+# ===CULTURE_DATA=== 
+## Cultural Context for: The Museum of Floral Culture (พิพิธภัณฑ์วัฒนธรรมดอกไม้)
+
+### Finding 1 
+* **source_url:** https://db.sac.or.th/museum/museum-detail/1247 
+* **community_context:**
+    * **community_name:** The Museum of Floral Culture
+    * **location:** Dusit District, Bangkok
+    * **ethnic_group:** Thai
+* **community_profile_summaries:**
+    * **community_highlight:** The Museum of Floral Culture is a unique cultural institution that showcases the art and history of floral arrangements in Thailand. The museum was founded by Sakul Intakul, a renowned floral artist, and features a collection of traditional Thai floral arrangements, as well as exhibits on the history and cultural significance of flowers in Thai society.
+    * **name_etymology:** The name "The Museum of Floral Culture" reflects the museum's focus on the cultural significance of flowers in Thai society. The word "floral" refers to the art of flower arrangement, while "culture" highlights the museum's mission to preserve and promote Thai cultural heritage.
+    * **community_environment:** The museum is located in a historic building in the Dusit District of Bangkok, which is known for its rich cultural heritage. The surrounding area is home to many other cultural institutions, including the Grand Palace and the National Museum.
+    * **local_wisdom:** The museum showcases traditional Thai floral arrangements, which are an important part of Thai cultural heritage. The arrangements are made using a variety of flowers, including orchids, jasmine, and marigolds, and are often used in traditional Thai ceremonies and rituals.
+    * **community_organizations:** The museum is affiliated with the Princess Maha Chakri Sirindhorn Anthropology Centre (SAC), which is a leading research institution in Thailand. The SAC provides support for the museum's research and educational programs.
+* **specific_entities:**
+    * **local_names:**
+        * **Item 1:**
+            * **name:** Sakul Intakul
+            * **context_quote:** "Sakul Intakul is a renowned floral artist and the founder of The Museum of Floral Culture."
+    * **traditional_uses:**
+        * **Item 1:**
+            * **use:** Traditional Thai floral arrangements
+            * **context_quote:** "Traditional Thai floral arrangements are an important part of Thai cultural heritage and are often used in traditional Thai ceremonies and rituals."
+    * **processing_methods:**
+        * **Item 1:**
+            * **method:** Flower arrangement
+            * **description_quote:** "The art of flower arrangement is an important part of Thai cultural heritage and is often used in traditional Thai ceremonies and rituals."
+
+### Finding 2 
+* **source_url:** https://ethnicredb.sac.or.th/research_detail.php?id=455 
+* **community_context:** 
+    * **community_name:** Thailand and Southeast Asia Ethnic Groups Research Database
+    * **location:** Not specified
+    * **ethnic_group:** Not specified
+* **community_profile_summaries:**
+    * **community_highlight:** The Thailand and Southeast Asia Ethnic Groups Research Database is a comprehensive online database that provides information on ethnic groups in Thailand and Southeast Asia. The database includes information on the culture, language, and traditions of each ethnic group.
+    * **name_etymology:** The name "Thailand and Southeast Asia Ethnic Groups Research Database" reflects the database's focus on ethnic groups in Thailand and Southeast Asia.
+    * **community_environment:** The database is maintained by the Princess Maha Chakri Sirindhorn Anthropology Centre (SAC), which is a leading research institution in Thailand.
+    * **local_wisdom:** The database provides information on the culture, language, and traditions of each ethnic group, which is an important part of Thai cultural heritage.
+    * **community_organizations:** The database is affiliated with the SAC, which provides support for the database's research and educational programs.
+* **specific_entities:**
+    * **local_names:**
+        * **Item 1:**
+            * **name:** Princess Maha Chakri Sirindhorn Anthropology Centre (SAC)
+            * **context_quote:** "The Princess Maha Chakri Sirindhorn Anthropology Centre (SAC) is a leading research institution in Thailand that provides support for the Thailand and Southeast Asia Ethnic Groups Research Database."
+    * **traditional_uses:**
+        * **Item 1:**
+            * **use:** Research and education
+            * **context_quote:** "The Thailand and Southeast Asia Ethnic Groups Research Database is used for research and education purposes, providing information on ethnic groups in Thailand and Southeast Asia."
+    * **processing_methods:**
+        * **Item 1:**
+            * **method:** Online database
+            * **description_quote:** "The Thailand and Southeast Asia Ethnic Groups Research Database is an online database that provides information on ethnic groups in Thailand and Southeast Asia."

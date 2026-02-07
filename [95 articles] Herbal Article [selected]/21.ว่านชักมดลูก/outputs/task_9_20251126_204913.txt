@@ -1,0 +1,9 @@
+# ===HERBAL_INTERNAL_SUMMARY=== 
+
+Unfortunately, the provided internal knowledge context does not specifically mention ว่านชักมดลูก (Curcuma comosa). However, the context discusses the benefits and uses of traditional Thai medicine, highlighting its potential to reduce medical expenses and provide effective treatment for minor ailments. 
+
+The context also touches on the importance of self-sufficiency in food production, suggesting that growing one's own herbs and vegetables can ensure safety from chemicals and provide a steady supply of fresh produce. Additionally, it mentions the use of certain herbs and plants in traditional Thai medicine, such as ใบมะกรูด (lemon basil), which is said to be safe from chemicals and can be used to promote health.
+
+The context also provides information on the preparation and use of traditional Thai medicine, including the use of คั่วบานะบายข้าวกิน (a type of herbal remedy) to improve appetite and alleviate symptoms of illness. Furthermore, it highlights the importance of preserving traditional Thai knowledge and practices related to herbal medicine.
+
+Overall, while the context does not specifically mention ว่านชักมดลูก (Curcuma comosa), it provides valuable insights into the world of traditional Thai medicine and its potential benefits. **JSON: [Herbs_traditional_Thai_medicine_in_the_lives_of_Thai_people.json, p.N/A] | PDF: [Romprayom-2563.pdf, p.9, 17, 32]**

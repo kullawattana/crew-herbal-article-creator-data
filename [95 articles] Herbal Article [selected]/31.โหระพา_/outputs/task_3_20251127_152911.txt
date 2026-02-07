@@ -1,0 +1,33 @@
+# ===RESEARCH_DATA===
+## Scientific Evidence for: Ocimum basilicum
+* **herb_name:** Ocimum basilicum
+* **herb_name_scientific:** Ocimum basilicum
+### Validated Compounds
+* **Compound 1:**
+    * **compound_name:** not_found
+    * **mechanism_name:** not_found
+    * **supporting_studies:**
+        * **Study 1:** 
+            * **study_type:** not_found
+            * **abstract_raw:** not_found
+            * **key_findings:** not_found
+            * **pmid:** 41298702
+            * **canonical_url:** https://pubmed.ncbi.nlm.nih.gov/41298702/
+            * **citation_apa:** not_found
+        * **Study 2:** 
+            * **study_type:** not_found
+            * **abstract_raw:** not_found
+            * **key_findings:** not_found
+            * **pmid:** 41298563
+            * **canonical_url:** https://pubmed.ncbi.nlm.nih.gov/41298563/
+            * **citation_apa:** not_found
+        * **Study 3:** 
+            * **study_type:** not_found
+            * **abstract_raw:** not_found
+            * **key_findings:** not_found
+            * **pmid:** 41295707
+            * **canonical_url:** https://pubmed.ncbi.nlm.nih.gov/41295707/
+            * **citation_apa:** not_found
+
+### Overall Summary
+* **summary:** not_found

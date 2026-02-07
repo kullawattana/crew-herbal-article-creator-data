@@ -1,0 +1,79 @@
+# ===CULTURE_DATA=== 
+## Cultural Context for: White Flower Grass (หญ้าดอกขาว)
+### Finding 1 
+* **source_url:** https://wikicommunity.sac.or.th/community/1042 
+* **community_context:** 
+    * **community_name:** Bang Noi-Tha Phru 
+    * **location:** Narathiwat Province 
+    * **ethnic_group:** Thai Buddhist, Thai Muslim, Thai-Chinese 
+* **community_profile_summaries:** 
+    * **community_highlight:** The Bang Noi-Tha Phru community has a total population of 782 people, consisting of 360 males and 442 females, with 403 households. The community is composed of Thai Buddhist, Thai Muslim, and Thai-Chinese ethnic groups. The community has a diverse cultural background, with various ethnic groups living together. 
+    * **name_etymology:** The name "Bang Noi-Tha Phru" is derived from the Thai words "Bang" meaning "village" and "Noi" meaning "small". Tha Phru is a reference to the community's location near a river. 
+    * **community_environment:** The community is situated in a rural area, surrounded by forests and rivers. The environment is conducive to the growth of various plants, including the White Flower Grass. 
+    * **local_wisdom:** The community has a rich cultural heritage, with traditional knowledge passed down through generations. The use of White Flower Grass as a medicinal herb is an example of this local wisdom. 
+    * **community_organizations:** The community has a strong sense of unity, with various organizations and groups working together to promote the community's well-being. 
+* **specific_entities:** 
+    * **local_names:** 
+        * **Item 1:** 
+            * **name:** White Flower Grass 
+            * **context_quote:** White Flower Grass is a herbaceous plant with leaves similar to chili leaves. The stem is approximately 1 foot tall, with purple flowers that turn white when mature. The leaves and flowers have a bland taste, while the roots have a bitter taste. It is used as a medicinal herb to treat various ailments, including stomach pain, fever, high blood pressure, diarrhea, and joint pain. 
+    * **traditional_uses:** 
+        * **Item 1:** 
+            * **use:** Medicinal herb 
+            * **context_quote:** White Flower Grass is used to treat various ailments, including stomach pain, fever, high blood pressure, diarrhea, and joint pain. 
+    * **processing_methods:** 
+        * **Item 1:** 
+            * **method:** Planting White Flower Grass 
+            * **description_quote:** White Flower Grass is a herbaceous plant with leaves similar to chili leaves. The stem is approximately 1 foot tall, with purple flowers that turn white when mature. The leaves and flowers have a bland taste, while the roots have a bitter taste. It is used as a medicinal herb to treat various ailments, including stomach pain, fever, high blood pressure, diarrhea, and joint pain. 
+
+### Finding 2 
+* **source_url:** https://ethnicredb.sac.or.th/research_detail.php?id=1114 
+* **community_context:** 
+    * **community_name:** Akha Ban Pha Mi 
+    * **location:** Mae Sai District, Chiang Rai Province 
+    * **ethnic_group:** Akha 
+* **community_profile_summaries:** 
+    * **community_highlight:** The Akha Ban Pha Mi community has a total population of 563 people, consisting of 286 females and 277 males. The community is led by a village head who is responsible for maintaining order and resolving conflicts. 
+    * **name_etymology:** The name "Akha Ban Pha Mi" is derived from the Akha language, with "Akha" referring to the ethnic group and "Ban Pha Mi" referring to the community's location. 
+    * **community_environment:** The community is situated in a rural area, surrounded by forests and mountains. The environment is conducive to the growth of various plants, including the White Flower Grass. 
+    * **local_wisdom:** The community has a rich cultural heritage, with traditional knowledge passed down through generations. The use of White Flower Grass as a medicinal herb is an example of this local wisdom. 
+    * **community_organizations:** The community has a strong sense of unity, with various organizations and groups working together to promote the community's well-being. 
+* **specific_entities:** 
+    * **local_names:** 
+        * **Item 1:** 
+            * **name:** White Flower Grass 
+            * **context_quote:** White Flower Grass is a herbaceous plant with leaves similar to chili leaves. The stem is approximately 1 foot tall, with purple flowers that turn white when mature. The leaves and flowers have a bland taste, while the roots have a bitter taste. It is used as a medicinal herb to treat various ailments, including stomach pain, fever, high blood pressure, diarrhea, and joint pain. 
+    * **traditional_uses:** 
+        * **Item 1:** 
+            * **use:** Medicinal herb 
+            * **context_quote:** White Flower Grass is used to treat various ailments, including stomach pain, fever, high blood pressure, diarrhea, and joint pain. 
+    * **processing_methods:** 
+        * **Item 1:** 
+            * **method:** Planting White Flower Grass 
+            * **description_quote:** White Flower Grass is a herbaceous plant with leaves similar to chili leaves. The stem is approximately 1 foot tall, with purple flowers that turn white when mature. The leaves and flowers have a bland taste, while the roots have a bitter taste. It is used as a medicinal herb to treat various ailments, including stomach pain, fever, high blood pressure, diarrhea, and joint pain. 
+
+### Finding 3 
+* **source_url:** https://sac-research.sac.or.th/uploads/article//2023_20230601083809-1.pdf 
+* **community_context:** 
+    * **community_name:** Karen Community 
+    * **location:** Uthai Thani Province 
+    * **ethnic_group:** Karen 
+* **community_profile_summaries:** 
+    * **community_highlight:** The Karen community in Uthai Thani Province has a rich cultural heritage, with traditional knowledge passed down through generations. The use of White Flower Grass as a medicinal herb is an example of this local wisdom. 
+    * **name_etymology:** The name "Karen" is derived from the Karen language, referring to the ethnic group. 
+    * **community_environment:** The community is situated in a rural area, surrounded by forests and mountains. The environment is conducive to the growth of various plants, including the White Flower Grass. 
+    * **local_wisdom:** The community has a rich cultural heritage, with traditional knowledge passed down through generations. The use of White Flower Grass as a medicinal herb is an example of this local wisdom. 
+    * **community_organizations:** The community has a strong sense of unity, with various organizations and groups working together to promote the community's well-being. 
+* **specific_entities:** 
+    * **local_names:** 
+        * **Item 1:** 
+            * **name:** White Flower Grass 
+            * **context_quote:** White Flower Grass is a herbaceous plant with leaves similar to chili leaves. The stem is approximately 1 foot tall, with purple flowers that turn white when mature. The leaves and flowers have a bland taste, while the roots have a bitter taste. It is used as a medicinal herb to treat various ailments, including stomach pain, fever, high blood pressure, diarrhea, and joint pain. 
+    * **traditional_uses:** 
+        * **Item 1:** 
+            * **use:** Medicinal herb 
+            * **context_quote:** White Flower Grass is used to treat various ailments, including stomach pain, fever, high blood pressure, diarrhea, and joint pain. 
+    * **processing_methods:** 
+        * **Item 1:** 
+            * **method:** Planting White Flower Grass 
+            * **description_quote:** White Flower Grass is a herbaceous plant with leaves similar to chili leaves. The stem is approximately 1 foot tall, with purple flowers that turn white when mature. The leaves and flowers have a bland taste, while the roots have a bitter taste. It is used as a medicinal herb to treat various ailments, including stomach pain, fever, high blood pressure, diarrhea, and joint pain.

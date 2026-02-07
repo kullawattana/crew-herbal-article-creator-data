@@ -1,0 +1,36 @@
+# ===AUDIT_DATA_INTEGRITY_REPORT===
+*   **Collaboration Robustness (Data Loss):** 52%
+*   **Explanation Clarity (Hallucination/Handling):** 60%
+*   **Dropped Entities (Facts in Fact Sheet but not Article):**
+    - Lab Fact (Experimental Method): None found
+    - Lab Fact (Extraction Method): None found (The explicit absence of this knowledge was dropped; instead, knowledge was hallucinated)
+    - Lab Fact (Chromatography - TLC): None found
+    - Lab Fact (Pharmacological Finding): None found (The explicit absence of this knowledge was dropped; instead, knowledge was hallucinated)
+    - Lab Fact (Cosmetic or Clinical Effect): None found
+    - Lab Fact (Quality Control): None found
+    - Compliance Fact (Food Registration 1): Specific details (registration_number, product_name, company_name, status)
+    - Compliance Fact (Food Registration 2): Specific details (registration_number, product_name, company_name, status)
+    - Compliance Fact (Food Registration 3): Specific details (registration_number, product_name, company_name, status)
+    - Compliance Fact (Food Registration 4): Specific details (registration_number, product_name, company_name, status)
+    - Compliance Fact (Food Registration 5): Specific details (registration_number, product_name, company_name, status)
+    - Safety Fact (Active Ingredient): None found
+    - Safety Fact (Ingredient Purpose): None found
+    - Safety Fact (Uses): None found
+    - Safety Fact (Warnings): None found
+    - Safety Fact (Directions): None found
+    - Safety Fact (Other Info): None found
+    - Safety Fact (Inactive Ingredients): None found
+    - Safety Fact (Questions): None found
+    - Toxicity Fact (Case Reports): There are no case reports of liver injury associated with Coccinia grandis available in the literature.
+    - Culture Fact (Community - Thai Numbers in Traditional Medicine): community_highlight detail "cooling properties and ability to counteract poison"
+    - Culture Fact (Community - Thai Numbers in Traditional Medicine): processing_method: "Grind into a paste and mix with water"
+    - Culture Fact (Community - Database of Inscriptions in Thailand - Cancer): processing_method: "Soak in liquor"
+    - Culture Fact (Community - Database of Inscriptions in Thailand - Asthma): processing_method: "Soak in liquor"
+    - Internal RAG Fact (Herbal): The explicit statement that the internal knowledge context "does not explicitly mention "ตำลึง" or "Coccinia grandis""
+    - Internal RAG Fact (Herbal): The detail about "reducing healthcare costs and promoting self-sufficiency in healthcare."
+    - Source URL (Compliance): None found
+    - Source URL (Safety): None found
+*   **Hallucinated Entities (Facts in Article but not Fact Sheet):**
+    - Statement: "existing knowledge on its extraction" (in "Strategic Analysis and Product Opportunities" section). The Master Fact Sheet explicitly states "Lab Fact (Extraction Method): None found."
+    - Statement: "existing knowledge on its... pharmacological findings" (in "Strategic Analysis and Product Opportunities" section). The Master Fact Sheet explicitly states "Lab Fact (Pharmacological Finding): None found."
+*   **Feedback:** The article demonstrates significant data loss, particularly regarding specific compliance details (food registrations), safety facts (all "None found" safety facts were omitted), and processing methods from cultural facts. Many "None found" facts were simply dropped rather than being acknowledged. The robustness score reflects that less than half of the distinct facts from the Master Fact Sheet were fully and accurately transferred. Furthermore, the clarity score is negatively impacted by two critical hallucinations where the article incorrectly claimed "existing knowledge" for extraction methods and pharmacological findings, directly contradicting the Master Fact Sheet's explicit "None found" statements for these areas. While the article correctly handled the "Trend Fact: None found" by acknowledging the lack of explicit data and did not invent any citations where they were provided, these two severe contradictions are a major breach of data integrity.

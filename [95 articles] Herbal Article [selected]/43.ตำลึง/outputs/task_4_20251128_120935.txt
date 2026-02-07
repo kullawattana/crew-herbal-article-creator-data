@@ -1,0 +1,30 @@
+# ===COMPLIANCE_DATA===
+## Thai FDA Status for: Coccinia grandis
+
+* **herb_name:** Coccinia grandis
+### Food Registrations
+* **Food Registration 1:**
+    * **registration_number:** 10-1-00357-5-0029
+    * **product_name:** ข้าวหอมมะลิเคลือบผักรวมสูตรเคลือบป๋วยเล้ง บร็อคโคลี ผักโขม ตำลึง (ตราจินนี่ย์) / Jusmine rice coated with spinach , broccoli , amaranth , ivy gourd (Jinny Brand )
+    * **company_name:** บริษัท บางกอกตลาดข้าวไทย จำกัด
+    * **status:** สถานะผลิตภัณฑ์(คงอยู่)\ สถานะสถานที่ (คงอยู่)
+* **Food Registration 2:**
+    * **registration_number:** 10-1-00357-5-0031
+    * **product_name:** ข้าวเหนียวเคลือบผักรวมสูตรเคลือบป๋วยเล้ง บร็อคโคลี ผักโขม ตำลึง (ตราจินนี่ย์) / Sticky rice coated with spinach , broccoli , amaranth , ivy gourd (Jinny Brand )
+    * **company_name:** บริษัท บางกอกตลาดข้าวไทย จำกัด
+    * **status:** สถานะผลิตภัณฑ์(คงอยู่)\ สถานะสถานที่ (คงอยู่)
+* **Food Registration 3:**
+    * **registration_number:** 10-1-11542-1-0010
+    * **product_name:** ตำลึงแช่อิ่มแห้ง
+    * **company_name:** นางอรุณ นฤทุม
+    * **status:** สถานะผลิตภัณฑ์(คงอยู่)\ สถานะสถานที่ (คงอยู่)
+* **Food Registration 4:**
+    * **registration_number:** 10-1-13660-5-0148
+    * **product_name:** ตำลึง  / Ivy Gourd
+    * **company_name:** บริษัท โพธิ์ประดิษฐ์สมุนไพร จำกัด
+    * **status:** สถานะผลิตภัณฑ์(คงอยู่)\ สถานะสถานที่ (คงอยู่)
+* **Food Registration 5:**
+    * **registration_number:** 10-1-13660-5-0149
+    * **product_name:** ตำลึง (ผง) / Ivy Gourd (Powder)
+    * **company_name:** บริษัท โพธิ์ประดิษฐ์สมุนไพร จำกัด
+    * **status:** สถานะผลิตภัณฑ์(คงอยู่)\ สถานะสถานที่ (คงอยู่)

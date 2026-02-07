@@ -1,0 +1,1 @@
+Thought: Now, I need to filter the snippets to only include those that are explicitly about ขมิ้นชัน (Turmeric) and contain technical keywords such as "Extraction", "Yield", "HPLC", "TLC".

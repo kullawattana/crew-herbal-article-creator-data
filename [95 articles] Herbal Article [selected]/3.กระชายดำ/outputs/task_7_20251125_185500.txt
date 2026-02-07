@@ -1,0 +1,4 @@
+# ===RAW_THAI_DATA=== 
+## ข้อมูลวัฒนธรรมดิบสำหรับ: กระชายดำ
+### การค้นหา 1 * **source_url:** https://wikicommunity.sac.or.th/community/675 * **community_context:** * **community_name:** คลองลัดมะยม * **location:** กรุงเทพมหานคร * **ethnic_group:** ชาวไทย * **full_thai_narrative_context:** คลองลัดมะยม * **specific_entities:** * **local_names:** * **Item 1:** * **name:** กระชายดำ * **context_quote:** กระชายดำ * **traditional_uses:** * **Item 1:** * **use:** การทำนา * **context_quote:** การทำนา * **processing_methods:** * **Item 1:** * **method:** การแปรรูปผลิตภัณฑ์ * **description_quote:** การแปรรูปผลิตภัณฑ์จำพวกไวน์แก้วมังกร ไวน์กระชายดำ
+# (etc. for Finding 2 and 3)

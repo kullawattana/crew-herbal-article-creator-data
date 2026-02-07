@@ -1,0 +1,70 @@
+# ===MASTER_FACT_SHEET===
+## Consolidated Facts for: Allium sativum (Garlic)
+* **Trend Fact:** No trend fact available in the provided context.
+* **Lab Fact (Experimental Method):** No lab fact available in the provided context.
+* **Lab Fact (Extraction Method):** No lab fact available in the provided context.
+* **Lab Fact (Compound Identified):** No lab fact available in the provided context.
+* **Lab Fact (Chromatography - TLC):** No lab fact available in the provided context.
+* **Lab Fact (Pharmacological Finding):** No lab fact available in the provided context.
+* **Lab Fact (Cosmetic or Clinical Effect):** No lab fact available in the provided context.
+* **Lab Fact (Quality Control):** No lab fact available in the provided context.
+* **Science Fact (Herb):** Allium sativum
+* **Science Fact (Compound):** No compound fact available in the provided context.
+* **Science Fact (Abstracts):**
+  * **Study 1:**
+    * **abstract_raw:** No abstract available in the provided context.
+    * **citation_apa:** No citation available in the provided context.
+* **Compliance Fact (Food Registration 1):** registration_number=50-2-04629-6-0001, product_name=กระเทียมตัดลอน คัดพิเศษ (ตราภูรินทร์), company_name=ร้าน ต เจริญ 88, status=สถานะผลิตภัณฑ์(คงอยู่)\ สถานะสถานที่ (คงอยู่)
+* **Compliance Fact (Food Registration 2):** registration_number=50-2-04629-6-0003, product_name=กระเทียมไทยแกะกลีบ, company_name=ร้าน ต เจริญ 88, status=สถานะผลิตภัณฑ์(คงอยู่)\ สถานะสถานที่ (คงอยู่)
+* **Compliance Fact (Food Registration 3):** registration_number=50-2-04629-6-0004, product_name=กระเทียมโทนดำ ตรา กัมมี่ /  SINGLE TURB BLACK GARLIC GUMMY BRAND, company_name=ร้าน ต เจริญ 88, status=สถานะผลิตภัณฑ์(คงอยู่)\ สถานะสถานที่ (คงอยู่)
+* **Compliance Fact (Food Registration 4):** registration_number=10-1-00155-5-0001, product_name=กระเทียมปอกเปลือก /  Peeled Garlic, company_name=ร้าน ต เจริญ 88, status=สถานะผลิตภัณฑ์(คงอยู่)\ สถานะสถานที่ (คงอยู่)
+* **Compliance Fact (Food Registration 5):** registration_number=10-1-00155-5-0005, product_name=กระเทียมเจียว /  Fried Garlic, company_name=ร้าน ต เจริญ 88, status=สถานะผลิตภัณฑ์(คงอยู่)\ สถานะสถานที่ (คงอยู่)
+* **Compliance Fact (Safety Dosage):** No safety dosage fact available in the provided context.
+* **Compliance Fact (Safety Warning):** No safety warning fact available in the provided context.
+* **Safety Fact (Active Ingredient):** 
+    * **Ingredient 1:**
+        * **name:** Allium sativum
+        * **strength:** 200CK HPUS
+        * **purpose:** Relieves acid indigestion and bloating from overindulgence
+* **Safety Fact (Ingredient Purpose):** Relieves acid indigestion and bloating from overindulgence
+* **Safety Fact (Uses):** Relieves acid indigestion and bloating from overindulgence
+* **Safety Fact (Warnings):** Stop use and ask a doctor if symptoms persist for more than 3 days or worsen.
+* **Safety Fact (Directions):** Adults and children: At the onset of symptoms, dissolve 5 pellets under the tongue 3 times a day until symptoms are relieved or as directed by a doctor.
+* **Safety Fact (Other Info):** Do not use if pellet dispenser seal is broken. Contains approx.80 pellets.
+* **Safety Fact (Inactive Ingredients):** lactose, sucrose
+* **Safety Fact (Questions):** BoironUSA.com Info@boiron.com 1-800-BOIRON-1 (1-800-264-7661) Distributed by Boiron, Inc. Newtown Square, PA 19073
+* **Toxicity Fact (Summary):** No toxicity summary fact available in the provided context.
+* **Toxicity Fact (Mechanism):** No toxicity mechanism fact available in the provided context.
+* **Toxicity Fact (Side Effects):** No toxicity side effects fact available in the provided context.
+* **Toxicity Fact (Case Reports):** No toxicity case reports fact available in the provided context.
+* **Culture Fact (Community - Wat Phra Chetuphon Wimonmangkalaram):** 
+    * **community_name:** Wat Phra Chetuphon Wimonmangkalaram
+    * **location:** Bangkok
+    * **ethnic_group:** Thai
+    * **community_highlight:** The community of Wat Phra Chetuphon Wimonmangkalaram is known for its traditional medicine and herbal wisdom. The temple's ancient inscription, dated back to the Ayutthaya period, provides valuable information on the medicinal properties of various herbs, including garlic.
+    * **name_etymology:** No herbal-related information found
+    * **community_environment:** The community is located in the heart of Bangkok, surrounded by the Chao Phraya River and canals. The temple's environment is conducive to the growth of various herbs, including garlic.
+    * **local_wisdom:** The community has a rich tradition of using garlic for medicinal purposes. The ancient inscription provides information on the use of garlic to treat various ailments, including fever and rheumatism.
+    * **community_organizations:** The temple is a major center for traditional medicine and herbal wisdom. The community has a strong organization that promotes the use of herbal medicine and provides training for young monks and laypeople.
+    * **local_name:** Garlic
+    * **traditional_use:** Traditional medicine
+    * **processing_method:** Traditional medicine preparation
+    * **source_url:** https://db.sac.or.th/inscriptions/inscribe/detail/17709
+* **Culture Fact (Community - Mon people):** 
+    * **community_name:** Mon people
+    * **location:** Myanmar
+    * **ethnic_group:** Mon
+    * **community_highlight:** The Mon people have a rich tradition of using garlic in their cuisine. Garlic is a staple ingredient in many Mon dishes, including curries and soups.
+    * **name_etymology:** No herbal-related information found
+    * **community_environment:** The Mon people live in the southern part of Myanmar, where the climate is conducive to the growth of garlic and other herbs.
+    * **local_wisdom:** The Mon people have a deep understanding of the medicinal properties of garlic. They use garlic to treat various ailments, including fever and rheumatism.
+    * **community_organizations:** The Mon community has a strong organization that promotes the use of traditional medicine and herbal wisdom.
+    * **local_name:** Garlic
+    * **traditional_use:** Traditional medicine
+    * **processing_method:** Traditional medicine preparation
+    * **source_url:** https://www.sac.or.th/portal/th/article/detail/411
+* **Internal RAG Fact (Herbal):** The internal knowledge context does not explicitly mention กระเทียม (Allium sativum) in the provided queries and PDF snippets. However, the context discusses Thai traditional medicine, its benefits, and usage. It highlights the importance of using traditional Thai medicine to reduce healthcare costs and promote self-sufficiency. The context also mentions the use of various herbs and plants in traditional Thai medicine, but does not specifically mention กระเทียม (Allium sativum).
+* **Internal RAG Fact (Cultural):** Garlic, or กระเทียม in Thai, has been used for centuries in traditional Thai medicine and cooking. It is believed to have various health benefits, including aiding digestion and relieving respiratory issues. In Thai cuisine, garlic is often used as a key ingredient in dishes like tom yum soup and green curry. Additionally, it is used in traditional Thai medicine to treat various ailments, including colds and fever. The use of garlic in Thai medicine dates back to ancient times and has been passed down through generations. It is considered an essential herb in Thai culture and is often used in combination with other herbs to create remedies for various health issues.
+* **Source URL (Compliance):** https://www.fda.moph.go.th/
+* **Source URL (Safety):** https://dailymed.nlm.nih.gov/dailymed/drugInfo.cfm?setid=138cc555-f2da-5a55-e063-6394a90aba99&audience=consumer
+* **Source URL (Culture):** https://db.sac.or.th/inscriptions/inscribe/detail/17709, https://www.sac.or.th/portal/th/article/detail/411, https://southeastasia.sac.or.th/subject.php?c_id=6&sj_id=54

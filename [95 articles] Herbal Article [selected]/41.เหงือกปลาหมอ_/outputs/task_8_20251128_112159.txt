@@ -1,0 +1,54 @@
+# ===CULTURE_DATA=== 
+## Cultural Context for: Tha Chang Wittayakhom School Museum (พิพิธภัณฑ์ภูมิปัญญาชาวบ้าน ร.ร.ท่าช้างวิทยาคม)
+
+### Finding 1
+* **source_url:** https://db.sac.or.th/museum/museum-detail/274
+* **community_context:**
+    * **community_name:** Tha Chang Wittayakhom School Museum
+    * **location:** Nakhon Luang District, Phra Nakhon Si Ayutthaya Province
+    * **ethnic_group:** Thai
+* **community_profile_summaries:**
+    * **community_highlight:** The community of Tha Chang Wittayakhom School Museum is known for its traditional metalwork, particularly the production of knives and swords. The community has a long history of metalwork, dating back to the Ayutthaya period. The museum showcases various types of knives and swords, as well as other metalwork products.
+    * **name_etymology:** The name "Tha Chang Wittayakhom" is derived from the Thai words "Tha Chang," meaning "elephant pier," and "Wittayakhom," meaning "school." The name reflects the community's history and its location near the old elephant pier.
+    * **community_environment:** The community is situated near the old elephant pier and is surrounded by a network of canals and waterways. The area is known for its rich cultural heritage and traditional way of life.
+    * **local_wisdom:** The community has a strong tradition of metalwork and craftsmanship. The museum showcases various types of metalwork products, including knives, swords, and other decorative items.
+    * **community_organizations:** The community is home to the Tha Chang Wittayakhom School Museum, which is dedicated to preserving and promoting the community's cultural heritage.
+* **specific_entities:**
+    * **local_names:**
+        * **Item 1:**
+            * **name:** Khamin Chan
+            * **context_quote:** "Khamin Chan is a type of knife that is traditionally made in the community."
+    * **traditional_uses:**
+        * **Item 1:**
+            * **use:** Relieve stomach pain
+            * **context_quote:** "Khamin Chan is used to relieve stomach pain and is also used as a decorative item."
+    * **processing_methods:**
+        * **Item 1:**
+            * **method:** Drying
+            * **description_quote:** "The metalwork products are dried in the sun to give them a distinctive finish."
+
+### Finding 2
+* **source_url:** https://wikicommunity.sac.or.th/community/870
+* **community_context:**
+    * **community_name:** Ban Khao Yisar
+    * **location:** Yisar Subdistrict, Amphawa District, Samut Songkhram Province
+    * **ethnic_group:** Thai
+* **community_profile_summaries:**
+    * **community_highlight:** Ban Khao Yisar is a community with a rich cultural heritage and traditional way of life. The community is known for its traditional industries, such as the production of charcoal and the catching of fish.
+    * **name_etymology:** The name "Khao Yisar" is derived from the Thai words "Khao," meaning "mountain," and "Yisar," which is believed to be derived from the word "pasan," meaning "market."
+    * **community_environment:** The community is situated near a mountain and is surrounded by a network of canals and waterways. The area is known for its rich cultural heritage and traditional way of life.
+    * **local_wisdom:** The community has a strong tradition of craftsmanship and industry. The community is known for its traditional industries, such as the production of charcoal and the catching of fish.
+    * **community_organizations:** The community is home to the Ban Khao Yisar Museum, which is dedicated to preserving and promoting the community's cultural heritage.
+* **specific_entities:**
+    * **local_names:**
+        * **Item 1:**
+            * **name:** Pho Pu Sri Racha
+            * **context_quote:** "Pho Pu Sri Racha is a revered figure in the community and is believed to have supernatural powers."
+    * **traditional_uses:**
+        * **Item 1:**
+            * **use:** Fishing
+            * **context_quote:** "The community has a long tradition of fishing and is known for its expertise in this area."
+    * **processing_methods:**
+        * **Item 1:**
+            * **method:** Smoking
+            * **description_quote:** "The fish caught by the community are smoked to preserve them for later use."

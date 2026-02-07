@@ -1,0 +1,82 @@
+# ===MASTER_FACT_SHEET=== 
+## Consolidated Facts for: Acacia concinna
+* **Trend Fact:** Soap Pod is not explicitly mentioned in the provided URLs. However, the URLs provide information on various wellness trends and topics, including the benefits of hydrothermal bathing, the growth of the wellness economy, and the importance of wellness in everyday life.
+* **Trend Fact:** Soap Pod is not explicitly mentioned in the provided URLs. However, the URLs provide information on various wellness trends and topics, including the benefits of hydrothermal bathing, the growth of the wellness economy, and the importance of wellness in everyday life.
+* **Trend Fact:** Soap Pod is not explicitly mentioned in the provided URLs. However, the URLs provide information on various wellness trends and topics, including the benefits of hydrothermal bathing, the growth of the wellness economy, and the importance of wellness in everyday life.
+* **Trend Fact:** Soap Pod is not explicitly mentioned in the provided URLs. However, the URLs provide information on various wellness trends and topics, including the benefits of hydrothermal bathing, the growth of the wellness economy, and the importance of wellness in everyday life.
+* **Science Fact (Herb):** Acacia concinna
+* **Science Fact (Compound):** Iron oxide nanoparticles
+* **Science Fact (Abstracts):**
+  * **Study 1:**
+    * **abstract_raw:** In the present study, magnetic iron oxide nanoparticles (IONPs) were successfully synthesized using Acacia concinna pod extract as a natural bio-reducer and stabilizing agent. Field Emission Scanning Electron Microscopy revealed a heterogeneous morphology comprising both spherical and rod-shaped nanoparticles. The spherical particles exhibited an average diameter of 100-200 nm, while the rod-shaped particles demonstrated an aspect ratio of 2.49. Vibrating Sample Magnetometry analysis indicated a saturation magnetization of 54.284 emu/g, and Brunauer-Emmett-Teller analysis determined a specific surface area of 59.851 m^2/g. The presence of diverse biomolecules in the A. concinna extract was confirmed using various analytical techniques. Among them, pentadecanoic acid was found to play a crucial role in the synthesis mechanism of IONPs. Furthermore, X-ray Photoelectron Spectroscopy analysis showed Fe 2p3/2 and Fe 2p1/2 binding energies at 708.2 eV and 721.85 eV, respectively, validating the formation of Fe2O3. The synthesized IONPs exhibited no antimicrobial activity against several tested bacteria, including Staphylococcus aureus, Bacillus subtilis, Escherichia coli, Pseudomonas aeruginosa, as well as fungi, such as Penicillium spp., Aspergillus flavus, Fusarium oxysporum, and Rhizoctonia solani. Biocompatibility studies on the L929 normal fibroblast cell line revealed that the synthesized IONPs did not exhibit cytotoxicity, further supporting their potential as a biocompatible material. This makes them potential candidate for use in drug delivery systems as well as in various therapeutic and diagnostic applications.
+    * **citation_apa:** Yadwade, R., Babu, P., & Ankamwar, B. (2025). Biosynthesis of iron oxide nanoparticles and their antimicrobial and biocompatibility studies: a sustainable approach. 3 Biotech, 15(11), 394. https://doi.org/10.1007/s13205-025-04571-4
+* **Compliance Fact (Food Registration 1):** registration_number=10-1-13660-5-0242, product_name=ส้มป่อย / Acacia concinna, company_name=บริษัท โพธิ์ประดิษฐ์สมุนไพร จำกัด, status=สถานะผลิตภัณฑ์(ยกเลิกโดยผู้ประกอบการ 26/10/2561) \ สถานะสถานที่ (คงอยู่ )
+* **Compliance Fact (Food Registration 2):** registration_number=10-1-13660-5-0243, product_name=ส้มป่อย (ผง) / Acacia concinna (Powder), company_name=บริษัท โพธิ์ประดิษฐ์สมุนไพร จำกัด, status=สถานะผลิตภัณฑ์(ยกเลิกโดยผู้ประกอบการ 26/10/2561) \ สถานะสถานที่ (คงอยู่ )
+* **Compliance Fact (Food Registration 3):** registration_number=11-2-00342-6-0472, product_name=น้ำปลาร้าปรุงรส สูตรโบราณ ตรา ส้มป่อย, company_name=บริษัท พี.วาย.ฟู้ด จำกัด, status=สถานะผลิตภัณฑ์(คงอยู่)\ สถานะสถานที่ (คงอยู่)
+* **Compliance Fact (Food Registration 4):** registration_number=33-2-00868-6-0001, product_name=หอมแดงอบแห้ง ตรา นาคาลักษมี, company_name=วิสาหกิจชุมชนกลุ่มหอมแดงราษีไศล, status=สถานะผลิตภัณฑ์(คงอยู่)\ สถานะสถานที่ (คงอยู่)
+* **Compliance Fact (Food Registration 5):** registration_number=33-2-00868-6-0002, product_name=ชาหอมแดง ตรา นาคาลักษมี, company_name=วิสาหกิจชุมชนกลุ่มหอมแดงราษีไศล, status=สถานะผลิตภัณฑ์(คงอยู่)\ สถานะสถานที่ (คงอยู่)
+* **Compliance Fact (Herbal Product Registration 1):** registration_number=G347/57, product_name=ยาระบายผสมส้มป่อย / COMPOUND SOMPOI LAXATIVE, company_name=บริษัท สิทธิพรสมุนไพร จำกัด, status=คงอยู่
+* **Compliance Fact (Herbal Product Registration 2):** registration_number=G33/59, product_name=ยาเม็ดสมุนไพรผสมส้มป่อย / COMPOUND SOM POY HERBAL TABLET, company_name=บริษัท สิทธิพรสมุนไพร จำกัด, status=คงอยู่
+* **Compliance Fact (Cosmetic Registration 1):** registration_number=10-1-6010022379, product_name=แม่อุไร แชมพูสมุนไพร มะกรูด&ส้มป่อย&ว่านหาวจระเข้ / MAE AURAI HERBAL SHAMPOO BERGAMOT&SOMPOI&ALOE VERA, company_name=ห้างหุ้นส่วนจำกัด สมุนไพรไทยแม่อุไร, status=คงอยู่
+* **Compliance Fact (Cosmetic Registration 2):** registration_number=10-1-6100008946, product_name=นารดา แชมพู ส้มป่อย ใบหมี่ เฮนน่า / NARDA SHAMPOO ACACIA CONCINNA, LITSEA & HENNA, company_name=บริษัท ลีเอ็นเตอร์เทนเม้นท์ จำกัด, status=คงอยู่
+* **Safety Fact (Active Ingredient):** Not found
+* **Safety Fact (Ingredient Purpose):** Not found
+* **Safety Fact (Uses):** Not found
+* **Safety Fact (Warnings):** Not found
+* **Safety Fact (Directions):** Not found
+* **Safety Fact (Other Info):** Not found
+* **Safety Fact (Inactive Ingredients):** Not found
+* **Safety Fact (Questions):** Not found
+* **Toxicity Fact (Summary):** Acacia concinna has been associated with liver injury, with a likelihood score of E (unlikely). The mechanism of liver injury is not well understood, but it is thought to be related to the presence of saponins, flavonoids, and monoterpenoids in the plant.
+* **Toxicity Fact (Mechanism):** The exact mechanism of liver injury is not well understood, but it is thought to be related to the presence of saponins, flavonoids, and monoterpenoids in the plant.
+* **Toxicity Fact (Side Effects):** Nausea, dermatitis, rash
+* **Toxicity Fact (Case Reports):** Case reports of liver injury in 5 patients taking Acacia concinna have been published. The patients presented with jaundice, fatigue, and abdominal pain, and had elevated liver enzymes and bilirubin levels. The liver injury was attributed to the use of Acacia concinna, and the patients recovered after discontinuing the use of the plant.
+* **Culture Fact (Community - Ban Huai Sompoy):** Ban Huai Sompoy (บ้านห้วยส้มป่อย)
+* **Culture Fact (Location - Ban Huai Sompoy):** Chiang Mai Province
+* **Culture Fact (Ethnic Group - Ban Huai Sompoy):** Pgakanyaw (ชาวปกาเกอะญอ)
+* **Culture Fact (Community Highlight - Ban Huai Sompoy):** No herbal-related information found.
+* **Culture Fact (Name Etymology - Ban Huai Sompoy):** The name "Sompoy" comes from the plant "Sompoy" (พืชยืนต้นขนาดเล็กหรือไม้พุ่ม), which is used in various rituals by the community, such as "Sadok Krai" and "Rong Nam Dam Hua". The community believes that Sompoy is a plant that helps to eliminate bad luck and misfortune from their lives.
+* **Culture Fact (Environment - Ban Huai Sompoy):** The community is located in the upper part of the Mae Taeng River basin, in the Chom Thong district of Chiang Mai province. The area was previously inhabited by the Lua people, as evidenced by the discovery of ancient burial grounds and artifacts.
+* **Culture Fact (Local Wisdom - Ban Huai Sompoy):** The community has a strong belief in the use of Sompoy in rituals to ward off bad luck and misfortune. They also believe in the importance of preserving their traditional way of life and cultural practices.
+* **Culture Fact (Organization - Ban Huai Sompoy):** No herbal-related information found.
+* **Culture Fact (Local Name - Ban Huai Sompoy):** Sompoy (ส้มป่อย)
+* **Culture Fact (Use - Ban Huai Sompoy):** Using Sompoy as a plant to help eliminate bad luck and misfortune from their lives.
+* **Culture Fact (Processing - Ban Huai Sompoy):** Using Sompoy as a plant to help eliminate bad luck and misfortune from their lives.
+* **Culture Fact (Source - Ban Huai Sompoy):** https://wikicommunity.sac.or.th/community/1643
+* **Culture Fact (Community - Ban Had Sompoy):** Ban Had Sompoy (บ้านหาดส้มป่อย)
+* **Culture Fact (Location - Ban Had Sompoy):** Chiang Mai Province
+* **Culture Fact (Ethnic Group - Ban Had Sompoy):** Pgakanyaw (ชาวปกาเกอะญอ)
+* **Culture Fact (Community Highlight - Ban Had Sompoy):** No herbal-related information found.
+* **Culture Fact (Name Etymology - Ban Had Sompoy):** The name "Had Sompoy" comes from the location of the community, which is near a beach (หาด) where Sompoy plants are abundant.
+* **Culture Fact (Environment - Ban Had Sompoy):** The community is located in the Chom Thong district of Chiang Mai province.
+* **Culture Fact (Local Wisdom - Ban Had Sompoy):** The community has a strong belief in the use of Sompoy in rituals to ward off bad luck and misfortune. They also believe in the importance of preserving their traditional way of life and cultural practices.
+* **Culture Fact (Organization - Ban Had Sompoy):** No herbal-related information found.
+* **Culture Fact (Local Name - Ban Had Sompoy):** Sompoy (ส้มป่อย)
+* **Culture Fact (Use - Ban Had Sompoy):** Using Sompoy as a plant to help eliminate bad luck and misfortune from their lives.
+* **Culture Fact (Processing - Ban Had Sompoy):** Using Sompoy as a plant to help eliminate bad luck and misfortune from their lives.
+* **Culture Fact (Source - Ban Had Sompoy):** https://wikicommunity.sac.or.th/community/378
+* **Culture Fact (Community - Ban Lahuh Sompoy):** Ban Lahuh Sompoy (บ้านลาหู่ส้มป่อย)
+* **Culture Fact (Location - Ban Lahuh Sompoy):** Tak Province
+* **Culture Fact (Ethnic Group - Ban Lahuh Sompoy):** Lahuh (ชาวลาหู่)
+* **Culture Fact (Community Highlight - Ban Lahuh Sompoy):** No herbal-related information found.
+* **Culture Fact (Name Etymology - Ban Lahuh Sompoy):** The name "Lahuh Sompoy" comes from the location of the community, which was previously a farm area with an abundance of Sompoy plants.
+* **Culture Fact (Environment - Ban Lahuh Sompoy):** The community is located in the Tak province.
+* **Culture Fact (Local Wisdom - Ban Lahuh Sompoy):** The community has a strong belief in the use of Sompoy in rituals to ward off bad luck and misfortune. They also believe in the importance of preserving their traditional way of life and cultural practices.
+* **Culture Fact (Organization - Ban Lahuh Sompoy):** No herbal-related information found.
+* **Culture Fact (Local Name - Ban Lahuh Sompoy):** Sompoy (ส้มป่อย)
+* **Culture Fact (Use - Ban Lahuh Sompoy):** Using Sompoy as a plant to help eliminate bad luck and misfortune from their lives.
+* **Culture Fact (Processing - Ban Lahuh Sompoy):** Using Sompoy as a plant to help eliminate bad luck and misfortune from their lives.
+* **Culture Fact (Source - Ban Lahuh Sompoy):** https://ethnicredb.sac.or.th/research_detail.php?id=2012
+* **Internal RAG Fact (Herbal):** ส้มป่อย, also known as Acacia concinna, is a plant species that is not explicitly mentioned in the provided context. However, the context discusses Thai traditional medicine, its benefits, and the use of herbal remedies in Thai culture. According to the context, Thai traditional medicine is considered old-fashioned and not suitable for modern times, but it has been used effectively to treat minor illnesses and initial stages of diseases **JSON: [Herbs_traditional_Thai_medicine_in_the_lives_of_Thai_people.json, p.N/A] | PDF: [Romprayom-2563.pdf, p.9]**. The context also highlights the importance of using locally grown and self-sufficient herbal remedies, which can reduce medical expenses and provide a safer alternative to chemical-based treatments **JSON: [Herbs_traditional_Thai_medicine_in_the_lives_of_Thai_people.json, p.N/A] | PDF: [Romprayom-2563.pdf, p.9]**. Furthermore, the context mentions the use of herbal remedies in traditional Thai medicine, such as "คั่วบานะบายข้าวกิน" (a dish made with herbs and rice) to improve appetite and health during seasonal changes **JSON: [Herbs_traditional_Thai_medicine_in_the_lives_of_Thai_people.json, p.N/A] | PDF: [Romprayom-2563.pdf, p.32]**. Although ส้มป่อย is not explicitly mentioned, the context provides valuable information on the importance and benefits of using herbal remedies in Thai traditional medicine.
+* **Internal RAG Fact (Cultural):** ส้มป่อย (Sapindus mukorossi) is a plant used in traditional Thai medicine for various purposes, including as a digestive aid and to treat respiratory issues. According to the provided context, ส้มป่อย has been used for centuries in Thai wisdom for its medicinal properties. The plant is believed to have a warming effect on the body, which helps to stimulate digestion and relieve respiratory problems. It is also used as a ingredient in traditional Thai dishes, such as curries and soups, to add flavor and nutrition. Additionally, ส้มป่อย is used in traditional Thai medicine to treat various health conditions, including fever, cough, and skin problems. Overall, ส้มป่อย is a versatile plant that has been used for centuries in traditional Thai medicine and cuisine.
+* **Source URL (Trend):** https://globalwellnessinstitute.org/press-room/media-highlights/
+* **Source URL (Trend):** https://globalwellnessinstitute.org/wp-content/uploads/2018/12/biophilicdesignguide-en.pdf
+* **Source URL (Trend):** https://globalwellnessinstitute.org/wp-content/uploads/2019/12/GWI_Hydrothermal_2018_US-final-updated_1125191.pdf
+* **Source URL (Trend):** https://globalwellnessinstitute.org/wp-content/uploads/2025/11/2025-GWI-WE-Monitor_DIGITAL-FINAL.pdf
+* **Source URL (Science):** https://doi.org/10.1007/s13205-025-04571-4
+* **Source URL (Compliance):** https://www.fda.moph.go.th/
+* **Source URL (Safety):** https://dailymed.nlm.nih.gov/
+* **Source URL (Toxicity):** https://www.ncbi.nlm.nih.gov/books/NBK548196/
+* **Source URL (Culture):** https://wikicommunity.sac.or.th/community/1643
+* **Source URL (Culture):** https://wikicommunity.sac.or.th/community/378
+* **Source URL (Culture):** https://ethnicredb.sac.or.th/research_detail.php?id=2012

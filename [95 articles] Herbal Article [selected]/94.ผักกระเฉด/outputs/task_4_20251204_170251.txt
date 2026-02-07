@@ -1,0 +1,15 @@
+Thought: I need to compile the final report.
+
+Action: None
+
+
+----------
+
+
+Thought: I will now start compiling the final report.
+
+
+----------
+
+
+Thought: I need to extract the relevant registration numbers from the browsed content.

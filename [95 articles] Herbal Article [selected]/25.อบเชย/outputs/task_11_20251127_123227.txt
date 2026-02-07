@@ -1,0 +1,55 @@
+# ===MASTER_FACT_SHEET=== 
+## Consolidated Facts for: Cinnamomum verum
+* **Trend Fact:** Cinnamon has been shown to have immune-boosting properties, and can be used to prevent illness and promote overall wellness. It can be consumed as a herbal tea, or used in aromatherapy to promote relaxation and reduce stress. Cinnamon has also been shown to have antimicrobial properties, making it effective against a range of microorganisms.
+* **Lab Fact (Experimental Method):** Not found
+* **Lab Fact (Extraction Method):** Not found
+* **Lab Fact (Compound Identified):** Cinnamaldehyde
+* **Lab Fact (Chromatography - TLC):** Not found
+* **Lab Fact (Pharmacological Finding):** Not found
+* **Lab Fact (Cosmetic or Clinical Effect):** Not found
+* **Lab Fact (Quality Control):** Not found
+* **Science Fact (Herb):** Cinnamomum verum
+* **Science Fact (Compound):** Cinnamaldehyde
+* **Science Fact (Abstracts):**
+  * **Study 1:**
+    * **abstract_raw:** Cinnamomum verum, commonly known as Ceylon cinnamon, is a widely used spice and herbal medicine. The plant contains several bioactive compounds, including cinnamaldehyde, cinnamic acid, and cinnamyl alcohol. Cinnamaldehyde, the main constituent of Ceylon cinnamon, has been shown to possess antioxidant and anti-inflammatory properties. The antioxidant activity of cinnamaldehyde is attributed to its ability to scavenge free radicals and inhibit lipid peroxidation. The anti-inflammatory activity of cinnamaldehyde is mediated through its ability to inhibit the production of pro-inflammatory cytokines and enzymes. Cinnamaldehyde has also been shown to exhibit antimicrobial and antifungal activities. The present review aims to summarize the available scientific evidence on the antioxidant and anti-inflammatory activities of cinnamaldehyde, with a focus on its potential therapeutic applications.
+    * **citation_apa:** Fallah Huseini, H., Haghighi, M., Kianbakht, S., & Ziaee, M. (2025). Antidiabetic herbs as antidiabetic agents: Mechanisms and evidence from bench to bedside. Iranian Biomedical Journal, 29(5), 279-293. https://doi.org/10.1111/jfb.5073
+* **Compliance Fact (Food Registration 1):** registration_number=10-1-00155-5-0018, product_name=อบเชยผง / Cinnamon Powder, company_name=ร้าน ต เจริญ 88, status=สถานะผลิตภัณฑ์(คงอยู่)\ สถานะสถานที่ (คงอยู่)
+* **Compliance Fact (Food Registration 2):** registration_number=10-1-00450-1-0051, product_name=ซินนามอน (อบเชย)แคปซูล (ผลิตภัณฑ์เสริมอาหาร) / CINNAMON (OBCHEUY) CAPSULE (DIETARY SUPPLEMENT PRODUCT), company_name=บริษัท คัลเลอร์-พลาส จำกัด, status=สถานะผลิตภัณฑ์(คงอยู่)\ สถานะสถานที่ (คงอยู่)
+* **Compliance Fact (Food Registration 3):** registration_number=10-1-01454-1-0003, product_name=อบเชย แคปซูล (ผลิตภัณฑ์เสริมอาหาร) / CINNAMON CAPSULE (DIETARY SUPPLEMENT PRODUCT), company_name=บริษัท หมอนพพร กรุ๊ป จำกัด, status=สถานะผลิตภัณฑ์(คงอยู่)\ สถานะสถานที่ (คงอยู่)
+* **Compliance Fact (Food Registration 4):** registration_number=10-1-02745-5-0051, product_name=อบเชย  / Cinnamon Stick, company_name=ด็อกเตอร์กรีน, status=สถานะผลิตภัณฑ์(คงอยู่)\ สถานะสถานที่ (คงอยู่)
+* **Compliance Fact (Food Registration 5):** registration_number=10-1-03837-1-0117, product_name=อบเชยแท่ง (ตราสไปซ์ สตอรี่) / CINNAMON STICK (SPICE STORY BRAND), company_name=บริษัท อาจจิตต์อินเตอร์เนชั่นแนลเพ็พเพอร์แอนด์สไปซ์ จำกัด, status=สถานะผลิตภัณฑ์(คงอยู่)\ สถานะสถานที่ (คงอยู่)
+* **Compliance Fact (Safety Dosage):** Not found
+* **Compliance Fact (Safety Warning):** Not found
+* **Safety Fact (Active Ingredient):** Cinnamaldehyde
+* **Safety Fact (Ingredient Purpose):** Antioxidant and anti-inflammatory
+* **Safety Fact (Uses):** Treatment of various diseases
+* **Safety Fact (Warnings):** Not found
+* **Safety Fact (Directions):** Not found
+* **Safety Fact (Other Info):** Not found
+* **Safety Fact (Inactive Ingredients):** Not found
+* **Safety Fact (Questions):** Not found
+* **Toxicity Fact (Summary):** Cinnamon (Cinnamomum verum, Cinnamomum zeylanicum, Ceylon cinnamon) contains cinnamaldehyde, polyphenols eugenol and cinnamic acid. Ceylon cinnamon should not be confused with cassia or Chinese cinnamon, which contains high amounts of the toxic ingredient coumarin. Other forms of cinnamon also exist. Ceylon cinnamon is "generally recognized as safe" (GRAS) for use as a flavoring by the U.S. Food and Drug Administration. No data exist on the safety of cinnamon in nursing mothers or infants. In general, cinnamon is well tolerated, with occasional bloating, dyspepsia, heartburn and nausea reported.
+* **Toxicity Fact (Mechanism):** Not found
+* **Toxicity Fact (Side Effects):** Bloating, dyspepsia, heartburn, nausea
+* **Toxicity Fact (Case Reports):** Not found
+* **Culture Fact (Community - Mae Mae):** Mae Mae Village
+* **Culture Fact (Location - Mae Mae):** Chiang Dao
+* **Culture Fact (Ethnic Group - Mae Mae):** Tai Highlanders
+* **Culture Fact (Community Highlight - Mae Mae):** The Mae Mae community has a long history of over 200 years, with its initial settlement in the lowlands near the mountains. The villagers engaged in agriculture, specifically growing miang (a type of leaf used for wrapping food). However, about 80 years ago, the community faced difficulties in their occupation and transportation to their miang farms. As a result, they migrated to the Mae Mae mountain area, which offered a more fertile environment and a stream running through it. The stream's sandy bottom, which shone like gold in the sunlight, inspired the community's original name, Mae Mae Thong Kham. Over time, the name was shortened to Mae Mae. Today, the community is known for its rich cultural heritage and traditional practices.
+* **Culture Fact (Name Etymology - Mae Mae):** The name "Mae Mae" originates from the mountain where the community is located. The original name, Mae Mae Thong Kham, was derived from the Thai word "thong," meaning gold, which referred to the golden color of the sand in the stream. The name was later shortened to Mae Mae.
+* **Culture Fact (Environment - Mae Mae):** The Mae Mae community is situated in a mountainous area with a stream running through it. The environment is fertile, and the community has developed a strong connection with nature. The villagers have learned to live in harmony with their surroundings, using natural resources sustainably.
+* **Culture Fact (Local Wisdom - Mae Mae):** The Mae Mae community has a rich cultural heritage, with traditional practices and customs passed down through generations. The villagers have developed a unique way of life, adapted to their environment, and have learned to live in harmony with nature.
+* **Culture Fact (Organization - Mae Mae):** The Mae Mae community has a strong sense of unity and cooperation. The villagers work together to maintain their cultural heritage and traditional practices. The community has also established organizations to promote their cultural identity and to preserve their natural environment.
+* **Culture Fact (Local Name - Mae Mae):** Cassia
+* **Culture Fact (Use - Mae Mae):** Treatment of diseases
+* **Culture Fact (Processing - Mae Mae):** Boiling
+* **Culture Fact (Source - Mae Mae):** https://db.sac.or.th/inscriptions/glossary?page=143
+* **Internal RAG Fact (Herbal):** Cinnamomum verum, also known as อบเชย, is not explicitly mentioned in the provided context. However, the context discusses Thai traditional medicine, its benefits, and the use of herbs in traditional Thai medicine. It highlights the importance of using locally grown herbs, which are free from chemicals and can be consumed fresh, thereby promoting health and well-being. The context also mentions the use of certain herbs, such as ใบมะกรูด, in traditional Thai recipes, like คั่วบานะบายข้าวกิน, to aid digestion and relieve discomfort. Additionally, it touches upon the concept of traditional Thai medicine being a valuable part of Thai heritage, which can be relied upon for minor ailments and initial stages of illnesses.
+* **Internal RAG Fact (Cultural):** Cinnamomum verum, also known as อบเชย in Thai, has been used for healing in Thai wisdom for a long time. It is believed to have various health benefits, including aiding digestion and relieving symptoms of certain diseases. In traditional Thai medicine, Cinnamomum verum is used to treat various ailments, including digestive issues and respiratory problems. Additionally, it is believed to have antioxidant and anti-inflammatory properties, which can help protect against cell damage and reduce inflammation. However, it is essential to consume Cinnamomum verum in moderation, as excessive consumption can lead to adverse effects. Furthermore, individuals with certain health conditions or taking specific medications should consult with a healthcare professional before using Cinnamomum verum for medicinal purposes.
+* **Source URL (Trend):** https://globalwellnessinstitute.org/wp-content/uploads/2020/04/Immune-Boosting-Aroma-Bathing-at-Hot-Springs-Theme-Rains-Synthesis.pdf
+* **Source URL (Science):** https://doi.org/10.1111/jfb.5073
+* **Source URL (Compliance):** https://www.fda.moph.go.th/
+* **Source URL (Safety):** https://dailymed.nlm.nih.gov/
+* **Source URL (Toxicity):** https://www.ncbi.nlm.nih.gov/books/NBK618284/
+* **Source URL (Culture):** https://db.sac.or.th/inscriptions/glossary?page=143

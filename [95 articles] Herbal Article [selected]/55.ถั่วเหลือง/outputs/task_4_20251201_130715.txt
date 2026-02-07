@@ -1,0 +1,29 @@
+# ===COMPLIANCE_DATA===
+## Thai FDA Status for: Glycine max
+* **herb_name:** Glycine max
+### Food Registrations
+* **Food Registration 1:**
+    * **registration_number:** 10-1-01165-5-0002
+    * **product_name:** เครื่องดื่มถั่ว 5 ชนิด (ถั่วเหลือง,ถั่วแดง,ถั่วเขียว,ถั่วดำ,ถั่วขาว) (ตรา โซย่า โซยัม) / 5 BEANS DRINK (SOY BEAN, RED BEAN, GREEN BEAN, BLACK BEAN,WHITE KIDNEY BEAN) (SOYA SOYUM  BRAND)
+    * **company_name:** บริษัท เลิฟลี่ ดิลิเชียส จำกัด
+    * **status:** สถานะผลิตภัณฑ์(คงอยู่)\ สถานะสถานที่ (คงอยู่)
+* **Food Registration 2:**
+    * **registration_number:** 10-1-01562-5-0034
+    * **product_name:** ถั่วเหลืองทอด
+    * **company_name:** รุ่งเจริญ
+    * **status:** สถานะผลิตภัณฑ์(คงอยู่)\ สถานะสถานที่ (คงอยู่)
+* **Food Registration 3:**
+    * **registration_number:** 10-1-02564-5-0017
+    * **product_name:** ผงถั่วเขียว,ถั่วแดง,ถั่วเหลือง,ถั่วดำ,ถั่วขาว /  GREEN BEAN,RED BEAN,SOY BEAN,BLACK BEAN,WHITE KIDNEY BEAN POWDER
+    * **company_name:** บริษัท ฮัซซาน กรุ๊ป จำกัด
+    * **status:** สถานะผลิตภัณฑ์(คงอยู่)\ สถานะสถานที่ (คงอยู่)
+* **Food Registration 4:**
+    * **registration_number:** 10-1-02639-1-0092
+    * **product_name:** โซย่า สแน๊ค รสดั้งเดิม (ธัญพืช ข้าวหอมมะลิ ถั่วเหลือง อบกรอบ รสดั้งเดิม) (ตรา วีอาร์ บาย คิงเพาเวอร์) / SOYA SNACK ORIGINAL FLAVOURED (JASMINE RICE SOYA BEAN ORIGINAL FLAVOURED) (VR BY KING POWER'BRAND)
+    * **company_name:** บริษัท เคลอินเตอร์เทรด จำกัด
+    * **status:** สถานะผลิตภัณฑ์(ยกเลิก 5/9/2556) \ สถานะสถานที่ (ยกเลิก 5/9/2556)
+* **Food Registration 5:**
+    * **registration_number:** 10-1-02745-1-0079
+    * **product_name:** ถั่วเหลือง(ตราด็อกเตอร์กรีน) / (DR.GREEN BRAND)SOY BEANS
+    * **company_name:** ด็อกเตอร์กรีน
+    * **status:** สถานะผลิตภัณฑ์(คงอยู่)\ สถานะสถานที่ (คงอยู่)

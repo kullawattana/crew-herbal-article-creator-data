@@ -1,0 +1,1 @@
+Thought: I have gathered the relevant snippets from the Pinecone database. Now, I need to extract and structure the lab-related information.

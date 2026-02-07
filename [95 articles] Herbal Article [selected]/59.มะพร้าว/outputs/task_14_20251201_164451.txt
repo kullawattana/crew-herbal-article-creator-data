@@ -1,0 +1,33 @@
+# ===AUDIT_DATA_INTEGRITY_REPORT===
+*   **Collaboration Robustness (Data Loss):** 44.44%
+*   **Explanation Clarity (Hallucination/Handling):** 72.00%
+*   **Dropped Entities (Facts in Fact Sheet but not Article):**
+    *   **From Compliance Facts (for each of the 5 food registrations):**
+        *   Registration Number (e.g., 10-1-00337-1-0261)
+        *   Company Name (e.g., ห้างหุ้นส่วนจำกัด ฟลาวเวอร์ ฟูด)
+        *   Status (e.g., "สถานะผลิตภัณฑ์(คงอยู่)\ สถานะสถานที่ (คงอยู่)")
+    *   **From Culture Fact (Ban Suan Thung):**
+        *   Ethnic Group: Thai
+        *   Specific details from Community Highlight: "self-sufficient economy community", "grown in a water-filled ditch", "makes the coconut trees grow well", "Coconuts produce clear sugar when made into coconut sugar"
+    *   **From Culture Fact (Bang O Mosque Community):**
+        *   Community name: Bang O Mosque Community
+        *   Location: Samut Songkhram Province
+        *   Ethnic Group: Thai
+        *   Local Name: "Coconut, which has a sweet taste and is sweeter than the dough."
+        *   Use: "Khanom Sai, or Khanom Sod Sai, is an ancient Thai dessert that uses coconut, flour, and sugar as main ingredients."
+        *   Processing: "Making dough uses glutinous rice flour and water."
+    *   **From Internal RAG Fact (Herbal):**
+        *   "The context also touches on the traditional methods of preparing and consuming these herbs, such as making "คั่วบานะบายข้าวกิน" to improve appetite during seasonal changes."
+        *   "Additionally, it mentions the use of certain herbs in traditional Thai medicine, but does not specifically mention Cocos nucifera." (The article only states the first part of this fact.)
+        *   "The context emphasizes the value of traditional Thai wisdom in using herbs for health benefits and the potential for reducing reliance on imported medicines."
+    *   **From Internal RAG Fact (Cultural):**
+        *   "Overall, coconut is considered a versatile and nutritious food in Thai culture, and its various uses are deeply rooted in traditional Thai wisdom."
+*   **Hallucinated Entities (Facts in Article but not Fact Sheet):**
+    *   "growing demand for coconut-based products in the market" (inference)
+    *   "potential market opportunity for developing new products that leverage the health benefits and cultural value of coconut" (inference)
+    *   "there is no specific scientific research or study found." (misrepresentation, as Science Fact (Herb) and Science Source URLs exist in the Fact Sheet)
+    *   "These products are registered with the Thai FDA, indicating that they have met certain safety and regulatory standards." (inference/assumption regarding FDA and specific standards)
+    *   "The technical feasibility of extracting and processing coconut compounds has already been established" (direct contradiction of `Lab Fact (Extraction Method): Not found` in the Fact Sheet)
+    *   "cultural facts highlight the traditional methods of processing coconut, which could be adapted and scaled up for industrial production." (speculation)
+    *   "it is essential to conduct thorough research and testing to ensure the safety and efficacy of any new product developed from coconut." (general advice)
+*   **Feedback:** The article demonstrates significant data loss, particularly regarding detailed compliance information (registration numbers, company names, statuses) and specific cultural facts from both Ban Suan Thung and Bang O Mosque communities. Key details from Internal RAG facts were also omitted. The Collaboration Robustness score reflects this substantial loss of information. While the article generally handles "Not found" statements correctly by acknowledging their absence, a critical hallucination occurred where the article claimed "The technical feasibility of extracting and processing coconut compounds has already been established," directly contradicting the Master Fact Sheet's explicit statement of `Lab Fact (Extraction Method): Not found`. Several other inferences, speculations, and general advice statements were introduced without being sourced from the Fact Sheet. The Explanation Clarity score is impacted by these hallucinations, even though many "Not found" scenarios were handled appropriately.

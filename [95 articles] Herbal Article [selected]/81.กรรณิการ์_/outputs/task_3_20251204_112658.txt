@@ -1,0 +1,3 @@
+Thought: I have parsed the text data for the first study. Now, I need to extract the necessary information.
+
+Action: None

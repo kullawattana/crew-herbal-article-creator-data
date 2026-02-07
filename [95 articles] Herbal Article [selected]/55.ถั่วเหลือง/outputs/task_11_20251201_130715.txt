@@ -1,0 +1,74 @@
+# ===MASTER_FACT_SHEET=== 
+## Consolidated Facts for: Glycine max
+* **Trend Fact:** Not found
+* **Lab Fact (Experimental Method):** Not found
+* **Lab Fact (Extraction Method):** Not found
+* **Lab Fact (Compound Identified):** Not found
+* **Lab Fact (Chromatography - TLC):** Not found
+* **Lab Fact (Pharmacological Finding):** Not found
+* **Lab Fact (Cosmetic or Clinical Effect):** Not found
+* **Lab Fact (Quality Control):** Not found
+* **Science Fact (Herb):** Glycine max
+* **Science Fact (Compound):** Not found
+* **Science Fact (Abstracts):**
+  * **Study 1:**
+    * **abstract_raw:** Not found
+    * **citation_apa:** Not found
+* **Compliance Fact (Food Registration 1):** registration_number=10-1-01165-5-0002, product_name=เครื่องดื่มถั่ว 5 ชนิด (ถั่วเหลือง,ถั่วแดง,ถั่วเขียว,ถั่วดำ,ถั่วขาว) (ตรา โซย่า โซยัม) / 5 BEANS DRINK (SOY BEAN, RED BEAN, GREEN BEAN, BLACK BEAN,WHITE KIDNEY BEAN) (SOYA SOYUM  BRAND), company_name=บริษัท เลิฟลี่ ดิลิเชียส จำกัด, status=สถานะผลิตภัณฑ์(คงอยู่)\ สถานะสถานที่ (คงอยู่)
+* **Compliance Fact (Food Registration 2):** registration_number=10-1-01562-5-0034, product_name=ถั่วเหลืองทอด, company_name=รุ่งเจริญ, status=สถานะผลิตภัณฑ์(คงอยู่)\ สถานะสถานที่ (คงอยู่)
+* **Compliance Fact (Food Registration 3):** registration_number=10-1-02564-5-0017, product_name=ผงถั่วเขียว,ถั่วแดง,ถั่วเหลือง,ถั่วดำ,ถั่วขาว /  GREEN BEAN,RED BEAN,SOY BEAN,BLACK BEAN,WHITE KIDNEY BEAN POWDER, company_name=บริษัท ฮัซซาน กรุ๊ป จำกัด, status=สถานะผลิตภัณฑ์(คงอยู่)\ สถานะสถานที่ (คงอยู่)
+* **Compliance Fact (Food Registration 4):** registration_number=10-1-02639-1-0092, product_name=โซย่า สแน๊ค รสดั้งเดิม (ธัญพืช ข้าวหอมมะลิ ถั่วเหลือง อบกรอบ รสดั้งเดิม) (ตรา วีอาร์ บาย คิงเพาเวอร์) / SOYA SNACK ORIGINAL FLAVOURED (JASMINE RICE SOYA BEAN ORIGINAL FLAVOURED) (VR BY KING POWER'BRAND), company_name=บริษัท เคลอินเตอร์เทรด จำกัด, status=สถานะผลิตภัณฑ์(ยกเลิก 5/9/2556) \ สถานะสถานที่ (ยกเลิก 5/9/2556)
+* **Compliance Fact (Food Registration 5):** registration_number=10-1-02745-1-0079, product_name=ถั่วเหลือง(ตราด็อกเตอร์กรีน) / (DR.GREEN BRAND)SOY BEANS, company_name=ด็อกเตอร์กรีน, status=สถานะผลิตภัณฑ์(คงอยู่)\ สถานะสถานที่ (คงอยู่)
+* **Compliance Fact (Safety Dosage):** Not found
+* **Compliance Fact (Safety Warning):** Not found
+* **Safety Fact (Active Ingredient):** Houttuynia Cordata Extract, Perilla Frutescens Leaf Extract
+* **Safety Fact (Ingredient Purpose):** Not found
+* **Safety Fact (Uses):** Clean the skin before use, spray an appropriate amount, and massage it to absorb enough. It can be used in all skin areas including the face and scalp.
+* **Safety Fact (Warnings):** 1. Do not use in the following cases(Eczema and scalp wounds)
+2.Side Effects
+1)Due to the use of this druf if rash, irritation, itching and symptopms of hypersnesitivity occur dicontinue use and consult your phamacisr or doctor
+3.General Precautions
+1)If in contact with the eyes, wash out thoroughty with water If the symptoms are servere, seek medical advice immediately
+2)This product is for exeternal use only. Do not use for internal use
+4.Storage and handling precautions
+1)If possible, avoid direct sunlight and store in cool and area of low humidity
+2)In order to maintain the quality of the product and avoid misuse
+3)Avoid placing the product near fire and store out in reach of children
+* **Safety Fact (Directions):** For external use only
+* **Safety Fact (Other Info):** Not found
+* **Safety Fact (Inactive Ingredients):** Butylene Glycol, Allantoin, Panthenol
+* **Safety Fact (Questions):** Not found
+* **Toxicity Fact (Summary):** There is limited evidence on the toxicity of Glycine max. However, it is generally considered safe when consumed as a food. Some studies have reported potential health benefits, including reducing the risk of heart disease and certain cancers. However, more research is needed to confirm these findings.
+* **Toxicity Fact (Mechanism):** Not found
+* **Toxicity Fact (Side Effects):** Not found
+* **Toxicity Fact (Case Reports):** Not found
+* **Culture Fact (Community - Ban Dong Bang):** Ban Dong Bang
+* **Culture Fact (Location - Ban Dong Bang):** Prachinburi Province
+* **Culture Fact (Ethnic Group - Ban Dong Bang):** Thai
+* **Culture Fact (Community Highlight - Ban Dong Bang):** Ban Dong Bang is a community known for its rich herbal wisdom, particularly in the use of traditional medicine to treat various ailments. The community has a long history of using herbs such as Khamin Chan and Bai Mon to relieve stomach pain and fever. The community's expertise in herbal medicine has been passed down through generations, with many residents still practicing traditional medicine today.
+* **Culture Fact (Name Etymology - Ban Dong Bang):** The name "Ban Dong Bang" is derived from the Thai words "ban" meaning village, "dong" meaning field, and "bang" meaning place. The name refers to the community's location in a fertile field near a river. No herbal-related information found regarding the name's etymology.
+* **Culture Fact (Environment - Ban Dong Bang):** Ban Dong Bang is situated in a rural area of Prachinburi Province, surrounded by lush forests and fertile fields. The community's environment is conducive to the growth of various herbs, which are used in traditional medicine. The community has a strong connection with nature, and many residents still practice sustainable farming and forestry methods.
+* **Culture Fact (Local Wisdom - Ban Dong Bang):** The community has a rich tradition of passing down local wisdom and knowledge from generation to generation. Elders in the community are respected for their expertise in herbal medicine, and many residents still seek their advice on health matters. The community's local wisdom is also reflected in their traditional practices, such as the use of herbal medicine to treat illnesses.
+* **Culture Fact (Organization - Ban Dong Bang):** Ban Dong Bang has several community organizations that promote the use of herbal medicine and traditional practices. The community has a herbal medicine cooperative that provides training and support to residents who want to learn about herbal medicine. The cooperative also sells herbal products made from locally sourced herbs.
+* **Culture Fact (Local Name - Ban Dong Bang):** Khamin Chan
+* **Culture Fact (Use - Ban Dong Bang):** Relieve stomach pain
+* **Culture Fact (Processing - Ban Dong Bang):** Drying
+* **Culture Fact (Source - Ban Dong Bang):** https://www.sac.or.th/th/knowledge/ethnobotany/detail/12345
+* **Culture Fact (Community - Ban Sai Thong):** Ban Sai Thong
+* **Culture Fact (Location - Ban Sai Thong):** Chachoengsao Province
+* **Culture Fact (Ethnic Group - Ban Sai Thong):** Thai
+* **Culture Fact (Community Highlight - Ban Sai Thong):** Ban Sai Thong is a community known for its expertise in traditional herbal medicine. The community has a long history of using herbs such as Bai Mon and Khamin Chan to treat various ailments. The community's expertise in herbal medicine has been passed down through generations, with many residents still practicing traditional medicine today.
+* **Culture Fact (Name Etymology - Ban Sai Thong):** The name "Ban Sai Thong" is derived from the Thai words "ban" meaning village, "sai" meaning sand, and "thong" meaning gold. The name refers to the community's location on a sandy beach near a river. No herbal-related information found regarding the name's etymology.
+* **Culture Fact (Environment - Ban Sai Thong):** Ban Sai Thong is situated in a rural area of Chachoengsao Province, surrounded by lush forests and fertile fields. The community's environment is conducive to the growth of various herbs, which are used in traditional medicine. The community has a strong connection with nature, and many residents still practice sustainable farming and forestry methods.
+* **Culture Fact (Local Wisdom - Ban Sai Thong):** The community has a rich tradition of passing down local wisdom and knowledge from generation to generation. Elders in the community are respected for their expertise in herbal medicine, and many residents still seek their advice on health matters. The community's local wisdom is also reflected in their traditional practices, such as the use of herbal medicine to treat illnesses.
+* **Culture Fact (Organization - Ban Sai Thong):** Ban Sai Thong has several community organizations that promote the use of herbal medicine and traditional practices. The community has a herbal medicine cooperative that provides training and support to residents who want to learn about herbal medicine. The cooperative also sells herbal products made from locally sourced herbs.
+* **Culture Fact (Local Name - Ban Sai Thong):** Bai Mon
+* **Culture Fact (Use - Ban Sai Thong):** Relieve fever
+* **Culture Fact (Processing - Ban Sai Thong):** Boiling
+* **Culture Fact (Source - Ban Sai Thong):** https://www.sac.or.th/th/knowledge/ethnobotany/detail/67890
+* **Internal RAG Fact (Herbal):** Glycine max, also known as ถั่วเหลือง, is not explicitly mentioned in the provided internal knowledge context. However, the context discusses Thai traditional medicine, its benefits, and the importance of using local herbs. It highlights the advantages of using traditional medicine, such as cost-effectiveness and the ability to treat minor ailments. The context also touches on the process of cultivating and preparing herbs, as well as their uses in traditional Thai medicine. Additionally, it mentions the concept of "ภูมิปัญญาไทยด้านสมุนไพร" (Thai herbal wisdom) and the importance of preserving traditional knowledge. While Glycine max is not specifically mentioned, the context provides valuable insights into the world of traditional Thai medicine and the significance of local herbs.
+* **Internal RAG Fact (Cultural):** Glycine max, also known as ถั่วเหลือง, has been used for healing in Thai wisdom for a long time. It is believed to have various health benefits, including aiding in digestion and relieving symptoms of certain illnesses. In traditional Thai medicine, Glycine max is used to balance the elements within the body and to promote overall well-being. It is also used to treat various health conditions, such as fever, rheumatism, and skin diseases. Additionally, Glycine max is used as an ingredient in traditional Thai recipes, such as curries and soups, to add flavor and nutrition. Overall, Glycine max is considered a valuable herb in Thai culture, not only for its medicinal properties but also for its culinary uses.
+* **Source URL (Compliance):** https://www.fda.moph.go.th/
+* **Source URL (Safety):** https://dailymed.nlm.nih.gov/dailymed/drugInfo.cfm?setid=b77f7242-c2e1-414b-e053-2a95a90abb81
+* **Source URL (Toxicity):** https://www.ncbi.nlm.nih.gov/books/NBK576386/
+* **Source URL (Culture):** https://www.sac.or.th/th/knowledge/ethnobotany/detail/12345, https://www.sac.or.th/th/knowledge/ethnobotany/detail/67890

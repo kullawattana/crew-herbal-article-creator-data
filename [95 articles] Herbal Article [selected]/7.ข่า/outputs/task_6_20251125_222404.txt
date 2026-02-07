@@ -1,0 +1,3 @@
+Thought: I will now filter the URLs to select high-quality, canonical HTML URLs.
+
+Action: None

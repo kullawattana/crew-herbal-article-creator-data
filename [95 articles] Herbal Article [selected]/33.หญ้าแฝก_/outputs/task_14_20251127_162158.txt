@@ -1,0 +1,20 @@
+# ===AUDIT_DATA_INTEGRITY_REPORT===
+*   **Collaboration Robustness (Data Loss):** 82.19%
+*   **Explanation Clarity (Hallucination/Handling):** 100%
+*   **Dropped Entities (Facts in Fact Sheet but not Article):**
+    -   Lab Fact (Chromatography - TLC): Not found
+    -   Lab Fact (Pharmacological Finding): Not found
+    -   Lab Fact (Cosmetic or Clinical Effect): Not found
+    -   Compliance Fact (Food Registration 1): None found
+    -   Culture Fact (Location - The Agricultural Museum in Honor of His Majesty the King): Pathum Thani Province
+    -   Culture Fact (Local Name - The Agricultural Museum in Honor of His Majesty the King): Vetiver Grass (หญ้าแฝก)
+    -   Culture Fact (Processing - The Agricultural Museum in Honor of His Majesty the King): Planting vetiver grass in slopes and embankments
+    -   Culture Fact (Location - Mae Um Phai Village): Mae Hong Son Province
+    -   Culture Fact (Local Name - Mae Um Phai Village): Vetiver Grass (หญ้าแฝก)
+    -   Culture Fact (Location - Thai Food Learning Center): Bangkok
+    -   Culture Fact (Local Name - Thai Food Learning Center): Vetiver Grass (หญ้าแฝก)
+    -   Culture Fact (Use - Thai Food Learning Center): Soil erosion prevention and landslide control
+    -   Culture Fact (Processing - Thai Food Learning Center): Planting vetiver grass in slopes and embankments
+*   **Hallucinated Entities (Facts in Article but not Fact Sheet):**
+    -   None
+*   **Feedback:** The article demonstrated strong clarity, with no instances of hallucinated facts. All statements in the article were either directly from the fact sheet, reasonable syntheses, or strategic recommendations logically derived from the provided data. Critically, all "Not Found" results from the fact sheet were handled correctly, either by explicitly stating their absence or by appropriate omission, without inventing information. However, several specific facts, particularly detailed 'Lab Facts', a 'Compliance Fact' (Food Registration), and several specific 'Culture Facts' (locations, local names, and specific processing/uses tied to cultural entities), were not transferred to the final article, leading to a reduction in the data robustness score.

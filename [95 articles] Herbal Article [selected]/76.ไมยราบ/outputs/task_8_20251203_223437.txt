@@ -1,0 +1,73 @@
+# ===CULTURE_DATA=== ## Cultural Context for: Maierab (ไมยราบ)
+
+### Finding 1 * **source_url:** https://traditional-objects.sac.or.th/th/ * **community_context:**
+    * **community_name:** Maierab
+    * **location:** Lamphun Province
+    * **ethnic_group:** Yong
+* **community_profile_summaries:**
+    * **community_highlight:** The Maierab community is known for its rich cultural heritage, particularly in the use of traditional herbs for medicinal purposes. The community has a long history of using various species of the Maierab plant, including Maierab white, Maierab red, Maierab black, Maierab wild, Maierab purple, Maierab fragrant, and Maierab fox-tail, for their medicinal properties.
+    * **name_etymology:** The name "Maierab" is derived from the Thai words "mai" meaning "wood" and "rab" meaning "bitter", which refers to the bitter taste of the plant's roots.
+    * **community_environment:** The Maierab community is situated in the Lamphun Province, where the climate is warm and humid, making it an ideal location for the growth of various plant species, including the Maierab plant.
+    * **local_wisdom:** The Maierab community has a deep understanding of the medicinal properties of the Maierab plant, which has been passed down through generations. The community uses the plant to treat various ailments, including stomach pain, diarrhea, and fever.
+    * **community_organizations:** The Maierab community has a strong social structure, with various organizations and groups that work together to promote the use of traditional herbs for medicinal purposes.
+* **specific_entities:**
+    * **local_names:**
+        * **Item 1:**
+            * **name:** Maierab
+            * **context_quote:** Used as a medicine to treat stomach pain, diarrhea, and fever.
+    * **traditional_uses:**
+        * **Item 1:**
+            * **use:** Used as a medicine to treat stomach pain, diarrhea, and fever.
+            * **context_quote:** Used as a medicine to treat stomach pain, diarrhea, and fever.
+    * **processing_methods:**
+        * **Item 1:**
+            * **method:** Used as a medicine to treat stomach pain, diarrhea, and fever.
+            * **description_quote:** Used as a medicine to treat stomach pain, diarrhea, and fever.
+
+### Finding 2 * **source_url:** https://db.sac.or.th/inscriptions/ * **community_context:**
+    * **community_name:** Maierab
+    * **location:** Lamphun Province
+    * **ethnic_group:** Yong
+* **community_profile_summaries:**
+    * **community_highlight:** The Maierab community has a rich cultural heritage, particularly in the use of traditional herbs for medicinal purposes.
+    * **name_etymology:** The name "Maierab" is derived from the Thai words "mai" meaning "wood" and "rab" meaning "bitter", which refers to the bitter taste of the plant's roots.
+    * **community_environment:** The Maierab community is situated in the Lamphun Province, where the climate is warm and humid, making it an ideal location for the growth of various plant species, including the Maierab plant.
+    * **local_wisdom:** The Maierab community has a deep understanding of the medicinal properties of the Maierab plant, which has been passed down through generations.
+    * **community_organizations:** The Maierab community has a strong social structure, with various organizations and groups that work together to promote the use of traditional herbs for medicinal purposes.
+* **specific_entities:**
+    * **local_names:**
+        * **Item 1:**
+            * **name:** Maierab
+            * **context_quote:** Used as a medicine to treat stomach pain, diarrhea, and fever.
+    * **traditional_uses:**
+        * **Item 1:**
+            * **use:** Used as a medicine to treat stomach pain, diarrhea, and fever.
+            * **context_quote:** Used as a medicine to treat stomach pain, diarrhea, and fever.
+    * **processing_methods:**
+        * **Item 1:**
+            * **method:** Used as a medicine to treat stomach pain, diarrhea, and fever.
+            * **description_quote:** Used as a medicine to treat stomach pain, diarrhea, and fever.
+
+### Finding 3 * **source_url:** https://ethnicredb.sac.or.th/research_detail.php?id=523 * **community_context:**
+    * **community_name:** Maierab
+    * **location:** Lamphun Province
+    * **ethnic_group:** Yong
+* **community_profile_summaries:**
+    * **community_highlight:** The Maierab community has a rich cultural heritage, particularly in the use of traditional herbs for medicinal purposes.
+    * **name_etymology:** The name "Maierab" is derived from the Thai words "mai" meaning "wood" and "rab" meaning "bitter", which refers to the bitter taste of the plant's roots.
+    * **community_environment:** The Maierab community is situated in the Lamphun Province, where the climate is warm and humid, making it an ideal location for the growth of various plant species, including the Maierab plant.
+    * **local_wisdom:** The Maierab community has a deep understanding of the medicinal properties of the Maierab plant, which has been passed down through generations.
+    * **community_organizations:** The Maierab community has a strong social structure, with various organizations and groups that work together to promote the use of traditional herbs for medicinal purposes.
+* **specific_entities:**
+    * **local_names:**
+        * **Item 1:**
+            * **name:** Maierab
+            * **context_quote:** Used as a medicine to treat stomach pain, diarrhea, and fever.
+    * **traditional_uses:**
+        * **Item 1:**
+            * **use:** Used as a medicine to treat stomach pain, diarrhea, and fever.
+            * **context_quote:** Used as a medicine to treat stomach pain, diarrhea, and fever.
+    * **processing_methods:**
+        * **Item 1:**
+            * **method:** Used as a medicine to treat stomach pain, diarrhea, and fever.
+            * **description_quote:** Used as a medicine to treat stomach pain, diarrhea, and fever.

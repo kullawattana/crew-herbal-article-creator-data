@@ -1,0 +1,73 @@
+# ===MASTER_FACT_SHEET=== 
+## Consolidated Facts for: Artocarpus lacucha
+* **Trend Fact:** No trend fact available
+* **Lab Fact (Experimental Method):** No lab fact available
+* **Lab Fact (Extraction Method):** No lab fact available
+* **Lab Fact (Compound Identified):** No lab fact available
+* **Lab Fact (Chromatography - TLC):** No lab fact available
+* **Lab Fact (Pharmacological Finding):** No lab fact available
+* **Lab Fact (Cosmetic or Clinical Effect):** No lab fact available
+* **Lab Fact (Quality Control):** No lab fact available
+* **Science Fact (Herb):** Artocarpus lacucha
+* **Science Fact (Compound):** No compound fact available
+* **Science Fact (Abstracts):**
+  * **Study 1:**
+    * **abstract_raw:** Artocarpus lacucha has been found to have insecticidal activity against Spodoptera litura larvae. The ethyl acetate crude extract of A. lacucha was the most toxic to second-instar S. litura larvae, with a 24-h LD50 value of ~9.07 µg/larva. The catechin isolated from the ethyl acetate crude extract exhibited the highest toxicity against this insect, with a 24-h LD50 value of ~8.37 µg/larva.
+    * **citation_apa:** Not found
+* **Compliance Fact (Food Registration 1):** None found
+* **Compliance Fact (Safety Dosage):** Not found
+* **Compliance Fact (Safety Warning):** None found
+* **Safety Fact (Active Ingredient):** No safety fact available
+* **Safety Fact (Ingredient Purpose):** No safety fact available
+* **Safety Fact (Uses):** No safety fact available
+* **Safety Fact (Warnings):** No safety fact available
+* **Safety Fact (Directions):** No safety fact available
+* **Safety Fact (Other Info):** No safety fact available
+* **Safety Fact (Inactive Ingredients):** No safety fact available
+* **Safety Fact (Questions):** No safety fact available
+* **Toxicity Fact (Summary):** Artocarpus lacucha has been found to have insecticidal activity against Spodoptera litura larvae.
+* **Toxicity Fact (Mechanism):** The mechanism of injury is not explicitly stated in the article.
+* **Toxicity Fact (Side Effects):** No side effects are mentioned in the article.
+* **Toxicity Fact (Case Reports):** No case reports are mentioned in the article
+* **Culture Fact (Community - Ban Wang Had):** 
+  * **Culture Fact (Community - Ban Wang Had):** Ban Wang Had
+  * **Culture Fact (Location - Ban Wang Had):** Taling Chan
+  * **Culture Fact (Ethnic Group - Ban Wang Had):** Thai Sukhothai
+  * **Culture Fact (Community Highlight - Ban Wang Had):** Ban Wang Had is an ancient community with a settlement dating back to the prehistoric era, approximately 2,500-3,000 years ago.
+  * **Culture Fact (Name Etymology - Ban Wang Had):** The name "Wang Had" reflects the relationship between nature and the local people.
+  * **Culture Fact (Local Wisdom - Ban Wang Had):** No herbal-related information found.
+  * **Culture Fact (Organization - Ban Wang Had):** No herbal-related information found.
+  * **Culture Fact (Local Name - Ban Wang Had):** Wang Had
+  * **Culture Fact (Use - Ban Wang Had):** Farming
+  * **Culture Fact (Processing - Ban Wang Had):** Farming
+  * **Culture Fact (Source - Ban Wang Had):** https://wikicommunity.sac.or.th/community/2660
+* **Culture Fact (Community - Wat Ratchaorosaram Ratchaworawihan):** 
+  * **Culture Fact (Community - Wat Ratchaorosaram Ratchaworawihan):** Wat Ratchaorosaram Ratchaworawihan
+  * **Culture Fact (Location - Wat Ratchaorosaram Ratchaworawihan):** Bangkok
+  * **Culture Fact (Ethnic Group - Wat Ratchaorosaram Ratchaworawihan):** Thai
+  * **Culture Fact (Community Highlight - Wat Ratchaorosaram Ratchaworawihan):** No herbal-related information found.
+  * **Culture Fact (Name Etymology - Wat Ratchaorosaram Ratchaworawihan):** No herbal-related information found.
+  * **Culture Fact (Local Wisdom - Wat Ratchaorosaram Ratchaworawihan):** No herbal-related information found.
+  * **Culture Fact (Organization - Wat Ratchaorosaram Ratchaworawihan):** No herbal-related information found.
+  * **Culture Fact (Local Name - Wat Ratchaorosaram Ratchaworawihan):** Som Siew
+  * **Culture Fact (Use - Wat Ratchaorosaram Ratchaworawihan):** Medicine
+  * **Culture Fact (Processing - Wat Ratchaorosaram Ratchaworawihan):** Medicine
+  * **Culture Fact (Source - Wat Ratchaorosaram Ratchaworawihan):** https://db.sac.or.th/inscriptions/glossary/detail/8968
+* **Culture Fact (Community - Wat Samu Nimit):** 
+  * **Culture Fact (Community - Wat Samu Nimit):** Wat Samu Nimit
+  * **Culture Fact (Location - Wat Samu Nimit):** Surat Thani
+  * **Culture Fact (Ethnic Group - Wat Samu Nimit):** Thai
+  * **Culture Fact (Community Highlight - Wat Samu Nimit):** No herbal-related information found.
+  * **Culture Fact (Name Etymology - Wat Samu Nimit):** No herbal-related information found.
+  * **Culture Fact (Local Wisdom - Wat Samu Nimit):** No herbal-related information found.
+  * **Culture Fact (Organization - Wat Samu Nimit):** No herbal-related information found.
+  * **Culture Fact (Local Name - Wat Samu Nimit):** Nam Man Yang
+  * **Culture Fact (Use - Wat Samu Nimit):** Oil
+  * **Culture Fact (Processing - Wat Samu Nimit):** Oil
+  * **Culture Fact (Source - Wat Samu Nimit):** https://manuscripts.sac.or.th/article-download.php?id=28
+* **Internal RAG Fact (Herbal):** Unfortunately, the provided internal knowledge context does not explicitly mention มะหาด (Artocarpus lacucha) in any of the queries or PDF excerpts.
+* **Internal RAG Fact (Cultural):** Mahad (มะหาด) is a type of herb used in traditional Thai medicine. It has been used for healing purposes for a long time and is considered a part of Thai wisdom.
+* **Source URL (Toxicity):** https://pubmed.ncbi.nlm.nih.gov/37289434/
+* **Source URL (Culture - Ban Wang Had):** https://wikicommunity.sac.or.th/community/2660
+* **Source URL (Culture - Wat Ratchaorosaram Ratchaworawihan):** https://db.sac.or.th/inscriptions/glossary/detail/8968
+* **Source URL (Culture - Wat Samu Nimit):** https://manuscripts.sac.or.th/article-download.php?id=28

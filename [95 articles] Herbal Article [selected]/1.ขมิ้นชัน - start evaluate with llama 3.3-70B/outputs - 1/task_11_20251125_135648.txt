@@ -1,0 +1,56 @@
+# ===MASTER_FACT_SHEET===
+## Consolidated Facts for: Turmeric (Curcuma longa)
+* **Trend Fact:** Turmeric, a spice commonly found in Indian and Middle Eastern cooking, has been shown to have numerous health benefits due to its active compound curcumin. It has potent antioxidant and anti-inflammatory properties, which may help prevent chronic diseases such as heart disease, cancer, and Alzheimer's disease. Turmeric may also improve symptoms of depression and arthritis.
+* **Trend Fact:** Turmeric has been used in traditional medicine for centuries, and its active compound curcumin has been shown to have anti-inflammatory and antioxidant properties. It may help reduce inflammation and improve symptoms of osteoarthritis, and may also have a role in preventing the development of Alzheimer's disease.
+* **Trend Fact:** Turmeric may help reduce inflammation and improve symptoms of chronic diseases such as heart disease, cancer, and Alzheimer's disease. Its active compound curcumin has been shown to have potent antioxidant and anti-inflammatory properties, and may also improve symptoms of depression and arthritis.
+* **Lab Fact (Experimental Method):** Not found.
+* **Lab Fact (Extraction Method):** Not found.
+* **Lab Fact (Compound Identified):** Not found.
+* **Lab Fact (Chromatography - TLC):** Not found.
+* **Lab Fact (Pharmacological Finding):** Not found.
+* **Lab Fact (Cosmetic or Clinical Effect):** Not found.
+* **Lab Fact (Quality Control):** Not found.
+* **Science Fact (Herb):** Turmeric
+* **Science Fact (Compound):** Curcumin
+* **Science Fact (Abstracts):**
+  * **Study 1:**
+    * **abstract_raw:** Curcumin (Cur) is a bioactive compound with neuroprotective and anti-inflammatory effects, though its clinical application is limited by poor bioavailability. This study assessed the impact of nanocapsulated curcumin (NcCur), formulated Eudragit (EUD) polymer, in a sporadic Alzheimer's disease (AD) mouse model induced by intracerebroventricular streptozotocin (STZ), with attention to sex-specific differences. Mice received STZ (3 nmol/3 microL) or 0.9% saline on days 1 and 3, followed by intragastric treatment with Cur or NcCur (10 mg/kg, on alternate days) from day 22 until euthanasia - a dose previously shown to be effective in behavioral and biochemical modulation in rodent models of neurodegeneration. Behavioral assessments included open field, elevated plus maze (EPM), tail suspension (TST), object recognition, Y-maze, and step-down avoidance tasks (SDAT), performed before and after treatment. After euthanasia, thymus, spleen and adrenal glands were weighed; biochemical assays evaluated oxidative stress, monoaminergic and cholinergic enzymes, and Na(+)K(+)-ATPase activity. NcCur improved short- and long-term memory in both sexes, with greater effects in females (42% and 35%) than males (28% and 25%). In the EPM, NcCur increased open arm time more prominently in females (40%) than males (25%), while TST immobility time was reduced similarly in both. Spatial and aversive memory improved in both sexes, but females showed greater performance in the SDAT. Biochemical analyses showed reductions in reactive species in males (45%) and females (55%) with NcCur; Na(+)K(+)-ATPase activity increased in females (60%) and males (50%). AChE activity was restored in both sexes. NcCur reduced MAO-A/B activities more in females (65%/55%) than in males (45%/35%). Thymus and spleen weights were normalized in both sexes, with stronger effects in females. NcCur also mitigated alterations in thymus and spleen relative weights, suggesting immunomodulatory effects. Some biochemical and behavioral responses were more prominent in females, both sexes benefited from treatments. These findings suggest that NcCur enhances Cur therapeutic potential through multimodal actions linked involving modulation of oxidative stress, cholinergic and monoaminergic systems, and immune-related parameters. NcCur emerges as a promising candidate for AD-like intervention in both sexes.
+    * **citation_apa:** Rodrigues, K. D. C., Oliveira, M. D. C., de Souza, I. C., Igansi, A. W., Lopes, A. V. B., de Oliveira Pacheco, C., ... & Luchese, C. (2025). Sex-dependent therapeutic effects of nano-curcumin on Alzheimer's disease: Enhanced cognitive and physiological restoration in female mice. Psychopharmacology, 242(11), 2821-2836. doi: 10.1007/s00213-025-06967-9
+* **Compliance Fact (Food Registration 1):** None found.
+* **Compliance Fact (Safety Dosage):** Not found.
+* **Compliance Fact (Safety Warning):** None found.
+* **Safety Fact (Active Ingredient):** Not found.
+* **Safety Fact (Ingredient Purpose):** Not found.
+* **Safety Fact (Uses):** Not found.
+* **Safety Fact (Warnings):** Not found.
+* **Safety Fact (Directions):** Not found.
+* **Safety Fact (Other Info):** Not found.
+* **Safety Fact (Inactive Ingredients):** Not found.
+* **Safety Fact (Questions):** Not found.
+* **Toxicity Fact (Summary):** Not found.
+* **Toxicity Fact (Mechanism):** Not found.
+* **Toxicity Fact (Side Effects):** Not found.
+* **Toxicity Fact (Case Reports):** Not found.
+* **Culture Fact (Community - Abhai Bhubejhr Museum of Thai Traditional Medicine):** Abhai Bhubejhr Museum of Thai Traditional Medicine
+* **Culture Fact (Location - Abhai Bhubejhr Museum of Thai Traditional Medicine):** Prachinburi Province
+* **Culture Fact (Ethnic Group - Abhai Bhubejhr Museum of Thai Traditional Medicine):** Thai
+* **Culture Fact (Community Highlight - Abhai Bhubejhr Museum of Thai Traditional Medicine):** The Abhai Bhubejhr Museum of Thai Traditional Medicine is a significant cultural institution in Prachinburi Province, showcasing the history and development of traditional Thai medicine. The museum is located in a historic building that was once the residence of Prince Abhai Bhubejhr, a prominent figure in Thai medicine. The museum features a collection of traditional Thai medical texts, artifacts, and exhibits on the history of Thai medicine.
+* **Culture Fact (Name Etymology - Abhai Bhubejhr Museum of Thai Traditional Medicine):** The name "Abhai Bhubejhr" is derived from the name of Prince Abhai Bhubejhr, who was a renowned physician and traditional medicine practitioner in Thailand. The name is a combination of the Thai words "Abhai," meaning "medicine," and "Bhubejhr," which is the name of the prince.
+* **Culture Fact (Environment - Abhai Bhubejhr Museum of Thai Traditional Medicine):** The museum is situated in a historic building that is over 100 years old, and is surrounded by a beautiful garden that features a variety of traditional Thai medicinal plants. The building itself is a fine example of traditional Thai architecture, with intricate carvings and ornate details.
+* **Culture Fact (Local Wisdom - Abhai Bhubejhr Museum of Thai Traditional Medicine):** The museum showcases the local wisdom and traditional knowledge of Thai medicine, which has been passed down through generations of physicians and practitioners. The exhibits feature a range of traditional Thai medical texts, artifacts, and equipment, which provide insight into the history and development of Thai medicine.
+* **Culture Fact (Organization - Abhai Bhubejhr Museum of Thai Traditional Medicine):** The museum is managed by the Abhai Bhubejhr Foundation, which is a non-profit organization dedicated to promoting and preserving traditional Thai medicine. The foundation works closely with local communities and organizations to promote the use of traditional Thai medicine and to support the development of traditional Thai medical practitioners.
+* **Culture Fact (Local Name - Abhai Bhubejhr Museum of Thai Traditional Medicine):** Khamin Chan
+* **Culture Fact (Use - Abhai Bhubejhr Museum of Thai Traditional Medicine):** Relieve stomach pain and digestive problems
+* **Culture Fact (Processing - Abhai Bhubejhr Museum of Thai Traditional Medicine):** Drying
+* **Culture Fact (Source - Abhai Bhubejhr Museum of Thai Traditional Medicine):** https://db.sac.or.th/museum/museum-detail/873
+* **Internal RAG Fact (Herbal):** Turmeric, also known as ขมิ้นชัน in Thai, is not explicitly mentioned in the provided context. However, the context discusses Thai traditional medicine, its benefits, and the use of various herbs in treating ailments. According to the context, traditional Thai medicine is considered outdated and not suitable for modern times. However, it is also mentioned that traditional Thai medicine can be effective in treating minor ailments and reducing medical expenses. The context also touches on the importance of using locally grown herbs and plants in traditional medicine, highlighting their safety and cost-effectiveness. Additionally, it mentions the use of certain herbs, such as ใบมะกรูด (Thai basil), in treating various ailments. While turmeric is not explicitly mentioned, the context provides insight into the use of traditional Thai medicine and the importance of locally grown herbs in treating various ailments.
+* **Internal RAG Fact (Cultural):** Turmeric, or ขมิ้นชัน in Thai, has been used for healing in Thai wisdom for a long time. The innovation of 'Nam Prik' (chili paste) is used as a dip, as it helps with digestion. Turmeric has been used as a medicine for a long time, and it has become a part of Thai wisdom that has been passed down from ancient times to the present. Therefore, it is something that everyone should pay attention to in order to take care of their health and avoid diseases, which can help reduce healthcare costs in the country. However, it is noted that if the elements in the body are already balanced, consuming food that supplements any one element too much may cause illness. In the present day, there are many types of food to choose from, with various flavors, but most are not spicy, such as Japanese, Korean, and Western food. Although they may have spices, they are not enough to create the necessary fire and wind for the body, according to the climate. Turmeric is also used in traditional Thai medicine, and it is believed to have healing properties. It is used to treat various ailments, and it is also used as a preventative measure to maintain good health. Additionally, turmeric is used in cooking, particularly in curries and soups, where it adds flavor and aroma. The use of turmeric in Thai cuisine is not only limited to its medicinal properties but also its cultural significance, as it is believed to bring good fortune and prosperity.
+* **Source URL (Trend):** https://www.healthline.com/nutrition/top-10-evidence-based-health-benefits-of-turmeric
+* **Source URL (Trend):** https://www.hopkinsmedicine.org/health/wellness-and-prevention/turmeric-benefits
+* **Source URL (Trend):** https://health.clevelandclinic.org/turmeric-health-benefits/
+* **Source URL (Science):** https://doi.org/10.1007/s00213-025-06967-9
+* **Source URL (Compliance):** Not found.
+* **Source URL (Safety):** Not found.
+* **Source URL (Toxicity):** Not found.
+* **Source URL (Culture):** https://db.sac.or.th/museum/museum-detail/873
+* **Source URL (Culture):** https://www.tat8.com/thai/pj/p_jaoprayaapai.htm

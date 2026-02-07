@@ -1,0 +1,79 @@
+# ===MASTER_FACT_SHEET=== 
+## Consolidated Facts for: ลูกเนียง (Archidendron pauciflorum)
+* **Trend Fact:** No trend fact available in the provided context.
+* **Lab Fact (Experimental Method):** No lab fact available in the provided context.
+* **Lab Fact (Extraction Method):** No lab fact available in the provided context.
+* **Lab Fact (Compound Identified):** No lab fact available in the provided context.
+* **Lab Fact (Chromatography - TLC):** No lab fact available in the provided context.
+* **Lab Fact (Pharmacological Finding):** No lab fact available in the provided context.
+* **Lab Fact (Cosmetic or Clinical Effect):** No lab fact available in the provided context.
+* **Lab Fact (Quality Control):** No lab fact available in the provided context.
+* **Science Fact (Herb):** No science fact available in the provided context.
+* **Science Fact (Compound):** No science fact available in the provided context.
+* **Science Fact (Abstracts):**
+  * **Study 1:**
+    * **abstract_raw:** Polygonum multiflorum is an herb native to China, extracts of which has been used for centuries as a treatment for a wide range of conditions including backache, dizziness, liver disease, graying of the hair and constipation. P. multiflorum is also known as Shou Wu Pian, He Shou Pian, Fo-Ti and Chinese knotweed. Polygonum multiflorum has been implicated in numerous reports of clinically apparent acute liver injury which can be severe and even fatal.
+    * **citation_apa:** Not found
+* **Compliance Fact (Food Registration 1):** registration_number=13-2-05460-6-0012, product_name=ลูกเนียงดอง / PICKLED LUK NIENG, company_name=บริษัท มากาดู คอร์ปอเรชั่น จำกัด, status=สถานะผลิตภัณฑ์(คงอยู่)\ สถานะสถานที่ (คงอยู่)
+* **Compliance Fact (Food Registration 2):** registration_number=50-2-01656-2-0019, product_name=ลูกเนียงดอง (ตราพอลฟู้ดส์), company_name=ห้างหุ้นส่วนจำกัด พีเอยูแอล เทรดดิ้ง, status=สถานะผลิตภัณฑ์(ยกเลิก 3/7/2557) \ สถานะสถานที่ (ยกเลิก 3/7/2557)
+* **Compliance Fact (Food Registration 3):** registration_number=50-2-05257-2-0019, product_name=ลูกเนียงดอง (ตราพอลฟุ้ดส์), company_name=บริษัท พีเอยูแอล เทรดดิ้ง จำกัด, status=สถานะผลิตภัณฑ์(คงอยู่)\ สถานะสถานที่ (คงอยู่)
+* **Compliance Fact (Food Registration 4):** registration_number=50-2-05952-2-0003, product_name=ลูกเนียงดอง, company_name=ห้างหุ้นส่วนจำกัด ฟู๊ดส์ ฟอร์ เฮลธ์, status=สถานะผลิตภัณฑ์(ยกเลิก 31/1/2556) \ สถานะสถานที่ (ยกเลิก 31/1/2556)
+* **Compliance Fact (Food Registration 5):** registration_number=73-2-02956-4-0005, product_name=ลูกเนียงดอง (ตรา ทู เมื่อย ทีเอ็ม)  /  Pickled Luk Nieng (Thoo Mweh TM Brand), company_name=บริษัท สยาม พีเจ ฟูดส์ จำกัด, status=สถานะผลิตภัณฑ์(คงอยู่)\ สถานะสถานที่ (คงอยู่)
+* **Compliance Fact (Safety Dosage):** Not found
+* **Compliance Fact (Safety Warning):** Not found
+* **Safety Fact (Active Ingredient):** Not found
+* **Safety Fact (Ingredient Purpose):** Not found
+* **Safety Fact (Uses):** Not found
+* **Safety Fact (Warnings):** Not found
+* **Safety Fact (Directions):** Not found
+* **Safety Fact (Other Info):** Not found
+* **Safety Fact (Inactive Ingredients):** Not found
+* **Safety Fact (Questions):** Not found
+* **Toxicity Fact (Summary):** Polygonum multiflorum is an herb native to China, extracts of which has been used for centuries as a treatment for a wide range of conditions including backache, dizziness, liver disease, graying of the hair and constipation. P. multiflorum is also known as Shou Wu Pian, He Shou Pian, Fo-Ti and Chinese knotweed. Polygonum multiflorum has been implicated in numerous reports of clinically apparent acute liver injury which can be severe and even fatal.
+* **Toxicity Fact (Mechanism):** The mechanism of hepatotoxicity of Polygonum multiflorum is not known, but the injury is usually attributed to the anthraquinones (such as emodin) which are major constituents in Polygonum multiflorum.
+* **Toxicity Fact (Side Effects):** Several published cases and a large case series from China, Korea and Japan of clinically apparent acute liver injury have been attributed to use of Polygonum multiflorum. Indeed, in China Polygonum multiflorum is reported to be the most common cause of herbal product related liver injury. The latency to onset is usually short, but ranges from a few days to as long as 6 months. The pattern of serum enzyme elevations is typically hepatocellular or mixed and the clinical presentation resembles acute viral hepatitis with onset of fatigue, nausea and right upper quadrant pain followed by dark urine and jaundice. Immunoallergic features are uncommon as are autoantibodies. Liver biopsy shows changes typical of acute hepatitis. The course is usually self-limited, resolving rapidly once the herbal is discontinued, but up to 10% of clinically apparent cases have been fatal or led to urgent liver transplantation. Recurrence upon re-exposure with a more rapid time to onset has been reported.
+* **Toxicity Fact (Case Reports):** Case 1. Recurrent hepatitis due to Shou Wu Pian. A 5 year old girl developed jaundice and dark urine 4 months after her parents started her on Shou Wu Pian (3 tablets daily) for hair loss. She was otherwise healthy, with normal growth and development and no history of liver disease or risk factors for viral hepatitis. She was taking no conventional medications and her family initially did not mention the herbal use. Physical examination showed jaundice and mild hepatomegaly without fever, rash, abdominal tenderness or splenomegaly. Laboratory results showed raised serum bilirubin levels (4.9 mg/dL), and elevations in serum aminotransferases (ALT 1543 U/L, AST 1938 U/L) and gamma-glutamyl transpeptidase levels (GGT 67, normal <17 U/L). Tests for hepatitis A, B and C were negative as were tests for cytomegalovirus and Epstein Barr virus infection. Abdominal ultrasound showed normal liver and biliary tract. Liver tests improved without specific therapy and one month later liver tests were normal. However, she returned with recurrence of jaundice 2 months later and at this point the history of herbal use was obtained. After recovering from the initial liver injury, the Shou Wu Pian had been restarted at a lower dose (2 tablets per day) and she redeveloped jaundice within a month of restarting. She again began to improve once the herbal medication was stopped, but liver test abnormalities did not completely resolve until 5 months later.
+* **Culture Fact (Community - Sakai):** 
+    * **community_name:** Sakai
+    * **location:** Phatthalung, Trang, Satun
+    * **ethnic_group:** Mani
+    * **community_highlight:** The Sakai community has a unique way of life, with a strong emphasis on traditional culture and beliefs. They have a rich knowledge of herbal medicine, particularly in the use of natural remedies for family planning and birth control.
+    * **name_etymology:** The name "Luk Niyang" is derived from the Sakai language, which is spoken by the community.
+    * **community_environment:** The Sakai community is traditionally a nomadic people, living in the forests and mountains of southern Thailand. They have a deep understanding of the natural environment and have developed a range of traditional practices to manage and conserve natural resources.
+    * **local_wisdom:** The Sakai community has a rich tradition of local wisdom, with a strong emphasis on traditional knowledge and practices. They have developed a range of innovative solutions to manage natural resources and promote sustainable livelihoods.
+    * **community_organizations:** The Sakai community has a range of community organizations, including traditional councils and cooperatives, which play an important role in promoting community development and managing natural resources.
+    * **local_name:** Luk Niyang
+    * **use:** Herbal medicine for family planning and birth control
+    * **processing_method:** Traditional processing methods, including drying and grinding
+* **Culture Fact (Community - Thai):** 
+    * **community_name:** Thai
+    * **location:** Southern Thailand
+    * **ethnic_group:** Thai
+    * **community_highlight:** The Thai community in southern Thailand has a rich tradition of herbal medicine, with a strong emphasis on the use of local plants and remedies.
+    * **name_etymology:** The name "Luk Niyang" is derived from the Thai language, which is spoken by the community.
+    * **community_environment:** The Thai community in southern Thailand is traditionally a coastal people, living in the provinces of Phatthalung, Trang, and Satun. They have a deep understanding of the marine environment and have developed a range of traditional practices to manage and conserve marine resources.
+    * **local_wisdom:** The Thai community in southern Thailand has a rich tradition of local wisdom, with a strong emphasis on traditional knowledge and practices. They have developed a range of innovative solutions to manage natural resources and promote sustainable livelihoods.
+    * **community_organizations:** The Thai community in southern Thailand has a range of community organizations, including traditional councils and cooperatives, which play an important role in promoting community development and managing natural resources.
+    * **local_name:** Luk Niyang
+    * **use:** Herbal medicine for various health conditions
+    * **processing_method:** Traditional processing methods, including boiling and steaming
+* **Culture Fact (Community - Mon):** 
+    * **community_name:** Mon
+    * **location:** Myanmar
+    * **ethnic_group:** Mon
+    * **community_highlight:** The Mon community in Myanmar has a rich tradition of herbal medicine, with a strong emphasis on the use of local plants and remedies.
+    * **name_etymology:** The name "Luk Niyang" is derived from the Mon language, which is spoken by the community.
+    * **community_environment:** The Mon community in Myanmar is traditionally a coastal people, living in the provinces of Mon State and Tanintharyi Region. They have a deep understanding of the marine environment and have developed a range of traditional practices to manage and conserve marine resources.
+    * **local_wisdom:** The Mon community in Myanmar has a rich tradition of local wisdom, with a strong emphasis on traditional knowledge and practices. They have developed a range of innovative solutions to manage natural resources and promote sustainable livelihoods.
+    * **community_organizations:** The Mon community in Myanmar has a range of community organizations, including traditional councils and cooperatives, which play an important role in promoting community development and managing natural resources.
+    * **local_name:** Luk Niyang
+    * **use:** Herbal medicine for various health conditions
+    * **processing_method:** Traditional processing methods, including boiling and steaming
+* **Internal RAG Fact (Herbal):** ลูกเนียง (Archidendron pauciflorum) is not explicitly mentioned in the provided context. However, the context discusses Thai traditional medicine, its benefits, and the use of herbs in traditional Thai medicine.
+* **Internal RAG Fact (Cultural):** No relevant information about ลูกเนียง was found in the provided cultural context.
+* **Source URL (Trend):** Not found
+* **Source URL (Science):** https://www.ncbi.nlm.nih.gov/books/NBK548795/
+* **Source URL (Compliance):** https://www.fda.moph.go.th/
+* **Source URL (Safety):** https://dailymed.nlm.nih.gov/
+* **Source URL (Toxicity):** https://www.ncbi.nlm.nih.gov/books/NBK548795/
+* **Source URL (Culture):** https://ethnicredb.sac.or.th/research_detail.php?id=696, https://southeastasia.sac.or.th/subject.php?c_id=9&sj_id=76, https://southeastasia.sac.or.th/subject.php?c_id=6&sj_id=54

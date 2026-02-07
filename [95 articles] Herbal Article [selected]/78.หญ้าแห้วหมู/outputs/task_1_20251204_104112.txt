@@ -1,0 +1,14 @@
+# ===TRENDS_DATA=== 
+## Wellness Trends for: Nutgrass (Cyperus rotundus)
+### Finding 1 
+* **herb_name:** Nutgrass (Cyperus rotundus)
+* **wellness_context_summary:** Nutgrass, also known as tiger nuts, is a type of edible tuber that is rich in antioxidants, fiber, and other nutrients. It has been traditionally used in medicine for its various health benefits, including reducing blood glucose levels, improving heart health, boosting the immune system, and improving digestion. Nutgrass can be consumed in various forms, including raw, dried, roasted, and flour.
+* **source_url:** https://draxe.com/nutrition/tiger-nuts/
+### Finding 2 
+* **herb_name:** Nutgrass (Cyperus rotundus)
+* **wellness_context_summary:** Nutgrass is a good source of fiber, protein, and healthy fats, making it a nutritious addition to a healthy diet. It also contains antioxidants and other nutrients that can help protect against chronic diseases such as heart disease, diabetes, and certain types of cancer. Nutgrass can be used as a natural remedy for various health issues, including digestive problems and skin conditions.
+* **source_url:** https://healthiersteps.com/tiger-nut-nutrition-and-benefits/
+### Finding 3 
+* **herb_name:** Nutgrass (Cyperus rotundus)
+* **wellness_context_summary:** Nutgrass has been shown to have antibacterial and anti-inflammatory properties, making it a potential natural remedy for various health issues. It is also rich in vitamins and minerals, including vitamin E, magnesium, and potassium. Nutgrass can be consumed in various forms, including raw, dried, roasted, and flour, and can be used as a natural remedy for various health issues.
+* **source_url:** https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6360429/

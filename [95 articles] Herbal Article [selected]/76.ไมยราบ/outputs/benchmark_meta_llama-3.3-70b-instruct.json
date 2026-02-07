@@ -1,0 +1,11 @@
+{
+  "model": "meta/llama-3.3-70b-instruct",
+  "herbs": "Mimosa pudica",
+  "runtime_sec": 670.29,
+  "cpu_percent": -9.6,
+  "memory_mb_change": -245.31,
+  "total_tokens": 0,
+  "prompt_tokens": 0,
+  "completion_tokens": 0,
+  "total_cost": 0.0
+}

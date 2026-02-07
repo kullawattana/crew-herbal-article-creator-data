@@ -1,0 +1,33 @@
+```markdown
+# ===AUDIT_DATA_INTEGRITY_REPORT===
+* **Collaboration Robustness (Data Loss):** 92%
+* **Explanation Clarity (Hallucination/Handling):** 100%
+* **Dropped Entities (Facts in Fact Sheet but not Article):**
+    - Trend Fact: Not found
+    - Lab Fact (Experimental Method): Not found
+    - Lab Fact (Extraction Method): Not found
+    - Lab Fact (Compound Identified): Not found
+    - Lab Fact (Chromatography - TLC): Not found
+    - Lab Fact (Pharmacological Finding): Not found
+    - Lab Fact (Cosmetic or Clinical Effect): Not found
+    - Lab Fact (Quality Control): Not found
+    - Science Fact (Compound): Not found
+    - Compliance Fact (Food Registration 1): None found
+    - Compliance Fact (Safety Dosage): Not found
+    - Compliance Fact (Safety Warning): None found
+    - Safety Fact (Active Ingredient): ZINGIBER CASSUMUNAR ROOT OIL, strength: Not found, purpose: Not found
+    - Safety Fact (Ingredient Purpose): Not found
+    - Safety Fact (Uses): Not found
+    - Safety Fact (Warnings): Not found
+    - Safety Fact (Directions): Not found
+    - Safety Fact (Other Info): Not found
+    - Safety Fact (Inactive Ingredients): Not found
+    - Safety Fact (Questions): Not found
+    - Toxicity Fact (Mechanism): Not found
+    - Toxicity Fact (Case Reports): Not found
+    - Internal RAG Fact (Herbal): Zingiber cassumunar, also known as ไพล, is not explicitly mentioned in the provided context. However, the context discusses Thai traditional medicine, its benefits, and the use of various herbs in treating ailments.
+    - Internal RAG Fact (Cultural): No relevant information about ไพล was found in the provided cultural context.
+* **Hallucinated Entities (Facts in Article but not Fact Sheet):**
+    - None
+* **Feedback:** The article accurately reflects the information provided in the fact sheet. The "Not found" for citation_apa is handled correctly by stating "Not found" in the references. The article successfully incorporates the main science and cultural facts. The score reflects the omission of several "Not found" or "None found" facts from the original fact sheet, which, while technically correct to omit, reduces the comprehensiveness slightly.
+```

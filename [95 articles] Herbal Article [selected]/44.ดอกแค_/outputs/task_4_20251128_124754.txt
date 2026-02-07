@@ -1,0 +1,55 @@
+# ===COMPLIANCE_DATA===
+## Thai FDA Status for: Sesbania grandiflora
+* **herb_name:** Sesbania grandiflora
+### Food Registrations
+* **Food Registration 1:**
+    * **registration_number:** 19-2-03460-6-0136
+    * **product_name:** ดอกแคตัดแต่ง / trimmed sesban
+    * **company_name:** บริษัท ผักอร่อย ฟาร์ม จำกัด
+    * **status:** สถานะผลิตภัณฑ์(คงอยู่)\ สถานะสถานที่ (คงอยู่)
+* **Food Registration 2:**
+    * **registration_number:** 40-2-05363-6-0026
+    * **product_name:** น้ำดื่มตรา ดอกแคร์ /  DOK CARE DRINKING WATER
+    * **company_name:** บริษัท มหาโชค 888 จำกัด
+    * **status:** สถานะผลิตภัณฑ์(คงอยู่)\ สถานะสถานที่ (คงอยู่)
+* **Food Registration 3:**
+    * **registration_number:** 82-4-00157-6-0409
+    * **product_name:** ดอกแคปเปอร์ในน้ำเกลือ-มอนเต อาร์เจนโต / FRUTTI DI CAPPERO-MONTE ARGENTO
+    * **company_name:** บริษัท ไซโน ฟูด ไทย จำกัด
+    * **status:** สถานะผลิตภัณฑ์(ยกเลิกเนื่องจากย้ายใบอนุญาต ) \ สถานะสถานที่ (ย้าย 27/5/2557)
+* **Food Registration 4:**
+    * **registration_number:** 83-4-00136-2-0014
+    * **product_name:** ดอกแคปเปอร์ดอง  (ตราเดลิซิ่ง ) / -
+    * **company_name:** บริษัท อินเตอร์มาร์โก จำกัด
+    * **status:** สถานะผลิตภัณฑ์(สิ้นสภาพเนื่องจากใบอนุญาตขาดต่ออายุ 31/12/2559) \ สถานะสถานที่ (ขาดต่ออายุ 31/12/2559)
+* **Food Registration 5:**
+    * **registration_number:** 10-3-44857-6-0409
+    * **product_name:** ดอกแคปเปอร์ในน้ำเกลือ-มอนเต อาร์เจนโต / FRUTTI DI CAPPERO-MONTE ARGENTO
+    * **company_name:** บริษัท ไซโน ฟูด ไทย จำกัด
+    * **status:** สถานะผลิตภัณฑ์(คงอยู่)\ สถานะสถานที่ (คงอยู่)
+### Cosmetics Registrations
+* **Cosmetics Registration 1:**
+    * **registration_number:** 12-1-6600040646
+    * **product_name:** ดอกแคร์ ฟิลเลอร์ ปลั้มปิ้ง กลอส 01 / DOK CARE FILLER PLUMPING GLOSS 01
+    * **company_name:** บริษัท อินฟินิต คอสมา แลบอราทอรี จำกัด
+    * **status:** คงอยู่
+* **Cosmetics Registration 2:**
+    * **registration_number:** 12-1-6600040646
+    * **product_name:** ดอกแคร์ ฟิลเลอร์ ปลั้มปิ้ง กลอส 02 / DOK CARE FILLER PLUMPING GLOSS  02
+    * **company_name:** บริษัท อินฟินิต คอสมา แลบอราทอรี จำกัด
+    * **status:** คงอยู่
+* **Cosmetics Registration 3:**
+    * **registration_number:** 12-1-6600040646
+    * **product_name:** ดอกแคร์ ฟิลเลอร์ ปลั้มปิ้ง กลอส 03 / DOK CARE FILLER PLUMPING GLOSS  03
+    * **company_name:** บริษัท อินฟินิต คอสมา แลบอราทอรี จำกัด
+    * **status:** คงอยู่
+* **Cosmetics Registration 4:**
+    * **registration_number:** 12-1-6600040646
+    * **product_name:** ดอกแคร์ ฟิลเลอร์ ปลั้มปิ้ง กลอส 04 / DOK CARE FILLER PLUMPING GLOSS 04
+    * **company_name:** บริษัท อินฟินิต คอสมา แลบอราทอรี จำกัด
+    * **status:** คงอยู่
+* **Cosmetics Registration 5:**
+    * **registration_number:** 12-1-6600040646
+    * **product_name:** ดอกแคร์ ฟิลเลอร์ ปลั้มปิ้ง กลอส 05 / DOK CARE FILLER PLUMPING GLOSS 05
+    * **company_name:** บริษัท อินฟินิต คอสมา แลบอราทอรี จำกัด
+    * **status:** คงอยู่

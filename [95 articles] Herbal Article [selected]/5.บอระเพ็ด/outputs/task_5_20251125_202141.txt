@@ -1,0 +1,16 @@
+# ===SAFETY_DATA=== 
+## International Safety Data for: Tinospora crispa
+* **herb_name:** Tinospora crispa
+* **source_browsed:** None
+### Drug Facts Label
+* **active_ingredients:** 
+    * **Ingredient 1:**
+        * **name:** Not found
+        * **strength:** Not found
+        * **purpose:** Not found
+* **uses:** Not found
+* **warnings:** Not found
+* **directions:** Not found
+* **other_information:** Not found
+* **inactive_ingredients:** Not found
+* **questions:** Not found

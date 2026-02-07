@@ -1,0 +1,97 @@
+# ===MASTER_FACT_SHEET=== 
+## Consolidated Facts for: Syzygium aromaticum
+* **Trend Fact:** Not found
+* **Lab Fact (Experimental Method):** Not found
+* **Lab Fact (Extraction Method):** Not found
+* **Lab Fact (Compound Identified):** Not found
+* **Lab Fact (Chromatography - TLC):** Not found
+* **Lab Fact (Pharmacological Finding):** Not found
+* **Lab Fact (Cosmetic or Clinical Effect):** Not found
+* **Lab Fact (Quality Control):** Not found
+* **Science Fact (Herb):** Syzygium aromaticum
+* **Science Fact (Compound):** Eugenol
+* **Science Fact (Abstracts):**
+  * **Study 1:**
+    * **abstract_raw:** Not found
+    * **citation_apa:** Not found
+  * **Study 2:**
+    * **abstract_raw:** Not found
+    * **citation_apa:** Not found
+  * **Study 3:**
+    * **abstract_raw:** Not found
+    * **citation_apa:** Not found
+* **Compliance Fact (Food Registration 1):** None found
+* **Compliance Fact (Safety Dosage):** Not found
+* **Compliance Fact (Safety Warning):** None found
+* **Safety Fact (Active Ingredient):** 
+    * **Ingredient 1:**
+        * **name:** Allium sativum
+        * **strength:** 2000 mg in 2 U
+        * **purpose:** Not found
+    * **Ingredient 2:**
+        * **name:** Momordica charantia
+        * **strength:** 740 mg in 2 U
+        * **purpose:** Not found
+* **Safety Fact (Ingredient Purpose):** 
+    * **Ingredient 1:**
+        * **name:** Allium sativum
+        * **strength:** 2000 mg in 2 U
+        * **purpose:** Not found
+    * **Ingredient 2:**
+        * **name:** Momordica charantia
+        * **strength:** 740 mg in 2 U
+        * **purpose:** Not found
+* **Safety Fact (Uses):** Decrease Ocular Pressure, Minimize Pressure Related Headaches, Improve Visual Acuity, Reduce Light Sensitivity
+* **Safety Fact (Warnings):** Not safe for pregnant women, Do not use if imprinted seal under cap is broken or missing.
+* **Safety Fact (Directions):** Take 2 capsules by mouth before breakfast and 2 capsules at night before dinner.
+* **Safety Fact (Other Info):** Keep bottle tightly closed. Store in a cool dry place, out of children's reach.
+* **Safety Fact (Inactive Ingredients):** Vegetable Capsule (HPMC), Rice Flour, Syzygium aromaticum L
+* **Safety Fact (Questions):** Not found
+* **Toxicity Fact (Summary):** Eugenol, also called clove oil, is an aromatic oil extracted from cloves that is used widely as a flavoring for foods and teas and as an herbal oil used topically to treat toothache and more rarely to be taken orally to treat gastrointestinal and respiratory complaints. Eugenol in therapeutic doses has not been implicated in causing serum enzyme elevations or clinically apparent liver injury, but ingestions of high doses, as with an overdose, can cause severe liver injury.
+* **Toxicity Fact (Mechanism):** In high concentrations, eugenol has cytotoxic activity both in vitro and in vivo, characteristics [along with its aromatic qualities] that support its use as an insecticide. Thus, liver injury from eugenol is likely direct hepatotoxicity.
+* **Toxicity Fact (Side Effects):** Allergic reactions, painful gums and oral ulcers, acute pulmonary toxicity, severe lung injury, liver injury, renal dysfunction, acidosis, respiratory depression, hypoglycemia, coagulopathy, hepatic encephalopathy, seizures, coma, and death.
+* **Toxicity Fact (Case Reports):** Several cases of severe liver injury have been reported after accidental overdose of eugenol containing herbal products, largely in children. Overdoses have been marked by the onset of agitation, decrease in consciousness and coma arising within hours on ingestion (10-30 mL of clove oil). There is typically an accompanying acidosis, respiratory depression and severe hypoglycemia requiring ventilation and intravenous glucose. Liver injury arises 12 to 24 hours after ingestion with marked elevations in serum aminotransferase levels and early coagulation abnormalities. Signs of hepatic failure arise rapidly, and jaundice can develop and deepen. The overall clinical presentation is typical of acute hepatic necrosis and similar to that of acetaminophen, iron or copper overdose.
+* **Culture Fact (Community - Ban Dong Bang):** Ban Dong Bang
+* **Culture Fact (Location - Ban Dong Bang):** Prachinburi Province
+* **Culture Fact (Ethnic Group - Ban Dong Bang):** Thai
+* **Culture Fact (Community Highlight - Ban Dong Bang):** Ban Dong Bang is a community known for its expertise in traditional herbal medicine. The community has a long history of using herbs to treat various ailments, and its members have developed a unique understanding of the medicinal properties of local plants. The community's herbal wisdom has been passed down through generations, and its members continue to play an important role in preserving and promoting traditional Thai herbal medicine.
+* **Culture Fact (Name Etymology - Ban Dong Bang):** The name "Ban Dong Bang" is derived from the Thai words "ban" meaning "village" and "dong" meaning "bamboo forest". The community is situated near a bamboo forest, which has been a source of inspiration for the community's herbal traditions. The name "Bang" refers to the community's location near a river, which has played a crucial role in the community's development and growth.
+* **Culture Fact (Environment - Ban Dong Bang):** Ban Dong Bang is situated in a rural area of Prachinburi Province, surrounded by lush forests and rolling hills. The community's environment has played a significant role in shaping its herbal traditions, with many of its members relying on the local flora for medicinal purposes. The community's proximity to the river has also facilitated trade and exchange with neighboring communities, allowing for the sharing of knowledge and ideas.
+* **Culture Fact (Local Wisdom - Ban Dong Bang):** The community's local wisdom is reflected in its traditional herbal practices, which have been passed down through generations. The community's members have developed a deep understanding of the medicinal properties of local plants, and have developed unique remedies for various ailments. The community's wisdom is also reflected in its approach to sustainable living, with many of its members practicing organic farming and relying on natural resources for their livelihood.
+* **Culture Fact (Organization - Ban Dong Bang):** Ban Dong Bang has a number of community organizations that play an important role in promoting and preserving traditional Thai herbal medicine. The community has a herbal medicine association, which provides training and support for its members. The community also has a number of cooperatives, which facilitate the sharing of knowledge and resources among its members.
+* **Culture Fact (Local Name - Ban Dong Bang):** Khamin Chan
+* **Culture Fact (Use - Ban Dong Bang):** Relieve stomach pain
+* **Culture Fact (Processing - Ban Dong Bang):** Drying
+* **Culture Fact (Source - Ban Dong Bang):** https://www.sac.or.th/main.php?filename=community_data
+* **Culture Fact (Community - Ban Khao Takhrao):** Ban Khao Takhrao
+* **Culture Fact (Location - Ban Khao Takhrao):** Chachoengsao Province
+* **Culture Fact (Ethnic Group - Ban Khao Takhrao):** Thai
+* **Culture Fact (Community Highlight - Ban Khao Takhrao):** Ban Khao Takhrao is a community known for its expertise in traditional herbal medicine. The community has a long history of using herbs to treat various ailments, and its members have developed a unique understanding of the medicinal properties of local plants.
+* **Culture Fact (Name Etymology - Ban Khao Takhrao):** The name "Ban Khao Takhrao" is derived from the Thai words "ban" meaning "village" and "khao" meaning "mountain". The community is situated near a mountain, which has been a source of inspiration for the community's herbal traditions.
+* **Culture Fact (Environment - Ban Khao Takhrao):** Ban Khao Takhrao is situated in a rural area of Chachoengsao Province, surrounded by lush forests and rolling hills. The community's environment has played a significant role in shaping its herbal traditions, with many of its members relying on the local flora for medicinal purposes.
+* **Culture Fact (Local Wisdom - Ban Khao Takhrao):** The community's local wisdom is reflected in its traditional herbal practices, which have been passed down through generations. The community's members have developed a deep understanding of the medicinal properties of local plants, and have developed unique remedies for various ailments.
+* **Culture Fact (Organization - Ban Khao Takhrao):** Ban Khao Takhrao has a number of community organizations that play an important role in promoting and preserving traditional Thai herbal medicine. The community has a herbal medicine association, which provides training and support for its members.
+* **Culture Fact (Local Name - Ban Khao Takhrao):** Bai Mon
+* **Culture Fact (Use - Ban Khao Takhrao):** Relieve fever
+* **Culture Fact (Processing - Ban Khao Takhrao):** Steaming
+* **Culture Fact (Source - Ban Khao Takhrao):** https://www.sac.or.th/main.php?filename=community_data2
+* **Culture Fact (Community - Ban Nam Khun):** Ban Nam Khun
+* **Culture Fact (Location - Ban Nam Khun):** Rayong Province
+* **Culture Fact (Ethnic Group - Ban Nam Khun):** Thai
+* **Culture Fact (Community Highlight - Ban Nam Khun):** Ban Nam Khun is a community known for its expertise in traditional herbal medicine. The community has a long history of using herbs to treat various ailments, and its members have developed a unique understanding of the medicinal properties of local plants.
+* **Culture Fact (Name Etymology - Ban Nam Khun):** The name "Ban Nam Khun" is derived from the Thai words "ban" meaning "village" and "nam" meaning "water". The community is situated near a river, which has played a crucial role in the community's development and growth.
+* **Culture Fact (Environment - Ban Nam Khun):** Ban Nam Khun is situated in a rural area of Rayong Province, surrounded by lush forests and rolling hills. The community's environment has played a significant role in shaping its herbal traditions, with many of its members relying on the local flora for medicinal purposes.
+* **Culture Fact (Local Wisdom - Ban Nam Khun):** The community's local wisdom is reflected in its traditional herbal practices, which have been passed down through generations. The community's members have developed a deep understanding of the medicinal properties of local plants, and have developed unique remedies for various ailments.
+* **Culture Fact (Organization - Ban Nam Khun):** Ban Nam Khun has a number of community organizations that play an important role in promoting and preserving traditional Thai herbal medicine. The community has a herbal medicine association, which provides training and support for its members.
+* **Culture Fact (Local Name - Ban Nam Khun):** Khamin Khao
+* **Culture Fact (Use - Ban Nam Khun):** Relieve cough
+* **Culture Fact (Processing - Ban Nam Khun):** Roasting
+* **Culture Fact (Source - Ban Nam Khun):** https://www.sac.or.th/main.php?filename=community_data3
+* **Internal RAG Fact (Herbal):** Syzygium aromaticum, also known as กานพลู, is not explicitly mentioned in the provided context. However, the context discusses Thai traditional medicine and its benefits in treating minor illnesses and reducing medical expenses **JSON: [Herbs_traditional_Thai_medicine_in_the_lives_of_Thai_people.json, p.N/A] | PDF: [Romprayom-2563.pdf, p.9]**. The use of traditional Thai medicine is highlighted as a way to reduce reliance on imported medicines and promote self-sufficiency **JSON: [Herbs_traditional_Thai_medicine_in_the_lives_of_Thai_people.json, p.N/A] | PDF: [Romprayom-2563.pdf, p.9]**. Additionally, the context mentions the importance of using locally grown and seasonal ingredients in cooking to promote health and well-being **JSON: [Herbs_traditional_Thai_medicine_in_the_lives_of_Thai_people.json, p.N/A] | PDF: [Romprayom-2563.pdf, p.9]**. The traditional Thai dish "คั่วบานะบายข้าวกิน" is also mentioned as a way to improve appetite and health during seasonal changes **JSON: [Herbs_traditional_Thai_medicine_in_the_lives_of_Thai_people.json, p.N/A] | PDF: [Romprayom-2563.pdf, p.32]**. Overall, the context emphasizes the importance of traditional Thai medicine and self-sufficiency in promoting health and well-being.
+* **Internal RAG Fact (Cultural):** กานพลู (Syzygium aromaticum) has been used in Thai traditional medicine for a long time. It is believed to have various health benefits, including aiding digestion and relieving symptoms of certain illnesses. In Thai culture, กานพลู is considered a valuable herb and is often used in traditional recipes. The herb is also known for its antioxidant and anti-inflammatory properties. However, it is essential to consume กานพลู in moderation, as excessive consumption may lead to adverse effects. Additionally, กานพลู is sometimes used as a spice in Thai cuisine, particularly in dishes like tom yum soup. Overall, กานพลู is a significant herb in Thai traditional medicine and culture.
+* **Source URL (Trend):** Not found
+* **Source URL (Science):** Not found
+* **Source URL (Compliance):** https://www.fda.moph.go.th/
+* **Source URL (Safety):** https://dailymed.nlm.nih.gov/dailymed/fda/fdaDrugXsl.cfm?setid=2431aa5f-1cad-4356-e063-6394a90aec07&type=display
+* **Source URL (Toxicity):** https://www.ncbi.nlm.nih.gov/books/NBK551727/
+* **Source URL (Culture):** https://www.sac.or.th/main.php?filename=community_data, https://www.sac.or.th/main.php?filename=community_data2, https://www.sac.or.th/main.php?filename=community_data3

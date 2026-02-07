@@ -1,0 +1,3 @@
+Thought: I have the summary data for the first study. Now, I need to extract the required data.
+
+Action: None

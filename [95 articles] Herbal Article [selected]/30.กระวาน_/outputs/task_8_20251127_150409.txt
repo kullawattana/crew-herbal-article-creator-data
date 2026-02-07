@@ -1,0 +1,28 @@
+# ===CULTURE_DATA===
+## Cultural Context for: Kravan (กระวาน)
+
+### Finding 1
+* **source_url:** https://seaarts.sac.or.th/artwork/836
+* **community_context:**
+    * **community_name:** Chong Community
+    * **location:** Chanthaburi Province
+    * **ethnic_group:** Chong
+* **community_profile_summaries:**
+    * **community_highlight:** The Chong community is known for their rich cultural heritage, particularly in their traditional arts and crafts. They have a unique way of creating ceramics and pottery, which is often used in their rituals and ceremonies. The community takes great pride in their heritage and continues to pass down their traditions to the younger generations.
+    * **name_etymology:** The name "Kravan" is derived from the Khmer language, which was spoken by the ancient Khmer Empire. The name is believed to refer to a type of temple or shrine, which was commonly found in the Khmer Empire.
+    * **community_environment:** The Chong community is located in the Chanthaburi Province, which is known for its rich natural resources and diverse wildlife. The community has a strong connection with nature and often incorporates elements of the natural world into their art and crafts.
+    * **local_wisdom:** The Chong community has a deep understanding of the natural world and has developed a unique system of traditional medicine. They believe in living in harmony with nature and use natural remedies to cure illnesses.
+    * **community_organizations:** The Chong community has a number of organizations that work to preserve their cultural heritage and promote their traditional arts and crafts. These organizations provide training and support to community members, helping to ensure the continuation of their traditions.
+* **specific_entities:**
+    * **local_names:**
+        * **Item 1:**
+            * **name:** Chong
+            * **context_quote:** The Chong people are an ethnic group living in Chanthaburi Province.
+    * **traditional_uses:**
+        * **Item 1:**
+            * **use:** Ritual ceremonies
+            * **context_quote:** The Chong people perform rituals and ceremonies to bring good fortune and prosperity.
+    * **processing_methods:**
+        * **Item 1:**
+            * **method:** Ceramic production
+            * **description_quote:** The Chong people produce ceramics and pottery for use in their rituals and ceremonies.

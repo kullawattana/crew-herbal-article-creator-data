@@ -1,0 +1,21 @@
+# ===RAW_THAI_DATA===
+## ข้อมูลวัฒนธรรมดิบสำหรับ: ดอกแก้ว
+### การค้นหา 1 * **source_url:** https://thailitdir.sac.or.th/character-detail.php?n_id=230 * **community_context:**
+    * **community_name:** แก้วมณี 2
+    * **location:** -
+    * **ethnic_group:** -
+* **full_thai_narrative_context:** แก้วมณี หรือมณีรัตนะ* เป็นดวงแก้วในเรื่องไตรภูมิกถา มีความยาวได้ 4 ศอก มีขนาดใหญ่เท่าดุมเกวียน ด้านหัวของดวงแก้วทั้ง 2 ด้านมีดอกบัวทอง 2 ดอก แก้วมณีดวงนี้มีบริวารเป็นดวงแก้วต่างๆ 84,000 จำพวก
+* **specific_entities:**
+    * **local_names:**
+        * **Item 1:**
+            * **name:** -
+            * **context_quote:** -
+    * **traditional_uses:**
+        * **Item 1:**
+            * **use:** -
+            * **context_quote:** -
+    * **processing_methods:**
+        * **Item 1:**
+            * **method:** -
+            * **description_quote:** -
+# (etc. for Finding 2 and 3)

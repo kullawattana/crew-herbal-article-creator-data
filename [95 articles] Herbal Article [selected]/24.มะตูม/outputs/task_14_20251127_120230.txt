@@ -1,0 +1,39 @@
+# ===AUDIT_DATA_INTEGRITY_REPORT===
+*   **Collaboration Robustness (Data Loss):** 58.90%
+*   **Explanation Clarity (Hallucination/Handling):** 93.48%
+*   **Dropped Entities (Facts in Fact Sheet but not Article):**
+    - Safety Fact (Uses): relief from fever and rheumatism
+    - Compliance Fact (Food Registration 1): specific registration_number, product_name, company_name, status details
+    - Compliance Fact (Food Registration 2): specific registration_number, product_name, company_name, status details
+    - Compliance Fact (Food Registration 3): specific registration_number, product_name, company_name, status details
+    - Compliance Fact (Food Registration 4): specific registration_number, product_name, company_name, status details
+    - Compliance Fact (Food Registration 5): specific registration_number, product_name, company_name, status details
+    - Compliance Fact (Food Registration 6): specific registration_number, product_name, company_name, status details
+    - Compliance Fact (Food Registration 7): specific registration_number, product_name, company_name, status details
+    - Compliance Fact (Food Registration 8): specific registration_number, product_name, company_name, status details
+    - Compliance Fact (Food Registration 9): specific registration_number, product_name, company_name, status details
+    - Compliance Fact (Food Registration 10): specific registration_number, product_name, company_name, status details
+    - Culture Fact (Ban Dong Bang - Location): Prachinburi Province
+    - Culture Fact (Ban Dong Bang - Ethnic Group): Thai
+    - Culture Fact (Ban Dong Bang - Community Highlight): Ban Dong Bang is renowned for its expertise in traditional herbal medicine, particularly in the use of Khamin Chan to relieve stomach pain.
+    - Culture Fact (Ban Dong Bang - Name Etymology): The name "Ban Dong Bang" is derived from the Thai words "ban" meaning village, "dong" meaning field, and "bang" meaning place.
+    - Culture Fact (Ban Dong Bang - Environment): The community is situated in a fertile valley, surrounded by lush forests and winding rivers.
+    - Culture Fact (Ban Dong Bang - Organization): The Ban Dong Bang Herbal Medicine Association is a prominent organization that works to promote the use of traditional herbal medicine and support local healers.
+    - Culture Fact (Ban Dong Bang - Local Name): Khamin Chan
+    - Culture Fact (Ban Dong Bang - Processing): Drying
+    - Culture Fact (Ban Khao Yai - Location): Nakhon Ratchasima Province
+    - Culture Fact (Ban Khao Yai - Ethnic Group): Thai
+    - Culture Fact (Ban Khao Yai - Community Highlight): Ban Khao Yai is a community that has preserved its traditional practices despite the influence of modernization.
+    - Culture Fact (Ban Khao Yai - Name Etymology): The name "Ban Khao Yai" is derived from the Thai words "ban" meaning village, "khao" meaning mountain, and "yai" meaning big.
+    - Culture Fact (Ban Khao Yai - Environment): The community is situated in a mountainous region, surrounded by dense forests and winding rivers.
+    - Culture Fact (Ban Khao Yai - Organization): The Ban Khao Yai Traditional Medicine Association is a prominent organization that works to promote the use of traditional herbal medicine and support local healers.
+    - Culture Fact (Ban Khao Yai - Local Name): Khamin Khao
+    - Culture Fact (Ban Khao Yai - Processing): Steaming
+    - Culture Fact (Ban Khao Yai - Source): https://www.sac.or.th/database/anthropology/record/67890
+    - Internal RAG Fact (Herbal): "มะตูม" (the Thai name for Aegle marmelos)
+    - Internal RAG Fact (Herbal): The meta-statement "is not explicitly mentioned in the provided context. However, the context discusses Thai traditional medicine, its benefits, and the importance of using local herbs."
+*   **Hallucinated Entities (Facts in Article but not Fact Sheet):**
+    - The claim that Aegle marmelos is used to relieve stomach pain in the community of Ban Dong Bang (Fact Sheet attributes this use to Khamin Chan).
+    - The claim that Aegle marmelos is used to relieve fever in the community of Ban Khao Yai (Fact Sheet attributes this use to Khamin Khao).
+    - The alias "Bael fruit" for Aegle marmelos (not present in the Master Fact Sheet).
+*   **Feedback:** The article successfully transferred most scientific and general trend facts. "Not Found" items were handled correctly by omission or by stating their absence. However, there was significant data loss regarding specific compliance details (all 10 food registration entries were summarized generally instead of listed) and detailed cultural facts about Ban Dong Bang and Ban Khao Yai communities. Several key cultural details, including specific local names of herbs and their processing methods, were dropped. Furthermore, the article hallucinated by misattributing the traditional uses of Khamin Chan and Khamin Khao to Aegle marmelos in the cultural section and introduced an unverified alias ("Bael fruit").

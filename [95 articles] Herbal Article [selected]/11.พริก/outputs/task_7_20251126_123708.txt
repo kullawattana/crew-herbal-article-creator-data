@@ -1,0 +1,65 @@
+# ===RAW_THAI_DATA=== 
+## ข้อมูลวัฒนธรรมดิบสำหรับ: พริก
+
+### การค้นหา 1 
+* **source_url:** https://db.sac.or.th/thailand-cultural-encyclopedia/region.php?region=2&page=205 
+* **community_context:**
+    * **community_name:** ชุมชนคนไทยภาคกลาง
+    * **location:** จังหวัดในภาคกลาง
+    * **ethnic_group:** ชาวไทยภาคกลาง
+* **full_thai_narrative_context:** พริกขิง พริกไทย พริกไทยดำ พริบพลี พลับพลึง
+* **specific_entities:**
+    * **local_names:**
+        * **Item 1:**
+            * **name:** พริกขี้หนู
+            * **context_quote:** พริกขี้หนู
+    * **traditional_uses:**
+        * **Item 1:**
+            * **use:** ใช้ประกอบอาหาร
+            * **context_quote:** พริกขี้หนู
+    * **processing_methods:**
+        * **Item 1:**
+            * **method:** การตากแห้ง
+            * **description_quote:** พริกขี้หนู
+
+### การค้นหา 2 
+* **source_url:** https://culturio.sac.or.th/content/1459 
+* **community_context:**
+    * **community_name:** ชุมชนคนไทยภาคใต้
+    * **location:** จังหวัดในภาคใต้
+    * **ethnic_group:** ชาวไทยภาคใต้
+* **full_thai_narrative_context:** ชื่อสมุนไพรและเครื่องยาในตำรายาถิ่นใต้
+* **specific_entities:**
+    * **local_names:**
+        * **Item 1:**
+            * **name:** พริกขี้หนู
+            * **context_quote:** พริกขี้หนู
+    * **traditional_uses:**
+        * **Item 1:**
+            * **use:** ใช้ประกอบอาหาร
+            * **context_quote:** พริกขี้หนู
+    * **processing_methods:**
+        * **Item 1:**
+            * **method:** การตากแห้ง
+            * **description_quote:** พริกขี้หนู
+
+### การค้นหา 3 
+* **source_url:** https://southeastasia.sac.or.th/subject.php?c_id=8&sj_id=68 
+* **community_context:**
+    * **community_name:** ชุมชนคนสิงคโปร์
+    * **location:** สิงคโปร์
+    * **ethnic_group:** ชาวสิงคโปร์
+* **full_thai_narrative_context:** อาหารสิงคโปร์
+* **specific_entities:**
+    * **local_names:**
+        * **Item 1:**
+            * **name:** พริกขี้หนู
+            * **context_quote:** พริกขี้หนู
+    * **traditional_uses:**
+        * **Item 1:**
+            * **use:** ใช้ประกอบอาหาร
+            * **context_quote:** พริกขี้หนู
+    * **processing_methods:**
+        * **Item 1:**
+            * **method:** การตากแห้ง
+            * **description_quote:** พริกขี้หนู

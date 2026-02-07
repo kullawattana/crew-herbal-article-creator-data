@@ -1,0 +1,56 @@
+# ===COMPLIANCE_DATA===
+## Thai FDA Status for: Curcuma zedoaria
+* **herb_name:** Curcuma zedoaria
+### Food Registrations
+* **Food Registration 1:**
+    * **registration_number:** 10-1-13660-5-0117
+    * **product_name:** ขมิ้นอ้อย / Zedoary
+    * **company_name:** บริษัท โพธิ์ประดิษฐ์สมุนไพร จำกัด
+    * **status:** สถานะผลิตภัณฑ์(ยกเลิกโดยผู้ประกอบการ 26/10/2561) \ สถานะสถานที่ (คงอยู่ )
+* **Food Registration 2:**
+    * **registration_number:** 10-1-13660-5-0118
+    * **product_name:** ขมิ้นอ้อย (ผง) / Zedoary (Powder)
+    * **company_name:** บริษัท โพธิ์ประดิษฐ์สมุนไพร จำกัด
+    * **status:** สถานะผลิตภัณฑ์(ยกเลิกโดยผู้ประกอบการ 26/10/2561) \ สถานะสถานที่ (คงอยู่ )
+### Herbal Products
+* **Herbal Product 1:**
+    * **registration_number:** G754/48
+    * **product_name:** ยาหม่องขมิ้นอ้อย ตราหมอเฉลิมวังพรม / -
+    * **company_name:** สมุนไพรวังพรม
+    * **status:** คงอยู่
+* **Herbal Product 2:**
+    * **registration_number:** G172/50
+    * **product_name:** ยาหม่องขมิ้นอ้อยตราหมอธนู / COMPOUND KHAMIN OI BALM TRA MHO THANU
+    * **company_name:** วันดีโอสถ
+    * **status:** คงอยู่
+* **Herbal Product 3:**
+    * **registration_number:** G298/45
+    * **product_name:** ยาแคปซูลขมิ้นอ้อย ตราโอสถบัณฑิต / CAPSULE CURCUMA ZEDOARIA TRA OSOTH BANTHID
+    * **company_name:** ห้างหุ้นส่วนจำกัด ภูมณีรัตน์เภสัช
+    * **status:** ยกเลิก(3 พฤษภาคม 2562)
+* **Herbal Product 4:**
+    * **registration_number:** G15194/65
+    * **product_name:** ยาแคปซูลผสมขมิ้นอ้อย ตราหมอเด่น / -
+    * **company_name:** โรงงานยาสมุนไพรศีรษะอโศก
+    * **status:** คงอยู่
+* **Herbal Product 5:**
+    * **registration_number:** G478/63
+    * **product_name:** ยาแคปซูลผสมขมิ้นอ้อย ตราหมอเด่น / -
+    * **company_name:** โรงงานยาสมุนไพรศรีษะอโศก
+    * **status:** ยกเลิก
+### Cosmetics
+* **Cosmetic 1:**
+    * **registration_number:** 52-1-6300035825
+    * **product_name:** ลำปางรักษ์สมุนไพร สบู่สมุนไพรชมิ้นชัน-ขมิ้นอ้อย / LAMPANG RAK SAMUNPHPAI SBU SMUNPHIR KHMINCHAN - KHMINXXY
+    * **company_name:** นายมานพ ประโลมรัมย์(ลำปางรักษ์สมุนไพร)
+    * **status:** คงอยู่
+* **Cosmetic 2:**
+    * **registration_number:** 10-1-6010040180
+    * **product_name:** พิกัดหอม สบู่สมุนไพร ขมิ้นอ้อย - ขมิ้นชัน / PIKATHOM HERBAL SOAP KHAMIN OI - KHAMIN CHAN
+    * **company_name:** นางสาวเทวินทร์ แก้วสมบัติ
+    * **status:** ยกเลิก 20/2/2562
+* **Cosmetic 3:**
+    * **registration_number:** 10-1-6200013342
+    * **product_name:** มุมิน สบู่ล้างหน้ามุมิน (น้ำผึ้ง ขมิ้นอ้อย) / MUMIN MUMIN FACIAL SOAP (HONEY CURCUMA ZEDOARIA)
+    * **company_name:** สมศักดิ์ อำนาจศิลป์เจริญ
+    * **status:** สิ้นอายุ

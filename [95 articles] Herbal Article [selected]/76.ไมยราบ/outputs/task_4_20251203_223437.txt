@@ -1,0 +1,11 @@
+# ===COMPLIANCE_DATA===
+## Thai FDA Status for: Sensitive Plant
+* **herb_name:** Sensitive Plant
+### Food Registrations
+* None found.
+### Drug Registrations
+* **Drug Registration 1:**
+    * **registration_number:** G65/49
+    * **product_name:** ยาแคปซูลไมยราบ / -
+    * **company_name:** กฤษฎาสมุนไพร
+    * **status:** คงอยู่

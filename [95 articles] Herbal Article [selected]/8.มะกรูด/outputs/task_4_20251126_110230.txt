@@ -1,0 +1,29 @@
+# ===COMPLIANCE_DATA=== 
+## Thai FDA Status for: Citrus hystrix
+* **herb_name:** Citrus hystrix
+### Food Registrations 
+* **Food Registration 1:**
+    * **registration_number:** 10-1-04435-1-0041
+    * **product_name:** มะกรูดผง (อาหารที่ได้ผ่านการฉายรังสีเพื่อลดปริมาณจุลินทรีย์ที่ทำให้เกิดโรคแล้ว) / -
+    * **company_name:** บริษัท อาร์ แอนด์ บี ฟู้ด ซัพพลาย จำกัด (มหาชน)
+    * **status:** สถานะผลิตภัณฑ์(คงอยู่)\ สถานะสถานที่ (คงอยู่)
+* **Food Registration 2:**
+    * **registration_number:** 10-1-08064-5-0030
+    * **product_name:** ชาจากพืช (กระชาย ขิง ข่า ตะไคร้ มะกรูด ขมิ้น หญ้าหวาน ใบเตย หอมแดง ) (ตราสมุนไพร จันทร์วาด) / FINGERROOT, GINGER, GALANGAL, LEMONGRASS, KAFFIR LIME, CURCUMA, STEVIA, PANDANUS, SHALLOT INFUSION TEA (JANWAD HERBAL BRAND)
+    * **company_name:** บริษัท จมิรา จำกัด
+    * **status:** สถานะผลิตภัณฑ์(ยกเลิกโดยผู้ประกอบการ 19/4/2565) \ สถานะสถานที่ (คงอยู่ )
+* **Food Registration 3:**
+    * **registration_number:** 10-1-10962-5-0001
+    * **product_name:** มะกรูดลอยแก้ว  /  Kaffir Lime in syrup
+    * **company_name:** พวงมะลิ
+    * **status:** สถานะผลิตภัณฑ์(คงอยู่)\ สถานะสถานที่ (คงอยู่)
+* **Food Registration 4:**
+    * **registration_number:** 10-1-11750-1-0068
+    * **product_name:** มะกรูดแช่อิ่ม
+    * **company_name:** บริษัท สยามอินเตอร์ พรีเสิร์ฟ ฟู้ดส์ จำกัด
+    * **status:** สถานะผลิตภัณฑ์(ยกเลิก ) \ สถานะสถานที่ (ขาดต่ออายุ 31/12/2555)
+* **Food Registration 5:**
+    * **registration_number:** 10-1-13660-5-0200
+    * **product_name:** มะกรูด / Leech Lime
+    * **company_name:** บริษัท โพธิ์ประดิษฐ์สมุนไพร จำกัด
+    * **status:** สถานะผลิตภัณฑ์(คงอยู่)\ สถานะสถานที่ (คงอยู่)

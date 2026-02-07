@@ -1,0 +1,16 @@
+# ===COMPLIANCE_DATA===
+## Thai FDA Status for: Mucuna pruriens
+* **herb_name:** Mucuna pruriens
+### Food Registrations 
+* None found.
+
+### Drug Registrations 
+* None found.
+
+### Cosmetic Registrations 
+* None found.
+
+### Establishment Licenses 
+* None found.
+
+Note: The final answer is based on the provided observation, which does not contain any registration numbers or relevant information. Therefore, the final answer is "None found" for all categories.

@@ -1,0 +1,17 @@
+# ===SAFETY_DATA===
+## International Safety Data for: Suregada multiflora
+* **herb_name:** Suregada multiflora
+* **source_browsed:** https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=43aa5ed7-9fd7-482e-a3e5-cd4050a864dd
+
+### Drug Facts Label
+* **active_ingredients:**
+    * **Ingredient 1:**
+        * **name:** FALLOPIA MULTIFLORA ROOT
+        * **strength:** 18 g in 100 g
+        * **purpose:** Not found
+* **uses:** hair grower and hair loss prevention
+* **warnings:** store in a place with not to high or low temperature and free of direct rays
+* **directions:** Take 2~3 packs a day with warm water regardless before/after a meal (based on one pack a time)
+* **other_information:** Not found
+* **inactive_ingredients:** WATER, SODIUM CHLORIDE
+* **questions:** Not found

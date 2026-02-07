@@ -1,0 +1,11 @@
+{
+  "model": "meta/llama-3.3-70b-instruct",
+  "herbs": "Jasminum sambac",
+  "runtime_sec": 587.19,
+  "cpu_percent": -1.2,
+  "memory_mb_change": -61.78,
+  "total_tokens": 0,
+  "prompt_tokens": 0,
+  "completion_tokens": 0,
+  "total_cost": 0.0
+}

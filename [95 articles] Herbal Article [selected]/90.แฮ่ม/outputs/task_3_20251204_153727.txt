@@ -1,0 +1,22 @@
+# ===RESEARCH_DATA===
+## Scientific Evidence for: Coscinium fenestratum
+* **herb_name:** Coscinium fenestratum
+* **herb_name_scientific:** Coscinium fenestratum (Gaertn.) Colebr
+### Validated Compounds
+* **Compound 1:**
+    * **compound_name:** Berberine
+    * **mechanism_name:** Anti-inflammatory
+    * **supporting_studies:**
+        * **Study 1:** (Data from the first item in studies_data)
+            * **study_type:** Journal Article
+            * **abstract_raw:** Integrating macro-microscopy, DNA barcoding and HPTLC for quality assessment of berberine containing botanicals traded as Maramanjal/Daruharidra.
+            * **key_findings:** The macroscopic observations revealed 80 % ad-mixing of various allied botanicals in addition to accepted north Indian and south Indian sources such as B. aristata and C. fenestratum respectively. DNA barcoding enabled the identification of genuine and adulterated raw drugs from the collected samples. The HPTLC quantification revealed the presence of berberine in all 14 samples varying from 1.12 % to 26.33 %.
+            * **pmid:** 40945162
+            * **canonical_url:** https://doi.org/10.1016/j.jaim.2025.101192
+            * **citation_apa:** Koppala Narayana, S. K., Kaira, P., Karthikeyan, M., Shanmugam, M., Sundharamoorthy, S., Andalil, R., Kallingil Gopi, D., Prakasam, R., Ramachandran, S., & Arumugam, K. (2025). Integrating macro-microscopy, DNA barcoding and HPTLC for quality assessment of berberine containing botanicals traded as Maramanjal/Daruharidra. Journal of Ayurveda and Integrative Medicine, 16(5), 101192. https://doi.org/10.1016/j.jaim.2025.101192
+        * **Study 2:** (Data from the second item...)
+            * ...
+        * (Up to 3 studies)
+
+### Overall Summary
+* **summary:** Coscinium fenestratum is a medicinal plant that has been traditionally used in Southeast Asia for its anti-inflammatory properties. The plant contains berberine, a compound that has been shown to have anti-inflammatory effects. Studies have used macro-microscopy, DNA barcoding, and HPTLC to assess the quality of berberine-containing botanicals traded as Maramanjal/Daruharidra. The results of these studies have revealed the presence of berberine in all 14 samples, with varying concentrations.

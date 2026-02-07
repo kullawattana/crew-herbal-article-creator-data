@@ -1,0 +1,35 @@
+# ===AUDIT_DATA_INTEGRITY_REPORT===
+* **Collaboration Robustness (Data Loss):** 93%
+* **Explanation Clarity (Hallucination/Handling):** 100%
+* **Dropped Entities (Facts in Fact Sheet but not Article):**
+    - Compliance Fact (Food Registration 1): registration_number=10-1-13660-5-0072, product_name=เพชรสังฆาต (ผง) / Cissus quadrangularis L. (Powder), company_name=บริษัท โพธิ์ประดิษฐ์สมุนไพร จำกัด, status=สถานะผลิตภัณฑ์(ยกเลิกโดยผู้ประกอบการ 26/10/2561) \ สถานะสถานที่ (คงอยู่ )
+    - Compliance Fact (Food Registration 2): registration_number=10-1-13660-5-0073, product_name=เพชรสังฆาต / Cissus quadrangularis L., company_name=บริษัท โพธิ์ประดิษฐ์สมุนไพร จำกัด, status=สถานะผลิตภัณฑ์(ยกเลิกโดยผู้ประกอบการ 26/10/2561) \ สถานะสถานที่ (คงอยู่ )
+    - Compliance Fact (Herbal Product 1): registration_number=G564/51, product_name=ยาแคปซูลเพชรสังฆาต / COMPOUND PETCH-SANG-KART CAPSULE, company_name=บริษัท บี.ซี.คอสเมติคส์ จำกัด, status=ทะเบียนคงอยู่ แต่ผู้ผลิต ไม่ต่ออายุใบอนุญาตฯ ทำให้ไม่สามารถผลิตได้
+    - Compliance Fact (Herbal Product 2): registration_number=G226/52, product_name=ยาแคปซูลเพชรสังฆาต ตรามาเธอร์ / -, company_name=บริษัท บางกอก คอนซูเมอร์ โพรดัค เซอร์วิส, status=ทะเบียนคงอยู่ แต่ผู้ผลิต ไม่ต่ออายุใบอนุญาตฯ ทำให้ไม่สามารถผลิตได้
+    - Compliance Fact (Herbal Product 3): registration_number=G506/46, product_name=ยาแคปซูลสมุนไพรเพชรสังฆาต ตราช้าง 9 เชือก / -, company_name=เอเซียฟาร์มาซี, status=ทะเบียนคงอยู่ แต่ผู้ผลิต ไม่ต่ออายุใบอนุญาตฯ ทำให้ไม่สามารถผลิตได้
+    - Compliance Fact (Herbal Product 4): registration_number=G352/58, product_name=ตำรับยาผสมเพชรสังฆาต ชนิดแคปซูล / COMPOUND CISSUS QUADRANGULARIS CAPSULE, company_name=บริษัท ที.ซี.ฟาร์มา-เคม จำกัด (สาขา 2), status=คงอยู่
+    - Compliance Fact (Herbal Product 5): registration_number=G127/47, product_name=ยาแคปซูลเพชรสังฆาต / YA-CAPSULE PED-SUNG-KARD, company_name=บริษัท อังกฤษตรางู (แอล.พี.) จำกัด, status=ยกเลิก
+    - Safety Fact (Active Ingredient):
+        * name: Menthol
+        * strength: 10%
+        * purpose: Natural support for healthy joints
+    - Safety Fact (Active Ingredient):
+        * name: Camphor
+        * strength: 5%
+        * purpose: Natural support for healthy joints
+    - Safety Fact (Ingredient Purpose):
+        * name: Menthol
+        * strength: 10%
+        * purpose: Natural support for healthy joints
+    - Safety Fact (Ingredient Purpose):
+        * name: Camphor
+        * strength: 5%
+        * purpose: Natural support for healthy joints
+    - Safety Fact (Uses): Temporary relieves minor aches and pains of muscles and joints associated with simple backache, arthritis, strains, bruises and sprains.
+    - Safety Fact (Warnings): Do not apply on an open wound or to exposed skin. If you are pregnant or breast-feeding, consult your healthcare professional before use. If condition gets worse or skin irritation occurs, stop usage and consult your doctor.
+    - Safety Fact (Directions): Gently massage the oil over the affected body parts or as directed by physician.
+    - Safety Fact (Other Info): Apply on small area of skin to test any allergic reactions before using. (*These statements have not been evaluated by the Food and Drug Administration. This product is not intended to diagnose, treat, cure or prevent any disease.)
+    - Safety Fact (Inactive Ingredients): Mustard oil, Linseed oil, Wintergreen oil, Ajowa oil, Boswelia oil, Mustard oil processed with Castor, Drum stick, Thorn apple, Cissus quandragularis
+* **Hallucinated Entities (Facts in Article but not Fact Sheet):**
+    - None
+* **Feedback:** The article accurately reflects most of the information in the fact sheet. The score for Collaboration Robustness is high, but not perfect, as several Compliance Facts and Safety Facts were omitted. The handling of "Not Found" results was correct.

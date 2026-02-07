@@ -1,0 +1,15 @@
+# ===TRENDS_DATA===
+### Finding 1
+* **herb_name:** Bitter Bean
+* **wellness_context_summary:** Bitter Bean is mentioned in the context of Asian traditions of wellness, where it is used as a food ingredient. The plant has strip-like pods and the beans must be peeled from the pods prior to consumption. It can be eaten raw or cooked in sambal with chilies and garlic.
+* **source_url:** https://www.adb.org/sites/default/files/institutional-document/633886/adou2020bp-asian-traditions-wellness.pdf
+
+### Finding 2
+* **herb_name:** Bitter Bean
+* **wellness_context_summary:** Bitter Bean is not explicitly mentioned in the context of wellness policies that help older populations stay active. However, the article discusses the importance of physical activity for older adults and highlights the need for accessible and safe exercising spaces.
+* **source_url:** https://globalwellnessinstitute.org/global-wellness-institute-blog/2025/09/23/wellness-policies-that-help-older-populations-stay-active/
+
+### Finding 3
+* **herb_name:** Bitter Bean
+* **wellness_context_summary:** Bitter Bean is not explicitly mentioned in the context of geothermal hot springs sanitation practices. However, the article discusses the importance of proper sanitation practices in geothermal hot springs to prevent the spread of waterborne illnesses.
+* **source_url:** https://globalwellnessinstitute.org/wp-content/uploads/2018/10/Kenneth-Schular-Hot-Springs-Sanitation-Practices.pdf

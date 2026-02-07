@@ -1,0 +1,29 @@
+# ===COMPLIANCE_DATA=== 
+## Thai FDA Status for: Cinnamon
+* **herb_name:** Cinnamon
+### Food Registrations 
+* **Food Registration 1:**
+    * **registration_number:** 10-1-00155-5-0018
+    * **product_name:** อบเชยผง / Cinnamon Powder
+    * **company_name:** ร้าน ต เจริญ 88
+    * **status:** สถานะผลิตภัณฑ์(คงอยู่)\ สถานะสถานที่ (คงอยู่)
+* **Food Registration 2:**
+    * **registration_number:** 10-1-00450-1-0051
+    * **product_name:** ซินนามอน (อบเชย)แคปซูล (ผลิตภัณฑ์เสริมอาหาร) / CINNAMON (OBCHEUY) CAPSULE (DIETARY SUPPLEMENT PRODUCT)
+    * **company_name:** บริษัท คัลเลอร์-พลาส จำกัด
+    * **status:** สถานะผลิตภัณฑ์(คงอยู่)\ สถานะสถานที่ (คงอยู่)
+* **Food Registration 3:**
+    * **registration_number:** 10-1-01454-1-0003
+    * **product_name:** อบเชย แคปซูล (ผลิตภัณฑ์เสริมอาหาร) / CINNAMON CAPSULE (DIETARY SUPPLEMENT PRODUCT)
+    * **company_name:** บริษัท หมอนพพร กรุ๊ป จำกัด
+    * **status:** สถานะผลิตภัณฑ์(คงอยู่)\ สถานะสถานที่ (คงอยู่)
+* **Food Registration 4:**
+    * **registration_number:** 10-1-02745-5-0051
+    * **product_name:** อบเชย  / Cinnamon Stick
+    * **company_name:** ด็อกเตอร์กรีน
+    * **status:** สถานะผลิตภัณฑ์(คงอยู่)\ สถานะสถานที่ (คงอยู่)
+* **Food Registration 5:**
+    * **registration_number:** 10-1-03837-1-0117
+    * **product_name:** อบเชยแท่ง (ตราสไปซ์ สตอรี่) / CINNAMON STICK (SPICE STORY BRAND)
+    * **company_name:** บริษัท อาจจิตต์อินเตอร์เนชั่นแนลเพ็พเพอร์แอนด์สไปซ์ จำกัด
+    * **status:** สถานะผลิตภัณฑ์(คงอยู่)\ สถานะสถานที่ (คงอยู่)

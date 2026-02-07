@@ -1,0 +1,18 @@
+# ===SAFETY_DATA=== ## International Safety Data for: Persicaria odorata
+* **herb_name:** Persicaria odorata * **source_browsed:** https://dailymed.nlm.nih.gov/dailymed/drugInfo.cfm?setid=17e392bd-f960-4c20-b06c-fcbdae6f2612&audience=consumer
+### Drug Facts Label
+* **active_ingredients:**
+    * **Ingredient 1:**
+        * **name:** Niacinamide
+        * **strength:** 2.0%
+        * **purpose:** Skin Brightening, Skin anti wrinkle
+    * **Ingredient 2:**
+        * **name:** Adenosine
+        * **strength:** 0.04%
+        * **purpose:** Skin Brightening, Skin anti wrinkle
+* **uses:** Helps brighten skin, Helps anti wrinkle
+* **warnings:** For external use only. Avoid contact with eyes. Discontinue use if signs of irritation or rashes appear. Replace the cap after use. Keep out of reach of children.
+* **directions:** After facial wash, apply an adequate amount on face and neck. Apply twice a day on normal skin, morning and night, at the last stage of skin care. Tap gently for max absorption
+* **other_information:** Not found
+* **inactive_ingredients:** Water, Dimethicone, Glycerin, Methylpropanediol, 1,2-Hexanediol, Macadamia Ternifolia Seed Oil, Persea Gratissima (Avocado) Oil, Sodium Acrylate/Sodium Acryloyldimethyl Taurate Copolymer, Helianthus Annuus (Sunflower) Seed Oil, Isohexadecane, Betaine, Cyclopentasiloxane, Cetearyl Alcohol, Dimethicone/Vinyl Dimethicone Crosspolymer, Arginine, Carbomer, Polysorbate 80, Butylene Glycol, Glycine Soja (Soybean) Oil, Cetearyl Glucoside, Caprylic/Capric Triglyceride, Sorbitan Oleate, Phellinus Linteus Extract, Hydrogenated Lecithin, Lavandula Angustifolia (Lavender) Oil, Sodium Hyaluronate, PEG-40 Castor Oil, Disodium EDTA, Glycine Soja (Soybean) Sterols, Citrus Grandis (Grapefruit) Peel Oil, Biosaccharide Gum-1, Beta-Glucan, Centella Asiatica Extract, Bixa Orellana Seed Oil, Acetyl Hexapeptide-8, rh-Oligopeptide-1, Piper Methysticum Leaf/Root/Stem Extract, Copper Tripeptide-1, Palmitoyl Tetrapeptide-7, Palmitoyl Tripeptide-1, Hydroxydecyl Ubiquinone, Cananga Odorata Flower Oil, Tocopherol, Chrysanthellum Indicum Extract, Rheum Palmatum Root/Stalk Extract, Asarum Sieboldi Root Extract, Larix Sibirica Wood Extract, Quercus Mongolia Leaf Extract, Persicaria Hydropiper Extract, Illicium Verum (Anise) Fruit Extract, Corydalis Turtschaninovii Root Extract, Coptis Japonica Root Extract, Machilus Thunbergii Bark Extract, rh-Oligopeptide-2, rh-Polypeptide-1, rh-Polypeptide-3
+* **questions:** TEL,+82-539-3450, www.ultravcosmetic.com

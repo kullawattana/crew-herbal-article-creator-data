@@ -1,0 +1,44 @@
+# ===COMPLIANCE_DATA===
+
+## Thai FDA Status for: Cissus quadrangularis
+
+* **herb_name:** Cissus quadrangularis
+### Food Registrations
+* **Food Registration 1:**
+    * **registration_number:** 10-1-13660-5-0072
+    * **product_name:** เพชรสังฆาต (ผง) / Cissus quadrangularis L. (Powder)
+    * **company_name:** บริษัท โพธิ์ประดิษฐ์สมุนไพร จำกัด
+    * **status:** สถานะผลิตภัณฑ์(ยกเลิกโดยผู้ประกอบการ 26/10/2561) \ สถานะสถานที่ (คงอยู่ )
+* **Food Registration 2:**
+    * **registration_number:** 10-1-13660-5-0073
+    * **product_name:** เพชรสังฆาต / Cissus quadrangularis L.
+    * **company_name:** บริษัท โพธิ์ประดิษฐ์สมุนไพร จำกัด
+    * **status:** สถานะผลิตภัณฑ์(ยกเลิกโดยผู้ประกอบการ 26/10/2561) \ สถานะสถานที่ (คงอยู่ )
+* None found.
+
+### Herbal Products
+* **Herbal Product 1:**
+    * **registration_number:** G564/51
+    * **product_name:** ยาแคปซูลเพชรสังฆาต / COMPOUND PETCH-SANG-KART CAPSULE
+    * **company_name:** บริษัท บี.ซี.คอสเมติคส์ จำกัด
+    * **status:** ทะเบียนคงอยู่ แต่ผู้ผลิต ไม่ต่ออายุใบอนุญาตฯ ทำให้ไม่สามารถผลิตได้
+* **Herbal Product 2:**
+    * **registration_number:** G226/52
+    * **product_name:** ยาแคปซูลเพชรสังฆาต ตรามาเธอร์ / -
+    * **company_name:** บริษัท บางกอก คอนซูเมอร์ โพรดัค เซอร์วิส
+    * **status:** ทะเบียนคงอยู่ แต่ผู้ผลิต ไม่ต่ออายุใบอนุญาตฯ ทำให้ไม่สามารถผลิตได้
+* **Herbal Product 3:**
+    * **registration_number:** G506/46
+    * **product_name:** ยาแคปซูลสมุนไพรเพชรสังฆาต ตราช้าง 9 เชือก / -
+    * **company_name:** เอเซียฟาร์มาซี
+    * **status:** ทะเบียนคงอยู่ แต่ผู้ผลิต ไม่ต่ออายุใบอนุญาตฯ ทำให้ไม่สามารถผลิตได้
+* **Herbal Product 4:**
+    * **registration_number:** G352/58
+    * **product_name:** ตำรับยาผสมเพชรสังฆาต ชนิดแคปซูล / COMPOUND CISSUS QUADRANGULARIS CAPSULE
+    * **company_name:** บริษัท ที.ซี.ฟาร์มา-เคม จำกัด (สาขา 2)
+    * **status:** คงอยู่
+* **Herbal Product 5:**
+    * **registration_number:** G127/47
+    * **product_name:** ยาแคปซูลเพชรสังฆาต / YA-CAPSULE PED-SUNG-KARD
+    * **company_name:** บริษัท อังกฤษตรางู (แอล.พี.) จำกัด
+    * **status:** ยกเลิก

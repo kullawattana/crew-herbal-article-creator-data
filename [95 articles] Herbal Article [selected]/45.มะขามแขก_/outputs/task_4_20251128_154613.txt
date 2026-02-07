@@ -1,0 +1,32 @@
+# ===COMPLIANCE_DATA=== ## Thai FDA Status for: Senna alexandrina
+* **herb_name:** Senna alexandrina
+### Food Registrations * **Food Registration 1:**
+    * **registration_number:** 10-1-19355-5-0018
+    * **product_name:** ชา มะขามแขก (ตรา งามระหง) / Senna Tea (Ngamrahong Brand)
+    * **company_name:** ห้างหุ้นส่วนจำกัด ภูมณีรัตน์เภสัช
+    * **status:** สถานะผลิตภัณฑ์(คงอยู่)\ สถานะสถานที่ (คงอยู่)
+* **Food Registration 2:**
+    * **registration_number:** 50-2-04158-6-0019
+    * **product_name:** ชาชงสมุนไพร ดอกคำฝอย ผสม หญ้าหวาน คาโมไมล์ ใบมะรุม มินท์ เฮอร์ธอร์ มะขามแขก ชนิดซองพร้อมชง ตรา บูสท์แอนด์เบิร์น / Safflower with Stevia Chamomile Moringa mint Hawthorn Berry senna leaf Herbal Tea (Boost & Burn Brand)
+    * **company_name:** กันต์โตะ ชาสมุนไพร เชียงใหม่
+    * **status:** สถานะผลิตภัณฑ์(ยกเลิกโดยผู้ประกอบการ 17/8/2566) \ สถานะสถานที่ (คงอยู่ )
+* **Food Registration 3:**
+    * **registration_number:** 73-1-26158-6-0066
+    * **product_name:** ชาชงสมุนไพร ชาอัสสัมผสมหญ้าหวาน มะขามแขก เก๊กฮวย / Assam Tea Mixed Stevia Senna Chrysanthemum Herbal Tea
+    * **company_name:** บริษัท ไอ เรียล พลัส (ประเทศไทย) จำกัด
+    * **status:** สถานะผลิตภัณฑ์(ยกเลิกโดยผู้ประกอบการ 25/11/2562) \ สถานะสถานที่ (คงอยู่ )
+* **Herbal Registration 1:**
+    * **registration_number:** G166/52
+    * **product_name:** ยามะขามแขก / -
+    * **company_name:** ห้างหุ้นส่วนจำกัด พี แอนด์ เอิร์น (1995)
+    * **status:** คงอยู่แต่ไม่มีผู้ผลิตหรือนำเข้า
+* **Herbal Registration 2:**
+    * **registration_number:** G439/51
+    * **product_name:** ยาแคปซูลมะขามแขก ตราหมอเฉลิมวังพรม / SENNA CAPSULE TRA MOHCHALERM WANGPHROM
+    * **company_name:** สมุนไพรวังพรม
+    * **status:** คงอยู่
+* **Herbal Registration 3:**
+    * **registration_number:** G87/64
+    * **product_name:** ยาชงสมุนไพรมะขามแขก / -
+    * **company_name:** เฮิร์บเทค อินเตอร์เนชั่นแนล
+    * **status:** คงอยู่

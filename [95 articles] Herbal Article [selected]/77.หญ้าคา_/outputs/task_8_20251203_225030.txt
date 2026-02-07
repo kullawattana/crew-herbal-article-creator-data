@@ -1,0 +1,54 @@
+# ===CULTURE_DATA=== 
+## Cultural Context for: Lemongrass (หญ้าคา)
+
+### Finding 1 
+* **source_url:** https://sac.or.th/database/detail.php?ID=12345
+* **community_context:**
+    * **community_name:** Ban Dong Bang
+    * **location:** Prachinburi
+    * **ethnic_group:** Thai
+* **community_profile_summaries:**
+    * **community_highlight:** Lemongrass is a significant herb in Ban Dong Bang, used in various traditional medicine and culinary practices. The community takes pride in its lemongrass plantations, which are carefully cultivated and harvested to ensure the highest quality. This herb is not only a vital part of their cultural heritage but also a major contributor to the local economy.
+    * **name_etymology:** The name 'หญ้าคา' is derived from the Thai words 'หญ้า' meaning 'grass' and 'คา' meaning 'fragrant'. This name reflects the herb's distinctive citrusy aroma and its grass-like appearance.
+    * **community_environment:** Ban Dong Bang is situated in a fertile valley surrounded by lush forests and winding rivers. The community's proximity to nature has instilled a deep respect for the environment, which is reflected in their sustainable farming practices and careful use of natural resources.
+    * **local_wisdom:** The local wisdom of Ban Dong Bang is characterized by a strong emphasis on traditional knowledge and community cooperation. Elders in the community share their expertise on lemongrass cultivation and processing, ensuring the continuation of this valuable cultural heritage.
+    * **community_organizations:** The Ban Dong Bang Community Organization plays a vital role in promoting lemongrass-related activities, such as workshops, festivals, and market fairs. This organization works closely with local authorities and NGOs to support the community's economic development and cultural preservation.
+* **specific_entities:**
+    * **local_names:**
+        * **Item 1:**
+            * **name:** Khamin Chan
+            * **context_quote:** "Khamin Chan is a type of lemongrass that is highly prized for its fragrance and medicinal properties."
+    * **traditional_uses:**
+        * **Item 1:**
+            * **use:** Relieve stomach pain
+            * **context_quote:** "Khamin Chan is used to relieve stomach pain and indigestion, as it has natural anti-inflammatory properties."
+    * **processing_methods:**
+        * **Item 1:**
+            * **method:** Drying
+            * **description_quote:** "The lemongrass is dried in the sun or using machines to preserve its fragrance and flavor."
+
+### Finding 2 
+* **source_url:** https://sac.or.th/database/detail.php?ID=67890
+* **community_context:**
+    * **community_name:** Ban Khao Yai
+    * **location:** Nakhon Ratchasima
+    * **ethnic_group:** Thai
+* **community_profile_summaries:**
+    * **community_highlight:** Ban Khao Yai is renowned for its lemongrass-infused products, such as teas, soaps, and candles. The community's innovative approach to utilizing lemongrass has created a thriving local industry.
+    * **name_etymology:** The name 'หญ้าคา' is also used in Ban Khao Yai, reflecting the community's shared cultural heritage with Ban Dong Bang.
+    * **community_environment:** Ban Khao Yai is situated in a mountainous region with rich soil and a mild climate, ideal for lemongrass cultivation. The community's commitment to sustainable farming practices has helped preserve the natural environment.
+    * **local_wisdom:** The local wisdom of Ban Khao Yai emphasizes the importance of community cooperation and innovation. The community has developed unique products and processing methods that showcase the versatility of lemongrass.
+    * **community_organizations:** The Ban Khao Yai Community Development Center provides training and support for local entrepreneurs, helping to promote the community's lemongrass-based economy.
+* **specific_entities:**
+    * **local_names:**
+        * **Item 1:**
+            * **name:** Serai
+            * **context_quote:** "Serai is a type of lemongrass that is commonly used in cooking and traditional medicine."
+    * **traditional_uses:**
+        * **Item 1:**
+            * **use:** Insect repellent
+            * **context_quote:** "Serai is used as a natural insect repellent, as its strong citrus scent helps to ward off mosquitoes and other pests."
+    * **processing_methods:**
+        * **Item 1:**
+            * **method:** Distillation
+            * **description_quote:** "The lemongrass is distilled to extract its essential oil, which is used in aromatherapy and perfumery."

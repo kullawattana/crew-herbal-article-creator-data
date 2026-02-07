@@ -1,0 +1,11 @@
+{
+  "model": "meta/llama-3.3-70b-instruct",
+  "herbs": "Suregada multiflora",
+  "runtime_sec": 408.37,
+  "cpu_percent": 0.7,
+  "memory_mb_change": 47.78,
+  "total_tokens": 0,
+  "prompt_tokens": 0,
+  "completion_tokens": 0,
+  "total_cost": 0.0
+}

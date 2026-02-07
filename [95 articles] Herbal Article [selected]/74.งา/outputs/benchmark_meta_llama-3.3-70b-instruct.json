@@ -1,0 +1,11 @@
+{
+  "model": "meta/llama-3.3-70b-instruct",
+  "herbs": "Sesamum indicum",
+  "runtime_sec": 670.26,
+  "cpu_percent": -9.7,
+  "memory_mb_change": -335.03,
+  "total_tokens": 0,
+  "prompt_tokens": 0,
+  "completion_tokens": 0,
+  "total_cost": 0.0
+}

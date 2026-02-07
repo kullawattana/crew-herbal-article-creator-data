@@ -1,0 +1,33 @@
+# ===RESEARCH_DATA===
+## Scientific Evidence for: Pueraria mirifica
+* **herb_name:** Pueraria mirifica
+* **herb_name_scientific:** Pueraria mirifica
+### Validated Compounds
+* **Compound 1:**
+    * **compound_name:** Puerarin
+    * **mechanism_name:** Anti-inflammatory
+    * **supporting_studies:**
+        * **Study 1:** (Data from the first item in studies_data)
+            * **study_type:** Journal Article
+            * **abstract_raw:** Puerarin improves MASLD by remodeling intestinal microenvironment to promote mitochondrial fusion and autophagy.
+            * **key_findings:** Puerarin reduced vacuolar-like changes, lipid deposition, and inflammatory cell infiltration in the livers of high-fat diet (HFD) model mice. The gut microbiota abundance and diversity were remodeled, short-chain fatty acid content was increased, and the intestinal mucosal barrier was repaired, accompanied by a reduction in inflammatory cytokines.
+            * **pmid:** 40121054
+            * **canonical_url:** https://doi.org/10.1016/j.jphs.2025.03.001
+            * **citation_apa:** Sun et al. (2025). Puerarin improves MASLD by remodeling intestinal microenvironment to promote mitochondrial fusion and autophagy. Journal of Pharmacological Sciences, 158(1), 27-41. doi: 10.1016/j.jphs.2025.03.001
+        * **Study 2:** (Data from the second item in studies_data)
+            * **study_type:** Journal Article
+            * **abstract_raw:** Bioinformatics combined with network pharmacology and experimental validation to identify key biomarkers of hepatocellular carcinoma and corresponding compounds in Radix Astragali and Pueraria Mirifica.
+            * **key_findings:** The study identified four key biomarkers (ADH1B, GHR, NQO1, NR1I2) that have prognostic ability for HCC. This study provides biomarkers and potential targeted monomeric medicines for treating HCC.
+            * **pmid:** 39549064
+            * **canonical_url:** https://doi.org/10.1007/s00210-024-03597-4
+            * **citation_apa:** Li et al. (2024). Bioinformatics combined with network pharmacology and experimental validation to identify key biomarkers of hepatocellular carcinoma and corresponding compounds in Radix Astragali and Pueraria Mirifica. Naunyn-Schmiedeberg's Archives of Pharmacology, 398(5), 5351-5371. doi: 10.1007/s00210-024-03597-4
+        * **Study 3:** (Data from the third item in studies_data)
+            * **study_type:** Journal Article
+            * **abstract_raw:** Dietary Puerarin Supplementation Improves Immune Response and Antioxidant Capacity of Sows.
+            * **key_findings:** Puerarin improved the immune response and antioxidant capacity of sows and increased the daily BW gain of their offspring.
+            * **pmid:** 38539824
+            * **canonical_url:** https://doi.org/10.3390/antiox13030290
+            * **citation_apa:** Cao et al. (2024). Dietary Puerarin Supplementation Improves Immune Response and Antioxidant Capacity of Sows. Antioxidants, 13(3), 290. doi: 10.3390/antiox13030290
+
+### Overall Summary
+* **summary:** Pueraria mirifica has been shown to have anti-inflammatory and antioxidant properties, and may be useful in improving immune response and antioxidant capacity in sows.

@@ -1,0 +1,79 @@
+# ===MASTER_FACT_SHEET===
+## Consolidated Facts for: Melientha suavis
+* **Trend Fact:** Not found
+* **Lab Fact (Experimental Method):** Not found
+* **Lab Fact (Extraction Method):** Not found
+* **Lab Fact (Compound Identified):** Not found
+* **Lab Fact (Chromatography - TLC):** Not found
+* **Lab Fact (Pharmacological Finding):** Not found
+* **Lab Fact (Cosmetic or Clinical Effect):** Not found
+* **Lab Fact (Quality Control):** Not found
+* **Science Fact (Herb):** Melientha suavis
+* **Science Fact (Compound):** not_found
+* **Science Fact (Abstracts):**
+  * **Study 1:**
+    * **abstract_raw:** not_found
+    * **citation_apa:** not_found
+* **Compliance Fact (Food Registration 1):** registration_number=19-2-02157-2-0077, product_name=ผักหวานป่าตัดแต่ง, company_name=ร้านสมเกีรติ ผักอร่อย, status=สถานะผลิตภัณฑ์(ยกเลิก 20/9/2560) \ สถานะสถานที่ (ยกเลิก 20/9/2560)
+* **Compliance Fact (Food Registration 2):** registration_number=19-2-02759-6-0020, product_name=ผักหวานป่า ตรารุ่งฟ้าฟาร์ม /  -, company_name=รุ่งฟ้าฟาร์ม, status=สถานะผลิตภัณฑ์(คงอยู่)\ สถานะสถานที่ (คงอยู่)
+* **Compliance Fact (Food Registration 3):** registration_number=19-2-03460-6-0045, product_name=ผักหวานป่าตัดแต่ง / trimmed wild sweet vegetable, company_name=บริษัท ผักอร่อย ฟาร์ม จำกัด, status=สถานะผลิตภัณฑ์(คงอยู่)\ สถานะสถานที่ (คงอยู่)
+* **Compliance Fact (Food Registration 4):** registration_number=38-2-00865-6-0001, product_name=เครื่องดื่มชนิดผงผักหวานป่า ตราสวนตองแคร์ / OPILIACARE BEVERAGE POWDER, company_name=ผักหวานป่า สวนตองแคร์, status=สถานะผลิตภัณฑ์(คงอยู่)\ สถานะสถานที่ (คงอยู่)
+* **Compliance Fact (Food Registration 5):** registration_number=38-2-00865-6-0002, product_name=ปังกรอบผักหวานน้ำตาลเนย, company_name=ผักหวานป่า สวนตองแคร์, status=สถานะผลิตภัณฑ์(คงอยู่)\ สถานะสถานที่ (คงอยู่)
+* **Compliance Fact (Safety Dosage):** Not found
+* **Compliance Fact (Safety Warning):** Not found
+* **Safety Fact (Active Ingredient):** Not found
+* **Safety Fact (Ingredient Purpose):** Not found
+* **Safety Fact (Uses):** Not found
+* **Safety Fact (Warnings):** Not found
+* **Safety Fact (Directions):** Not found
+* **Safety Fact (Other Info):** Not found
+* **Safety Fact (Inactive Ingredients):** Not found
+* **Safety Fact (Questions):** Not found
+* **Toxicity Fact (Summary):** The edible Melientha suavis Pierre may be confused with the poisonous Urobotrya siamensis Hiepko, both from the Opiliaceae family. Symptoms of Urobotrya poisoning include sore throat, sore lips, swollen tongue, and gastrointestinal signs.
+* **Toxicity Fact (Mechanism):** Not found
+* **Toxicity Fact (Side Effects):** Sore throat, sore lips, swollen tongue, gastrointestinal signs
+* **Toxicity Fact (Case Reports):** An outbreak investigation was conducted during February-March 2005 to determine the cause of several sudden deaths occurring in Pailin Province, Cambodia. Sixty-seven patients presented with non-febrile poisoning-like symptoms and 15 died of coma, including 53% children under 10 years old.
+* **Culture Fact (Community - Thung Ma Seo Yor):** Thung Ma Seo Yor
+* **Culture Fact (Location - Thung Ma Seo Yor):** Bong Ti
+* **Culture Fact (Ethnic Group - Thung Ma Seo Yor):** Karen
+* **Culture Fact (Community Highlight - Thung Ma Seo Yor):** The community of Thung Ma Seo Yor is known for its rich biodiversity, with Wild Bitter Gourd being one of the many plant species found in the area. The community has a strong tradition of using Wild Bitter Gourd in their cooking, particularly in soups and stews.
+* **Culture Fact (Name Etymology - Thung Ma Seo Yor):** No herbal-related information found
+* **Culture Fact (Environment - Thung Ma Seo Yor):** The community of Thung Ma Seo Yor is located in a rural area with a diverse range of flora and fauna. The climate and ecosystem of the area are well-suited for the growth of Wild Bitter Gourd, making it a common ingredient in local cuisine.
+* **Culture Fact (Local Wisdom - Thung Ma Seo Yor):** The community of Thung Ma Seo Yor has a deep understanding of the medicinal properties of Wild Bitter Gourd, using it to treat a variety of ailments.
+* **Culture Fact (Organization - Thung Ma Seo Yor):** No herbal-related information found
+* **Culture Fact (Local Name - Thung Ma Seo Yor):** Wild Bitter Gourd
+* **Culture Fact (Use - Thung Ma Seo Yor):** Sour Soup with Wild Bitter Gourd
+* **Culture Fact (Processing - Thung Ma Seo Yor):** The method of making Sour Soup with Wild Bitter Gourd involves boiling the plant in water and adding various spices and seasonings.
+* **Culture Fact (Source - Thung Ma Seo Yor):** https://wikicommunity.sac.or.th/community/167
+* **Culture Fact (Community - Ban Phrao):** Ban Phrao
+* **Culture Fact (Location - Ban Phrao):** Watthana Nakhon
+* **Culture Fact (Ethnic Group - Ban Phrao):** Kaleung
+* **Culture Fact (Community Highlight - Ban Phrao):** The community of Ban Phrao is known for its rich cultural heritage, with Wild Bitter Gourd being an important part of their traditional cuisine.
+* **Culture Fact (Name Etymology - Ban Phrao):** No herbal-related information found
+* **Culture Fact (Environment - Ban Phrao):** The community of Ban Phrao is located in a rural area with a diverse range of flora and fauna. The climate and ecosystem of the area are well-suited for the growth of Wild Bitter Gourd, making it a common ingredient in local cuisine.
+* **Culture Fact (Local Wisdom - Ban Phrao):** The community of Ban Phrao has a deep understanding of the medicinal properties of Wild Bitter Gourd, using it to treat a variety of ailments.
+* **Culture Fact (Organization - Ban Phrao):** No herbal-related information found
+* **Culture Fact (Local Name - Ban Phrao):** Wild Bitter Gourd
+* **Culture Fact (Use - Ban Phrao):** Sour Soup with Wild Bitter Gourd
+* **Culture Fact (Processing - Ban Phrao):** The method of making Sour Soup with Wild Bitter Gourd involves boiling the plant in water and adding various spices and seasonings.
+* **Culture Fact (Source - Ban Phrao):** https://wikicommunity.sac.or.th/community/2544
+* **Culture Fact (Community - Ban Non Sang Si):** Ban Non Sang Si
+* **Culture Fact (Location - Ban Non Sang Si):** Kham Cha I
+* **Culture Fact (Ethnic Group - Ban Non Sang Si):** Kaleung
+* **Culture Fact (Community Highlight - Ban Non Sang Si):** The community of Ban Non Sang Si is known for its rich cultural heritage, with Wild Bitter Gourd being an important part of their traditional cuisine.
+* **Culture Fact (Name Etymology - Ban Non Sang Si):** No herbal-related information found
+* **Culture Fact (Environment - Ban Non Sang Si):** The community of Ban Non Sang Si is located in a rural area with a diverse range of flora and fauna. The climate and ecosystem of the area are well-suited for the growth of Wild Bitter Gourd, making it a common ingredient in local cuisine.
+* **Culture Fact (Local Wisdom - Ban Non Sang Si):** The community of Ban Non Sang Si has a deep understanding of the medicinal properties of Wild Bitter Gourd, using it to treat a variety of ailments.
+* **Culture Fact (Organization - Ban Non Sang Si):** No herbal-related information found
+* **Culture Fact (Local Name - Ban Non Sang Si):** Wild Bitter Gourd
+* **Culture Fact (Use - Ban Non Sang Si):** Sour Soup with Wild Bitter Gourd
+* **Culture Fact (Processing - Ban Non Sang Si):** The method of making Sour Soup with Wild Bitter Gourd involves boiling the plant in water and adding various spices and seasonings.
+* **Culture Fact (Source - Ban Non Sang Si):** https://ethnicredb.sac.or.th/research_detail.php?id=545
+* **Internal RAG Fact (Herbal):** Melientha suavis, also known as ผักหวานป่า, is not explicitly mentioned in the provided context. However, the context discusses Thai traditional medicine and its usage in treating various health conditions. According to the context, Thai traditional medicine is considered old-fashioned and not suitable for modern times, but it has been used effectively in treating minor illnesses and initial stages of diseases. The context also highlights the importance of using Thai traditional medicine to reduce medical expenses and promote self-reliance in healthcare. Additionally, the context mentions the use of certain plants and herbs in traditional Thai medicine, such as ใบมะกรูด, which is believed to be safe from chemicals and can be used as a food source. However, there is no specific information about Melientha suavis in the provided context.
+* **Internal RAG Fact (Cultural):** Wild Bitter Gourd (ผักหวานป่า) has been used in Thai traditional medicine for a long time. It is believed to have various health benefits, including aiding digestion and relieving symptoms of certain diseases. According to Thai wisdom, Wild Bitter Gourd can be used as a remedy for various health issues, including fever, rheumatism, and skin problems. It is also believed to have anti-inflammatory properties and can be used to treat wounds and injuries. Additionally, Wild Bitter Gourd is said to have antioxidant properties, which can help protect the body against free radicals and oxidative stress. However, it is essential to note that the effectiveness of Wild Bitter Gourd for these uses has not been extensively scientifically studied, and more research is needed to confirm its potential health benefits.
+* **Source URL (Trend):** Not found
+* **Source URL (Science):** https://pubmed.ncbi.nlm.nih.gov/19278704/
+* **Source URL (Compliance):** https://www.fda.moph.go.th/
+* **Source URL (Safety):** https://dailymed.nlm.nih.gov/
+* **Source URL (Toxicity):** https://pubmed.ncbi.nlm.nih.gov/19278704/
+* **Source URL (Culture):** https://wikicommunity.sac.or.th/community/167, https://wikicommunity.sac.or.th/community/2544, https://ethnicredb.sac.or.th/research_detail.php?id=545

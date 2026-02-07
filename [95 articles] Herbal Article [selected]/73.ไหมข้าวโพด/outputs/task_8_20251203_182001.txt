@@ -1,0 +1,31 @@
+# ===CULTURE_DATA===
+
+## Cultural Context for: Corn Silk (ไหมข้าวโพด)
+
+### Finding 1
+* **source_url:** https://24communities.sac.or.th/doilan/
+* **community_context:**
+    * **community_name:** Ban Doi Lan
+    * **location:** Wiang Pa Pao District, Chiang Rai Province
+    * **ethnic_group:** Lisu
+* **community_profile_summaries:**
+    * **community_highlight:** Ban Doi Lan is a Lisu community that has been settled in the area since 1950. The community's strengths lie in their traditional farming practices, including the cultivation of corn, which is used to produce corn silk. The community's unique cultural practices and traditions have been passed down through generations, making it an important part of Lisu heritage.
+    * **name_etymology:** The name "Ban Doi Lan" is derived from the Lisu language, with "Doi" meaning "mountain" and "Lan" meaning "village". The name reflects the community's location at the foot of a mountain.
+    * **community_environment:** The community is situated in a fertile valley, surrounded by mountains and forests. The area is rich in natural resources, including water, soil, and wildlife.
+    * **local_wisdom:** The community has a rich cultural heritage, with traditional practices and customs that have been passed down through generations. The community places a strong emphasis on education, with a focus on preserving traditional knowledge and skills.
+    * **community_organizations:** The community has a number of organizations that work together to promote cultural preservation and development. These organizations include the Ban Doi Lan Community Development Committee and the Lisu Cultural Preservation Group.
+* **specific_entities:**
+    * **local_names:**
+        * **Item 1:**
+            * **name:** Corn Silk
+            * **context_quote:** Corn silk is a plant used by the Lisu people to make clothing and textiles.
+    * **traditional_uses:**
+        * **Item 1:**
+            * **use:** Making clothing and textiles
+            * **context_quote:** The Lisu people use corn silk to make clothing and textiles.
+    * **processing_methods:**
+        * **Item 1:**
+            * **method:** Processing corn silk
+            * **description_quote:** The Lisu people process corn silk to make clothing and textiles.
+
+Note: The translation of the Thai text is based on the provided context and may not be a direct translation. The goal is to provide a clear and accurate representation of the cultural context and information.

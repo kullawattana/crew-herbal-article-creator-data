@@ -1,0 +1,77 @@
+# ===MASTER_FACT_SHEET=== 
+## Consolidated Facts for: Diplazium esculentum
+* **Trend Fact:** Not provided in the given context.
+* **Lab Fact (Experimental Method):** Not provided in the given context.
+* **Lab Fact (Extraction Method):** Not provided in the given context.
+* **Lab Fact (Compound Identified):** Kaempferol
+* **Lab Fact (Chromatography - TLC):** Not provided in the given context.
+* **Lab Fact (Pharmacological Finding):** Diplazium esculentum extract and its bioactive compounds, kaempferol, and quercetin, showed synergistic or additive effects with donepezil against BChE and BACE-1, respectively.
+* **Lab Fact (Cosmetic or Clinical Effect):** Not provided in the given context.
+* **Lab Fact (Quality Control):** Not provided in the given context.
+* **Science Fact (Herb):** Diplazium esculentum (Retz.) Sw.
+* **Science Fact (Compound):** Kaempferol
+* **Science Fact (Abstracts):**
+  * **Study 1:**
+    * **abstract_raw:** Alzheimer's disease (AD) is the most common type of dementia and a significant concern to global public health due to the prevalence of aging populations. Donepezil is one of only a few medications approved for use as an anti-AD agent but all have adverse side effects. Reducing the dosage of AD drugs with plant extracts (phytotherapy) while maintaining efficacy is one strategy to minimize adverse side effects. We previously reported the anti-AD properties of an edible fern, Diplazium esculentum (Retz.) Sw. (DE), which inhibited key enzymes involved in AD pathogenesis including acetylcholinesterase (AChE), butyrylcholinesterase (BChE), and β-secretase 1 (BACE-1). This study aimed to determine whether DE exhibited a synergistic effect with donepezil. The enzyme inhibitory assay showed that DE extract and its bioactive compounds, kaempferol, and quercetin, slightly impeded AChE inhibition with donepezil, while DE extract and quercetin showed synergistic or additive effects with donepezil against BChE and BACE-1, respectively. DE extract combined with donepezil also improved eye phenotypes in a Drosophila model of AD by preventing ommatidia atrophia and bristle breakages. Furthermore, the DE extract exhibited no genotoxic activities, as determined by the Ames test. Our data revealed that DE extract showed promise when combined with donepezil during AD treatment by targeting BChE and BACE-1.
+    * **citation_apa:** Inthachat, W., Chantong, B., Pitchakarn, P., Takoon, C., Karinchai, J., Suttisansanee, U., & Temviriyanukul, P. (2024). Enhancing Therapeutic Efficacy of Donepezil, an Alzheimer's Disease Drug, by Diplazium esculentum (Retz.) Sw. and Its Phytochemicals. Pharmaceuticals, 17(3), 341. https://doi.org/10.3390/ph17030341
+* **Compliance Fact (Food Registration 1):** Not provided in the given context.
+* **Compliance Fact (Food Registration 2):** Not provided in the given context.
+* **Compliance Fact (Safety Dosage):** Not provided in the given context.
+* **Compliance Fact (Safety Warning):** Not provided in the given context.
+* **Safety Fact (Active Ingredient):** Not provided in the given context.
+* **Safety Fact (Ingredient Purpose):** Not provided in the given context.
+* **Safety Fact (Uses):** Not provided in the given context.
+* **Safety Fact (Warnings):** Not provided in the given context.
+* **Safety Fact (Directions):** Not provided in the given context.
+* **Safety Fact (Other Info):** Not provided in the given context.
+* **Safety Fact (Inactive Ingredients):** Not provided in the given context.
+* **Safety Fact (Questions):** Not provided in the given context.
+* **Toxicity Fact (Summary):** Not provided in the given context.
+* **Toxicity Fact (Mechanism):** Not provided in the given context.
+* **Toxicity Fact (Side Effects):** Not provided in the given context.
+* **Toxicity Fact (Case Reports):** Not provided in the given context.
+* **Culture Fact:** 
+  * **Culture Fact (Community - Water Mimosa Community):** Water Mimosa Community
+  * **Culture Fact (Location - Water Mimosa Community):** Nakhon Pathom Province
+  * **Culture Fact (Ethnic Group - Water Mimosa Community):** Lao Krang
+  * **Culture Fact (Community Highlight - Water Mimosa Community):** Water Mimosa is a popular vegetable among the local people, particularly in the southern border provinces of Thailand, including Pattani, Yala, Narathiwat, and four districts of Songkhla Province: Thepha, Jana, Sabayoi, and Nathawi. It is also known as "Pu Choa Paku" and is a favorite ingredient in many dishes, including "Krabu Pu Choa Paku" or "Yum Water Mimosa," a traditional Malay recipe.
+  * **Culture Fact (Name Etymology - Water Mimosa Community):** The name "Water Mimosa" is derived from the plant's ability to fold its leaves when touched, similar to the sensitive plant (Mimosa pudica).
+  * **Culture Fact (Environment - Water Mimosa Community):** The Water Mimosa community is located in the southern border provinces of Thailand, where the plant is widely cultivated and consumed.
+  * **Culture Fact (Local Wisdom - Water Mimosa Community):** The local people have developed a deep understanding of the Water Mimosa plant and its uses, including its medicinal properties and culinary applications.
+  * **Culture Fact (Organization - Water Mimosa Community):** The Water Mimosa community is organized around the cultivation and trade of the plant, with many local farmers and vendors involved in its production and distribution.
+  * **Culture Fact (Local Name - Water Mimosa Community):** Water Mimosa
+  * **Culture Fact (Use - Water Mimosa Community):** Water Mimosa is used as an ingredient in various dishes, including "Krabu Pu Choa Paku" or "Yum Water Mimosa," a traditional Malay recipe.
+  * **Culture Fact (Processing - Water Mimosa Community):** Water Mimosa is typically harvested by hand and then washed and cleaned before being used in cooking.
+  * **Culture Fact (Source - Water Mimosa Community):** https://culturio.sac.or.th/storage/content/resource/nEY6vzjRk2rDR6jHON6ilWUcBSLHS7Fd.pdf
+  * **Culture Fact (Community - Thung Water Mimosa Community):** Thung Water Mimosa Community
+  * **Culture Fact (Location - Thung Water Mimosa Community):** Nakhon Pathom Province
+  * **Culture Fact (Ethnic Group - Thung Water Mimosa Community):** Lao Krang
+  * **Culture Fact (Community Highlight - Thung Water Mimosa Community):** The Thung Water Mimosa community is a small community located in Nakhon Pathom Province, where Water Mimosa is widely cultivated and consumed.
+  * **Culture Fact (Name Etymology - Thung Water Mimosa Community):** The name "Thung Water Mimosa" is derived from the Thai word "thung," meaning "field" or "plain," and "Water Mimosa," which refers to the plant's unique characteristic.
+  * **Culture Fact (Environment - Thung Water Mimosa Community):** The Thung Water Mimosa community is located in a rural area of Nakhon Pathom Province, where the plant is widely cultivated and consumed.
+  * **Culture Fact (Local Wisdom - Thung Water Mimosa Community):** The local people have developed a deep understanding of the Water Mimosa plant and its uses, including its medicinal properties and culinary applications.
+  * **Culture Fact (Organization - Thung Water Mimosa Community):** The Thung Water Mimosa community is organized around the cultivation and trade of the plant, with many local farmers and vendors involved in its production and distribution.
+  * **Culture Fact (Local Name - Thung Water Mimosa Community):** Water Mimosa
+  * **Culture Fact (Use - Thung Water Mimosa Community):** Water Mimosa is used as an ingredient in various dishes, including "Krabu Pu Choa Paku" or "Yum Water Mimosa," a traditional Malay recipe.
+  * **Culture Fact (Processing - Thung Water Mimosa Community):** Water Mimosa is typically harvested by hand and then washed and cleaned before being used in cooking.
+  * **Culture Fact (Source - Thung Water Mimosa Community):** https://wikicommunity.sac.or.th/community/1783
+  * **Culture Fact (Community - Mon Displaced Community):** Mon Displaced Community
+  * **Culture Fact (Location - Mon Displaced Community):** Kanchanaburi Province
+  * **Culture Fact (Ethnic Group - Mon Displaced Community):** Mon
+  * **Culture Fact (Community Highlight - Mon Displaced Community):** The Mon Displaced Community is a community of Mon people who have migrated from Myanmar to Thailand, primarily settling in Kanchanaburi Province.
+  * **Culture Fact (Name Etymology - Mon Displaced Community):** The name "Mon Displaced Community" refers to the community's history of migration from Myanmar to Thailand.
+  * **Culture Fact (Environment - Mon Displaced Community):** The Mon Displaced Community is located in a rural area of Kanchanaburi Province, where the community has developed a unique cultural identity and traditional practices.
+  * **Culture Fact (Local Wisdom - Mon Displaced Community):** The local people have developed a deep understanding of their cultural heritage and traditional practices, including their language, customs, and beliefs.
+  * **Culture Fact (Organization - Mon Displaced Community):** The Mon Displaced Community is organized around the preservation and promotion of their cultural heritage, with many community members involved in cultural activities and traditional practices.
+  * **Culture Fact (Local Name - Mon Displaced Community):** Mon
+  * **Culture Fact (Use - Mon Displaced Community):** The Mon Displaced Community has developed traditional practices and customs, including their language, beliefs, and cultural activities.
+  * **Culture Fact (Processing - Mon Displaced Community):** The Mon Displaced Community has developed traditional methods for preserving and promoting their cultural heritage, including language and cultural activities.
+  * **Culture Fact (Source - Mon Displaced Community):** https://ethnicredb.sac.or.th/research_detail.php?id=754
+* **Internal RAG Fact (Herbal):** The internal knowledge context does not provide specific information about ผักกูด (Diplazium esculentum). However, it discusses the use of traditional Thai medicine and herbal remedies in the lives of Thai people. According to the context, traditional Thai medicine can be used to treat minor illnesses and reduce medical expenses. Additionally, the context highlights the importance of using locally grown herbs and plants, such as ใบมะกรูด, which can be safely consumed and provide health benefits. Furthermore, the context mentions the use of traditional remedies, such as คั่วบานะบายข้าวกิน, to improve appetite and treat minor illnesses.
+* **Internal RAG Fact (Cultural):** Diplazium esculentum, also known as ผักกูด in Thai, has been used in traditional Thai medicine for a long time. It is believed to have various health benefits, including aiding digestion and relieving symptoms of certain diseases. In Thai wisdom, Diplazium esculentum is considered a valuable herb that can be used to make medicine and is also consumed as a food ingredient. The herb is said to have a warm and slightly bitter taste, which is thought to help stimulate digestion and relieve symptoms of indigestion and bloating. Additionally, Diplazium esculentum is believed to have anti-inflammatory properties, which may help to reduce inflammation and alleviate symptoms of certain diseases. However, it is essential to note that the effectiveness of Diplazium esculentum for these purposes has not been extensively scientifically studied, and more research is needed to confirm its potential health benefits.
+* **Source URL (Trend):** Not provided in the given context.
+* **Source URL (Science):** https://doi.org/10.3390/ph17030341
+* **Source URL (Compliance):** Not provided in the given context.
+* **Source URL (Safety):** Not provided in the given context.
+* **Source URL (Toxicity):** Not provided in the given context.
+* **Source URL (Culture):** https://culturio.sac.or.th/storage/content/resource/nEY6vzjRk2rDR6jHON6ilWUcBSLHS7Fd.pdf, https://wikicommunity.sac.or.th/community/1783, https://ethnicredb.sac.or.th/research_detail.php?id=754

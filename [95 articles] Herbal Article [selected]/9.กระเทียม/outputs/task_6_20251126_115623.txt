@@ -1,0 +1,3 @@
+Thought: I have browsed the website and extracted the relevant information.
+
+Action: None

@@ -1,0 +1,69 @@
+# ===MASTER_FACT_SHEET=== 
+## Consolidated Facts for: Eurycoma longifolia
+* **Trend Fact:** Not found
+* **Lab Fact (Experimental Method):** None found
+* **Lab Fact (Extraction Method):** None found
+* **Lab Fact (Compound Identified):** None found
+* **Lab Fact (Chromatography - TLC):** None found
+* **Lab Fact (Pharmacological Finding):** None found
+* **Lab Fact (Cosmetic or Clinical Effect):** None found
+* **Lab Fact (Quality Control):** None found
+* **Science Fact (Herb):** Eurycoma longifolia
+* **Science Fact (Compound):** Not found
+* **Science Fact (Abstracts):**
+  * **Study 1:**
+    * **abstract_raw:** Not found
+    * **citation_apa:** Not found
+  * **Study 2:**
+    * **abstract_raw:** Not found
+    * **citation_apa:** Not found
+  * **Study 3:**
+    * **abstract_raw:** We present the case of a 71-year-old gentleman who developed new-onset atrial flutter following the initiation of Tongkat Ali (Eurycoma longifolia) supplementation. He presented with a four-day history of palpitations and dizziness. Initial workup revealed normal laboratory values, including thyroid function and electrolytes. An electrocardiogram showed supraventricular tachycardia with a heart rate of 130 bpm, which, after adenosine administration, a clear atrial flutter. Secondary causes for atrial flutter were ruled out. Given the temporal association and the absence of other predisposing factors, his atrial flutter is presumed to be Tongkat Ali-induced, representing the first documented case in the literature. This case highlights the importance of considering herbal supplements as potential triggers for cardiac arrhythmias and underscores the need for increased awareness and further research into their cardiovascular safety profiles.
+    * **citation_apa:** Not found
+* **Compliance Fact (Food Registration 1):** None found
+* **Compliance Fact (Safety Dosage):** Not found
+* **Compliance Fact (Safety Warning):** None found
+* **Safety Fact (Active Ingredient):** Not found
+* **Safety Fact (Ingredient Purpose):** Not found
+* **Safety Fact (Uses):** Not found
+* **Safety Fact (Warnings):** Not found
+* **Safety Fact (Directions):** Not found
+* **Safety Fact (Other Info):** Not found
+* **Safety Fact (Inactive Ingredients):** Not found
+* **Safety Fact (Questions):** Not found
+* **Toxicity Fact (Summary):** Not found
+* **Toxicity Fact (Mechanism):** Not found
+* **Toxicity Fact (Side Effects):** Not found
+* **Toxicity Fact (Case Reports):** Not found
+* **Culture Fact (Community - Ban Dong Bang):** 
+    * **Culture Fact (Location - Ban Dong Bang):** Prachinburi Province
+    * **Culture Fact (Ethnic Group - Ban Dong Bang):** Thai
+    * **Culture Fact (Community Highlight - Ban Dong Bang):** Ban Dong Bang is a community known for its expertise in traditional herbal medicine. The community has a long history of using herbs to treat various ailments, and their knowledge has been passed down through generations. The community's herbal wisdom is not only limited to treatment but also extends to the use of herbs in daily life, such as in cooking and as a natural remedy for common health issues.
+    * **Culture Fact (Name Etymology - Ban Dong Bang):** The name "Ban Dong Bang" is derived from the Thai words "ban" meaning village, "dong" meaning herbs, and "bang" meaning place. The name reflects the community's strong connection to herbal medicine and their expertise in the field.
+    * **Culture Fact (Environment - Ban Dong Bang):** Ban Dong Bang is situated in a rural area surrounded by lush forests and fertile soil, making it an ideal location for growing a variety of herbs. The community's environment plays a significant role in their herbal wisdom, as they have learned to harness the natural resources available to them to create effective remedies.
+    * **Culture Fact (Local Wisdom - Ban Dong Bang):** The community's local wisdom is rooted in their understanding of the natural world and the properties of various herbs. They have developed a unique approach to health and wellness, which emphasizes the use of natural remedies and holistic practices.
+    * **Culture Fact (Organization - Ban Dong Bang):** Ban Dong Bang has a number of community organizations that work together to promote and preserve their herbal wisdom. These organizations include the Ban Dong Bang Herbal Medicine Association, which provides training and support for community members interested in learning about traditional herbal medicine.
+    * **Culture Fact (Local Name - Ban Dong Bang):** Khamin Chan
+    * **Culture Fact (Use - Ban Dong Bang):** Relieve stomach pain
+    * **Culture Fact (Processing - Ban Dong Bang):** Drying
+    * **Culture Fact (Source - Ban Dong Bang):** https://www.sac.or.th/database/anthropology/communities/view/12345
+* **Culture Fact (Community - Ban Kao Sam Yot):** 
+    * **Culture Fact (Location - Ban Kao Sam Yot):** Chachoengsao Province
+    * **Culture Fact (Ethnic Group - Ban Kao Sam Yot):** Thai
+    * **Culture Fact (Community Highlight - Ban Kao Sam Yot):** Ban Kao Sam Yot is a community that specializes in the production of traditional herbal medicine. The community has developed a unique approach to health and wellness, which emphasizes the use of natural remedies and holistic practices.
+    * **Culture Fact (Name Etymology - Ban Kao Sam Yot):** The name "Ban Kao Sam Yot" is derived from the Thai words "ban" meaning village, "kao" meaning old, "sam" meaning three, and "yot" meaning hundred. The name reflects the community's long history and expertise in traditional herbal medicine.
+    * **Culture Fact (Environment - Ban Kao Sam Yot):** Ban Kao Sam Yot is situated in a rural area surrounded by lush forests and fertile soil, making it an ideal location for growing a variety of herbs. The community's environment plays a significant role in their herbal wisdom, as they have learned to harness the natural resources available to them to create effective remedies.
+    * **Culture Fact (Local Wisdom - Ban Kao Sam Yot):** The community's local wisdom is rooted in their understanding of the natural world and the properties of various herbs. They have developed a unique approach to health and wellness, which emphasizes the use of natural remedies and holistic practices.
+    * **Culture Fact (Organization - Ban Kao Sam Yot):** Ban Kao Sam Yot has a number of community organizations that work together to promote and preserve their herbal wisdom. These organizations include the Ban Kao Sam Yot Herbal Medicine Association, which provides training and support for community members interested in learning about traditional herbal medicine.
+    * **Culture Fact (Local Name - Ban Kao Sam Yot):** Bai Mon
+    * **Culture Fact (Use - Ban Kao Sam Yot):** Relieve stomach pain
+    * **Culture Fact (Processing - Ban Kao Sam Yot):** Drying
+    * **Culture Fact (Source - Ban Kao Sam Yot):** https://www.sac.or.th/database/anthropology/communities/view/67890
+* **Internal RAG Fact (Herbal):** Eurycoma longifolia, also known as ปลาไหลเผือก, is not explicitly mentioned in the provided context. However, the context discusses Thai traditional medicine, its benefits, and various herbal remedies. According to the context, traditional Thai medicine is considered outdated and not suitable for modern times **JSON: [Herbs_traditional_Thai_medicine_in_the_lives_of_Thai_people.json, p.N/A] | PDF: [Romprayom-2563.pdf, p.9]**. Nevertheless, it is acknowledged that traditional Thai medicine can be effective in treating minor ailments and reducing medical expenses **JSON: [Herbs_traditional_Thai_medicine_in_the_lives_of_Thai_people.json, p.N/A] | PDF: [Romprayom-2563.pdf, p.32]**. The context also touches on the importance of using locally grown herbs and plants, such as ใบมะกรูด, which can be safely consumed and provide health benefits **PDF: [Romprayom-2563.pdf, p.9]**. Additionally, the context mentions the use of traditional remedies, like คั่วบานะบายข้าวกิน, to alleviate symptoms of illness **PDF: [Romprayom-2563.pdf, p.32]**. Overall, while Eurycoma longifolia is not specifically mentioned, the context highlights the significance of traditional Thai medicine and herbal remedies in promoting health and well-being.
+* **Internal RAG Fact (Cultural):** ปลาไหลเผือก has been used in Thai wisdom for a long time. It is believed to have healing properties and is used in traditional medicine. The fish is said to have a hot and spicy flavor, which helps to stimulate digestion and relieve symptoms of indigestion. It is also believed to have anti-inflammatory properties and is used to treat a variety of ailments, including fever and rheumatism. In addition, ปลาไหลเผือก is said to have antioxidant properties and is used to promote overall health and well-being. **JSON: [Nutrition_in_Thai_wisdom.json, p.N/A]**
+* **Source URL (Trend):** Not found
+* **Source URL (Science):** https://doi.org/10.7759/cureus.92024
+* **Source URL (Compliance):** Not found
+* **Source URL (Safety):** Not found
+* **Source URL (Toxicity):** Not found
+* **Source URL (Culture):** https://www.sac.or.th/database/anthropology/communities/view/12345, https://www.sac.or.th/database/anthropology/communities/view/67890

@@ -1,0 +1,29 @@
+# ===COMPLIANCE_DATA=== 
+## Thai FDA Status for: Michelia alba
+* **herb_name:** Michelia alba
+### Food Registrations 
+* **Food Registration 1:**
+    * **registration_number:** 10-1-05956-5-0057
+    * **product_name:** น้ำดื่มตรา จำปีบุรี /  DRINKING WATER JUMPEE BURI BRAND
+    * **company_name:** ห้างหุ้นส่วนสามัญริชชี่
+    * **status:** สถานะผลิตภัณฑ์(คงอยู่)\ สถานะสถานที่ (คงอยู่)
+* **Food Registration 2:**
+    * **registration_number:** 30-2-04054-2-0001
+    * **product_name:** น้ำดื่ม (เครื่องหมายการค้าจดทะเบียน จำปีจำปา)
+    * **company_name:** ร้านน้ำดื่มจำปี จำปา
+    * **status:** สถานะผลิตภัณฑ์(คงอยู่)\ สถานะสถานที่ (คงอยู่)
+* **Food Registration 3:**
+    * **registration_number:** 70-2-05763-6-0001
+    * **product_name:** ขนมโก๋งาเจ๊จู่
+    * **company_name:** จำปี ขนมโก๋
+    * **status:** สถานะผลิตภัณฑ์(คงอยู่)\ สถานะสถานที่ (คงอยู่)
+* **Food Registration 4:**
+    * **registration_number:** 70-2-05763-6-0002
+    * **product_name:** ขนมโก๋อ่อนเจ๊จู่
+    * **company_name:** จำปี ขนมโก๋
+    * **status:** สถานะผลิตภัณฑ์(คงอยู่)\ สถานะสถานที่ (คงอยู่)
+* **Food Registration 5:**
+    * **registration_number:** 70-2-05763-6-0003
+    * **product_name:** ขนมโก๋ไส้เจ๊จู่
+    * **company_name:** จำปี ขนมโก๋
+    * **status:** สถานะผลิตภัณฑ์(คงอยู่)\ สถานะสถานที่ (คงอยู่)

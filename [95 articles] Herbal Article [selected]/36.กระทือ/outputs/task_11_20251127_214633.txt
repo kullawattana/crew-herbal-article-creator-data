@@ -1,0 +1,59 @@
+# ===MASTER_FACT_SHEET===
+## Consolidated Facts for: Zingiber zerumbet
+* **Trend Fact:** Shampoo Ginger is a wild ginger plant known for its medicinal properties. It has been traditionally employed in alternative medicine to aid digestion and reduce inflammation. The plant's sap can be used as a natural shampoo and conditioner, promoting hair health and hydration. Shampoo Ginger has also been used to treat various health conditions, including digestive and liver infections.
+* **Trend Fact:** Shampoo Ginger, also known as Awapuhi, is a Hawaiian treasure that has been used for centuries for its remarkable benefits. The plant's sap can be used as a natural shampoo and conditioner, leaving hair soft, shiny, and free of impurities. Awapuhi Ginger has also been used to treat various health conditions, including inflammation and digestion issues.
+* **Trend Fact:** Shampoo Ginger is a type of ginger plant that has been used in traditional medicine for its health benefits. The plant's sap can be used as a natural shampoo and conditioner, and it has been traditionally employed to aid digestion and reduce inflammation. Shampoo Ginger has also been used to treat various health conditions, including digestive and liver infections.
+* **Trend Fact:** Shampoo Ginger has amazing health benefits, including reducing inflammation and aiding digestion. The plant's sap can be used as a natural shampoo and conditioner, promoting hair health and hydration. Shampoo Ginger has also been used to treat various health conditions, including digestive and liver infections.
+* **Trend Fact:** Shampoo Ginger is a natural shampoo that gently cleanses the hair and scalp. The plant's sap can be used as a natural conditioner, leaving hair soft, shiny, and free of impurities. Shampoo Ginger has also been used to treat various health conditions, including inflammation and digestion issues.
+* **Science Fact (Herb):** Zingiber zerumbet
+* **Science Fact (Compound):** zerumbone
+* **Science Fact (Abstracts):**
+  * **Study 1:**
+    * **abstract_raw:** Zerumbone is a natural sesquiterpene compound from Zingiber zerumbet plant. While it significantly exhibits analgesic properties through the mu-opioid receptor (muOR) found in animal models, its precise molecular mechanism at the receptor level remains poorly investigated. The present work involves 1-micros molecular dynamics (MD) simulations, MM/PBSA binding-free energy analyses, principal component analysis (PCA) as well as Markov state modeling (MSM) to address how the dynamic basis of zerumbone-muOR interactions compared to morphine, which is a known full agonist. MD trajectories reported greater receptor backbone fluctuations, improved loop mobility, reduced stable hydrogen bonds, and moderate receptor compaction in the zerumbone-bound state in contrast to morphine. MM/PBSA calculations indicated similar total binding affinity and the driven for zerumbone affinity was primarily hydrophobic interaction. PCA recognized notable intermediate conformational substates that were stabilized by zerumbone. In the interim, highly stabilized intermediate-activation macrostate with high-kinetic barriers (~ 8-16 k_BT) and millisecond-scale residency was also revealed through MSM analysis. In agreement with analgesic activities reported previously, these computational insights identify zerumbone as a low-efficacy partial agonist, providing comprehensive molecular explanation to its analgesic profile to serve as a source of safer and more opioid-like drugs.
+    * **citation_apa:** Ayub, W. M. W., Marjohan, N. A., Khalid, M. H., Perimal, E. K., & Jamali, M. A. M. (2025). Elucidating zerumbone's low-efficacy agonism at the mu-opioid receptor via molecular dynamics simulation and Markov state modeling. Journal of Computer-Aided Molecular Design, 39(2), 94. doi: 10.1007/s10822-025-00677-2
+  * **Study 2:**
+    * **abstract_raw:** Tuberculosis (TB) is still a significant public health threat, with rising drug resistance and high incidence in multiple areas worldwide. In the search for novel antitubercular agents, this study explores the application of a bioactivity-guided molecular networking approach to identify bioactive compounds from seven plant species (Curatella americana, Davilla nitida, Dipteryx punctata, Indigofera suffruticosa, Quassia amara, Tetradenia riparia, and Zingiber zerumbet) collected in French Guiana. Using ultrasound-assisted extraction followed by liquid-liquid partitioning and UHPLC-HRMS/MS analysis, a library of 72 samples was tested against Mycobacterium tuberculosis. The non-polar fractions from Indigofera suffruticosa, Tetradenia riparia, and Zingiber zerumbet showed the highest activity. The integration of metabolomic and bioassay data on molecular networks allowed the prioritization and annotation of active compounds, revealing flavonoids as contributors to the antitubercular activity of the active samples. In addition, the use of computational tools such as GNPS, SIRIUS, and TIMA-R enabled dereplication and increased the confidence in the structural prediction of active metabolites. This approach demonstrated its potential in accelerating the identification of both known and novel bioactive compounds without requiring exhaustive isolation, offering a robust strategy for natural product-based drug development against TB.
+    * **citation_apa:** Breaud, C., Saunier, C., Baghdikian, B., Mabrouki, F., Bertolotti, M., Royer, M., Silland, P., Maresca, M., Garaev, E., Cavalier, J.-F., Canaan, S., Bun-Llopet, S.-S., & Garayev, E. (2025). Bioactive Compounds Discovery from French Guiana Plant Extracts Through Antitubercular Screening and Molecular Networking. Plants, 14(19), 3028. doi: 10.3390/plants14193028
+  * **Study 3:**
+    * **abstract_raw:** A cyclic sesquiterpene with 11 carbon atoms is the primary component of essential oils from the wild ginger species, Zingiber zerumbet. It exhibits pharmacological effects, including anti-inflammatory and antioxidant properties. However, limited information exists regarding its role in pyroptosis during acute lung injury (ALI). Herein, we investigated how zingerone affects pyroptosis in a murine lipopolysaccharide (LPS)-induced ALI model established via intraperitoneal zerumbone (Zer) administration. Bronchoalveolar lavage fluid, serum, and lung tissue samples were collected after 24 h. Haematoxylin and eosin staining was performed to assess lung tissue damage. Western blot analysis and real-time quantitative polymerase chain reaction (qRT-PCR) were used to quantify protein expression levels associated with pyroptosis. Before LPS exposure, mouse alveolar epithelial (MLE)-12 cells were pretreated with 10 muM Zer for 2 h and then incubated with 1 ng/mL LPS for an additional 24 h. Zer treatment reduced lung tissue injury, inflammation, and oxidative stress in model mice. Zer counteracted pyroptosis in the alveolar epithelial cells of these mice. In MLE-12 cells, Zer significantly inhibited oxidative stress and inflammation. Zer suppressed NLRP3/Caspase-1/GSDMD signalling, pivotal in pyroptosis, mitigating ALI progression. A potential novel therapeutic agent for ALI inhibited the NLRP3/GSDMD signalling pathway involved in pyroptosis.
+    * **citation_apa:** Xu, Y.-J., Fang, F.-F., Zhao, G.-Q., Yu, W.-Y., Han, H.-Y., Teng, H., Lyu, J.-N., & Wang, J.-F. (2025). Zerumbone Attenuates Lipopolysaccharide-Induced Acute Lung Injury by Suppressing the NLRP3/Caspase-1/GSDMD Signalling Pathway. Journal of Cellular and Molecular Medicine, 29(19), e70873. doi: 10.1111/jcmm.70873
+* **Compliance Fact (Food Registration 1):** None found
+* **Compliance Fact (Safety Dosage):** Not found
+* **Compliance Fact (Safety Warning):** None found
+* **Safety Fact (Active Ingredient):** Not found
+* **Safety Fact (Ingredient Purpose):** Not found
+* **Safety Fact (Uses):** Not found
+* **Safety Fact (Warnings):** Not found
+* **Safety Fact (Directions):** Not found
+* **Safety Fact (Other Info):** Not found
+* **Safety Fact (Inactive Ingredients):** Not found
+* **Safety Fact (Questions):** Not found
+* **Toxicity Fact (Summary):** Not found
+* **Toxicity Fact (Mechanism):** Not found
+* **Toxicity Fact (Side Effects):** Not found
+* **Toxicity Fact (Case Reports):** Not found
+* **Culture Fact (Community - Thai Community):** The Thai community has a rich tradition of using herbs for medicinal purposes. Krathue, in particular, is used to treat various ailments, including stomach problems and blood-related issues.
+* **Culture Fact (Location - Thai Community):** Thailand
+* **Culture Fact (Ethnic Group - Thai Community):** Thai
+* **Culture Fact (Community Highlight - Thai Community):** The Thai community has a rich tradition of using herbs for medicinal purposes. Krathue, in particular, is used to treat various ailments, including stomach problems and blood-related issues.
+* **Culture Fact (Name Etymology - Thai Community):** The name "Krathue" is derived from the Thai language and is used to refer to a specific type of herb.
+* **Culture Fact (Environment - Thai Community):** The Thai community has a strong connection with nature and uses various herbs and plants for medicinal purposes.
+* **Culture Fact (Local Wisdom - Thai Community):** The community has a deep understanding of the medicinal properties of Krathue and uses it to treat various health issues.
+* **Culture Fact (Organization - Thai Community):** The community has various organizations that promote the use of traditional herbs and plants for medicinal purposes.
+* **Culture Fact (Local Name - Thai Community):** Krathue
+* **Culture Fact (Use - Thai Community):** Treats blood-related issues
+* **Culture Fact (Processing - Thai Community):** Boiling
+* **Culture Fact (Source - Thai Community):** https://manuscripts.sac.or.th/article-download.php?id=28
+* **Internal RAG Fact (Herbal):** Unfortunately, the provided internal knowledge context does not explicitly mention กระทือ (Zingiber zerumbet) in any of the queries or PDF excerpts. However, the context discusses Thai traditional medicine, its benefits, and various herbs used in traditional Thai medicine.
+* **Internal RAG Fact (Cultural):** กระทือ, also known as Thai ginger, has been used in Thai wisdom for a long time. It is a type of herb that has been used for healing and has been passed down from ancient times to the present day. According to the provided context, กระทือ has been used to make medicine for a long time and has been recognized as a valuable herb in Thai culture.
+* **Source URL (Trend):** https://www.lemon8-app.com/@_yahsvitalherbs_/7564230371299131959?region=us
+* **Source URL (Trend):** https://awapuhiginger.com/discover-the-benefits-of-awapuhi-ginger-a-hawaiian-treasure/
+* **Source URL (Trend):** https://www.wisdomlib.org/concept/zingiber-zerumbet
+* **Source URL (Trend):** https://www.facebook.com/groups/2702522049803204/posts/6038985136156862/
+* **Source URL (Trend):** https://www.facebook.com/Seed2Plant.in/posts/benefits-of-shampoo-ginger-natural-shampoogently-squeeze-the-red-cones-to-collec/1277885154346159/
+* **Source URL (Science):** https://doi.org/10.1007/s10822-025-00677-2
+* **Source URL (Science):** https://doi.org/10.3390/plants14193028
+* **Source URL (Science):** https://doi.org/10.1111/jcmm.70873
+* **Source URL (Culture):** https://manuscripts.sac.or.th/article-download.php?id=28
+* **Source URL (Culture):** https://manuscripts.sac.or.th/article-download.php?id=55
+* **Source URL (Culture):** https://sac.or.th/portal/th/article/detail/338

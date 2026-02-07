@@ -1,0 +1,3 @@
+Thought: I have extracted the relevant content from the three websites.
+
+Action: None

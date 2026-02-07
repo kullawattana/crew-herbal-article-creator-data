@@ -1,0 +1,9 @@
+# ===COMPLIANCE_DATA===
+## Thai FDA Status for: Bauhinia strychnifolia
+* **herb_name:** Bauhinia strychnifolia
+### Food Registrations 
+* **Food Registration 1:**
+    * **registration_number:** 39-1-05865-4-0063
+    * **product_name:** ชาสมุนไพร ตรา ย่านางแดง / Herbal tea Ya Nang Daeng brand
+    * **company_name:** บริษัท กอเงินออร์แกนิคฟาร์ม จำกัด
+    * **status:** สถานะผลิตภัณฑ์(คงอยู่)\ สถานะสถานที่ (คงอยู่)

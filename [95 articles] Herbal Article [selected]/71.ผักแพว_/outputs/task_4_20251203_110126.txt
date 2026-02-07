@@ -1,0 +1,29 @@
+# ===COMPLIANCE_DATA===
+## Thai FDA Status for: Persicaria odorata
+* **herb_name:** Persicaria odorata
+### Food Registrations
+* **Food Registration 1:**
+    * **registration_number:** 10-1-02358-1-0524
+    * **product_name:** ผักแพ้ว ตัดแต่ง
+    * **company_name:** บริษัท ซีพี แอ็กซ์ตร้า จำกัด (มหาชน) สาขา กัลปพฤกษ์
+    * **status:** สถานะผลิตภัณฑ์(คงอยู่)\ สถานะสถานที่ (คงอยู่)
+* **Food Registration 2:**
+    * **registration_number:** 14-1-06936-6-0387
+    * **product_name:** กลิ่น ผักแพว (วัตถุแต่งกลิ่นรสธรรมชาติ) /  PHAK PHAEO FLAVOUR (NATURAL FLAVOUR)
+    * **company_name:** บริษัท อุตสาหกรรมเครื่องหอมไทย-จีน จำกัด
+    * **status:** สถานะผลิตภัณฑ์(คงอยู่)\ สถานะสถานที่ (คงอยู่)
+* **Food Registration 3:**
+    * **registration_number:** 26-2-00258-2-0587
+    * **product_name:** ผักแพ้ว ตัดแต่ง
+    * **company_name:** บริษัท ซีพี แอ็กซ์ตร้า จำกัด (มหาชน) สาขา นครนายก
+    * **status:** สถานะผลิตภัณฑ์(คงอยู่)\ สถานะสถานที่ (คงอยู่)
+* **Food Registration 4:**
+    * **registration_number:** 30-2-04957-2-0573
+    * **product_name:** ผักแพ้ว ตัดแต่ง
+    * **company_name:** บริษัท ซีพี แอ็กซ์ตร้า จำกัด (มหาชน) สาขาปากช่อง
+    * **status:** สถานะผลิตภัณฑ์(คงอยู่)\ สถานะสถานที่ (คงอยู่)
+* **Food Registration 5:**
+    * **registration_number:** 30-2-07060-6-0042
+    * **product_name:** ผักแพวตราสตางค์ฟาร์ม /  Plover Stang Farm brand
+    * **company_name:** สตางค์ฟาร์ม
+    * **status:** สถานะผลิตภัณฑ์(คงอยู่)\ สถานะสถานที่ (คงอยู่)

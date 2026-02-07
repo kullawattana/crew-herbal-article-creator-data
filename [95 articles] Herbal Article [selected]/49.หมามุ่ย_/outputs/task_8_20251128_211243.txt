@@ -1,0 +1,81 @@
+# ===CULTURE_DATA=== 
+
+## Cultural Context for: Mamui (หมามุ่ย)
+
+### Finding 1 
+* **source_url:** https://db.sac.or.th/thailand-cultural-encyclopedia/region.php?region=1&char=%E0%B8%AB&page=14 
+* **community_context:** 
+    * **community_name:** Ban Nuea 
+    * **location:** Ubon Ratchathani Province 
+    * **ethnic_group:** Thai 
+* **community_profile_summaries:** 
+    * **community_highlight:** No herbal-related information found 
+    * **name_etymology:** No herbal-related information found 
+    * **community_environment:** No herbal-related information found 
+    * **local_wisdom:** Mamui is a plant with medicinal properties, used in the stem and branches, which are boiled or dried and consumed. 
+    * **community_organizations:** No herbal-related information found 
+* **specific_entities:** 
+    * **local_names:** 
+        * **Item 1:** 
+            * **name:** Mamui 
+            * **context_quote:** Mamui is a plant with medicinal properties. 
+    * **traditional_uses:** 
+        * **Item 1:** 
+            * **use:** Used in the stem and branches, which are boiled or dried and consumed. 
+            * **context_quote:** Used in the stem and branches, which are boiled or dried and consumed. 
+    * **processing_methods:** 
+        * **Item 1:** 
+            * **method:** Boiling or drying 
+            * **description_quote:** Boiling or drying 
+
+### Finding 2 
+* **source_url:** https://wikicommunity.sac.or.th/community/2900 
+* **community_context:** 
+    * **community_name:** Ban Tam Yae 
+    * **location:** Ubon Ratchathani Province 
+    * **ethnic_group:** Thai 
+* **community_profile_summaries:** 
+    * **community_highlight:** No herbal-related information found 
+    * **name_etymology:** No herbal-related information found 
+    * **community_environment:** No herbal-related information found 
+    * **local_wisdom:** Agriculture is the main occupation that supports life and family. 
+    * **community_organizations:** No herbal-related information found 
+* **specific_entities:** 
+    * **local_names:** 
+        * **Item 1:** 
+            * **name:** Ban Tam Yae 
+            * **context_quote:** Ban Tam Yae is a village with agriculture as the main occupation that supports life and family. 
+    * **traditional_uses:** 
+        * **Item 1:** 
+            * **use:** Agriculture 
+            * **context_quote:** Agriculture is the main occupation that supports life and family. 
+    * **processing_methods:** 
+        * **Item 1:** 
+            * **method:** Agriculture 
+            * **description_quote:** Agriculture is the main occupation that supports life and family. 
+
+### Finding 3 
+* **source_url:** https://wikicommunity.sac.or.th/community/1909 
+* **community_context:** 
+    * **community_name:** Ban Wang Kan 
+    * **location:** Mae Hong Son Province 
+    * **ethnic_group:** Thai 
+* **community_profile_summaries:** 
+    * **community_highlight:** No herbal-related information found 
+    * **name_etymology:** No herbal-related information found 
+    * **community_environment:** No herbal-related information found 
+    * **local_wisdom:** Agriculture is the main occupation that supports life and family. 
+    * **community_organizations:** No herbal-related information found 
+* **specific_entities:** 
+    * **local_names:** 
+        * **Item 1:** 
+            * **name:** Ban Wang Kan 
+            * **context_quote:** Ban Wang Kan is a small village with agriculture as the main occupation that supports life and family. 
+    * **traditional_uses:** 
+        * **Item 1:** 
+            * **use:** Agriculture 
+            * **context_quote:** Agriculture is the main occupation that supports life and family. 
+    * **processing_methods:** 
+        * **Item 1:** 
+            * **method:** Agriculture 
+            * **description_quote:** Agriculture is the main occupation that supports life and family.

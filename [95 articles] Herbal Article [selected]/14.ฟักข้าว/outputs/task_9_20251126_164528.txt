@@ -1,0 +1,9 @@
+# ===HERBAL_INTERNAL_SUMMARY===
+
+Unfortunately, the provided internal knowledge context does not specifically mention ฟักข้าว (Momordica cochinchinensis). The context appears to discuss various aspects of traditional Thai medicine, including its benefits, uses, and preparation methods. However, none of the queries or pages from the JSON and PDF files mention ฟักข้าว or Momordica cochinchinensis explicitly.
+
+The context does mention the use of traditional Thai medicine in treating minor illnesses and reducing medical expenses **JSON: [Herbs_traditional_Thai_medicine_in_the_lives_of_Thai_people.json, p.N/A] | PDF: [Romprayom-2563.pdf, p.9]**. It also touches on the importance of using locally grown and self-prepared food as a means of maintaining health and well-being **PDF: [Romprayom-2563.pdf, p.9]**.
+
+Additionally, the context provides information on the preparation and use of certain traditional Thai dishes, such as "คั่วบานะบายข้าวกิน" (a dish made with fermented fish and herbs), which is believed to aid in digestion and relieve symptoms of illness **PDF: [Romprayom-2563.pdf, p.32]**.
+
+While the context does not provide specific information on ฟักข้าว or Momordica cochinchinensis, it does offer insights into the broader context of traditional Thai medicine and its applications.

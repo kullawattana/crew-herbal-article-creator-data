@@ -1,0 +1,1 @@
+Thought: Now that I have the search results, I need to filter the snippets to only include those that are explicitly about มะพร้าว (Cocos nucifera) and contain technical keywords.

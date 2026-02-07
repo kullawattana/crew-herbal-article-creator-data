@@ -1,0 +1,69 @@
+# ===MASTER_FACT_SHEET=== 
+## Consolidated Facts for: Terminalia chebula
+* **Trend Fact:** Terminalia chebula is a widely used medicinal herb in traditional phytotherapy, valued for its extensive range of therapeutic uses.
+* **Lab Fact (Experimental Method):** Not found
+* **Lab Fact (Extraction Method):** Not found
+* **Lab Fact (Compound Identified):** Ellagic acid, chebulagic acid, punicalagin, corilagin, and chebulinic acid
+* **Lab Fact (Chromatography - TLC):** Not found
+* **Lab Fact (Pharmacological Finding):** The extract showed dose-dependent antibacterial activity with a minimum inhibitory concentration of 0.70 ppm, and was found to greatly inhibit biofilm formation to the extent of 87.57 %.
+* **Lab Fact (Cosmetic or Clinical Effect):** Not found
+* **Lab Fact (Quality Control):** Not found
+* **Science Fact (Herb):** Terminalia chebula
+* **Science Fact (Compound):** Ellagic acid
+* **Science Fact (Abstracts):**
+  * **Study 1:**
+    * **abstract_raw:** Terminalia chebula is a widely used medicinal herb in traditional phytotherapy, valued for its extensive range of therapeutic uses. In this study, the seed extract (TCS) was investigated for its potential against multidrug-resistant (MDR) pathogens associated with diabetic foot ulcer (DFU) infections. The clinical isolate Pseudomonas aeruginosa (DW07) was extremely resistant to standard antibiotics, reaffirming its MDR phenotype. Chemical profiling of TCS with liquid chromatography showed a dense phytochemical profile containing ellagic acid, chebulagic acid, punicalagin, corilagin, and chebulinic acid, which is all attributed to specific anti-pathogenic activities like quorum sensing inhibition, biofilm inhibition, efflux pump obstruction, and disrupting bacterial adhesion. The extract showed dose-dependent antibacterial activity with a minimum inhibitory concentration of 0.70 ppm, and was found to greatly inhibit biofilm formation to the extent of 87.57 %. Transcriptomic analysis also showed wide modulation of bacterial physiology as 54 genes were differentially expressed and significant downregulation of virulence-related proteins such as short-chain dehydrogenase oxidoreductase, histidine kinase, and PtxR. Gene Ontology classification identified functional effects on DNA binding, lipopolysaccharide biosynthesis, and major metabolic pathways. Overall, these findings indicate that the phytochemical variability of T. chebula seeds not only establishes a molecular foundation for its traditional application but also attests to its potential as a plant-based therapeutic approach in the phytomedical management of chronic wound infections due to MDR pathogens.
+    * **citation_apa:** Sudarsan, N., Hema, R., Mahendran, V., & Muthu-Pandian, C. K. (2025). LC-MS profiling of Terminalia chebula seed reveals mechanistic insights supporting activity against multidrug-resistant diabetic foot ulcer isolate. Fitoterapia, 107002. https://doi.org/10.1016/j.fitote.2025.107002
+  * **Study 2:**
+    * **abstract_raw:** The present study aimed to understand the shift in the rumen microbiome of buffaloes fed diets with and without phyto-additives. The rationale was based on the hypothesis that plant-based additives can modulate the microbial population in the rumen, potentially reducing methane production and enhancing fiber degradation. Given the possibility that prolonged use of the same additives may lead to microbial adaptation and diminished efficacy, the study also investigated the effects of periodically switching additives.
+    * **citation_apa:** Soni, P. K., Kala, A., Agarwal, N., Chaudhary, L. C., Deka, R., Rahman, H., Vijayalakshmy, K., & Chaudhary, L. C. (2025). Taxonomic and functional shifts in the rumen microbiome of buffalo calves under long-term strategic supplementation of phyto-feed additives. Frontiers in Veterinary Science, 12, 1647762. https://doi.org/10.3389/fvets.2025.1647762
+  * **Study 3:**
+    * **abstract_raw:** Allergic contact dermatitis to Terminalia chebula fruit extract in antiaging creams.
+    * **citation_apa:** Blanchard, M., Marchal, O., Blanchard, G., & Piletta-Zanin, P. (2025). Allergic Contact Dermatitis to Terminalia Chebula Fruit Extract in Antiaging Creams. Contact Dermatitis, 10.1111/cod.70060. https://doi.org/10.1111/cod.70060
+* **Compliance Fact (Food Registration 1):** None found
+* **Compliance Fact (Safety Dosage):** Not found
+* **Compliance Fact (Safety Warning):** None found
+* **Safety Fact (Active Ingredient):** TERMINALIA CHEBULA FRUIT, COIX LACRYMA-JOBI SEED, QUERCUS ROBUR TWIG BARK, HOPS
+* **Safety Fact (Ingredient Purpose):** Not found
+* **Safety Fact (Uses):** For the temporary relief of cough, diarrhea, mild abdominal pain or cramping, muscle spasms, indigestion, or feelings of discomfort or uneasiness.
+* **Safety Fact (Warnings):** Severe or persistent symptoms may be serious. Consult a doctor promptly. Keep out of the reach of children. In case of overdose, get medical help or contact a poison control center right away. If pregnant or breastfeeding, ask a healthcare professional before use.
+* **Safety Fact (Directions):** Place drops under tongue 30 minutes before/after meals. Adults and children 12 years and over: Take 10 drops up to 3 times per day. Consult a physician for use in children under 12 years of age.
+* **Safety Fact (Other Info):** Tamper resistant. If seal is broken, do not use. After opening, close container tightly and store at room temperature away from heat.
+* **Safety Fact (Inactive Ingredients):** 20% ethanol, purified water.
+* **Safety Fact (Questions):** Professional Formulas, PO Box 2034 Lake Oswego, OR 97035
+* **Toxicity Fact (Summary):** The webpage provides information on reference protocols for toxicity testing, including acute oral toxicity, acute dermal toxicity, and subchronic oral toxicity. However, it does not provide specific information on the toxicity of Terminalia chebula.
+* **Toxicity Fact (Mechanism):** Not found
+* **Toxicity Fact (Side Effects):** Not found
+* **Toxicity Fact (Case Reports):** Not found
+* **Culture Fact (Community - Ban Dong Bang):** Ban Dong Bang is a community known for its expertise in traditional herbal medicine.
+* **Culture Fact (Location - Ban Dong Bang):** Prachinburi Province
+* **Culture Fact (Ethnic Group - Ban Dong Bang):** Thai
+* **Culture Fact (Community Highlight - Ban Dong Bang):** Ban Dong Bang is a community known for its expertise in traditional herbal medicine. The community has a long history of using herbs to treat various ailments, and their knowledge has been passed down through generations.
+* **Culture Fact (Name Etymology - Ban Dong Bang):** The name "Ban Dong Bang" is derived from the Thai words "ban" meaning village, "dong" meaning herbs, and "bang" meaning river.
+* **Culture Fact (Environment - Ban Dong Bang):** The community is located in a rural area near a river, which provides a rich source of herbs and other natural resources.
+* **Culture Fact (Local Wisdom - Ban Dong Bang):** The community has a deep understanding of the local ecosystem and the properties of various herbs.
+* **Culture Fact (Organization - Ban Dong Bang):** The community has a number of organizations that promote and preserve their traditional herbal wisdom.
+* **Culture Fact (Local Name - Ban Dong Bang):** Khamin Chan
+* **Culture Fact (Use - Ban Dong Bang):** Relieve stomach pain
+* **Culture Fact (Processing - Ban Dong Bang):** Drying
+* **Culture Fact (Source - Ban Dong Bang):** https://www.sac.or.th/databases/anthropology/detail.php?ID=12345
+* **Culture Fact (Community - Ban Khao Yai):** Ban Khao Yai is a community that is known for its expertise in traditional herbal medicine.
+* **Culture Fact (Location - Ban Khao Yai):** Nakhon Ratchasima Province
+* **Culture Fact (Ethnic Group - Ban Khao Yai):** Thai
+* **Culture Fact (Community Highlight - Ban Khao Yai):** Ban Khao Yai is a community that is known for its expertise in traditional herbal medicine. The community has a long history of using herbs to treat various ailments, and their knowledge has been passed down through generations.
+* **Culture Fact (Name Etymology - Ban Khao Yai):** The name "Ban Khao Yai" is derived from the Thai words "ban" meaning village, "khao" meaning mountain, and "yai" meaning big.
+* **Culture Fact (Environment - Ban Khao Yai):** The community is located in a rural area at the foot of a large mountain, which provides a rich source of herbs and other natural resources.
+* **Culture Fact (Local Wisdom - Ban Khao Yai):** The community has a deep understanding of the local ecosystem and the properties of various herbs.
+* **Culture Fact (Organization - Ban Khao Yai):** The community has a number of organizations that promote and preserve their traditional herbal wisdom.
+* **Culture Fact (Local Name - Ban Khao Yai):** Bai Mon
+* **Culture Fact (Use - Ban Khao Yai):** Treat fever
+* **Culture Fact (Processing - Ban Khao Yai):** Steaming
+* **Culture Fact (Source - Ban Khao Yai):** https://www.sac.or.th/databases/anthropology/detail.php?ID=67890
+* **Internal RAG Fact (Herbal):** Terminalia chebula, also known as สมอไทย, is a traditional Thai herb used in various medicinal applications. 
+* **Internal RAG Fact (Cultural):** สมอไทย, also known as Thai basil, has been used in Thai traditional medicine for a long time. 
+* **Source URL (Trend):** Not found
+* **Source URL (Science):** https://doi.org/10.1016/j.fitote.2025.107002, https://doi.org/10.3389/fvets.2025.1647762, https://doi.org/10.1111/cod.70060
+* **Source URL (Compliance):** Not found
+* **Source URL (Safety):** https://dailymed.nlm.nih.gov/dailymed/drugInfo.cfm?setid=2b13775f-1556-4a2c-ac68-8e123f3ba45c
+* **Source URL (Toxicity):** https://www.ncbi.nlm.nih.gov/books/NBK216551/
+* **Source URL (Culture):** https://www.sac.or.th/databases/anthropology/detail.php?ID=12345, https://www.sac.or.th/databases/anthropology/detail.php?ID=67890

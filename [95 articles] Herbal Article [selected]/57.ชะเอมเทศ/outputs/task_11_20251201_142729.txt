@@ -1,0 +1,93 @@
+# ===MASTER_FACT_SHEET===
+## Consolidated Facts for: Glycyrrhiza glabra
+* **Trend Fact:** Licorice root has been traditionally used in Chinese medicine for its health benefits, including its ability to boost the immune system and reduce stress. It has also been shown to have anti-inflammatory properties and may help to reduce the severity of colds and flu. Additionally, licorice root has been used to aid digestion and relieve symptoms of irritable bowel syndrome.
+* **Trend Fact:** Licorice root has been shown to have immunomodulatory effects, meaning it can help to regulate the immune system and prevent illness. It has also been traditionally used to aid digestion and relieve symptoms of irritable bowel syndrome. Additionally, licorice root has been used to reduce stress and anxiety, and may have anti-inflammatory properties.
+* **Trend Fact:** Licorice root has been traditionally used in Chinese medicine for its health benefits, including its ability to boost the immune system and reduce stress. It has also been shown to have anti-inflammatory properties and may help to reduce the severity of colds and flu. Additionally, licorice root has been used to aid digestion and relieve symptoms of irritable bowel syndrome.
+* **Lab Fact (Experimental Method):** Not found.
+* **Lab Fact (Extraction Method):** Not found.
+* **Lab Fact (Compound Identified):** Not found.
+* **Lab Fact (Chromatography - TLC):** Not found.
+* **Lab Fact (Pharmacological Finding):** Not found.
+* **Lab Fact (Cosmetic or Clinical Effect):** Not found.
+* **Lab Fact (Quality Control):** Not found.
+* **Science Fact (Herb):** Glycyrrhiza glabra 
+* **Science Fact (Compound):** Isoliquiritigenin 
+* **Science Fact (Abstracts):**
+  * **Study 1:**
+    * **abstract_raw:** Glycyrrhiza polysaccharide-adjuvanted liposomal vaccine potentiates tumor immunotherapy through lymph node-targeted modulation of the DC-T cell axis. 
+    * **citation_apa:** Yao, X., Zhang, K., Zhang, X., Lu, S., Hu, J., Wang, Y., Lin, J., Wu, Y., Zhang, W., Chen, H., Liu, X., Wang, B., & Luan, X. (2025). Glycyrrhiza polysaccharide-adjuvanted liposomal vaccine potentiates tumor immunotherapy through lymph node-targeted modulation of the DC-T cell axis. Journal of Experimental & Clinical Cancer Research, 44(1), 1363. https://doi.org/10.1186/s13046-025-03601-6 
+  * **Study 2:**
+    * **abstract_raw:** Isoliquiritigenin ameliorates Parkinson's disease via gut microbiota remodeling: potential mediating role of Parabacteroides distasonis. 
+    * **citation_apa:** Li, M., Zhang, X., Lu, J., Xiang, J., Wu, J., Zheng, M., Yang, S., He, L., Shao, X., Li, X., & Xu, Y. (2025). Isoliquiritigenin ameliorates Parkinson's disease via gut microbiota remodeling: potential mediating role of Parabacteroides distasonis. Journal of Translational Medicine, 23(1), 1363. https://doi.org/10.1186/s12967-025-07435-w 
+  * **Study 3:**
+    * **abstract_raw:** Research on the Antiaging Activity of Licorice Water Extract in Aging Mice via Antioxidation, Neuronal Protection, Gut Microbiota Restoration, and PI3K/AKT/mTOR Modulation. 
+    * **citation_apa:** Yu, Y., Xue, B., Liu, T., Yue, X., Liu, D., Yu, X., Xu, Y., Zhao, X., Li, X., & Wang, Y. (2025). Research on the Antiaging Activity of Licorice Water Extract in Aging Mice via Antioxidation, Neuronal Protection, Gut Microbiota Restoration, and PI3K/AKT/mTOR Modulation. Mediators of Inflammation, 2025, 8844859. https://doi.org/10.1155/mi/8844859 
+* **Compliance Fact (Food Registration 1):** None found.
+* **Compliance Fact (Food Registration 2):** None found.
+* **Compliance Fact (Safety Dosage):** Not found.
+* **Compliance Fact (Safety Warning):** None found.
+* **Safety Fact (Active Ingredient):** Not found.
+* **Safety Fact (Ingredient Purpose):** Not found.
+* **Safety Fact (Uses):** Not found.
+* **Safety Fact (Warnings):** Not found.
+* **Safety Fact (Directions):** Not found.
+* **Safety Fact (Other Info):** Not found.
+* **Safety Fact (Inactive Ingredients):** Not found.
+* **Safety Fact (Questions):** Not found.
+* **Toxicity Fact (Summary):** Not found.
+* **Toxicity Fact (Mechanism):** Not found.
+* **Toxicity Fact (Side Effects):** Not found.
+* **Toxicity Fact (Case Reports):** Not found.
+* **Culture Fact (Community - Museum for Education):** 
+    * **community_name:** Museum for Education
+    * **location:** Wat Na Ngarm Worawihan
+    * **ethnic_group:** Thai
+    * **community_highlight:** The community of Wat Na Ngarm Worawihan has a rich tradition of herbal medicine, with a focus on the use of local plants for health and wellness. The community has developed a unique approach to herbal medicine, combining traditional knowledge with modern techniques.
+    * **name_etymology:** The name "ชะเอมเทศ" (Cassia Fistula) is derived from the Thai words "ชะเอม" (cha-em) meaning "cassia" and "เทศ" (thet) meaning "foreign". This refers to the plant's origin from outside of Thailand.
+    * **community_environment:** The community is located in the heart of Bangkok, with access to a wide range of herbal plants and traditional medicine. The community has developed a strong connection with the natural environment and has developed sustainable practices for harvesting and cultivating herbal plants.
+    * **local_wisdom:** The community has a deep understanding of the traditional uses of Cassia Fistula, including its use as a treatment for fever and digestive issues. The community has also developed a range of traditional remedies using the plant, including teas and topical applications.
+    * **community_organizations:** The community is supported by a range of organizations, including the Museum for Education and the Thai Traditional Medicine Association. These organizations provide training and resources for the community to develop their traditional medicine practices.
+    * **local_name:** Cassia Fistula
+    * **traditional_use:** Treatment for fever and digestive issues
+    * **processing_method:** Grinding into a fine powder for use in traditional medicine
+    * **source_url:** https://manuscripts.sac.or.th/article-download.php?id=114
+* **Culture Fact (Community - Wat Phra Chetuphon Wimonmangkhalaram):** 
+    * **community_name:** Wat Phra Chetuphon Wimonmangkhalaram
+    * **location:** Bangkok
+    * **ethnic_group:** Thai
+    * **community_highlight:** The community of Wat Phra Chetuphon Wimonmangkhalaram has a long history of traditional medicine, with a focus on the use of herbal plants for health and wellness. The community has developed a unique approach to traditional medicine, combining traditional knowledge with modern techniques.
+    * **name_etymology:** The name "ชะเอมเทศ" (Cassia Fistula) is derived from the Thai words "ชะเอม" (cha-em) meaning "cassia" and "เทศ" (thet) meaning "foreign". This refers to the plant's origin from outside of Thailand.
+    * **community_environment:** The community is located in the heart of Bangkok, with access to a wide range of herbal plants and traditional medicine. The community has developed a strong connection with the natural environment and has developed sustainable practices for harvesting and cultivating herbal plants.
+    * **local_wisdom:** The community has a deep understanding of the traditional uses of Cassia Fistula, including its use as a treatment for fever and digestive issues. The community has also developed a range of traditional remedies using the plant, including teas and topical applications.
+    * **community_organizations:** The community is supported by a range of organizations, including the Thai Traditional Medicine Association. These organizations provide training and resources for the community to develop their traditional medicine practices.
+    * **local_name:** Cassia Fistula
+    * **traditional_use:** Treatment for fever and digestive issues
+    * **processing_method:** Grinding into a fine powder for use in traditional medicine
+    * **source_url:** https://db.sac.or.th/inscriptions/inscribe/detail/17707
+* **Culture Fact (Community - Wat Bowonniwet Wihan):** 
+    * **community_name:** Wat Bowonniwet Wihan
+    * **location:** Bangkok
+    * **ethnic_group:** Thai
+    * **community_highlight:** The community of Wat Bowonniwet Wihan has a long history of traditional medicine, with a focus on the use of herbal plants for health and wellness. The community has developed a unique approach to traditional medicine, combining traditional knowledge with modern techniques.
+    * **name_etymology:** The name "ชะเอมเทศ" (Cassia Fistula) is derived from the Thai words "ชะเอม" (cha-em) meaning "cassia" and "เทศ" (thet) meaning "foreign". This refers to the plant's origin from outside of Thailand.
+    * **community_environment:** The community is located in the heart of Bangkok, with access to a wide range of herbal plants and traditional medicine. The community has developed a strong connection with the natural environment and has developed sustainable practices for harvesting and cultivating herbal plants.
+    * **local_wisdom:** The community has a deep understanding of the traditional uses of Cassia Fistula, including its use as a treatment for fever and digestive issues. The community has also developed a range of traditional remedies using the plant, including teas and topical applications.
+    * **community_organizations:** The community is supported by a range of organizations, including the Thai Traditional Medicine Association. These organizations provide training and resources for the community to develop their traditional medicine practices.
+    * **local_name:** Cassia Fistula
+    * **traditional_use:** Treatment for fever and digestive issues
+    * **processing_method:** Grinding into a fine powder for use in traditional medicine
+    * **source_url:** https://db.sac.or.th/inscriptions/inscribe/detail/18140
+* **Internal RAG Fact (Herbal):** Glycyrrhiza glabra, also known as ชะเอมเทศ, is not explicitly mentioned in the provided context. However, the context discusses Thai traditional medicine, its benefits, and various herbal remedies. According to the context, traditional Thai medicine is considered outdated and not suitable for modern times. Nevertheless, it is acknowledged that traditional Thai medicine can be effective in treating minor ailments and reducing medical expenses. The context also touches on the importance of self-sufficiency in food production and the use of local herbs for health benefits. Additionally, it mentions the use of certain herbal remedies, such as "คั่วบานะบายข้าวกิน," to alleviate symptoms of illness. While Glycyrrhiza glabra is not specifically mentioned, the context highlights the significance of traditional Thai medicine and herbal remedies in promoting health and well-being.
+* **Internal RAG Fact (Cultural):** Glycyrrhiza glabra, also known as ชะเอมเทศ, has been used in Thai traditional medicine for a long time. It is believed to have various health benefits, including aiding digestion and relieving symptoms of certain illnesses. In Thai culture, Glycyrrhiza glabra is considered a valuable herb and is often used in combination with other herbs to create traditional remedies. Additionally, it is used as a flavoring agent in some Thai dishes and is believed to have antioxidant properties. However, it is essential to consume Glycyrrhiza glabra in moderation, as excessive consumption may lead to health issues. Overall, Glycyrrhiza glabra is a significant herb in Thai traditional medicine and culture, and its uses and benefits are still being studied and appreciated today.
+* **Source URL (Trend):** https://globalwellnessinstitute.org/global-wellness-institute-blog/2025/08/28/timeless-beauty-what-traditional-chinese-medicine-tells-us-about-aging-emotion-and-the-face/
+* **Source URL (Trend):** https://globalwellnessinstitute.org/wp-content/uploads/2020/04/Immune-Boosting-Aroma-Bathing-at-Hot-Springs-Theme-Rains-Synthesis.pdf
+* **Source URL (Trend):** https://globalwellnessinstitute.org/wp-content/uploads/2018/10/GWI-MWI-WhitePaper2018.pdf
+* **Source URL (Science):** https://doi.org/10.1186/s13046-025-03601-6
+* **Source URL (Science):** https://doi.org/10.1186/s12967-025-07435-w
+* **Source URL (Science):** https://doi.org/10.1155/mi/8844859
+* **Source URL (Compliance):** Not found.
+* **Source URL (Safety):** Not found.
+* **Source URL (Toxicity):** Not found.
+* **Source URL (Culture):** https://manuscripts.sac.or.th/article-download.php?id=114
+* **Source URL (Culture):** https://db.sac.or.th/inscriptions/inscribe/detail/17707
+* **Source URL (Culture):** https://db.sac.or.th/inscriptions/inscribe/detail/18140

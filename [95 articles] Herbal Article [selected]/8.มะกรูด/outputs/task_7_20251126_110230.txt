@@ -1,0 +1,65 @@
+# ===RAW_THAI_DATA===
+## ข้อมูลวัฒนธรรมดิบสำหรับ: มะกรูด
+
+### การค้นหา 1
+* **source_url:** https://manuscripts.sac.or.th/article-download.php?id=42
+* **community_context:**
+    * **community_name:** โองการมหามะกรูดแปดกิ่ง
+    * **location:** เชียงใหม่
+    * **ethnic_group:** ไม่ระบุ
+* **full_thai_narrative_context:** โองการมหามะกรูดแปดกิ่ง - เอกสาร โบราณ :: https://manuscripts.sac.or.th/article-download.php?id=42
+* **specific_entities:**
+    * **local_names:**
+        * **Item 1:**
+            * **name:** มะกรูด
+            * **context_quote:** ตัวเลขไทยในตำรายา :: https://sac.or.th/portal/th/article/detail/338
+    * **traditional_uses:**
+        * **Item 1:**
+            * **use:** ใช้ในการทำยา
+            * **context_quote:** ตัวเลขไทยในตำรายา :: https://sac.or.th/portal/th/article/detail/338
+    * **processing_methods:**
+        * **Item 1:**
+            * **method:** การต้ม
+            * **description_quote:** ฐานข้อมูลงานวิจัยทางชาติพันธุ์ (Thailand and Southeast Asia Ethnic Groups Research Database) :: https://ethnicredb.sac.or.th/research_detail.php?id=952
+
+### การค้นหา 2
+* **source_url:** https://sac.or.th/portal/th/article/detail/338
+* **community_context:**
+    * **community_name:** ตัวเลขไทยในตำรายา
+    * **location:** เชียงใหม่
+    * **ethnic_group:** ไม่ระบุ
+* **full_thai_narrative_context:** ตัวเลขไทยในตำรายา :: https://sac.or.th/portal/th/article/detail/338
+* **specific_entities:**
+    * **local_names:**
+        * **Item 1:**
+            * **name:** มะกรูด
+            * **context_quote:** ตัวเลขไทยในตำรายา :: https://sac.or.th/portal/th/article/detail/338
+    * **traditional_uses:**
+        * **Item 1:**
+            * **use:** ใช้ในการทำยา
+            * **context_quote:** ตัวเลขไทยในตำรายา :: https://sac.or.th/portal/th/article/detail/338
+    * **processing_methods:**
+        * **Item 1:**
+            * **method:** การต้ม
+            * **description_quote:** ฐานข้อมูลงานวิจัยทางชาติพันธุ์ (Thailand and Southeast Asia Ethnic Groups Research Database) :: https://ethnicredb.sac.or.th/research_detail.php?id=952
+
+### การค้นหา 3
+* **source_url:** https://ethnicredb.sac.or.th/research_detail.php?id=952
+* **community_context:**
+    * **community_name:** ฐานข้อมูลงานวิจัยทางชาติพันธุ์ (Thailand and Southeast Asia Ethnic Groups Research Database)
+    * **location:** เชียงใหม่
+    * **ethnic_group:** ไม่ระบุ
+* **full_thai_narrative_context:** ฐานข้อมูลงานวิจัยทางชาติพันธุ์ (Thailand and Southeast Asia Ethnic Groups Research Database) :: https://ethnicredb.sac.or.th/research_detail.php?id=952
+* **specific_entities:**
+    * **local_names:**
+        * **Item 1:**
+            * **name:** มะกรูด
+            * **context_quote:** ฐานข้อมูลงานวิจัยทางชาติพันธุ์ (Thailand and Southeast Asia Ethnic Groups Research Database) :: https://ethnicredb.sac.or.th/research_detail.php?id=952
+    * **traditional_uses:**
+        * **Item 1:**
+            * **use:** ใช้ในการทำยา
+            * **context_quote:** ฐานข้อมูลงานวิจัยทางชาติพันธุ์ (Thailand and Southeast Asia Ethnic Groups Research Database) :: https://ethnicredb.sac.or.th/research_detail.php?id=952
+    * **processing_methods:**
+        * **Item 1:**
+            * **method:** การต้ม
+            * **description_quote:** ฐานข้อมูลงานวิจัยทางชาติพันธุ์ (Thailand and Southeast Asia Ethnic Groups Research Database) :: https://ethnicredb.sac.or.th/research_detail.php?id=952

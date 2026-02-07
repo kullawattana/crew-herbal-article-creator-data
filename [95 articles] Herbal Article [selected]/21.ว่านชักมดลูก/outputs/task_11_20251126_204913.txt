@@ -1,0 +1,61 @@
+# ===MASTER_FACT_SHEET=== 
+## Consolidated Facts for: Curcuma comosa
+* **Trend Fact:** Curcuma Comosa is a powerful herb known for its ability to repair vaginal wall prolapse and tighten vaginal muscles. It has an estrogenic effect which helps to lift sagging muscles and promote circulation, resulting in smoother skin and a glowing complexion. This herb is used in some products to prevent yeast infection and promote overall vaginal health.
+* **Trend Fact:** Curcuma Comosa is a plant in the genus Curcuma that has medicinal properties. Its properties are consistent with the Thai traditional and medicinal uses of Zingiber officinale Roscoe. The rhizome of Curcuma comosa contains phytoestrogen, which has a structure similar to sex hormones.
+* **Trend Fact:** Curcuma Comosa is a herb that is traditionally used to treat different illnesses. It is one of the three medicinal plants, along with Garcinia mangostana and Acanthus ebracteatus, that are traditionally used to treat different illnesses.
+* **Science Fact (Herb):** Curcuma comosa
+* **Science Fact (Compound):** Diarylheptanoid
+* **Science Fact (Abstracts):**
+  * **Study 1:**
+    * **abstract_raw:** Garcinia mangostana (GM), Curcuma comosa (CC), and Acanthus ebracteatus (AE) are traditionally used to treat different illnesses because of their antibacterial, antioxidant, and anti-inflammatory properties. We utilized a mix of in silico, in vitro, and molecular dynamics (MD) techniques to assess their abilities to treat skin breakouts. We found that the active ingredients in these herbs significantly interact with several bacterial and human inflammatory proteins. Specifically, the herbal components strongly bind to the bacterial enzyme topoisomerase II alpha (TOP2α), which is fundamental for bacterial DNA replication and repair, as well as to human nuclear factor kappa B subunit 1 (NF-κB1), which is a vital marker of inflammation. The findings from this study suggest that this combination treatment offers two advantages, preventing bacterial growth and reducing inflammation, making it a promising choice for skin breakouts. In addition, this combination was not toxic to fibroblasts, supporting its capacity as a safe skin treatment. Interestingly, at a 15:5:10 GM:CC:AE ratio, this combination treatment displayed high selectivity indices (SIs) against Staphylococcus epidermidis (26.87) and C. acnes (4.99), indicating its strong therapeutic potential without side effects. In conclusion, our study highlights that this combination is a novel, effective, and safe choice for controlling acne vulgaris, especially because of its ability to inhibit TOP2α and regulate NF-κB1.
+    * **citation_apa:** Eawsakul, K., Bunluepuech, K., Wisessombat, S., et al. (2025). Evaluation of the antibacterial efficacy of combinations of Garcinia mangostana, Curcuma comosa, and Acanthus ebracteatus for acne vulgaris treatment: in Silico and in vitro validation. BMC Complementary Medicine and Therapies, 25(1), 256.
+  * **Study 2:**
+    * **abstract_raw:** The objective of this research was to determine the appropriate proportions of Garcinia mangostana (GM), Curcuma comosa (CC), and Acanthus ebracteatus (AE) to enhance their antioxidant and anti-inflammatory properties. The study employed computer modeling (in silico) and laboratory testing (in vitro). The optimal levels of phenolic and flavonoid compounds were achieved with a ratio of 15 parts GM, 5 parts CC, and 10 parts AE. In contrast, the 10:15:5 ratio resulted in the highest antioxidant activity, reducing DPPH radicals by 80.33% and ABTS radicals by 92.20%. The ratio had a synergistic effect and was within the safe range, ranging from 82.97 to 147.04 μg/mL. The ratio of 5:10:15 had the greatest anti-inflammatory effects, with an exceptional activity level of 98.86%. It effectively suppressed 23 genes or proteins, including the prominent NFE2L2 gene, and had a synergistic effect. This combination effectively inhibits inflammation (IC50: 12.05 μg/mL) and is safe for macrophages at concentrations up to 50 μg/mL. These findings emphasize the potential of these herbal mixtures for antioxidant and anti-inflammatory applications.
+    * **citation_apa:** Eawsakul, K., & Bunluepuech, K. (2024). Exploring Synergistic Inhibition of Inflammatory and Antioxidant Potential: Integrated In Silico and In Vitro Analyses of Garcinia mangostana, Curcuma comosa, and Acanthus ebracteatus. Advances in Pharmacological and Pharmaceutical Sciences, 2024, 8584015.
+* **Compliance Fact (Food Registration 1):** None found
+* **Compliance Fact (Safety Dosage):** Not found
+* **Compliance Fact (Safety Warning):** None found
+* **Safety Fact (Active Ingredient):** Tetrahexyldecyl Ascorbate, Ascorbic Acid, Curcuma Longa (Turmeric) Root Extract
+* **Safety Fact (Ingredient Purpose):** Not found
+* **Safety Fact (Uses):** Brightens skin tone.
+* **Safety Fact (Warnings):** For external use only.
+* **Safety Fact (Directions):** After skin cleaning or bathing, apply a proper amount of GZE turmeric & vitamin c body lotion evenly to the whole body or the parts to be improved, and gently massage untl it absorbed.
+* **Safety Fact (Other Info):** Not found
+* **Safety Fact (Inactive Ingredients):** Aqua, Cetyl Alcohol, Glycerin, Dimethicone, Butyrospermum Parkii (Shea) Butter, Ceteareth-20, Aloe Barbadensis Leaf Juice, Panax Ginseng Root Extract, Tocopherol, Beeswax, Carbomer, Xanthan Gum, Fragrance
+* **Safety Fact (Questions):** Not found
+* **Toxicity Fact (Summary):** Not found
+* **Toxicity Fact (Mechanism):** Not found
+* **Toxicity Fact (Side Effects):** Not found
+* **Toxicity Fact (Case Reports):** Not found
+* **Culture Fact (Community - Ban Namjoung):** The community of Ban Namjoung is known for its herbal wisdom, particularly in the use of ginger and other herbs for medicinal purposes.
+* **Culture Fact (Location - Ban Namjoung):** Phitsanulok
+* **Culture Fact (Ethnic Group - Ban Namjoung):** Hmong
+* **Culture Fact (Community Highlight - Ban Namjoung):** The community of Ban Namjoung is known for its herbal wisdom, particularly in the use of ginger and other herbs for medicinal purposes.
+* **Culture Fact (Name Etymology - Ban Namjoung):** No herbal-related information found.
+* **Culture Fact (Environment - Ban Namjoung):** The community is located in a mountainous area, and the villagers have adapted to the environment by growing crops that are suitable for the high altitude.
+* **Culture Fact (Local Wisdom - Ban Namjoung):** The community has a strong tradition of using herbal medicine, with many villagers knowledgeable about the properties and uses of various herbs.
+* **Culture Fact (Organization - Ban Namjoung):** No herbal-related information found.
+* **Culture Fact (Local Name - Ban Namjoung):** Wan Chak Mod Look (ว่านชักมดลูก)
+* **Culture Fact (Use - Ban Namjoung):** Herbal medicine
+* **Culture Fact (Processing - Ban Namjoung):** Drying
+* **Culture Fact (Source - Ban Namjoung):** https://wikicommunity.sac.or.th/community/2424
+* **Culture Fact (Community - Bang Phli Old Market):** The community of Bang Phli Old Market is known for its traditional herbal shops, which sell a variety of herbs and medicinal plants.
+* **Culture Fact (Location - Bang Phli Old Market):** Samut Prakan
+* **Culture Fact (Ethnic Group - Bang Phli Old Market):** Thai-Chinese
+* **Culture Fact (Community Highlight - Bang Phli Old Market):** The community of Bang Phli Old Market is known for its traditional herbal shops, which sell a variety of herbs and medicinal plants.
+* **Culture Fact (Name Etymology - Bang Phli Old Market):** No herbal-related information found.
+* **Culture Fact (Environment - Bang Phli Old Market):** The community is located in a urban area, and the villagers have adapted to the environment by selling herbs and medicinal plants to locals and tourists.
+* **Culture Fact (Local Wisdom - Bang Phli Old Market):** The community has a strong tradition of using herbal medicine, with many villagers knowledgeable about the properties and uses of various herbs.
+* **Culture Fact (Organization - Bang Phli Old Market):** No herbal-related information found.
+* **Culture Fact (Local Name - Bang Phli Old Market):** Wan Chak Mod Look (ว่านชักมดลูก)
+* **Culture Fact (Use - Bang Phli Old Market):** Herbal medicine
+* **Culture Fact (Processing - Bang Phli Old Market):** Packaging
+* **Culture Fact (Source - Bang Phli Old Market):** https://wikicommunity.sac.or.th/community/1774
+* **Internal RAG Fact (Herbal):** The provided internal knowledge context does not specifically mention ว่านชักมดลูก (Curcuma comosa). However, the context discusses the benefits and uses of traditional Thai medicine, highlighting its potential to reduce medical expenses and provide effective treatment for minor ailments.
+* **Internal RAG Fact (Cultural):** ว่านชักมดลูก (Curcuma comosa) has been used for healing in Thai wisdom for a long time. It is believed to have various health benefits, including the ability to balance the body's elements and prevent diseases. In traditional Thai medicine, ว่านชักมดลูก is used to treat various ailments, including digestive issues and skin problems.
+* **Source URL (Trend):** https://www.socialmoms.com/featured/best-soap-for-yeast-infection-on-skin/, https://www.facebook.com/61564488571799/, https://www.msn.com/en-xl/health/diseases-and-conditions/experts-validate-medicinal-leaves-that-cure-pimples/ar-AA1LmXYa
+* **Source URL (Science):** https://doi.org/10.1186/s12906-025-04997-6, https://doi.org/10.1155/2024/8584015
+* **Source URL (Compliance):** Not found
+* **Source URL (Safety):** https://dailymed.nlm.nih.gov/dailymed/drugInfo.cfm?setid=254b0349-6945-97d9-e063-6394a90a16d9
+* **Source URL (Toxicity):** Not found
+* **Source URL (Culture):** https://wikicommunity.sac.or.th/community/2424, https://wikicommunity.sac.or.th/community/1774, https://wikicommunity.sac.or.th/community/276

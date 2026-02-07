@@ -1,0 +1,90 @@
+# ===MASTER_FACT_SHEET=== 
+## Consolidated Facts for: Chili Pepper
+* **Trend Fact:** There is no specific information about Chili Pepper on the Global Wellness Institute website. However, there is information about Ayurveda, a holistic system of medicine from India that uses a constitutional model. Its aim is to provide guidance regarding food and lifestyle so that healthy people can stay healthy and those with health challenges can improve their health.
+* **Trend Fact:** There is no specific information about Chili Pepper on the Global Wellness Institute website. However, there is information about Ayurveda, a holistic system of medicine from India that uses a constitutional model. Its aim is to provide guidance regarding food and lifestyle so that healthy people can stay healthy and those with health challenges can improve their health.
+* **Trend Fact:** There is no specific information about Chili Pepper on the Global Wellness Institute website. However, there is information about Ayurveda, a holistic system of medicine from India that uses a constitutional model. Its aim is to provide guidance regarding food and lifestyle so that healthy people can stay healthy and those with health challenges can improve their health.
+* **Trend Fact:** There is no specific information about Chili Pepper on the Global Wellness Institute website. However, there is information about Ayurveda, a holistic system of medicine from India that uses a constitutional model. Its aim is to provide guidance regarding food and lifestyle so that healthy people can stay healthy and those with health challenges can improve their health.
+* **Trend Fact:** There is no specific information about Chili Pepper on the Global Wellness Institute website. However, there is information about Ayurveda, a holistic system of medicine from India that uses a constitutional model. Its aim is to provide guidance regarding food and lifestyle so that healthy people can stay healthy and those with health challenges can improve their health.
+* **Lab Fact (Experimental Method):** Not found
+* **Lab Fact (Extraction Method):** Not found
+* **Lab Fact (Compound Identified):** Not found
+* **Lab Fact (Chromatography - TLC):** Not found
+* **Lab Fact (Pharmacological Finding):** Not found
+* **Lab Fact (Cosmetic or Clinical Effect):** Not found
+* **Lab Fact (Quality Control):** Not found
+* **Science Fact (Herb):** Capsicum annuum
+* **Science Fact (Compound):** Not found
+* **Science Fact (Abstracts):**
+  * **Study 1:**
+    * **abstract_raw:** Comparative toxicological effects of traditional and biodegradable microplastics on pepper (Capsicum annuum L.): physiological and metabolomic insights.
+    * **citation_apa:** Not found
+  * **Study 2:**
+    * **abstract_raw:** Exogenous Melatonin Enhances the Cold Resistance of Pepper (Capsicum annuum L. var. cerasiforme Bailey) by Promoting the Synthesis of Long-Chain Alkanes in the Epicuticular Wax.
+    * **citation_apa:** Not found
+  * **Study 3:**
+    * **abstract_raw:** Biochemical transformations in fermented chili pastes: Impact of cultivar and fermentation type on flavor and bioactive compounds.
+    * **citation_apa:** Not found
+* **Compliance Fact (Food Registration 1):** registration_number=10-1-00155-5-0003, product_name=พริกป่น / Chilli Powder, company_name=ร้าน ต เจริญ 88, status=สถานะผลิตภัณฑ์(คงอยู่)\ สถานะสถานที่ (คงอยู่)
+* **Compliance Fact (Food Registration 2):** registration_number=10-1-00155-5-0009, product_name=พริกดอง / Pickled Chilli, company_name=ร้าน ต เจริญ 88, status=สถานะผลิตภัณฑ์(คงอยู่)\ สถานะสถานที่ (คงอยู่)
+* **Compliance Fact (Food Registration 3):** registration_number=10-1-00155-5-0012, product_name=พริกแห้ง / Dried Chilli, company_name=ร้าน ต เจริญ 88, status=สถานะผลิตภัณฑ์(คงอยู่)\ สถานะสถานที่ (คงอยู่)
+* **Compliance Fact (Food Registration 4):** registration_number=10-1-00155-5-0025, product_name=พริกหอมป่น / Sichuan Pepper Powder, company_name=ร้าน ต เจริญ 88, status=สถานะผลิตภัณฑ์(คงอยู่)\ สถานะสถานที่ (คงอยู่)
+* **Compliance Fact (Food Registration 5):** registration_number=10-1-00155-5-0056, product_name=พริกไทย / Pepper Powder, company_name=ร้าน ต เจริญ 88, status=สถานะผลิตภัณฑ์(คงอยู่)\ สถานะสถานที่ (คงอยู่)
+* **Compliance Fact (Safety Dosage):** Not found
+* **Compliance Fact (Safety Warning):** Not found
+* **Safety Fact (Active Ingredient):** Not found
+* **Safety Fact (Ingredient Purpose):** Not found
+* **Safety Fact (Uses):** Not found
+* **Safety Fact (Warnings):** Not found
+* **Safety Fact (Directions):** Not found
+* **Safety Fact (Other Info):** Not found
+* **Safety Fact (Inactive Ingredients):** Not found
+* **Safety Fact (Questions):** Not found
+* **Toxicity Fact (Summary):** Capsicum annuum, also known as cayenne pepper, is generally recognized as safe (GRAS) as a food by the U.S. Food and Drug Administration. However, it may cause skin irritation, pain, and bleeding in some individuals. It is also known to increase the risk of bleeding and should be used cautiously in patients taking anticoagulant or antiplatelet medications.
+* **Toxicity Fact (Mechanism):** The mechanism of injury is not well understood, but it is thought to be related to the capsaicin content of the plant, which can cause skin irritation and pain.
+* **Toxicity Fact (Side Effects):** Skin irritation, pain, bleeding, dermatitis
+* **Toxicity Fact (Case Reports):** Two breastfed infants developed dermatitis after their mothers ingested gimchee (kimchi) that was mildly to moderately flavored with red pepper. One was a 6-month-old girl who developed an erythematous rash across the chest and neck. The reaction occurred after 3 nursing bouts within 12 hours of the maternal ingestion of gimghee. The rash gradually remitted over the next 48 hours. In the other case, a 6-month-old boy developed an erythematous dermatitis on the upper forehead and a more severe dermatitis near the eyebrows within 15 hours of nursing, followed by desquamation within 24 hours. Resolution of the reaction took about 5 days. A second, milder reaction occurred in the same areas of the infant's face 2 months later when his mother ingested a squid dish mildly flavored with red pepper.
+* **Culture Fact:** 
+  * **Culture Fact (Community - Central Thai Community):** Central Thai Community
+  * **Culture Fact (Location - Central Thai Community):** Central Provinces
+  * **Culture Fact (Ethnic Group - Central Thai Community):** Central Thai
+  * **Culture Fact (Community Highlight - Central Thai Community):** Chili peppers have been an integral part of Central Thai cuisine, used to add flavor and heat to various dishes. The community takes great pride in their ability to cultivate and process these peppers, which are a staple in many traditional recipes.
+  * **Culture Fact (Name Etymology - Central Thai Community):** The name "พริก" (phrik) is derived from the Thai word for chili pepper, which has been used in Thai cuisine for centuries.
+  * **Culture Fact (Environment - Central Thai Community):** The Central Thai community is known for its lush agricultural lands, which provide the perfect environment for growing chili peppers. The community has developed unique farming practices to cultivate these peppers, which are a vital part of their culinary identity.
+  * **Culture Fact (Local Wisdom - Central Thai Community):** Chili peppers have been used in traditional Thai medicine for centuries, with various communities developing their own unique remedies using these peppers.
+  * **Culture Fact (Organization - Central Thai Community):** The Central Thai community has established various organizations to promote and preserve their culinary heritage, including the use of chili peppers in traditional recipes.
+  * **Culture Fact (Local Name - Central Thai Community):** Bird's Eye Chili
+  * **Culture Fact (Use - Central Thai Community):** Used as a condiment in traditional Thai dishes
+  * **Culture Fact (Processing - Central Thai Community):** Sun drying
+  * **Culture Fact (Source - Central Thai Community):** https://db.sac.or.th/thailand-cultural-encyclopedia/region.php?region=2&page=205
+  * **Culture Fact (Community - Southern Thai Community):** Southern Thai Community
+  * **Culture Fact (Location - Southern Thai Community):** Southern Provinces
+  * **Culture Fact (Ethnic Group - Southern Thai Community):** Southern Thai
+  * **Culture Fact (Community Highlight - Southern Thai Community):** Chili peppers are a staple ingredient in Southern Thai cuisine, used to add flavor and heat to various dishes. The community is known for its unique chili pepper-based recipes, which are a vital part of their culinary identity.
+  * **Culture Fact (Name Etymology - Southern Thai Community):** The name "พริก" (phrik) is derived from the Thai word for chili pepper, which has been used in Thai cuisine for centuries.
+  * **Culture Fact (Environment - Southern Thai Community):** The Southern Thai community is known for its rich agricultural lands, which provide the perfect environment for growing chili peppers. The community has developed unique farming practices to cultivate these peppers, which are a vital part of their culinary identity.
+  * **Culture Fact (Local Wisdom - Southern Thai Community):** Chili peppers have been used in traditional Thai medicine for centuries, with various communities developing their own unique remedies using these peppers.
+  * **Culture Fact (Organization - Southern Thai Community):** The Southern Thai community has established various organizations to promote and preserve their culinary heritage, including the use of chili peppers in traditional recipes.
+  * **Culture Fact (Local Name - Southern Thai Community):** Bird's Eye Chili
+  * **Culture Fact (Use - Southern Thai Community):** Used as a condiment in traditional Thai dishes
+  * **Culture Fact (Processing - Southern Thai Community):** Sun drying
+  * **Culture Fact (Source - Southern Thai Community):** https://culturio.sac.or.th/content/1459
+  * **Culture Fact (Community - Singaporean Community):** Singaporean Community
+  * **Culture Fact (Location - Singaporean Community):** Singapore
+  * **Culture Fact (Ethnic Group - Singaporean Community):** Singaporean
+  * **Culture Fact (Community Highlight - Singaporean Community):** Chili peppers are a popular ingredient in Singaporean cuisine, used to add flavor and heat to various dishes. The community is known for its unique chili pepper-based recipes, which are a vital part of their culinary identity.
+  * **Culture Fact (Name Etymology - Singaporean Community):** The name "พริก" (phrik) is derived from the Thai word for chili pepper, which has been used in Thai cuisine for centuries.
+  * **Culture Fact (Environment - Singaporean Community):** Singapore's tropical climate provides the perfect environment for growing chili peppers, which are a staple ingredient in many traditional recipes.
+  * **Culture Fact (Local Wisdom - Singaporean Community):** Chili peppers have been used in traditional medicine for centuries, with various communities developing their own unique remedies using these peppers.
+  * **Culture Fact (Organization - Singaporean Community):** The Singaporean community has established various organizations to promote and preserve their culinary heritage, including the use of chili peppers in traditional recipes.
+  * **Culture Fact (Local Name - Singaporean Community):** Bird's Eye Chili
+  * **Culture Fact (Use - Singaporean Community):** Used as a condiment in traditional dishes
+  * **Culture Fact (Processing - Singaporean Community):** Sun drying
+  * **Culture Fact (Source - Singaporean Community):** https://southeastasia.sac.or.th/subject.php?c_id=8&sj_id=68
+* **Internal RAG Fact (Herbal):** พริก (Capsicum annuum) is not explicitly mentioned in the context. However, the context discusses Thai traditional medicine, its benefits, and the use of herbs in traditional Thai medicine. The text highlights the importance of using natural remedies and the potential of traditional Thai medicine in reducing healthcare costs. It also mentions the use of certain herbs, such as ใบมะกรูด (leaftree), in traditional Thai medicine. Additionally, the text touches on the topic of food and health, emphasizing the importance of eating seasonal foods and using natural ingredients in cooking. The context also mentions the use of คั่วบานะบายข้าวกิน (a type of Thai dish) to improve digestion and overall health. Furthermore, the text discusses the concept of ภูมิปัญญาไทย (Thai wisdom) and the importance of preserving traditional knowledge and practices. Overall, the context provides insight into the cultural and traditional aspects of Thai medicine and the importance of natural remedies in maintaining good health.
+* **Internal RAG Fact (Cultural):** Chili peppers, known as พริก in Thai, have been used for centuries in Thai wisdom for their medicinal properties and as a condiment in Thai cuisine. According to traditional Thai medicine, chili peppers have a hot and spicy flavor that helps to stimulate digestion and relieve symptoms of various ailments. They are also believed to have antioxidant and anti-inflammatory properties, which can help to boost the immune system and prevent diseases. In addition, chili peppers are a rich source of vitamins and minerals, including vitamin C, vitamin B6, and potassium. In Thai cuisine, chili peppers are commonly used as an ingredient in dishes such as tom yum soup, green curry, and som tam (papaya salad). They are also used as a condiment to add flavor and heat to various dishes. Overall, chili peppers are a versatile and nutritious ingredient that has been an integral part of Thai cuisine and traditional medicine for centuries.
+* **Source URL (Trend):** https://globalwellnessinstitute.org/initiatives/wellness-evidence/alternative-therapies/ayurveda/
+* **Source URL (Science):** https://pubmed.ncbi.nlm.nih.gov/41285344/
+* **Source URL (Compliance):** Not found
+* **Source URL (Safety):** https://www.ncbi.nlm.nih.gov/books/NBK501824/
+* **Source URL (Toxicity):** https://www.ncbi.nlm.nih.gov/books/NBK501824/
+* **Source URL (Culture):** https://db.sac.or.th/thailand-cultural-encyclopedia/region.php?region=2&page=205

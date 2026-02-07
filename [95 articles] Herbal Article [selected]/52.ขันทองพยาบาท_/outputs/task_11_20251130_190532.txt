@@ -1,0 +1,57 @@
+# ===MASTER_FACT_SHEET===
+## Consolidated Facts for: Suregada multiflora
+* **Trend Fact:** Not found
+* **Lab Fact (Experimental Method):** Not found
+* **Lab Fact (Extraction Method):** Not found
+* **Lab Fact (Compound Identified):** Not found
+* **Lab Fact (Chromatography - TLC):** Not found
+* **Lab Fact (Pharmacological Finding):** Not found
+* **Lab Fact (Cosmetic or Clinical Effect):** Not found
+* **Lab Fact (Quality Control):** Not found
+* **Science Fact (Herb):** Suregada multiflora
+* **Science Fact (Compound):** Not found
+* **Science Fact (Abstracts):**
+  * **Study 1:**
+    * **abstract_raw:** Not found
+    * **citation_apa:** Not found
+  * **Study 2:**
+    * **abstract_raw:** Not found
+    * **citation_apa:** Not found
+  * **Study 3:**
+    * **abstract_raw:** Not found
+    * **citation_apa:** Not found
+* **Compliance Fact (Food Registration 1):** None found
+* **Compliance Fact (Safety Dosage):** Not found
+* **Compliance Fact (Safety Warning):** None found
+* **Safety Fact (Active Ingredient):** FALLOPIA MULTIFLORA ROOT
+* **Safety Fact (Ingredient Purpose):** Not found
+* **Safety Fact (Uses):** hair grower and hair loss prevention
+* **Safety Fact (Warnings):** store in a place with not to high or low temperature and free of direct rays
+* **Safety Fact (Directions):** Take 2~3 packs a day with warm water regardless before/after a meal (based on one pack a time)
+* **Safety Fact (Other Info):** Not found
+* **Safety Fact (Inactive Ingredients):** WATER, SODIUM CHLORIDE
+* **Safety Fact (Questions):** Not found
+* **Toxicity Fact (Summary):** Not found
+* **Toxicity Fact (Mechanism):** Not found
+* **Toxicity Fact (Side Effects):** Not found
+* **Toxicity Fact (Case Reports):** Not found
+* **Culture Fact (Community - Takhian Thong Community):** Takhian Thong Community
+* **Culture Fact (Location - Takhian Thong Community):** Chanthaburi Province
+* **Culture Fact (Ethnic Group - Takhian Thong Community):** Chong People
+* **Culture Fact (Community Highlight - Takhian Thong Community):** The Takhian Thong community is known for its rich cultural heritage and traditional practices, particularly in the use of herbal medicine.
+* **Culture Fact (Name Etymology - Takhian Thong Community):** The name "Takhian Thong" is derived from the abundance of Takhian trees in the area.
+* **Culture Fact (Environment - Takhian Thong Community):** The community is surrounded by lush forests and is home to a variety of plant species, including those used in traditional medicine.
+* **Culture Fact (Local Wisdom - Takhian Thong Community):** The community has a deep understanding of the medicinal properties of various plants and uses this knowledge to create remedies for common ailments.
+* **Culture Fact (Organization - Takhian Thong Community):** The community has a strong sense of social organization, with various groups and associations working together to promote cultural preservation and community development.
+* **Culture Fact (Local Name - Takhian Thong Community):** Khantong Phayabat
+* **Culture Fact (Use - Takhian Thong Community):** Used to treat poison and curses
+* **Culture Fact (Processing - Takhian Thong Community):** Used as a component in traditional medicine
+* **Culture Fact (Source - Takhian Thong Community):** https://sac-research.sac.or.th/uploads/article//2020_20200731100408-1.pdf
+* **Internal RAG Fact (Herbal):** The context discusses Thai traditional medicine and its benefits, highlighting the importance of using natural remedies and locally grown plants to maintain good health.
+* **Internal RAG Fact (Cultural):** ขันทองพยาบาท (Khan Thong Phaya Baht) is a Thai herb that has been used in traditional medicine for a long time.
+* **Source URL (Trend):** Not found
+* **Source URL (Science):** Not found
+* **Source URL (Compliance):** https://www.fda.moph.go.th/
+* **Source URL (Safety):** https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=43aa5ed7-9fd7-482e-a3e5-cd4050a864dd
+* **Source URL (Toxicity):** Not found
+* **Source URL (Culture):** https://sac-research.sac.or.th/uploads/article//2020_20200731100408-1.pdf

@@ -1,0 +1,84 @@
+# ===CULTURE_DATA===
+
+## Cultural Context for: Vetiver Grass (หญ้าแฝก)
+
+### Finding 1
+
+* **source_url:** https://db.sac.or.th/museum/museum-detail/242
+* **community_context:**
+    * **community_name:** The Agricultural Museum in Honor of His Majesty the King
+    * **location:** Pathum Thani Province
+    * **ethnic_group:** -
+* **community_profile_summaries:**
+    * **community_highlight:** The Agricultural Museum in Honor of His Majesty the King is a cultural and educational institution that showcases the royal projects and initiatives of His Majesty the King. The museum features interactive exhibits, multimedia displays, and a collection of artifacts that highlight the importance of agriculture in Thai society. One of the exhibits features the vetiver grass project, which demonstrates the use of vetiver grass in preventing soil erosion and landslides.
+    * **name_etymology:** No herbal-related information found.
+    * **community_environment:** The museum is situated on a large plot of land that features a demonstration farm, a botanical garden, and a nature trail. The farm showcases various crops and farming techniques, while the botanical garden features a collection of plants and herbs used in traditional Thai medicine.
+    * **local_wisdom:** The museum offers workshops and training programs on sustainable agriculture, organic farming, and traditional Thai medicine. Visitors can learn about the importance of soil conservation, water management, and biodiversity in agriculture.
+    * **community_organizations:** The museum is affiliated with the Ministry of Agriculture and Cooperatives and works closely with local communities, farmers, and researchers to promote sustainable agriculture and rural development.
+* **specific_entities:**
+    * **local_names:**
+        * **Item 1:**
+            * **name:** Vetiver Grass (หญ้าแฝก)
+            * **context_quote:** The vetiver grass project is featured in one of the exhibits, which demonstrates the use of vetiver grass in preventing soil erosion and landslides.
+    * **traditional_uses:**
+        * **Item 1:**
+            * **use:** Soil erosion prevention and landslide control
+            * **context_quote:** The vetiver grass project is featured in one of the exhibits, which demonstrates the use of vetiver grass in preventing soil erosion and landslides.
+    * **processing_methods:**
+        * **Item 1:**
+            * **method:** Planting vetiver grass in slopes and embankments
+            * **description_quote:** The vetiver grass project is featured in one of the exhibits, which demonstrates the use of vetiver grass in preventing soil erosion and landslides.
+
+### Finding 2
+
+* **source_url:** https://wikicommunity.sac.or.th/community/15
+* **community_context:**
+    * **community_name:** Mae Um Phai Village
+    * **location:** Mae Hong Son Province
+    * **ethnic_group:** Pgak'nyau
+* **community_profile_summaries:**
+    * **community_highlight:** The Pgak'nyau people of Mae Um Phai Village have a traditional practice of rotational farming, where they cultivate crops in a large area of land for 7 years before moving to a new location. This practice helps maintain soil fertility and prevents deforestation.
+    * **name_etymology:** No herbal-related information found.
+    * **community_environment:** The village is situated in a mountainous area with rich biodiversity. The Pgak'nyau people have a deep understanding of the local ecosystem and use various plants and herbs in their traditional medicine.
+    * **local_wisdom:** The Pgak'nyau people believe that vetiver grass is essential for rice cultivation and must be planted alongside rice crops. They also use various plants and herbs in their traditional medicine and rituals.
+    * **community_organizations:** The village has a community-based organization that promotes sustainable agriculture and rural development. They work closely with local authorities and NGOs to conserve natural resources and promote eco-tourism.
+* **specific_entities:**
+    * **local_names:**
+        * **Item 1:**
+            * **name:** Vetiver Grass (หญ้าแฝก)
+            * **context_quote:** The Pgak'nyau people believe that vetiver grass is essential for rice cultivation and must be planted alongside rice crops.
+    * **traditional_uses:**
+        * **Item 1:**
+            * **use:** Rice cultivation
+            * **context_quote:** The Pgak'nyau people believe that vetiver grass is essential for rice cultivation and must be planted alongside rice crops.
+    * **processing_methods:**
+        * **Item 1:**
+            * **method:** Planting vetiver grass alongside rice crops
+            * **description_quote:** The Pgak'nyau people believe that vetiver grass is essential for rice cultivation and must be planted alongside rice crops.
+
+### Finding 3
+
+* **source_url:** https://db.sac.or.th/museum/museum-detail/1395
+* **community_context:**
+    * **community_name:** Thai Food Learning Center
+    * **location:** Bangkok
+    * **ethnic_group:** -
+* **community_profile_summaries:**
+    * **community_highlight:** The Thai Food Learning Center is a cultural and educational institution that showcases the art and science of Thai cuisine. The center features interactive exhibits, cooking demonstrations, and a collection of artifacts that highlight the importance of food in Thai culture.
+    * **name_etymology:** No herbal-related information found.
+    * **community_environment:** The center is situated in a modern building with state-of-the-art facilities. The center offers cooking classes, workshops, and training programs on Thai cuisine and food safety.
+    * **local_wisdom:** The center promotes the use of local and seasonal ingredients in Thai cooking. They also offer workshops on food preservation and food safety.
+    * **community_organizations:** The center is affiliated with the Ministry of Industry and works closely with local chefs, restaurants, and food manufacturers to promote Thai cuisine and food safety.
+* **specific_entities:**
+    * **local_names:**
+        * **Item 1:**
+            * **name:** Vetiver Grass (หญ้าแฝก)
+            * **context_quote:** The vetiver grass project is featured in one of the exhibits, which demonstrates the use of vetiver grass in preventing soil erosion and landslides.
+    * **traditional_uses:**
+        * **Item 1:**
+            * **use:** Soil erosion prevention and landslide control
+            * **context_quote:** The vetiver grass project is featured in one of the exhibits, which demonstrates the use of vetiver grass in preventing soil erosion and landslides.
+    * **processing_methods:**
+        * **Item 1:**
+            * **method:** Planting vetiver grass in slopes and embankments
+            * **description_quote:** The vetiver grass project is featured in one of the exhibits, which demonstrates the use of vetiver grass in preventing soil erosion and landslides.

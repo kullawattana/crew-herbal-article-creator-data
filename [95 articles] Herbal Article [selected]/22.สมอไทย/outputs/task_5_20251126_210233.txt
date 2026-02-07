@@ -1,0 +1,29 @@
+# ===SAFETY_DATA=== 
+## International Safety Data for: Terminalia chebula
+* **herb_name:** Terminalia chebula 
+* **source_browsed:** https://dailymed.nlm.nih.gov/dailymed/drugInfo.cfm?setid=2b13775f-1556-4a2c-ac68-8e123f3ba45c
+
+### Drug Facts Label
+* **active_ingredients:**
+    * **Ingredient 1:**
+        * **name:** TERMINALIA CHEBULA FRUIT
+        * **strength:** 1 [hp_X] in 59 mL
+        * **purpose:** Not found
+    * **Ingredient 2:**
+        * **name:** COIX LACRYMA-JOBI SEED
+        * **strength:** 1 [hp_X] in 59 mL
+        * **purpose:** Not found
+    * **Ingredient 3:**
+        * **name:** QUERCUS ROBUR TWIG BARK
+        * **strength:** 3 [hp_X] in 59 mL
+        * **purpose:** Not found
+    * **Ingredient 4:**
+        * **name:** HOPS
+        * **strength:** 3 [hp_X] in 59 mL
+        * **purpose:** Not found
+* **uses:** For the temporary relief of cough, diarrhea, mild abdominal pain or cramping, muscle spasms, indigestion, or feelings of discomfort or uneasiness.
+* **warnings:** Severe or persistent symptoms may be serious. Consult a doctor promptly. Keep out of the reach of children. In case of overdose, get medical help or contact a poison control center right away. If pregnant or breastfeeding, ask a healthcare professional before use.
+* **directions:** Place drops under tongue 30 minutes before/after meals. Adults and children 12 years and over: Take 10 drops up to 3 times per day. Consult a physician for use in children under 12 years of age.
+* **other_information:** Tamper resistant. If seal is broken, do not use. After opening, close container tightly and store at room temperature away from heat.
+* **inactive_ingredients:** 20% ethanol, purified water.
+* **questions:** Professional Formulas, PO Box 2034 Lake Oswego, OR 97035

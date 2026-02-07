@@ -1,0 +1,9 @@
+# ===TOXICITY_DATA=== 
+## Clinical Toxicity Data for: Hibiscus rosa-sinensis 
+* **herb_name:** Hibiscus rosa-sinensis 
+* **source_browsed:** https://www.ncbi.nlm.nih.gov/books/NBK169074/ 
+### Clinical Summary 
+* **toxicity_summary:** The available evidence from RCTs does not support the efficacy of Hibiscus sabdariffa L. in lowering serum lipids. Further rigorously designed trials with larger sample sizes are warranted to confirm the effects of HS on serum lipids. 
+* **mechanism_of_injury:** Not found 
+* **reported_side_effects:** With short-term use it is well tolerated. 
+* **case_report_summary:** Not found

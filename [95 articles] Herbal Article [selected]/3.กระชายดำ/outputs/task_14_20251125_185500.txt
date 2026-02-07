@@ -1,0 +1,34 @@
+# ===AUDIT_DATA_INTEGRITY_REPORT===
+* **Collaboration Robustness (Data Loss):** 80%
+* **Explanation Clarity (Hallucination/Handling):** 90%
+* **Dropped Entities (Facts in Fact Sheet but not Article):** 
+  - Trend Fact
+  - Lab Fact (Experimental Method)
+  - Lab Fact (Extraction Method)
+  - Lab Fact (Chromatography - TLC)
+  - Lab Fact (Cosmetic or Clinical Effect)
+  - Lab Fact (Quality Control)
+  - Compliance Fact (Safety Dosage)
+  - Compliance Fact (Safety Warning)
+  - Safety Fact (Active Ingredient)
+  - Safety Fact (Ingredient Purpose)
+  - Safety Fact (Uses)
+  - Safety Fact (Warnings)
+  - Safety Fact (Directions)
+  - Safety Fact (Other Info)
+  - Safety Fact (Inactive Ingredients)
+  - Safety Fact (Questions)
+  - Toxicity Fact (Summary)
+  - Toxicity Fact (Mechanism)
+  - Toxicity Fact (Side Effects)
+  - Toxicity Fact (Case Reports)
+  - Source URL (Trend)
+  - Source URL (Compliance)
+  - Source URL (Safety)
+  - Source URL (Toxicity)
+* **Hallucinated Entities (Facts in Article but not Fact Sheet):** 
+  - Introduction to Kaempferia parviflora Trends
+  - Strategic Analysis and Product Opportunities
+  - Herbal Knowledge Summary
+  - Conclusion
+* **Feedback:** The audit revealed a significant number of dropped entities, primarily related to safety, toxicity, and trend facts, which were not transferred from the Master Fact Sheet to the Final Article. However, the article did introduce new entities not found in the Master Fact Sheet, such as strategic analysis and product opportunities, which could be considered hallucinations. The handling of "Not Found" results was not explicitly tested in this audit due to the nature of the provided context. Overall, while the article demonstrates a good understanding of the herb's potential health benefits and cultural significance, it lacks comprehensive coverage of critical facts, particularly in the areas of safety and regulatory compliance. To improve data integrity, it is recommended to ensure that all critical facts from the Master Fact Sheet are accurately transferred to the Final Article and that any new information introduced is clearly marked as such to avoid hallucinations.

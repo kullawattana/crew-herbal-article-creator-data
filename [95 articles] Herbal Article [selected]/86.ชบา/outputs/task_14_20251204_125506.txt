@@ -1,0 +1,31 @@
+# ===AUDIT_DATA_INTEGRITY_REPORT===
+*   **Collaboration Robustness (Data Loss):** 70.21%
+*   **Explanation Clarity (Hallucination/Handling):** 75.00%
+*   **Dropped Entities (Facts in Fact Sheet but not Article):**
+    -   `Lab Fact (Experimental Method): No lab fact available`
+    -   `Lab Fact (Chromatography - TLC): No lab fact available`
+    -   `Lab Fact (Cosmetic or Clinical Effect): No lab fact available`
+    -   `Lab Fact (Quality Control): No lab fact available`
+    -   `Toxicity Fact (Case Reports): Not found`
+    -   `Culture Fact (Community - Southern Community): Southern Community`
+    -   `Culture Fact (Ethnic Group - Southern Community): Unspecified`
+    -   `Culture Fact (Community Highlight - Southern Community): No herbal-related information found.`
+    -   `Culture Fact (Name Etymology - Southern Community): No herbal-related information found.`
+    -   `Culture Fact (Environment - Southern Community): No herbal-related information found.`
+    -   `Culture Fact (Organization - Southern Community): No herbal-related information found.`
+    -   `Source URL (Trend): No trend URL available`
+    -   `Source URL (Compliance): No compliance URL available`
+    -   `Source URL (Safety): No safety URL available`
+*   **Hallucinated Entities (Facts in Article but not Fact Sheet):**
+    -   "The growing demand for natural and traditional remedies could provide a market opportunity, but further research is necessary to validate demand." (Market analysis/opportunity)
+    -   "suggesting that any product development should focus on areas where Hibiscus rosa-sinensis has shown promise." (Recommendation/analysis)
+    -   "The plant's cultural significance and traditional use could be leveraged to develop products that cater to the growing demand for natural remedies." (Market analysis/opportunity)
+    -   "highlighting the need for rigorous safety testing and adherence to regulatory compliance in any product development." (Recommendation)
+    -   "The market opportunity for products based on Hibiscus rosa-sinensis, although potential, is constrained by the lack of detailed scientific data and regulatory information." (Strategic analysis)
+    -   "A phased product development approach is recommended, starting with thorough laboratory and clinical research to establish a robust scientific foundation." (Recommendation)
+    -   "This should be followed by product development that is backed by evidence and ensures compliance with all regulatory requirements." (Recommendation)
+    -   "Targeted marketing campaigns can leverage the plant's traditional use and cultural significance, while also highlighting the scientific rigor behind the product development process." (Recommendation)
+    -   "Hibiscus rosa-sinensis presents a potential market opportunity due to its cultural significance and perceived health benefits." (Summary/analysis)
+    -   "However, the lack of comprehensive scientific data and regulatory information necessitates a cautious and phased approach to product development." (Summary/analysis)
+    -   "By focusing on rigorous scientific research, ensuring regulatory compliance, and leveraging traditional wisdom, it is possible to unlock the modern potential of Hibiscus rosa-sinensis while respecting its traditional use and cultural significance." (Conclusion/recommendation)
+*   **Feedback:** The **Collaboration Robustness** score reflects that 14 out of 47 distinct facts from the Master Fact Sheet were not explicitly or implicitly transferred to the Final Article. These dropped facts include specific "No fact available" entries for various lab, toxicity, and culture categories, as well as several source URLs. The article made a general statement about lacking scientific information but did not cover all specific categories. The **Explanation Clarity** score indicates that while the article successfully incorporated and correctly handled 33 facts from the Master Fact Sheet (including the accurate handling of `citation_apa: Not found`), it introduced 11 instances of analysis, market opportunities, and recommendations that were not directly present as facts in the source sheet. These additions, while potentially logical inferences, are considered "hallucinated facts" under a zero-tolerance audit.

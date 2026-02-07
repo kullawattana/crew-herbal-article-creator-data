@@ -1,0 +1,80 @@
+# ===CULTURE_DATA===
+## Cultural Context for: Chaba (ชบา)
+
+### Finding 1
+* **source_url:** https://db.sac.or.th/thailand-cultural-encyclopedia/region.php?region=6&page=170
+* **community_context:**
+    * **community_name:** Southern Community
+    * **location:** Southern Thailand
+    * **ethnic_group:** Unspecified
+* **community_profile_summaries:**
+    * **community_highlight:** No herbal-related information found.
+    * **name_etymology:** No herbal-related information found.
+    * **community_environment:** No herbal-related information found.
+    * **local_wisdom:** No herbal-related information found.
+    * **community_organizations:** No herbal-related information found.
+* **specific_entities:**
+    * **local_names:**
+        * **Item 1:**
+            * **name:** Chaba
+            * **context_quote:** Chaba is a plant found in Southern Thailand.
+    * **traditional_uses:**
+        * **Item 1:**
+            * **use:** Unspecified
+            * **context_quote:** Unspecified
+    * **processing_methods:**
+        * **Item 1:**
+            * **method:** Unspecified
+            * **description_quote:** Unspecified
+
+### Finding 2
+* **source_url:** https://db.sac.or.th/thailand-cultural-encyclopedia/list.php?char=%E0%B8%8A&page=3
+* **community_context:**
+    * **community_name:** Southern Community
+    * **location:** Southern Thailand
+    * **ethnic_group:** Unspecified
+* **community_profile_summaries:**
+    * **community_highlight:** No herbal-related information found.
+    * **name_etymology:** No herbal-related information found.
+    * **community_environment:** No herbal-related information found.
+    * **local_wisdom:** No herbal-related information found.
+    * **community_organizations:** No herbal-related information found.
+* **specific_entities:**
+    * **local_names:**
+        * **Item 1:**
+            * **name:** Chaba
+            * **context_quote:** Chaba is a plant found in Southern Thailand.
+    * **traditional_uses:**
+        * **Item 1:**
+            * **use:** Unspecified
+            * **context_quote:** Unspecified
+    * **processing_methods:**
+        * **Item 1:**
+            * **method:** Unspecified
+            * **description_quote:** Unspecified
+
+### Finding 3
+* **source_url:** https://www.sac.or.th/portal/th/article/detail/485
+* **community_context:**
+    * **community_name:** Southern Community
+    * **location:** Southern Thailand
+    * **ethnic_group:** Unspecified
+* **community_profile_summaries:**
+    * **community_highlight:** No herbal-related information found.
+    * **name_etymology:** No herbal-related information found.
+    * **community_environment:** No herbal-related information found.
+    * **local_wisdom:** No herbal-related information found.
+    * **community_organizations:** No herbal-related information found.
+* **specific_entities:**
+    * **local_names:**
+        * **Item 1:**
+            * **name:** Chaba
+            * **context_quote:** Unspecified
+    * **traditional_uses:**
+        * **Item 1:**
+            * **use:** Unspecified
+            * **context_quote:** Unspecified
+    * **processing_methods:**
+        * **Item 1:**
+            * **method:** Unspecified
+            * **description_quote:** Unspecified

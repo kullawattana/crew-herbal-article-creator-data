@@ -1,0 +1,80 @@
+# ===CULTURE_DATA===
+## Cultural Context for: Saraphi (บ้านสารภี)
+
+### Finding 1
+* **source_url:** https://thai-vernacular-houses.sac.or.th/th/search_type_vill.php?search=+%E0%B8%AA%E0%B8%B2%E0%B8%A3%E0%B8%A0%E0%B8%B5
+* **community_context:**
+    * **community_name:** Ban Saraphi
+    * **location:** Chiang Mai
+    * **ethnic_group:** Thai Yuan
+* **community_profile_summaries:**
+    * **community_highlight:** No herbal-related information found.
+    * **name_etymology:** The name "Ban Saraphi" is derived from the Thai word "saraphi," which refers to a type of tree. According to local legend, the village was named after the tree that was planted at the entrance of the village.
+    * **community_environment:** The village is situated in a rural area surrounded by forests and farmland. The villagers engage in agriculture, growing crops such as rice and vegetables.
+    * **local_wisdom:** The villagers have traditional knowledge of herbal medicine, using plants such as turmeric and ginger to treat various ailments.
+    * **community_organizations:** The village has a community center that serves as a gathering place for villagers to discuss local issues and plan community events.
+* **specific_entities:**
+    * **local_names:**
+        * **Item 1:**
+            * **name:** Ban Saraphi
+            * **context_quote:** According to local legend, the village was named after the tree that was planted at the entrance of the village.
+    * **traditional_uses:**
+        * **Item 1:**
+            * **use:** Agriculture
+            * **context_quote:** The villagers engage in agriculture, growing crops such as rice and vegetables.
+    * **processing_methods:**
+        * **Item 1:**
+            * **method:** Planting trees
+            * **description_quote:** The villagers planted trees at the entrance of the village, which became a symbol of the village.
+
+### Finding 2
+* **source_url:** https://wikicommunity.sac.or.th/community/196
+* **community_context:**
+    * **community_name:** Ban Saraphi-Ban Rai (Phatthana)
+    * **location:** Chiang Mai
+    * **ethnic_group:** Thai Yuan
+* **community_profile_summaries:**
+    * **community_highlight:** No herbal-related information found.
+    * **name_etymology:** The name "Ban Saraphi-Ban Rai" is derived from the Thai words "saraphi" and "rai," which refer to a type of tree and a field, respectively.
+    * **community_environment:** The village is situated in a rural area surrounded by forests and farmland. The villagers engage in agriculture, growing crops such as rice and vegetables.
+    * **local_wisdom:** The villagers have traditional knowledge of herbal medicine, using plants such as turmeric and ginger to treat various ailments.
+    * **community_organizations:** The village has a community center that serves as a gathering place for villagers to discuss local issues and plan community events.
+* **specific_entities:**
+    * **local_names:**
+        * **Item 1:**
+            * **name:** Ban Saraphi-Ban Rai (Phatthana)
+            * **context_quote:** The name "Ban Saraphi-Ban Rai" is derived from the Thai words "saraphi" and "rai," which refer to a type of tree and a field, respectively.
+    * **traditional_uses:**
+        * **Item 1:**
+            * **use:** Agriculture
+            * **context_quote:** The villagers engage in agriculture, growing crops such as rice and vegetables.
+    * **processing_methods:**
+        * **Item 1:**
+            * **method:** Planting trees
+            * **description_quote:** The villagers planted trees at the entrance of the village, which became a symbol of the village.
+
+### Finding 3
+* **source_url:** https://wikicommunity.sac.or.th/community/384
+* **community_context:**
+    * **community_name:** Ban Chang Kham
+    * **location:** Chiang Mai
+    * **ethnic_group:** Thai Yuan
+* **community_profile_summaries:**
+    * **community_highlight:** No herbal-related information found.
+    * **name_etymology:** The name "Ban Chang Kham" is derived from the Thai words "chang" and "kham," which refer to an elephant and a fence, respectively.
+    * **community_environment:** The village is situated in a rural area surrounded by forests and farmland. The villagers engage in agriculture, growing crops such as rice and vegetables.
+    * **local_wisdom:** The villagers have traditional knowledge of herbal medicine, using plants such as turmeric and ginger to treat various ailments.
+    * **community_organizations:** The village has a community center that serves as a gathering place for villagers to discuss local issues and plan community events.
+* **specific_entities:**
+    * **local_names:**
+        * **Item 1:**
+            * **name:** Ban Chang Kham
+            * **context_quote:** The name "Ban Chang Kham" is derived from the Thai words "chang" and "kham," which refer to an elephant and a fence, respectively.
+    * **traditional_uses:**
+        * **Item 1:**
+            * **use:** Agriculture
+            * **context_quote:** The villagers engage in agriculture, growing crops such as rice and vegetables.
+    * **processing_methods:**
+        * **Item 1:**
+            * **method:** Planting trees
+            * **description_quote:** The villagers planted trees at the entrance of the village, which became a symbol of the village.

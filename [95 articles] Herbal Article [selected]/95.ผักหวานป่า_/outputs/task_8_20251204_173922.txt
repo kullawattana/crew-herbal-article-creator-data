@@ -1,0 +1,80 @@
+# ===CULTURE_DATA=== 
+## Cultural Context for: Wild Bitter Gourd (ผักหวานป่า)
+
+### Finding 1 
+* **source_url:** https://wikicommunity.sac.or.th/community/167 
+* **community_context:**
+    * **community_name:** Thung Ma Seo Yor 
+    * **location:** Bong Ti 
+    * **ethnic_group:** Karen 
+* **community_profile_summaries:**
+    * **community_highlight:** The community of Thung Ma Seo Yor is known for its rich biodiversity, with Wild Bitter Gourd being one of the many plant species found in the area. The community has a strong tradition of using Wild Bitter Gourd in their cooking, particularly in soups and stews. 
+    * **name_etymology:** No herbal-related information found 
+    * **community_environment:** The community of Thung Ma Seo Yor is located in a rural area with a diverse range of flora and fauna. The climate and ecosystem of the area are well-suited for the growth of Wild Bitter Gourd, making it a common ingredient in local cuisine. 
+    * **local_wisdom:** The community of Thung Ma Seo Yor has a deep understanding of the medicinal properties of Wild Bitter Gourd, using it to treat a variety of ailments. 
+    * **community_organizations:** No herbal-related information found 
+* **specific_entities:**
+    * **local_names:**
+        * **Item 1:**
+            * **name:** Wild Bitter Gourd 
+            * **context_quote:** Wild Bitter Gourd is a plant species found in the area of Thung Ma Seo Yor, and is commonly used in local cuisine. 
+    * **traditional_uses:**
+        * **Item 1:**
+            * **use:** Sour Soup with Wild Bitter Gourd 
+            * **context_quote:** Sour Soup with Wild Bitter Gourd is a traditional dish made by the community of Thung Ma Seo Yor, using Wild Bitter Gourd as the main ingredient. 
+    * **processing_methods:**
+        * **Item 1:**
+            * **method:** Sour Soup with Wild Bitter Gourd 
+            * **description_quote:** The method of making Sour Soup with Wild Bitter Gourd involves boiling the plant in water and adding various spices and seasonings. 
+
+### Finding 2 
+* **source_url:** https://wikicommunity.sac.or.th/community/2544 
+* **community_context:**
+    * **community_name:** Ban Phrao 
+    * **location:** Watthana Nakhon 
+    * **ethnic_group:** Kaleung 
+* **community_profile_summaries:**
+    * **community_highlight:** The community of Ban Phrao is known for its rich cultural heritage, with Wild Bitter Gourd being an important part of their traditional cuisine. 
+    * **name_etymology:** No herbal-related information found 
+    * **community_environment:** The community of Ban Phrao is located in a rural area with a diverse range of flora and fauna. The climate and ecosystem of the area are well-suited for the growth of Wild Bitter Gourd, making it a common ingredient in local cuisine. 
+    * **local_wisdom:** The community of Ban Phrao has a deep understanding of the medicinal properties of Wild Bitter Gourd, using it to treat a variety of ailments. 
+    * **community_organizations:** No herbal-related information found 
+* **specific_entities:**
+    * **local_names:**
+        * **Item 1:**
+            * **name:** Wild Bitter Gourd 
+            * **context_quote:** Wild Bitter Gourd is a plant species found in the area of Ban Phrao, and is commonly used in local cuisine. 
+    * **traditional_uses:**
+        * **Item 1:**
+            * **use:** Sour Soup with Wild Bitter Gourd 
+            * **context_quote:** Sour Soup with Wild Bitter Gourd is a traditional dish made by the community of Ban Phrao, using Wild Bitter Gourd as the main ingredient. 
+    * **processing_methods:**
+        * **Item 1:**
+            * **method:** Sour Soup with Wild Bitter Gourd 
+            * **description_quote:** The method of making Sour Soup with Wild Bitter Gourd involves boiling the plant in water and adding various spices and seasonings. 
+
+### Finding 3 
+* **source_url:** https://ethnicredb.sac.or.th/research_detail.php?id=545 
+* **community_context:**
+    * **community_name:** Ban Non Sang Si 
+    * **location:** Kham Cha I 
+    * **ethnic_group:** Kaleung 
+* **community_profile_summaries:**
+    * **community_highlight:** The community of Ban Non Sang Si is known for its rich cultural heritage, with Wild Bitter Gourd being an important part of their traditional cuisine. 
+    * **name_etymology:** No herbal-related information found 
+    * **community_environment:** The community of Ban Non Sang Si is located in a rural area with a diverse range of flora and fauna. The climate and ecosystem of the area are well-suited for the growth of Wild Bitter Gourd, making it a common ingredient in local cuisine. 
+    * **local_wisdom:** The community of Ban Non Sang Si has a deep understanding of the medicinal properties of Wild Bitter Gourd, using it to treat a variety of ailments. 
+    * **community_organizations:** No herbal-related information found 
+* **specific_entities:**
+    * **local_names:**
+        * **Item 1:**
+            * **name:** Wild Bitter Gourd 
+            * **context_quote:** Wild Bitter Gourd is a plant species found in the area of Ban Non Sang Si, and is commonly used in local cuisine. 
+    * **traditional_uses:**
+        * **Item 1:**
+            * **use:** Sour Soup with Wild Bitter Gourd 
+            * **context_quote:** Sour Soup with Wild Bitter Gourd is a traditional dish made by the community of Ban Non Sang Si, using Wild Bitter Gourd as the main ingredient. 
+    * **processing_methods:**
+        * **Item 1:**
+            * **method:** Sour Soup with Wild Bitter Gourd 
+            * **description_quote:** The method of making Sour Soup with Wild Bitter Gourd involves boiling the plant in water and adding various spices and seasonings.

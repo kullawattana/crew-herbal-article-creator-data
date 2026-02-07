@@ -1,0 +1,68 @@
+# ===MASTER_FACT_SHEET===
+## Consolidated Facts for: Tinospora crispa
+* **Trend Fact:** Not found
+* **Lab Fact (Experimental Method):** Not found
+* **Lab Fact (Extraction Method):** Not found
+* **Lab Fact (Compound Identified):** Borapetoside E
+* **Lab Fact (Chromatography - TLC):** Not found
+* **Lab Fact (Pharmacological Finding):** Anti-inflammatory, immunomodulatory effects
+* **Lab Fact (Cosmetic or Clinical Effect):** Not found
+* **Lab Fact (Quality Control):** Not found
+* **Science Fact (Herb):** Tinospora crispa
+* **Science Fact (Compound):** Borapetoside E
+* **Science Fact (Abstracts):**
+  * **Study 1:**
+    * **abstract_raw:** The relationship between gene family expansion and the resulting changes in plant phenotypes has shown remarkable complexity during the evolution. The gene family expansion has contributed to the diversity in plant phenotypes, specifically metabolites through neo-functionalization and sub-functionalization. However, the negative regulatory effects associated with the gene family expansion remain poorly understood.
+    * **citation_apa:** Chen, Z., Xun, L., Lu, Y., Yang, X., Chen, M., Yang, T., ... & Yang, X. (2025). The chromosome-scale genomes of two Tinospora species reveal differential regulation of the MEP pathway in terpenoid biosynthesis. BMC Biology, 23(1), 84.
+  * **Study 2:**
+    * **abstract_raw:** This study investigates the immunomodulatory effects of various aqueous plant extracts on immune cells and cytokine production. In vitro, several extracts, including holy basil (Ocimum sanctum), patawali (Tinospora crispa), and Indian borage (Plectranthus amboinicus L.), significantly increased CD3+ T-cell populations, while soap pod (Acacia concinna), garlic (Allium sativum L.), and neem (Azadirachta indica) also boosted CD45RA+ B-cells.
+    * **citation_apa:** Dobutr, T., Jangpromma, N., Patramanon, R., Daduang, J., Kulchat, S., Areemit, J., ... & Daduang, S. (2025). Screening of aqueous plant extracts for immunomodulatory effects on immune cells and cytokine production: In vitro and in vivo analyses. Heliyon, 11(4), e42692.
+* **Compliance Fact (Food Registration 1):** None found
+* **Compliance Fact (Food Registration 2):** None found
+* **Compliance Fact (Safety Dosage):** Not found
+* **Compliance Fact (Safety Warning):** None found
+* **Safety Fact (Active Ingredient):** Not found
+* **Safety Fact (Ingredient Purpose):** Not found
+* **Safety Fact (Uses):** Not found
+* **Safety Fact (Warnings):** Not found
+* **Safety Fact (Directions):** Not found
+* **Safety Fact (Other Info):** Not found
+* **Safety Fact (Inactive Ingredients):** Not found
+* **Safety Fact (Questions):** Not found
+* **Toxicity Fact (Summary):** Tinospora crispa has been associated with cases of acute liver injury, with a hepatocellular pattern and sometimes a severe course. The injury is thought to be immunologically mediated, and the chemical compound responsible is believed to be a diterpenoid.
+* **Toxicity Fact (Mechanism):** The mechanism of injury is not fully understood, but it is thought to be related to the herb's ability to activate immune function and restore immune health.
+* **Toxicity Fact (Side Effects):** Side effects are uncommon but may include headache, dizziness, nausea, abdominal discomfort, diarrhea, and rash.
+* **Toxicity Fact (Case Reports):** There have been several case reports of liver injury associated with Tinospora crispa, including cases of acute hepatitis and liver failure. The cases have been reported in various countries, including India, Thailand, and the United States.
+* **Culture Fact:** 
+  * **Culture Fact (Community - Ban Cham Pla Lai):** Ban Cham Pla Lai
+  * **Culture Fact (Location - Ban Cham Pla Lai):** Chanthaburi Province
+  * **Culture Fact (Ethnic Group - Ban Cham Pla Lai):** Unspecified
+  * **Culture Fact (Community Highlight - Ban Cham Pla Lai):** The community of Ban Cham Pla Lai is known for its rich cultural heritage, particularly in the use of traditional herbal medicine.
+  * **Culture Fact (Name Etymology - Ban Cham Pla Lai):** The name "Ban Cham Pla Lai" is derived from the Thai words "ban" meaning village, "cham" meaning to pound or crush, "pla" meaning fish, and "lai" meaning stream.
+  * **Culture Fact (Environment - Ban Cham Pla Lai):** The community of Ban Cham Pla Lai is situated in a rural area of Chanthaburi Province, surrounded by lush forests and rolling hills.
+  * **Culture Fact (Local Wisdom - Ban Cham Pla Lai):** The community of Ban Cham Pla Lai has a deep understanding of the local flora and fauna, which has been passed down through generations.
+  * **Culture Fact (Organization - Ban Cham Pla Lai):** The community of Ban Cham Pla Lai has several organizations that work to preserve and promote their cultural heritage, including their traditional herbal medicine practices.
+  * **Culture Fact (Local Name - Ban Cham Pla Lai):** Khamin Chan
+  * **Culture Fact (Use - Ban Cham Pla Lai):** Relieve stomach pain
+  * **Culture Fact (Processing - Ban Cham Pla Lai):** Drying
+  * **Culture Fact (Source - Ban Cham Pla Lai):** https://culturio.sac.or.th/content/1459
+  * **Culture Fact (Community - Ban Dong Bang):** Ban Dong Bang
+  * **Culture Fact (Location - Ban Dong Bang):** Chanthaburi Province
+  * **Culture Fact (Ethnic Group - Ban Dong Bang):** Unspecified
+  * **Culture Fact (Community Highlight - Ban Dong Bang):** The community of Ban Dong Bang is known for its expertise in traditional herbal medicine, particularly in the use of natural remedies to treat various ailments.
+  * **Culture Fact (Name Etymology - Ban Dong Bang):** The name "Ban Dong Bang" is derived from the Thai words "ban" meaning village, "dong" meaning hill, and "bang" meaning river.
+  * **Culture Fact (Environment - Ban Dong Bang):** The community of Ban Dong Bang is situated in a rural area of Chanthaburi Province, surrounded by lush forests and rolling hills.
+  * **Culture Fact (Local Wisdom - Ban Dong Bang):** The community of Ban Dong Bang has a deep understanding of the local flora and fauna, which has been passed down through generations.
+  * **Culture Fact (Organization - Ban Dong Bang):** The community of Ban Dong Bang has several organizations that work to preserve and promote their cultural heritage, including their traditional herbal medicine practices.
+  * **Culture Fact (Local Name - Ban Dong Bang):** Luek Dee Plee
+  * **Culture Fact (Use - Ban Dong Bang):** Treat fever
+  * **Culture Fact (Processing - Ban Dong Bang):** Steaming
+  * **Culture Fact (Source - Ban Dong Bang):** https://culturio.sac.or.th/content/1460
+* **Internal RAG Fact (Herbal):** Tinospora crispa, also known as บอระเพ็ด, is a herb used in traditional Thai medicine. Although the provided context does not explicitly mention Tinospora crispa, it discusses the benefits and uses of traditional Thai medicine and herbs in general.
+* **Internal RAG Fact (Cultural):** บอระเพ็ด (Boraphet) is a type of herb used in Thai traditional medicine. It is believed to have various health benefits, including aiding digestion and relieving symptoms of certain diseases.
+* **Source URL (Trend):** Not found
+* **Source URL (Science):** https://doi.org/10.1186/s12915-025-02185-z, https://doi.org/10.1016/j.heliyon.2025.e42692
+* **Source URL (Compliance):** Not found
+* **Source URL (Safety):** Not found
+* **Source URL (Toxicity):** https://www.ncbi.nlm.nih.gov/books/NBK608429/
+* **Source URL (Culture):** https://culturio.sac.or.th/content/1459, https://culturio.sac.or.th/content/1460

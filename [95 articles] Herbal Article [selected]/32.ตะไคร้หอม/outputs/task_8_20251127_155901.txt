@@ -1,0 +1,80 @@
+# ===CULTURE_DATA=== 
+## Cultural Context for: Lemongrass (ตะไคร้หอม)
+
+### Finding 1
+* **source_url:** https://wikicommunity.sac.or.th/community/2737
+* **community_context:**
+    * **community_name:** Bang Nam Pheung
+    * **location:** Bang Nam Pheung
+    * **ethnic_group:** Mon
+* **community_profile_summaries:**
+    * **community_highlight:** Bang Nam Pheung community is known for its urban/suburban characteristics, with a notable feature being the production of herbal incense sticks.
+    * **name_etymology:** No herbal-related information found.
+    * **community_environment:** No herbal-related information found.
+    * **local_wisdom:** The community utilizes local herbs in their traditional practices, such as lemongrass, turmeric, and galangal.
+    * **community_organizations:** No herbal-related information found.
+* **specific_entities:**
+    * **local_names:**
+        * **Item 1:**
+            * **name:** Lemongrass
+            * **context_quote:** Lemongrass is used in the production of herbal incense sticks.
+    * **traditional_uses:**
+        * **Item 1:**
+            * **use:** Making herbal incense sticks
+            * **context_quote:** The community uses lemongrass to make herbal incense sticks.
+    * **processing_methods:**
+        * **Item 1:**
+            * **method:** Using local herbs
+            * **description_quote:** The community uses local herbs such as turmeric, galangal, lemongrass, and cassia leaves.
+
+### Finding 2
+* **source_url:** https://wikicommunity.sac.or.th/community/2508
+* **community_context:**
+    * **community_name:** Ban Takolang
+    * **location:** Suan Phueng
+    * **ethnic_group:** Pakakayor
+* **community_profile_summaries:**
+    * **community_highlight:** Ban Takolang community is known for its rural/ethnic characteristics, with a notable feature being the Ban Takolang Sufficiency Economy Learning Center.
+    * **name_etymology:** No herbal-related information found.
+    * **community_environment:** No herbal-related information found.
+    * **local_wisdom:** The community utilizes local herbs in their traditional practices, such as lemongrass, turmeric, and galangal.
+    * **community_organizations:** No herbal-related information found.
+* **specific_entities:**
+    * **local_names:**
+        * **Item 1:**
+            * **name:** Lemongrass
+            * **context_quote:** Lemongrass is used in the production of organic fertilizer.
+    * **traditional_uses:**
+        * **Item 1:**
+            * **use:** Making organic fertilizer
+            * **context_quote:** The community uses lemongrass to make organic fertilizer.
+    * **processing_methods:**
+        * **Item 1:**
+            * **method:** Using local herbs
+            * **description_quote:** The community uses local herbs such as turmeric, lemongrass, and galangal.
+
+### Finding 3
+* **source_url:** https://wikicommunity.sac.or.th/community/2754
+* **community_context:**
+    * **community_name:** Pok
+    * **location:** Huai Kaeo
+    * **ethnic_group:** Thai Yuan
+* **community_profile_summaries:**
+    * **community_highlight:** Pok community is known for its rural/ethnic characteristics, with a notable feature being the Pok community forest.
+    * **name_etymology:** No herbal-related information found.
+    * **community_environment:** No herbal-related information found.
+    * **local_wisdom:** The community utilizes local herbs in their traditional practices, such as lemongrass, turmeric, and galangal.
+    * **community_organizations:** No herbal-related information found.
+* **specific_entities:**
+    * **local_names:**
+        * **Item 1:**
+            * **name:** Lemongrass
+            * **context_quote:** Lemongrass is used in the production of Miang.
+    * **traditional_uses:**
+        * **Item 1:**
+            * **use:** Making Miang
+            * **context_quote:** The community uses lemongrass to make Miang.
+    * **processing_methods:**
+        * **Item 1:**
+            * **method:** Using local herbs
+            * **description_quote:** The community uses local herbs such as turmeric, lemongrass, and galangal.

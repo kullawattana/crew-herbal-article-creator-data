@@ -1,0 +1,22 @@
+```markdown
+# ===AUDIT_DATA_INTEGRITY_REPORT===
+* **Collaboration Robustness (Data Loss):** 85%
+* **Explanation Clarity (Hallucination/Handling):** 95%
+* **Dropped Entities (Facts in Fact Sheet but not Article):**
+    - Compliance Fact (Herbal Product Registration 3): registration_number=G259/62, product_name=ยาน้ำมันผสมเสลดพังพอนตัวเมีย / COMPOUND SALET PHANG PHON TUA-MIA MEDICATED OIL, company_name=ห้างหุ้นส่วนจำกัดสมุนไพรธิดาพร, status=คงอยู่
+    - Compliance Fact (Herbal Product Registration 4): registration_number=G274/65, product_name=ยาหม่องผสมเสลดพังพอนตัวเมีย ตราเฌอเอม สูตร 2 / CHERAIM BRAND COMPOUND CLINACANTHUS NUTANS BALM FORMULA 2, company_name=ห้างหุ้นส่วน จิสประพัจน์, status=คงอยู่
+    - Compliance Fact (Herbal Product Registration 5): registration_number=G470/65, product_name=ยาครีมผสมเสลดพังพอนตัวเมีย ตรา บางกอก บาล์ม / -, company_name=โกลเด้นลีฟ, status=ทะเบียนคงอยู่ แต่ผู้ผลิตยกเลิกกิจการ ทำให้ไม่สามารถผลิตได้
+    - Safety Fact (Active Ingredient): Camphor, Menthol
+    - Safety Fact (Ingredient Purpose): Topical Analgesic
+    - Safety Fact (Uses): For temporarily relief of pain and itching associated with insect bites,minor skin irritations and infections, rashes, boils, minor aches and pains of muscles and joints, dizziness
+    - Safety Fact (Warnings): For external use only When using this product Use only as directed Do not apply to wounds and broken skin Avoid contact with eyes Stop use and ask a doctor if condition worsens severe skin irritation occurs symptoms persist for more than 7 days or clear up and reoccur within a few days
+    - Safety Fact (Directions): Apply thin layer to or rub gently upon the desired area or inhale as needed. Repeat 3 to 4 times daily. For infants under 12 months of age, consult physician before use
+    - Safety Fact (Other Info): This product may cause allergic reaction in some individuals, test on small area before use Store at 68° to 85°F (20° to 30°C)
+    - Safety Fact (Inactive Ingredients): Aloe Vera, Barleria Lupulina, Beach Morning Glory, Betel leaf, Clinacanthus Nutans Lindau, Coconut oil, Crinum Veld Lily, Garden Quinine, Paraffin, Petrolatum,Zingiber Cassamunar.
+
+* **Hallucinated Entities (Facts in Article but not Fact Sheet):**
+    - None
+
+* **Feedback:**
+The Collaboration Robustness score reflects the data loss of several Compliance Facts and Safety Facts. The Explanation Clarity score is high because the article correctly handles the "Not Found" for citation_apa by stating "Not found". The article does not hallucinate any facts. The dropped entities should be included to improve completeness.
+```

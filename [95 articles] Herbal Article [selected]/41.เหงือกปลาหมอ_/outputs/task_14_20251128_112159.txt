@@ -1,0 +1,32 @@
+# ===AUDIT_DATA_INTEGRITY_REPORT===
+*   **Collaboration Robustness (Data Loss):** 56.32%
+*   **Explanation Clarity (Hallucination/Handling):** 100%
+*   **Dropped Entities (Facts in Fact Sheet but not Article):**
+    *   Trend Fact (Eryngium Planum): Botanical description ("hardy and drought-tolerant shrub that thrives in poor soil")
+    *   Trend Fact (Tapee Tea): Specific list of other herbal ingredients ("wolfberry, java tea, and cat's whiskers")
+    *   Compliance Fact (Food Registration 1 - เหงือกปลาหมอ / Sea Holly): registration number, company name, product status
+    *   Compliance Fact (Food Registration 2 - เหงือกปลาหมอ (ผง) / Sea Holly (Powder)): all details (registration number, product name, company, status)
+    *   Compliance Fact (Food Registration 3 - ยาขี้ผึ้งผสมเหงือกปลาหมอ ตราศิลาทอง / COMPOUND SEA HOLLY OINTMENT GOLDSTONE BRAND): registration number, company name, product status
+    *   Compliance Fact (Food Registration 4 - ยาแคปซูลผสมเหงือกปลาหมอ / -): all details (registration number, product name, company, status)
+    *   Compliance Fact (Food Registration 5 - ยาแคปซูลเหงือกปลาหมอ / -): all details (registration number, product name, company, status)
+    *   Culture Fact (Tha Chang Wittayakhom School Museum): Location ("Nakhon Luang District, Phra Nakhon Si Ayutthaya Province")
+    *   Culture Fact (Tha Chang Wittayakhom School Museum): Ethnic Group ("Thai")
+    *   Culture Fact (Tha Chang Wittayakhom School Museum): Community Highlight (detailed history and museum showcasing of metalwork products, beyond just "known for metalwork")
+    *   Culture Fact (Tha Chang Wittayakhom School Museum): Name Etymology (full explanation)
+    *   Culture Fact (Tha Chang Wittayakhom School Museum): Environment (full description)
+    *   Culture Fact (Tha Chang Wittayakhom School Museum): Local Wisdom (full description)
+    *   Culture Fact (Tha Chang Wittayakhom School Museum): Organization (full description)
+    *   Culture Fact (Tha Chang Wittayakhom School Museum): Local Name ("Khamin Chan")
+    *   Culture Fact (Tha Chang Wittayakhom School Museum): Processing ("Drying")
+    *   Culture Fact (Ban Khao Yisar): Location ("Yisar Subdistrict, Amphawa District, Samut Songkhram Province")
+    *   Culture Fact (Ban Khao Yisar): Ethnic Group ("Thai")
+    *   Culture Fact (Ban Khao Yisar): Name Etymology (full explanation)
+    *   Culture Fact (Ban Khao Yisar): Environment (full description)
+    *   Culture Fact (Ban Khao Yisar): Local Wisdom (full description)
+    *   Culture Fact (Ban Khao Yisar): Organization (full description)
+    *   Culture Fact (Ban Khao Yisar): Local Name ("Pho Pu Sri Racha")
+    *   Culture Fact (Ban Khao Yisar): Processing ("Smoking")
+    *   Internal RAG Fact: Herbal ("Not found")
+*   **Hallucinated Entities (Facts in Article but not Fact Sheet):**
+    *   None
+*   **Feedback:** The Final Article demonstrates excellent clarity and accurate handling of "Not Found" information, achieving a 100% score for Explanation Clarity with no hallucinated facts. All instances where the Master Fact Sheet indicated "Not found" or "None found" (e.g., lab facts, scientific abstracts, safety/toxicity data, citation_apa) were correctly represented as missing information or omitted without inventing content. However, there is significant data loss in the Collaboration Robustness aspect. Critical details from compliance registrations (registration numbers, company names, full product statuses) were largely omitted or only partially included. Furthermore, a substantial amount of specific cultural context, including community locations, ethnic groups, detailed highlights, name etymologies, environmental descriptions, local wisdom, organizations, local names, and processing methods for both cultural communities, was not transferred to the article. Minor details from trend facts (botanical descriptions, full ingredient lists) and one internal RAG fact were also dropped. These omissions led to a robustness score of 56.32%.

@@ -1,0 +1,24 @@
+# ===AUDIT_DATA_INTEGRITY_REPORT===
+*   **Collaboration Robustness (Data Loss):** 59.38%
+*   **Explanation Clarity (Hallucination/Handling):** 71.43%
+*   **Dropped Entities (Facts in Fact Sheet but not Article):**
+    -   Compliance Fact (Food Registration 1): None found.
+    -   Compliance Fact (Drug Registration 1 - Status): คงอยู่
+    -   Compliance Fact (Safety Dosage): Not found
+    -   Compliance Fact (Safety Warning): None found
+    -   Safety Fact (DailyMed Info): Unfortunately, the DailyMed website does not have any information about Mimosa pudica.
+    -   Toxicity Fact (Mechanism): The mechanism of injury is not explicitly stated in the text, but it is suggested that the flavonoids present in the plant may be responsible for its hypolipidemic action.
+    -   Toxicity Fact (Case Reports): No case reports are mentioned in the text.
+    -   Culture Fact (Ethnic Group): Yong
+    -   Culture Fact (Environment): ...where the climate is warm and humid, making it an ideal location for the growth of various plant species, including the Maierab plant.
+    -   Culture Fact (Organization): The Maierab community has a strong social structure, with various organizations and groups that work together to promote the use of traditional herbs for medicinal purposes.
+    -   Internal RAG Fact (Herbal): Mimosa pudica, also known as ไมยราบ, is not explicitly mentioned in the provided context. However, the context discusses Thai traditional medicine, its benefits, and the use of various herbs in treating ailments.
+    -   Source URL (Trend): Not found
+    -   Source URL (Compliance): Not found
+    -   Source URL (Safety): Unfortunately, the DailyMed website does not have any information about Mimosa pudica.
+*   **Hallucinated Entities (Facts in Article but not Fact Sheet):**
+    -   "Sensitive Plant" as an alternative common name for Mimosa pudica.
+    -   Mention of "potential interactions" regarding safety data.
+    -   Mention of "potential for liver injury".
+    -   Claim that "constraints related to safety and toxicity appear to be minimal".
+*   **Feedback:** The Final Article exhibited significant data loss, omitting 14 critical facts from the Master Fact Sheet. This includes specific compliance details, nuanced safety information from DailyMed, detailed toxicity mechanisms, specific cultural facts (ethnic group, environmental description, organizational structure), and the specific nuance of an Internal RAG fact. Furthermore, most "Not Found" or "None Found" results from the Fact Sheet were simply dropped rather than being explicitly reported as findings, indicating a failure in handling these critical data points. The article also introduced 4 unique hallucinated concepts, such as an unverified common name, "potential interactions," "liver injury," and an unsubstantiated claim of "minimal safety constraints." While the APA citation's "Not found" status was correctly conveyed, the overall integrity suffers from both data omission and factual invention.

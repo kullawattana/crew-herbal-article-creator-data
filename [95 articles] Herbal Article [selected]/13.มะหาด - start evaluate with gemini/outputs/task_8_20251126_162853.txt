@@ -1,0 +1,81 @@
+# ===CULTURE_DATA===
+
+## Cultural Context for: Ban Wang Had (บ้านวังหาด)
+
+### Finding 1
+* **source_url:** https://wikicommunity.sac.or.th/community/2660
+* **community_context:**
+	+ **community_name:** Ban Wang Had
+	+ **location:** Taling Chan
+	+ **ethnic_group:** Thai Sukhothai
+* **community_profile_summaries:**
+	+ **community_highlight:** Ban Wang Had is an ancient community with a settlement dating back to the prehistoric era, approximately 2,500-3,000 years ago. This period corresponds to the late Neolithic to Bronze Age, characterized by the development of tools and human lifestyle, such as the use of metal, iron smelting, agriculture, and burial rituals.
+	+ **name_etymology:** The name "Wang Had" reflects the relationship between nature and the local people.
+	+ **community_environment:** No herbal-related information found.
+	+ **local_wisdom:** No herbal-related information found.
+	+ **community_organizations:** No herbal-related information found.
+* **specific_entities:**
+	+ **local_names:**
+		- **Item 1:**
+			* **name:** Wang Had
+			* **context_quote:** The name reflects the relationship between nature and the local people.
+	+ **traditional_uses:**
+		- **Item 1:**
+			* **use:** Farming
+			* **context_quote:** The villagers prepare the soil, clean the fields, and wait for the first rain.
+	+ **processing_methods:**
+		- **Item 1:**
+			* **method:** Farming
+			* **description_quote:** The villagers engage in mixed farming, such as corn, cassava, and peanuts. Some households have fruit orchards, such as mangoes, jackfruits, and bananas, and raise cattle and buffalo for labor and sale.
+
+### Finding 2
+* **source_url:** https://db.sac.or.th/inscriptions/glossary/detail/8968
+* **community_context:**
+	+ **community_name:** Wat Ratchaorosaram Ratchaworawihan
+	+ **location:** Bangkok
+	+ **ethnic_group:** Thai
+* **community_profile_summaries:**
+	+ **community_highlight:** No herbal-related information found.
+	+ **name_etymology:** No herbal-related information found.
+	+ **community_environment:** No herbal-related information found.
+	+ **local_wisdom:** No herbal-related information found.
+	+ **community_organizations:** No herbal-related information found.
+* **specific_entities:**
+	+ **local_names:**
+		- **Item 1:**
+			* **name:** Som Siew
+			* **context_quote:** If you want to cure Som Siew, Som Sandan, Som Khao, Salad Dai, Rak Matad Krua, Jet Mool, Khing Haeng, thing by thing, 1 tamleung, Hassakun Thes 3 tamleung, Hua Ben Bat, Madyob, Khmin Krua, Phang Aad, Thian Dam, Thian Khao, Kaen Pru, Kaen Mahat, thing by thing, 2 baht, Priklon 2 tamleung 2 baht, Chae Sura 5 thanan, Fang Khao Pleuk Wai 3 wan, give Pali Jong Dee, eat a cup of tea, morning and evening, eat for 7 days, then give medicine Prachu.
+	+ **traditional_uses:**
+		- **Item 1:**
+			* **use:** Medicine
+			* **context_quote:** If you want to cure Som Siew, Som Sandan, Som Khao, Salad Dai, Rak Matad Krua, Jet Mool, Khing Haeng, thing by thing, 1 tamleung, Hassakun Thes 3 tamleung, Hua Ben Bat, Madyob, Khmin Krua, Phang Aad, Thian Dam, Thian Khao, Kaen Pru, Kaen Mahat, thing by thing, 2 baht, Priklon 2 tamleung 2 baht, Chae Sura 5 thanan, Fang Khao Pleuk Wai 3 wan, give Pali Jong Dee, eat a cup of tea, morning and evening, eat for 7 days, then give medicine Prachu.
+	+ **processing_methods:**
+		- **Item 1:**
+			* **method:** Medicine
+			* **description_quote:** If you want to cure Som Siew, Som Sandan, Som Khao, Salad Dai, Rak Matad Krua, Jet Mool, Khing Haeng, thing by thing, 1 tamleung, Hassakun Thes 3 tamleung, Hua Ben Bat, Madyob, Khmin Krua, Phang Aad, Thian Dam, Thian Khao, Kaen Pru, Kaen Mahat, thing by thing, 2 baht, Priklon 2 tamleung 2 baht, Chae Sura 5 thanan, Fang Khao Pleuk Wai 3 wan, give Pali Jong Dee, eat a cup of tea, morning and evening, eat for 7 days, then give medicine Prachu.
+
+### Finding 3
+* **source_url:** https://manuscripts.sac.or.th/article-download.php?id=28
+* **community_context:**
+	+ **community_name:** Wat Samu Nimit
+	+ **location:** Surat Thani
+	+ **ethnic_group:** Thai
+* **community_profile_summaries:**
+	+ **community_highlight:** No herbal-related information found.
+	+ **name_etymology:** No herbal-related information found.
+	+ **community_environment:** No herbal-related information found.
+	+ **local_wisdom:** No herbal-related information found.
+	+ **community_organizations:** No herbal-related information found.
+* **specific_entities:**
+	+ **local_names:**
+		- **Item 1:**
+			* **name:** Nam Man Yang
+			* **context_quote:** Nam Man Yang 7 hundred 55 thanan, Khi Si Saen Plai 3 hundred as money 6 tamleung plai baht 2 slung fueng.
+	+ **traditional_uses:**
+		- **Item 1:**
+			* **use:** Oil
+			* **context_quote:** Nam Man Yang 7 hundred 55 thanan, Khi Si Saen Plai 3 hundred as money 6 tamleung plai baht 2 slung fueng.
+	+ **processing_methods:**
+		- **Item 1:**
+			* **method:** Oil
+			* **description_quote:** Nam Man Yang 7 hundred 55 thanan, Khi Si Saen Plai 3 hundred as money 6 tamleung plai baht 2 slung fueng.

@@ -1,0 +1,20 @@
+# ===SAFETY_DATA=== 
+## International Safety Data for: Alpinia galanga
+* **herb_name:** Alpinia galanga
+* **source_browsed:** https://dailymed.nlm.nih.gov/dailymed/fda/fdaDrugXsl.cfm?setid=45ec77c5-5ec4-0e51-e054-00144ff8d46c&type=display
+### Drug Facts Label
+* **active_ingredients:**
+    * **Ingredient 1:**
+        * **name:** Titanium Dioxide
+        * **strength:** 2.5%
+        * **purpose:** Sunscreen
+    * **Ingredient 2:**
+        * **name:** Zinc Oxide
+        * **strength:** 6%
+        * **purpose:** Sunscreen
+* **uses:** Helps prevent sunburn. If used as directed with other sun protection measures (see ), decreases the risk of skin cancer and early skin aging caused by the sun.
+* **warnings:** Do not use on damaged or broken skin. When using this product Keep out of eyes. Rinse with water to remove. Stop use and ask a doctor if rash occurs. Keep out of reach of children. If product is swallowed, get medical help or contact a Poison Control Center right away.
+* **directions:** Apply liberally and evenly 15 minutes before sun exposure. Reapply at least every 2 hours. Use a water-resistant sunscreen if swimming or sweating.
+* **other_information:** Protect the product in this container from excessive heat and direct sun.
+* **inactive_ingredients:** 1,2-Hexanediol, Acrylates/Ammonium Methacrylate Copolymer, Allantoin, Aloe Barbadensis Leaf Juice, Alpinia Galanga Extract, Alumina, Benzyl Benzoate, Benzyl Salicylate, Biotin, Boron Nitridem, Butylene Glycol, C12-15 Alkyl Benzoate, Calendula Officinalis Flower Extract, Camellia Oleifera Leaf Extract, Caprylyl Glycol, Caprylyl Methicone, Cellulose Acetate, Cetyl Alcohol, Chamomilla Recutita (Matricaria) Flower Extract, Chlorphenesin, Citral, Citric Acid Cucumis Sativus (Cucumber) Fruit Extract, Cyclomethicone, Cyclophentasiloxane, Dimethicone , Disodium EDTA, Ethylhexyl Palmitate, Euterpe Oleracea Fruit Extract, Fragrance, Glycerin, Glyceryl Caprylate, Glyceryl Stearate, Hexyl Cinnamal, Hydrolyzed Yeast Protein, Hydroxyethyl Acylate/Sodium Acryloyldimethyl Taurate Copolymer, Iron Oxide (CI 77491), Iron Oxide (CI 77492), Iron Oxide (CI 77499), Lauryl Peg-9 Polydimethylsiloxyethyl Dimethicone, Lilial, Limonene, Niacinamide, Panthenol, PEG-100 Stearate, Pentylene Glycol, Polyhydroxystearic Acid, Polysorbate 60, Propanediol, Propylene Glycol Stearate, Propylene Glycol, Pyridoxine HCl, Sodium Citrate, Sodium Hyaluronate, Sodium PCA, Thermus Thermophilus Ferment, Triethoxycaprylylsilane, Triethoxysilylethyl Polydimethylsiloxyethyl Dimethicone, Water, Xanthan Gum
+* **questions:** Call 1.800.932.9873

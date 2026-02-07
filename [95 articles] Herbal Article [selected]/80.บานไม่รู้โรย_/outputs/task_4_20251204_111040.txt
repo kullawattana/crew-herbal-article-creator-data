@@ -1,0 +1,11 @@
+# ===COMPLIANCE_DATA=== 
+## Thai FDA Status for: Globe Amaranth
+* **herb_name:** Globe Amaranth
+### Food Registrations 
+* None found.
+### Cosmetic Registrations 
+* **Cosmetic Registration 1:**
+    * **registration_number:** 10-1-6010050392
+    * **product_name:** ซิส แม่ ซอฟท์แมทท์ ลิควิด ลิปสติก บานไม่รู้โรย / SIS'S MAE SOFT MATTE LIQUID LIPSTICK Globe amaranth
+    * **company_name:** นางสาวดารัณ ช่างฝั้นศ์(วีดา เฮอร์เบิล ออร์แกนิค คอสเมติคส์ แฟคทอรี)
+    * **status:** สิ้นอายุ

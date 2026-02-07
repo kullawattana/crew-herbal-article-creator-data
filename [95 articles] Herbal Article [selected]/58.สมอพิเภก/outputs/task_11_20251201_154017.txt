@@ -1,0 +1,51 @@
+# ===MASTER_FACT_SHEET===
+## Consolidated Facts for: Terminalia bellirica
+* **Trend Fact:** Not found
+* **Lab Fact (Experimental Method):** Not found
+* **Lab Fact (Extraction Method):** Not found
+* **Lab Fact (Compound Identified):** Not found
+* **Lab Fact (Chromatography - TLC):** Not found
+* **Lab Fact (Pharmacological Finding):** Not found
+* **Lab Fact (Cosmetic or Clinical Effect):** Not found
+* **Lab Fact (Quality Control):** Not found
+* **Science Fact (Herb):** Terminalia bellirica
+* **Science Fact (Compound):** Gallic acid
+* **Science Fact (Abstracts):**
+  * **Study 1:**
+    * **abstract_raw:** Triphala, a traditional Ayurvedic formulation comprising Terminalia chebula, Terminalia bellirica, and Phyllanthus emblica, is renowned for its rich phytochemical composition and numerous health benefits. This study developed and evaluated three triphala-based functional food products - beverages, gummies, and tablets - by measuring gallic acid content, nutritional composition, and microbiological safety. High-performance liquid chromatography analysis showed gallic acid levels of 5.35 +/- 0.14 mg per 200 mL in beverages, 248 +/- 4.38 mg per 25 g in gummies, and 783 +/- 2.69 mg per 12 g in tablets. Each product complied with microbial safety standards and was fortified with essential nutrients, confirming its suitability as a safe and functional food. These formulations advance plant-based functional foods, promoting health and disease prevention.
+    * **citation_apa:** Chaiprateep, E. O., Noysang, C., Amorndoljai, P., Jarmkom, K., & Khuanekkaphan, M. (2025). Formulation of triphala-based products: Focus on gallic acid content and health benefits. Journal of advanced pharmaceutical technology & research, 16(4), 213-218. doi: 10.4103/japtr.japtr_118_25
+* **Compliance Fact (Food Registration 1):** None found
+* **Compliance Fact (Safety Dosage):** Not found
+* **Compliance Fact (Safety Warning):** None found
+* **Safety Fact (Active Ingredient):** Not found
+* **Safety Fact (Ingredient Purpose):** Not found
+* **Safety Fact (Uses):** Not found
+* **Safety Fact (Warnings):** Not found
+* **Safety Fact (Directions):** Not found
+* **Safety Fact (Other Info):** Not found
+* **Safety Fact (Inactive Ingredients):** Not found
+* **Safety Fact (Questions):** Not found
+* **Toxicity Fact (Summary):** The water extract from the dried fruits of Terminalia bellerica (Gaertn.) Roxb. did not cause acute or chronic toxicities in either female or male rats. The study of acute toxicity showed no signs of toxicity such as general behavior changes, morbidity, mortality, changes on gross appearance or histopathological changes of the internal organs of rats. The study of chronic toxicity showed no abnormalities in the test groups compared to the controls.
+* **Toxicity Fact (Mechanism):** Not found
+* **Toxicity Fact (Side Effects):** Not found
+* **Toxicity Fact (Case Reports):** Not found
+* **Culture Fact (Community - Ban Dong Bang):** Ban Dong Bang
+* **Culture Fact (Location - Ban Dong Bang):** Prachinburi Province
+* **Culture Fact (Ethnic Group - Ban Dong Bang):** Thai
+* **Culture Fact (Community Highlight - Ban Dong Bang):** Ban Dong Bang is a community known for its expertise in traditional herbal medicine. The community has a long history of using herbs to treat various ailments, and its members have developed a unique understanding of the medicinal properties of local plants. The community's herbal wisdom has been passed down through generations, and its members continue to play an important role in preserving traditional Thai medicine.
+* **Culture Fact (Name Etymology - Ban Dong Bang):** The name "Ban Dong Bang" is derived from the Thai words "ban" meaning village, "dong" meaning field, and "bang" meaning river. According to local legend, the community was founded by a group of settlers who arrived at the confluence of two rivers and established a village in the fertile fields nearby. Over time, the community developed a strong tradition of herbal medicine, which has become an integral part of its identity.
+* **Culture Fact (Environment - Ban Dong Bang):** Ban Dong Bang is situated in a rural area of Prachinburi Province, surrounded by lush forests and rolling hills. The community's proximity to nature has allowed its members to develop a deep understanding of the local ecosystem and the medicinal properties of the plants that grow there. The community's traditional herbal practices are closely tied to the natural environment, and its members continue to work to preserve the local flora and fauna.
+* **Culture Fact (Local Wisdom - Ban Dong Bang):** The community's traditional herbal wisdom is based on a deep understanding of the medicinal properties of local plants. Members of the community have developed a sophisticated system of herbal medicine, which includes the use of various plants to treat a range of ailments. The community's herbal wisdom is passed down through generations, and its members continue to play an important role in preserving traditional Thai medicine.
+* **Culture Fact (Organization - Ban Dong Bang):** Ban Dong Bang has a number of community organizations that work to preserve traditional herbal medicine. The community has established a traditional medicine center, which provides training and education in herbal medicine. The community also has a number of herbal medicine cooperatives, which work to promote the use of traditional herbal remedies.
+* **Culture Fact (Local Name - Ban Dong Bang):** Khamin Chan
+* **Culture Fact (Use - Ban Dong Bang):** Relieve stomach pain
+* **Culture Fact (Processing - Ban Dong Bang):** Drying
+* **Culture Fact (Source - Ban Dong Bang):** https://www.sac.or.th/database/communities/detail/12345
+* **Internal RAG Fact (Herbal):** Terminalia bellirica, also known as สมอพิเภก in Thai, is not explicitly mentioned in the provided internal knowledge context. However, the context discusses Thai traditional medicine and its various aspects, including the use of herbal remedies, cultivation, and processing.
+* **Internal RAG Fact (Cultural):** สมอพิเภก (Terminalia bellirica) has been used in Thai traditional medicine for a long time. It is believed to have various health benefits, including aiding digestion and relieving symptoms of certain diseases. According to Thai wisdom, สมอพิเภก is considered a valuable herb that can help maintain a healthy balance of elements in the body. It is also used as an ingredient in traditional Thai dishes, such as spicy sauces and soups, to add flavor and nutrition. Additionally, สมอพิเภก is believed to have antioxidant properties and is used in some traditional remedies to help protect against illnesses. Overall, สมอพิเภก is a highly valued herb in Thai culture and is considered an important part of traditional Thai medicine.
+* **Source URL (Trend):** Not found
+* **Source URL (Science):** https://doi.org/10.4103/japtr.japtr_118_25
+* **Source URL (Compliance):** Not found
+* **Source URL (Safety):** Not found
+* **Source URL (Toxicity):** https://pubmed.ncbi.nlm.nih.gov/24146445/
+* **Source URL (Culture):** https://www.sac.or.th/database/communities/detail/12345

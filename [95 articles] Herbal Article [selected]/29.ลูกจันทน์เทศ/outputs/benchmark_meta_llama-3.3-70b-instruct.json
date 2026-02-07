@@ -1,0 +1,11 @@
+{
+  "model": "meta/llama-3.3-70b-instruct",
+  "herbs": "Myristica fragrans",
+  "runtime_sec": 447.95,
+  "cpu_percent": 2.4,
+  "memory_mb_change": 22.62,
+  "total_tokens": 0,
+  "prompt_tokens": 0,
+  "completion_tokens": 0,
+  "total_cost": 0.0
+}

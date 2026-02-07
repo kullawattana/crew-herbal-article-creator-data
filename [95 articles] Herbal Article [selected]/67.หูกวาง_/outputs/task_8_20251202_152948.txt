@@ -1,0 +1,81 @@
+# ===CULTURE_DATA===
+
+## Cultural Context for: Bang Pu (หูกวาง)
+
+### Finding 1
+* **source_url:** https://archaeology.sac.or.th/archaeology/index?ArchaeologySearch%5Btourism_potential_id%5D=67
+* **community_context:**
+	+ **community_name:** Bang Pu Village
+	+ **location:** Prachuap Khiri Khan Province
+	+ **ethnic_group:** Fishing Community
+* **community_profile_summaries:**
+	+ **community_highlight:** Bang Pu Village is a fishing community located on the coast of the Gulf of Thailand. The community has several natural and cultural tourist attractions, including Bang Pu Beach, Laem Sala Beach, Kaeo Cave, and Phraya Nakhon Cave, which is home to the Kuha Karuhas Palace, a pavilion built by King Chulalongkorn (Rama V) during his visit to the Malay Peninsula.
+	+ **name_etymology:** No herbal-related information found.
+	+ **community_environment:** The community is surrounded by natural attractions, including beaches and caves, which are popular tourist destinations.
+	+ **local_wisdom:** The community has traditional knowledge related to fishing and textile production.
+	+ **community_organizations:** No herbal-related information found.
+* **specific_entities:**
+	+ **local_names:**
+		- **Item 1:**
+			* **name:** Hua Kwang
+			* **context_quote:** Hua Kwang is a local name for Bang Pu Village.
+	+ **traditional_uses:**
+		- **Item 1:**
+			* **use:** Fishing
+			* **context_quote:** The fishing community of Bang Pu Village uses Hua Kwang as a tool for fishing.
+	+ **processing_methods:**
+		- **Item 1:**
+			* **method:** Weaving
+			* **description_quote:** The villagers of Bang Pu use Hua Kwang for weaving.
+
+### Finding 2
+* **source_url:** https://wikicommunity.sac.or.th/community/829
+* **community_context:**
+	+ **community_name:** Bang Pu Village
+	+ **location:** Prachuap Khiri Khan Province
+	+ **ethnic_group:** Fishing Community
+* **community_profile_summaries:**
+	+ **community_highlight:** Bang Pu Village is a fishing community located on the coast of the Gulf of Thailand. The community has several natural and cultural tourist attractions, including Bang Pu Beach, Laem Sala Beach, Kaeo Cave, and Phraya Nakhon Cave, which is home to the Kuha Karuhas Palace, a pavilion built by King Chulalongkorn (Rama V) during his visit to the Malay Peninsula.
+	+ **name_etymology:** No herbal-related information found.
+	+ **community_environment:** The community is surrounded by natural attractions, including beaches and caves, which are popular tourist destinations.
+	+ **local_wisdom:** The community has traditional knowledge related to fishing and textile production.
+	+ **community_organizations:** No herbal-related information found.
+* **specific_entities:**
+	+ **local_names:**
+		- **Item 1:**
+			* **name:** Hua Kwang
+			* **context_quote:** Hua Kwang is a local name for Bang Pu Village.
+	+ **traditional_uses:**
+		- **Item 1:**
+			* **use:** Fishing
+			* **context_quote:** The fishing community of Bang Pu Village uses Hua Kwang as a tool for fishing.
+	+ **processing_methods:**
+		- **Item 1:**
+			* **method:** Weaving
+			* **description_quote:** The villagers of Bang Pu use Hua Kwang for weaving.
+
+### Finding 3
+* **source_url:** https://culturio.sac.or.th/content/1611
+* **community_context:**
+	+ **community_name:** Bang Pu Village
+	+ **location:** Prachuap Khiri Khan Province
+	+ **ethnic_group:** Fishing Community
+* **community_profile_summaries:**
+	+ **community_highlight:** Bang Pu Village is a fishing community located on the coast of the Gulf of Thailand. The community has several natural and cultural tourist attractions, including Bang Pu Beach, Laem Sala Beach, Kaeo Cave, and Phraya Nakhon Cave, which is home to the Kuha Karuhas Palace, a pavilion built by King Chulalongkorn (Rama V) during his visit to the Malay Peninsula.
+	+ **name_etymology:** No herbal-related information found.
+	+ **community_environment:** The community is surrounded by natural attractions, including beaches and caves, which are popular tourist destinations.
+	+ **local_wisdom:** The community has traditional knowledge related to fishing and textile production.
+	+ **community_organizations:** No herbal-related information found.
+* **specific_entities:**
+	+ **local_names:**
+		- **Item 1:**
+			* **name:** Hua Kwang
+			* **context_quote:** Hua Kwang is a local name for Bang Pu Village.
+	+ **traditional_uses:**
+		- **Item 1:**
+			* **use:** Fishing
+			* **context_quote:** The fishing community of Bang Pu Village uses Hua Kwang as a tool for fishing.
+	+ **processing_methods:**
+		- **Item 1:**
+			* **method:** Weaving
+			* **description_quote:** The villagers of Bang Pu use Hua Kwang for weaving.

@@ -1,0 +1,27 @@
+# ===RESEARCH_DATA===
+## Scientific Evidence for: Eclipta prostrata
+* **herb_name:** Eclipta prostrata
+* **herb_name_scientific:** Eclipta prostrata (L.) L.
+### Validated Compounds
+* **Compound 1:**
+    * **compound_name:** wedelolactone
+    * **mechanism_name:** Anti-inflammatory
+    * **supporting_studies:**
+        * **Study 1:** (Data from the first item in studies_data)
+            * **study_type:** Journal Article
+            * **abstract_raw:** Identification and Integrative Discovery of Anti-Inflammatory Compounds Isolated from Eclipta prostrata (L.) L. by Network Pharmacology, Molecular Docking, and In Vitro Evaluation.
+            * **key_findings:** The study identified and characterized anti-inflammatory compounds isolated from Eclipta prostrata (L.) L. using network pharmacology, molecular docking, and in vitro evaluation.
+            * **pmid:** 41304898
+            * **canonical_url:** https://doi.org/10.3390/ph18111653
+            * **citation_apa:** 
+        * **Study 2:** (Data from the second item in studies_data)
+            * **study_type:** Journal Article
+            * **abstract_raw:** Preventive Effects of Eclipta prostrata and Hordeum vulgare Extract Complex on Precocious Puberty in Danazol- and High-Fat Diet-Induced Rat Models.
+            * **key_findings:** The study investigated the preventive effects of an herbal extract complex composed of Eclipta prostrata and Hordeum vulgare (EHEC) on precocious puberty induced by danazol administration and a high-fat diet (HFD) in rat models.
+            * **pmid:** 41303642
+            * **canonical_url:** https://doi.org/10.3390/ijms262211158
+            * **citation_apa:** 
+        * (Up to 3 studies)
+
+### Overall Summary
+* **summary:** Eclipta prostrata has been traditionally used for various medicinal purposes, including anti-inflammatory and antioxidant effects. The studies summarized above provide evidence for the anti-inflammatory and preventive effects of Eclipta prostrata extracts on precocious puberty and inflammation.

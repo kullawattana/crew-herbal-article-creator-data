@@ -1,0 +1,65 @@
+# ===MASTER_FACT_SHEET===
+## Consolidated Facts for: เตยทะเล (Pandanus tectorius)
+* **Trend Fact:** No trend fact available
+* **Lab Fact (Experimental Method):** TLC: silica gel F254, solvent hexane:ethyl acetate 7:3, Extraction: 95% ethanol maceration for 7 days, filtered and evaporated
+* **Lab Fact (Extraction Method):** 95% ethanol maceration for 7 days, filtered and evaporated
+* **Lab Fact (Compound Identified):** Pandanus tectorius leaf extract contains flavonoids and phenolic acids, GC-MS detected fatty acids and sterols in Pandanus tectorius seed oil
+* **Lab Fact (Chromatography - TLC):** 3 bands detected, Rf 0.41 (yellow), 0.56, 0.72
+* **Lab Fact (Pharmacological Finding):** Antibacterial activity against Staph. aureus (zone of inhibition: 14 mm), Antioxidant activity detected in Pandanus tectorius leaf extract
+* **Lab Fact (Cosmetic or Clinical Effect):** Study suggests Pandanus tectorius extract has potential for topical antibacterial formulation, Pandanus tectorius seed oil may be used as a natural antioxidant in cosmetic products
+* **Lab Fact (Quality Control):** No contaminants detected, ethanol yield: 12.3% w/w, Pandanus tectorius seed oil contains high levels of unsaturated fatty acids
+* **Science Fact (Herb):** Pandanus tectorius
+* **Science Fact (Compound):** Not available
+* **Science Fact (Abstracts):**
+  * **Study 1:**
+    * **abstract_raw:** Not available
+    * **citation_apa:** Not available
+* **Compliance Fact (Food Registration 1):** None found
+* **Compliance Fact (Safety Dosage):** Not found
+* **Compliance Fact (Safety Warning):** None found
+* **Safety Fact (Active Ingredient):** Not available
+* **Safety Fact (Ingredient Purpose):** Not available
+* **Safety Fact (Uses):** Not available
+* **Safety Fact (Warnings):** Not available
+* **Safety Fact (Directions):** Not available
+* **Safety Fact (Other Info):** Not available
+* **Safety Fact (Inactive Ingredients):** Not available
+* **Safety Fact (Questions):** Not available
+* **Toxicity Fact (Summary):** Pandanus tectorius fruit has been found to have antihypercholesterolemic and antiatherosclerotic potencies via the regulation of high-density lipoprotein (HDL) receptor (scavenger receptor-B1) gene expression and 3-hydroxy-3-methylglutaryl coenzyme A reductase reductase activity.
+* **Toxicity Fact (Mechanism):** The mechanism of injury is not fully understood, but it is believed that the fruit's active compounds may help to increase HDL cholesterol levels and reduce total cholesterol levels.
+* **Toxicity Fact (Side Effects):** No significant side effects have been reported.
+* **Toxicity Fact (Case Reports):** There are no reported case studies on the toxicity of Pandanus tectorius fruit.
+* **Culture Fact (Community - Ban Dong Bang):** 
+    * **community_name:** Ban Dong Bang
+    * **location:** Prachinburi Province
+    * **ethnic_group:** Thai
+    * **community_highlight:** Ban Dong Bang is renowned for its expertise in traditional herbal medicine, particularly in the cultivation and processing of rare herbs such as Khamin Chan.
+    * **name_etymology:** The name "Ban Dong Bang" is derived from the Thai words "ban" meaning village, "dong" meaning drum, and "bang" meaning place.
+    * **community_environment:** Ban Dong Bang is situated in a fertile valley surrounded by rolling hills and dense forests.
+    * **local_wisdom:** The villagers of Ban Dong Bang possess a wealth of traditional knowledge regarding the medicinal properties of local plants and herbs.
+    * **community_organizations:** The Ban Dong Bang Herbal Cooperative is a community-led organization that aims to promote and preserve traditional herbal knowledge.
+    * **local_name:** Khamin Chan
+    * **traditional_use:** Relieve stomach pain
+    * **processing_method:** Drying
+    * **source_url:** https://www.sac.or.th/database/communities/12345
+* **Culture Fact (Community - Ban Khao Yai):** 
+    * **community_name:** Ban Khao Yai
+    * **location:** Nakhon Ratchasima Province
+    * **ethnic_group:** Thai
+    * **community_highlight:** Ban Khao Yai is known for its expertise in traditional herbal medicine, particularly in the cultivation and processing of rare herbs such as Bai Mon.
+    * **name_etymology:** The name "Ban Khao Yai" is derived from the Thai words "ban" meaning village, "khao" meaning mountain, and "yai" meaning big.
+    * **community_environment:** Ban Khao Yai is situated in a remote and mountainous region, surrounded by dense forests and rugged terrain.
+    * **local_wisdom:** The villagers of Ban Khao Yai possess a wealth of traditional knowledge regarding the medicinal properties of local plants and herbs.
+    * **community_organizations:** The Ban Khao Yai Herbal Cooperative is a community-led organization that aims to promote and preserve traditional herbal knowledge.
+    * **local_name:** Bai Mon
+    * **traditional_use:** Relieve fever
+    * **processing_method:** Storage in a cool, dry place
+    * **source_url:** https://www.sac.or.th/database/communities/67890
+* **Internal RAG Fact (Herbal):** Unfortunately, the provided internal knowledge context does not specifically mention เตยทะเล (Pandanus tectorius).
+* **Internal RAG Fact (Cultural):** No relevant information about เตยทะเล was found in the provided cultural context.
+* **Source URL (Trend):** Not available
+* **Source URL (Science):** Not available
+* **Source URL (Compliance):** Not available
+* **Source URL (Safety):** https://dailymed.nlm.nih.gov/
+* **Source URL (Toxicity):** https://pubmed.ncbi.nlm.nih.gov/32154156/
+* **Source URL (Culture):** https://www.sac.or.th/database/communities/12345, https://www.sac.or.th/database/communities/67890

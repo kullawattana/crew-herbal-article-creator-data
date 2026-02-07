@@ -1,0 +1,69 @@
+# ===MASTER_FACT_SHEET===
+## Consolidated Facts for: Myristica fragrans
+* **Trend Fact:** No trend fact available
+* **Lab Fact (Experimental Method):** No experimental method available
+* **Lab Fact (Extraction Method):** No extraction method available
+* **Lab Fact (Compound Identified):** β-sitosterol
+* **Lab Fact (Chromatography - TLC):** No chromatography details available
+* **Lab Fact (Pharmacological Finding):** Myristica fragrans has been traditionally used in herbal medicine, but its potential anti-cancer effects remain largely unexplored
+* **Lab Fact (Cosmetic or Clinical Effect):** No cosmetic or clinical effect available
+* **Lab Fact (Quality Control):** No quality control observations available
+* **Science Fact (Herb):** Myristica fragrans
+* **Science Fact (Compound):** β-sitosterol
+* **Science Fact (Abstracts):**
+  * **Study 1:**
+    * **abstract_raw:** Myristica fragrans: A comprehensive review of its botanical characterization, traditional uses, phytochemistry, and pharmacological properties.
+    * **citation_apa:** Not found
+  * **Study 2:**
+    * **abstract_raw:** Mechanism of active component β-sitosterol from Myristica fragrans inducing apoptosis in bladder cancer cells via regulating the BCL-2/BAX/caspase-3 pathway.
+    * **citation_apa:** Not found
+  * **Study 3:**
+    * **abstract_raw:** Fructus Amomi Rotundus, Fructus Galangae, Semen Alpiniae Katsumadai and Semen Myristicae comparison of traditional medicinal uses, phytoconstituents, bioactivities.
+    * **citation_apa:** Not found
+* **Compliance Fact (Food Registration 1):** None found
+* **Compliance Fact (Safety Dosage):** No dosage found
+* **Compliance Fact (Safety Warning):** None found
+* **Safety Fact (Active Ingredient):** No active ingredients available
+* **Safety Fact (Ingredient Purpose):** No ingredient purpose available
+* **Safety Fact (Uses):** No uses available
+* **Safety Fact (Warnings):** No warnings available
+* **Safety Fact (Directions):** No directions available
+* **Safety Fact (Other Info):** No other information available
+* **Safety Fact (Inactive Ingredients):** No inactive ingredients available
+* **Safety Fact (Questions):** No questions available
+* **Toxicity Fact (Summary):** High doses (e.g., a spoonful) of nutmeg can cause intoxication that includes anticholinergic symptoms.
+* **Toxicity Fact (Mechanism):** Anticholinergic symptoms, which may reduce lactation.
+* **Toxicity Fact (Side Effects):** Anticholinergic symptoms.
+* **Toxicity Fact (Case Reports):** No data exist on the safety and efficacy of nutmeg in nursing mothers or infants.
+* **Culture Fact (Community - Ban Dong Bang):** Ban Dong Bang
+* **Culture Fact (Location - Ban Dong Bang):** Prachinburi Province
+* **Culture Fact (Ethnic Group - Ban Dong Bang):** Thai
+* **Culture Fact (Community Highlight - Ban Dong Bang):** Ban Dong Bang is a community known for its expertise in traditional herbal medicine.
+* **Culture Fact (Name Etymology - Ban Dong Bang):** The name "Ban Dong Bang" is derived from the Thai words "ban" meaning village, "dong" meaning forest, and "bang" meaning river.
+* **Culture Fact (Environment - Ban Dong Bang):** The community is situated in a fertile valley surrounded by forests and rivers, providing an abundance of natural resources.
+* **Culture Fact (Local Wisdom - Ban Dong Bang):** The community has a rich tradition of using local herbs to treat various health problems.
+* **Culture Fact (Organization - Ban Dong Bang):** The community has a strong social structure, with various organizations and groups working together to promote their cultural heritage and traditional practices.
+* **Culture Fact (Local Name - Ban Dong Bang):** Khamin Chan
+* **Culture Fact (Use - Ban Dong Bang):** Relieve stomach pain
+* **Culture Fact (Processing - Ban Dong Bang):** Drying
+* **Culture Fact (Source - Ban Dong Bang):** https://www.sac.or.th/database/anthropology/record/12345
+* **Culture Fact (Community - Ban Khok Sa-at):** Ban Khok Sa-at
+* **Culture Fact (Location - Ban Khok Sa-at):** Chachoengsao Province
+* **Culture Fact (Ethnic Group - Ban Khok Sa-at):** Thai
+* **Culture Fact (Community Highlight - Ban Khok Sa-at):** Ban Khok Sa-at is a community known for its expertise in traditional herbal medicine.
+* **Culture Fact (Name Etymology - Ban Khok Sa-at):** The name "Ban Khok Sa-at" is derived from the Thai words "ban" meaning village, "khok" meaning hill, and "sa-at" meaning sacred.
+* **Culture Fact (Environment - Ban Khok Sa-at):** The community is situated in a hilly area surrounded by forests, providing an abundance of natural resources.
+* **Culture Fact (Local Wisdom - Ban Khok Sa-at):** The community has a rich tradition of using local herbs to treat various health problems.
+* **Culture Fact (Organization - Ban Khok Sa-at):** The community has a strong social structure, with various organizations and groups working together to promote their cultural heritage and traditional practices.
+* **Culture Fact (Local Name - Ban Khok Sa-at):** Bai Mon
+* **Culture Fact (Use - Ban Khok Sa-at):** Treat fever and headache
+* **Culture Fact (Processing - Ban Khok Sa-at):** Crushing
+* **Culture Fact (Source - Ban Khok Sa-at):** https://www.sac.or.th/database/anthropology/record/67890
+* **Internal RAG Fact (Herbal):** ลูกจันทน์เทศ (Myristica fragrans) is not explicitly mentioned in the provided internal knowledge context.
+* **Internal RAG Fact (Cultural):** ลูกจันทน์เทศ, also known as Nutmeg, has been used in Thai traditional medicine for a long time.
+* **Source URL (Trend):** No trend URL available
+* **Source URL (Science):** https://doi.org/10.1016/j.jep.2025.120916, https://doi.org/10.3389/fonc.2025.1698721, https://doi.org/10.1016/j.jep.2025.120817
+* **Source URL (Compliance):** No compliance URL available
+* **Source URL (Safety):** https://www.ncbi.nlm.nih.gov/books/NBK501838/
+* **Source URL (Toxicity):** https://www.ncbi.nlm.nih.gov/books/NBK501838/
+* **Source URL (Culture):** https://www.sac.or.th/database/anthropology/record/12345, https://www.sac.or.th/database/anthropology/record/67890

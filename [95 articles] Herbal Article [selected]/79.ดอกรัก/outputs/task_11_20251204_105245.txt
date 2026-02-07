@@ -1,0 +1,53 @@
+# ===MASTER_FACT_SHEET=== 
+## Consolidated Facts for: Calotropis gigantea
+* **Trend Fact:** No trend fact available in the provided context.
+* **Lab Fact (Experimental Method):** No lab fact available in the provided context.
+* **Lab Fact (Extraction Method):** No lab fact available in the provided context.
+* **Lab Fact (Compound Identified):** No lab fact available in the provided context.
+* **Lab Fact (Chromatography - TLC):** No lab fact available in the provided context.
+* **Lab Fact (Pharmacological Finding):** No lab fact available in the provided context.
+* **Lab Fact (Cosmetic or Clinical Effect):** No lab fact available in the provided context.
+* **Lab Fact (Quality Control):** No lab fact available in the provided context.
+* **Science Fact (Herb):** Calotropis gigantea
+* **Science Fact (Compound):** Uscharin, Calotoxin, Calotropin, Calactin, and Calotropage
+* **Science Fact (Abstracts):**
+  * **Study 1:**
+    * **abstract_raw:** The dichloromethane extract from the leaves of Calotropis gigantea Linn. was strongly cytotoxic against non-small cell lung carcinoma (A549), colon carcinoma (HCT 116) and hepatocellular carcinoma (Hep G2), and non toxic to Chinese hamster ovary (AA8).
+    * **citation_apa:** Not found
+* **Compliance Fact (Food Registration 1):** registration_number=10-1-04060-5-0009, product_name=น้ำมะขามเข้มข้น ใช้สำหรับปรุงอาหาร ดอกรัก (Concentrated tamarind water for cooking Dokrak), company_name=โอเชี่ยนฟูดส์ (Ocean Foods), status=สถานะผลิตภัณฑ์(คงอยู่)\ สถานะสถานที่ (คงอยู่) (Product status: exists, Location status: exists)
+* **Compliance Fact (Food Registration 2):** registration_number=10-1-04060-5-0011, product_name=น้ำเกลือปรุงอาหาร ตรา ดอกรัก (Seasoning sauce Dokrak brand), company_name=โอเชี่ยนฟูดส์ (Ocean Foods), status=สถานะผลิตภัณฑ์(คงอยู่)\ สถานะสถานที่ (คงอยู่) (Product status: exists, Location status: exists)
+* **Compliance Fact (Food Registration 3):** registration_number=11-2-03048-6-0004, product_name=น้ำปลาผสม (ยี่ห้อ ดอกรัก) /  Fish Sauce (dokrak brand), company_name=บริษัท บี.บี.ฟู้ด โปรดิวซ์ จำกัด (B.B. Food Produce Co., Ltd.), status=สถานะผลิตภัณฑ์(คงอยู่)\ สถานะสถานที่ (คงอยู่) (Product status: exists, Location status: exists)
+* **Compliance Fact (Food Registration 4):** registration_number=11-2-03048-6-0006, product_name=น้ำจิ้มไก่ (ยี่ห้อ ดอกรัก)  /  Sweet Chili Sauce (Dokrak Brand), company_name=บริษัท บี.บี.ฟู้ด โปรดิวซ์ จำกัด (B.B. Food Produce Co., Ltd.), status=สถานะผลิตภัณฑ์(คงอยู่)\ สถานะสถานที่ (คงอยู่) (Product status: exists, Location status: exists)
+* **Compliance Fact (Food Registration 5):** registration_number=11-2-03048-6-0007, product_name=ซอสพริกไทยดำ (ยี่ห้อ ดอกรัก) /  Black Pepper Sauce (Dokrak Brand), company_name=บริษัท บี.บี.ฟู้ด โปรดิวซ์ จำกัด (B.B. Food Produce Co., Ltd.), status=สถานะผลิตภัณฑ์(คงอยู่)\ สถานะสถานที่ (คงอยู่) (Product status: exists, Location status: exists)
+* **Compliance Fact (Safety Dosage):** Not found
+* **Compliance Fact (Safety Warning):** Not found
+* **Safety Fact (Active Ingredient):** No safety fact available in the provided context.
+* **Safety Fact (Ingredient Purpose):** No safety fact available in the provided context.
+* **Safety Fact (Uses):** No safety fact available in the provided context.
+* **Safety Fact (Warnings):** No safety fact available in the provided context.
+* **Safety Fact (Directions):** No safety fact available in the provided context.
+* **Safety Fact (Other Info):** No safety fact available in the provided context.
+* **Safety Fact (Inactive Ingredients):** No safety fact available in the provided context.
+* **Safety Fact (Questions):** No safety fact available in the provided context.
+* **Toxicity Fact (Summary):** The dichloromethane extract from the leaves of Calotropis gigantea Linn. was strongly cytotoxic against non-small cell lung carcinoma (A549), colon carcinoma (HCT 116) and hepatocellular carcinoma (Hep G2), and non toxic to Chinese hamster ovary (AA8).
+* **Toxicity Fact (Mechanism):** The toxic component of the plant is Uscharin, Calotoxin, Calotropin, Calactin, and Calotropage.
+* **Toxicity Fact (Side Effects):** No side effects mentioned in the article.
+* **Toxicity Fact (Case Reports):** No case reports mentioned in the article.
+* **Culture Fact (Community - Wat Pa Daeng):** 
+    * **community_name:** Wat Pa Daeng
+    * **location:** Sukhothai Province
+    * **ethnic_group:** Unspecified
+    * **community_highlight:** No herbal-related information found.
+    * **name_etymology:** The name "Wat Pa Daeng" is mentioned in the inscriptions on the stone slabs, specifically on the first slab, line 17, and the second slab, lines 6 and 10.
+    * **community_environment:** The temple is believed to be located in the area of the ancient city of Sukhothai, although its exact location is unknown.
+    * **local_wisdom:** The inscriptions on the stone slabs provide information on the history and significance of the temple, including the appointment of a new abbot.
+    * **community_organizations:** No information found.
+    * **local_name:** Wat Pa Daeng
+    * **traditional_use:** The appointment of a new abbot, Phra Mongkhonwilat, as the abbot of Wat Kalayanavara.
+    * **processing_method:** Inscription
+    * **source_url:** https://manuscripts.sac.or.th/article-download.php?id=22, https://db.sac.or.th/inscriptions/inscribe/detail/206, https://culturio.sac.or.th/author/142/all
+* **Internal RAG Fact (Herbal):** ดอกรัก is not mentioned in the context of its specific uses, benefits, or cultivation. However, the context discusses Thai traditional medicine, its benefits, and the importance of using local herbs for health.
+* **Internal RAG Fact (Cultural):** No relevant information about ดอกรัก was found in the provided cultural context.
+* **Source URL (Compliance):** https://www.fda.moph.go.th/
+* **Source URL (Toxicity):** https://pubmed.ncbi.nlm.nih.gov/21815415/
+* **Source URL (Culture):** https://manuscripts.sac.or.th/article-download.php?id=22, https://db.sac.or.th/inscriptions/inscribe/detail/206, https://culturio.sac.or.th/author/142/all

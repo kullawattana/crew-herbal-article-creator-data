@@ -1,0 +1,59 @@
+# ===COMPLIANCE_DATA===
+## Thai FDA Status for: Mammea siamensis
+* **herb_name:** Mammea siamensis
+### Food Registrations
+* **Food Registration 1:**
+    * **registration_number:** 10-1-27427-1-0002
+    * **product_name:** เครื่องดื่มเกลือแร่ (ตรา เอ็ม-16) / ELECTROLYTE BEVERAGE (M-16 BRAND)
+    * **company_name:** ห้างหุ้นส่วนจำกัด ยู เอส พี 1984
+    * **status:** สถานะผลิตภัณฑ์(คงอยู่)\ สถานะสถานที่ (คงอยู่)
+* **Food Registration 2:**
+    * **registration_number:** 10-1-27427-1-0003
+    * **product_name:** ครื่องดื่มเกลือแร่ กลิ่นส้ม ตรา เอ็ม-16 / ELECTROLYTE BEVERAGE ORANGE FLAVOUR M-16 BRAND
+    * **company_name:** ห้างหุ้นส่วนจำกัด ยู เอส พี 1984
+    * **status:** สถานะผลิตภัณฑ์(คงอยู่)\ สถานะสถานที่ (คงอยู่)
+* **Food Registration 3:**
+    * **registration_number:** 10-1-27427-1-0004
+    * **product_name:** เครื่องดื่มเกลือแร่ กลิ่นเลม่อน  ตรา เอ็ม-16 / ELECTROLYTE BEVERAGE ARTIFICIAL LEMON FLAVOUR M-16 BRAND
+    * **company_name:** ห้างหุ้นส่วนจำกัด ยู เอส พี 1984
+    * **status:** สถานะผลิตภัณฑ์(คงอยู่)\ สถานะสถานที่ (คงอยู่)
+* **Food Registration 4:**
+    * **registration_number:** 10-1-27427-1-0005
+    * **product_name:** เครื่องดื่มเกลือแร่ กลิ่นสับปะรด ตรา เอ็ม - 16 / ELECTROLYTE BEVERAGE ARTIFICIAL PINEAPPLE FLAVOUR M-16 BRAND
+    * **company_name:** ห้างหุ้นส่วนจำกัด ยู เอส พี 1984
+    * **status:** สถานะผลิตภัณฑ์(คงอยู่)\ สถานะสถานที่ (คงอยู่)
+* **Food Registration 5:**
+    * **registration_number:** 10-1-27427-1-0006
+    * **product_name:** เครื่องดื่มเกลือแร่ กลิ่นสตรอเบอร์รี ตรา เอ็ม-16 / ELECTROLYTE BEVERAGE ARTIFICIAL STRAWBERRY FLAVOUR M-16 BRAND
+    * **company_name:** ห้างหุ้นส่วนจำกัด ยู เอส พี 1984
+    * **status:** สถานะผลิตภัณฑ์(คงอยู่)\ สถานะสถานที่ (คงอยู่)
+* **Food Registration 6:**
+    * **registration_number:** 10-1-27427-1-0007
+    * **product_name:** ยู-ไลด์ กลิ่นส้ม (เครื่องดื่มเกลือแร่ชนิดผง) / U-LYTE NATURE IDENTICAL ORANGE FLAVOURED ELECTROLYTE BEVERAGE POWDER
+    * **company_name:** ห้างหุ้นส่วนจำกัด ยู เอส พี 1984
+    * **status:** สถานะผลิตภัณฑ์(คงอยู่)\ สถานะสถานที่ (คงอยู่)
+* **Food Registration 7:**
+    * **registration_number:** 10-1-27427-1-0008
+    * **product_name:** ไอเพ่น กลิ่นส้ม (เครื่องดื่มเกลือแร่ชนิดผง) / IPEN NATURE IDENTICAL ORANGE FLAVOURED ELECTROLTE-BEVERAGE POWDER
+    * **company_name:** ห้างหุ้นส่วนจำกัด ยู เอส พี 1984
+    * **status:** สถานะผลิตภัณฑ์(คงอยู่)\ สถานะสถานที่ (คงอยู่)
+* **Food Registration 8:**
+    * **registration_number:** 10-1-27427-1-0009
+    * **product_name:** เบอร์เด็ด กลิ่นส้ม (เครื่องดื่มเกลือแร่ชนิดผง) / BERDEK NATURE IDENTICAL ORANGE FLAVOURED ELECTROLYTE-BEVERAGE POWDER
+    * **company_name:** ห้างหุ้นส่วนจำกัด ยู เอส พี 1984
+    * **status:** สถานะผลิตภัณฑ์(คงอยู่)\ สถานะสถานที่ (คงอยู่)
+* **Food Registration 9:**
+    * **registration_number:** 10-1-27427-1-0010
+    * **product_name:** ไอเพ่น กลิ่นเลม่อน (เครื่องดื่มเกลือแร่ชนิดผง) / IPEN NATURE IDENTICAL LEMON FLAVOURED ELECTROLYTE BEVERAGE POWDER
+    * **company_name:** ห้างหุ้นส่วนจำกัด ยู เอส พี 1984
+    * **status:** สถานะผลิตภัณฑ์(คงอยู่)\ สถานะสถานที่ (คงอยู่)
+* **Food Registration 10:**
+    * **registration_number:** 10-1-27427-1-0011
+    * **product_name:** เบอร์เด็ด กลิ่นเลมอน (เครื่องดื่มเกลือแร่ชนิดผง) / BERDEK NATURE IDENTICAL LEMON FLAVOURED ELECTROLYTE BEVERAGE POWDER
+    * **company_name:** ห้างหุ้นส่วนจำกัด ยู เอส พี 1984
+    * **status:** สถานะผลิตภัณฑ์(คงอยู่)\ สถานะสถานที่ (คงอยู่)
+* **Food Registration 11:**
+    * **registration_number:** 
+    * **product_name:** 
+    * **company_name:** 
+    * **status:**

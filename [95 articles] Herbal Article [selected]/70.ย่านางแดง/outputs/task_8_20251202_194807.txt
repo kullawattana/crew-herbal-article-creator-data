@@ -1,0 +1,72 @@
+# ===CULTURE_DATA=== ## Cultural Context for: Ya Na Ngern (ย่านางแดง)
+### Finding 1 * **source_url:** https://db.sac.or.th/museum/museum-detail/56 * **community_context:** 
+    * **community_name:** The Army Medical Museum 
+    * **location:** Bangkok 
+    * **ethnic_group:** Not specified 
+* **community_profile_summaries:** 
+    * **community_highlight:** The Army Medical Museum is located in the Phra Thinang Sisuthanawasa, Phaya Thai Palace, Bangkok. The museum was originally located at Pak Klong Lod and has been relocated several times to follow the unit's location. The museum is currently located on the first floor of the Phra Thinang Sisuthanawasa building, west wing. Six years ago, Sultan from the state of Johor, Malaysia, donated funds to renovate the Phra Thinang Sisuthanawasa and the Army Medical Museum. 
+    * **name_etymology:** Not found 
+    * **community_environment:** Not found 
+    * **local_wisdom:** Not found 
+    * **community_organizations:** Not found 
+* **specific_entities:** 
+    * **local_names:** 
+        * **Item 1:** 
+            * **name:** Ya Na Ngern 
+            * **context_quote:** The Ya Na Ngern tree has medicinal properties to treat various diseases caused by poison. The bark of the Ya Na Ngern tree is used to make medicine to treat patients. 
+    * **traditional_uses:** 
+        * **Item 1:** 
+            * **use:** Treat diseases 
+            * **context_quote:** The bark of the Ya Na Ngern tree is used to make medicine to treat patients. 
+    * **processing_methods:** 
+        * **Item 1:** 
+            * **method:** Grinding the bark of the Ya Na Ngern tree 
+            * **description_quote:** Grinding the bark of the Ya Na Ngern tree to make medicine to treat patients. 
+
+### Finding 2 * **source_url:** https://www.sac.or.th/portal/th/article/detail/393 * **community_context:** 
+    * **community_name:** Not specified 
+    * **location:** Not specified 
+    * **ethnic_group:** Not specified 
+* **community_profile_summaries:** 
+    * **community_highlight:** Not found 
+    * **name_etymology:** Not found 
+    * **community_environment:** Not found 
+    * **local_wisdom:** Not found 
+    * **community_organizations:** Not found 
+* **specific_entities:** 
+    * **local_names:** 
+        * **Item 1:** 
+            * **name:** Ya Na Ngern 
+            * **context_quote:** Ya Na Ngern vine 
+    * **traditional_uses:** 
+        * **Item 1:** 
+            * **use:** Treat diseases 
+            * **context_quote:** The medicine made from various herbs including Ya Na Ngern vine is used to treat various diseases. 
+    * **processing_methods:** 
+        * **Item 1:** 
+            * **method:** Grinding 
+            * **description_quote:** Grinding the herbs into powder and mixing with water to make medicine. 
+
+### Finding 3 * **source_url:** https://ethnicredb.sac.or.th/research_detail.php?id=819 * **community_context:** 
+    * **community_name:** Tai Dam 
+    * **location:** Loei 
+    * **ethnic_group:** Tai Dam 
+* **community_profile_summaries:** 
+    * **community_highlight:** Not found 
+    * **name_etymology:** Not found 
+    * **community_environment:** Not found 
+    * **local_wisdom:** Not found 
+    * **community_organizations:** Not found 
+* **specific_entities:** 
+    * **local_names:** 
+        * **Item 1:** 
+            * **name:** Ya Na Ngern 
+            * **context_quote:** Not specified 
+    * **traditional_uses:** 
+        * **Item 1:** 
+            * **use:** Not specified 
+            * **context_quote:** Not specified 
+    * **processing_methods:** 
+        * **Item 1:** 
+            * **method:** Not specified 
+            * **description_quote:** Not specified

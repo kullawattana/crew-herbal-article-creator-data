@@ -1,0 +1,52 @@
+# ===MASTER_FACT_SHEET===
+## Consolidated Facts for: Elettaria cardamomum
+* **Trend Fact:** Not found
+* **Lab Fact (Experimental Method):** Not found
+* **Lab Fact (Extraction Method):** Not found
+* **Lab Fact (Compound Identified):** Not found
+* **Lab Fact (Chromatography - TLC):** Not found
+* **Lab Fact (Pharmacological Finding):** Not found
+* **Lab Fact (Cosmetic or Clinical Effect):** Not found
+* **Lab Fact (Quality Control):** Not found
+* **Science Fact (Herb):** Elettaria cardamomum
+* **Science Fact (Compound):** Not found
+* **Science Fact (Abstracts):**
+  * **Study 1:**
+    * **abstract_raw:** Not found
+    * **citation_apa:** Not found
+* **Compliance Fact (Food Registration 1):** registration_number=เลขสารบบอาหาร, product_name=ชื่อผลิตภัณฑ์(TH), company_name=ชื่อผู้รับอนุญาต, status=สถานะผลิตภัณฑ์
+* **Compliance Fact (Food Registration 2):** registration_number=None found, product_name=None found, company_name=None found, status=None found
+* **Compliance Fact (Safety Dosage):** Not found
+* **Compliance Fact (Safety Warning):** Not found
+* **Safety Fact (Active Ingredient):** Not found
+* **Safety Fact (Ingredient Purpose):** Not found
+* **Safety Fact (Uses):** Not found
+* **Safety Fact (Warnings):** Not found
+* **Safety Fact (Directions):** Not found
+* **Safety Fact (Other Info):** Not found
+* **Safety Fact (Inactive Ingredients):** Not found
+* **Safety Fact (Questions):** Not found
+* **Toxicity Fact (Summary):** Cardamom (Elettaria cardamomum) seed oil contains primarily alpha-terpinyl acetate and 1,8-cineole, with lower amounts of alpha-phellandrene, alpha-pinene, alpha-terpineol, beta-pinene, bisabolene, borneol, camphene, 1,4-cineole, citronellol, geraniol, limonene, linalool, linalyl acetate, myrcene, nerolidol, p-cymene, sabinene, and terpinene. Cardamom has been used during breastfeeding as a treatment for infant colic, and as a galactogogue as part of an herbal mixture with some literature support for these uses. It has also been used as a postpartum tonic in Sri Lanka with antioxidant and anti-inflammatory activity attributed to its 1,8-cineole content.
+* **Toxicity Fact (Mechanism):** Not found
+* **Toxicity Fact (Side Effects):** Not found
+* **Toxicity Fact (Case Reports):** Not found
+* **Culture Fact (Community - Chong Community):** Chong Community
+* **Culture Fact (Location - Chong Community):** Chanthaburi Province
+* **Culture Fact (Ethnic Group - Chong Community):** Chong
+* **Culture Fact (Community Highlight - Chong Community):** The Chong community is known for their rich cultural heritage, particularly in their traditional arts and crafts. They have a unique way of creating ceramics and pottery, which is often used in their rituals and ceremonies. The community takes great pride in their heritage and continues to pass down their traditions to the younger generations.
+* **Culture Fact (Name Etymology - Chong Community):** The name "Kravan" is derived from the Khmer language, which was spoken by the ancient Khmer Empire. The name is believed to refer to a type of temple or shrine, which was commonly found in the Khmer Empire.
+* **Culture Fact (Environment - Chong Community):** The Chong community is located in the Chanthaburi Province, which is known for its rich natural resources and diverse wildlife. The community has a strong connection with nature and often incorporates elements of the natural world into their art and crafts.
+* **Culture Fact (Local Wisdom - Chong Community):** The Chong community has a deep understanding of the natural world and has developed a unique system of traditional medicine. They believe in living in harmony with nature and use natural remedies to cure illnesses.
+* **Culture Fact (Organization - Chong Community):** The Chong community has a number of organizations that work to preserve their cultural heritage and promote their traditional arts and crafts. These organizations provide training and support to community members, helping to ensure the continuation of their traditions.
+* **Culture Fact (Local Name - Chong Community):** Chong
+* **Culture Fact (Use - Chong Community):** Ritual ceremonies
+* **Culture Fact (Processing - Chong Community):** Ceramic production
+* **Culture Fact (Source - Chong Community):** https://seaarts.sac.or.th/artwork/836
+* **Internal RAG Fact (Herbal):** The internal knowledge context does not explicitly mention กระวาน (Elettaria cardamomum). However, it discusses the importance of traditional Thai medicine and the use of herbs in treating various ailments. The context highlights the benefits of using traditional Thai medicine, such as reducing medical expenses and promoting self-sufficiency. It also mentions the use of certain herbs, such as ใบมะกรูด (leaf of the citrus hystrix), in treating various health conditions. Additionally, the context touches on the topic of food and health, emphasizing the importance of eating seasonal foods and using them as medicine for maintaining good health.
+* **Internal RAG Fact (Cultural):** Cardamom, also known as กระวาน in Thai, has been used for centuries in traditional Thai medicine and cooking. It is believed to have various health benefits, including aiding digestion and relieving symptoms of indigestion and nausea. In Thai cuisine, cardamom is often used as a spice and is a key ingredient in many dishes, including curries and desserts. It is also used in traditional Thai medicine to treat a range of ailments, including respiratory problems and skin conditions. Additionally, cardamom is believed to have antioxidant and anti-inflammatory properties, which can help to protect against cell damage and reduce inflammation. Overall, cardamom is a versatile and valuable herb that has been used for centuries in Thai culture for its culinary, medicinal, and cultural significance.
+* **Source URL (Trend):** Not found
+* **Source URL (Science):** Not found
+* **Source URL (Compliance):** https://www.fda.moph.go.th/
+* **Source URL (Safety):** https://dailymed.nlm.nih.gov/
+* **Source URL (Toxicity):** https://www.ncbi.nlm.nih.gov/books/n/lactmed/cardamom/?report=reader
+* **Source URL (Culture):** https://seaarts.sac.or.th/artwork/836

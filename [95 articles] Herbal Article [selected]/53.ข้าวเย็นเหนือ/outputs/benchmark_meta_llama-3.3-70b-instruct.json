@@ -1,0 +1,11 @@
+{
+  "model": "meta/llama-3.3-70b-instruct",
+  "herbs": "Smilax corbularia",
+  "runtime_sec": 506.49,
+  "cpu_percent": 0.8,
+  "memory_mb_change": 27.28,
+  "total_tokens": 0,
+  "prompt_tokens": 0,
+  "completion_tokens": 0,
+  "total_cost": 0.0
+}

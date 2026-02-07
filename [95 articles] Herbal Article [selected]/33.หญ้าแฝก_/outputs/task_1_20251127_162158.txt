@@ -1,0 +1,15 @@
+# ===TRENDS_DATA===
+### Finding 1
+* **herb_name:** Vetiver
+* **wellness_context_summary:** Vetiver has been used for its health benefits, including its ability to induce tranquility and reduce stress. It has also been used in traditional medicine for its anti-inflammatory and antimicrobial properties. Vetiver oil is extracted from the roots of the plant and is used in cosmetics and aromatherapy.
+* **source_url:** https://www.vetiver.org/ICV6_PROC/RESEARCH%20AND%20INNOVATION/7%20D%20Lukiwati%20Paper.pdf
+
+### Finding 2
+* **herb_name:** Vetiver
+* **wellness_context_summary:** Vetiver sandals are made from natural vetiver roots and are believed to have cooling and therapeutic properties. Wearing vetiver sandals is believed to promote relaxation and reduce stress.
+* **source_url:** https://www.yaazh.org/products/vetiver-herbal-slipper?srsltid=AfmBOoq4BHsWxJP8ZloFA2pIpd0sMPA158V6XBRscr-uI-NyTobhm9nm
+
+### Finding 3
+* **herb_name:** Vetiver
+* **wellness_context_summary:** Vetiver essential oil has been used in meditation to promote relaxation and reduce stress. It is also used in aromatherapy to promote mental wellness.
+* **source_url:** https://lokamritoil.org/blogs/news/meditation-combined-with-natural-oils-for-mental-wellness?srsltid=AfmBOopitdiWwRB6raqgZxt-hZbPoKNUOiaF32cTOrRTbIDM0GTJesdy

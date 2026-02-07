@@ -1,0 +1,84 @@
+# ===CULTURE_DATA===
+
+## Cultural Context for: Ban San Bua Bok (บ้านสันบัวบก)
+
+### Finding 1
+
+* **source_url:** https://wikicommunity.sac.or.th/community/639
+* **community_context:**
+	+ **community_name:** Ban San Bua Bok
+	+ **location:** Phayao
+	+ **ethnic_group:** Lanna
+* **community_profile_summaries:**
+	+ **community_highlight:** Ban San Bua Bok is a community with a rich history of settlement, dating back to the late 19th century. The community is known for its traditional practices, including the use of herbal medicine and the production of handicrafts. The community is also home to a number of important cultural sites, including the Wat Ban San Bua Bok temple.
+	+ **name_etymology:** The name "Ban San Bua Bok" is derived from the Thai words "ban" meaning "village", "san" meaning "hill", and "bua bok" meaning "lotus flower". The name reflects the community's location on a hill overlooking a lake, where lotus flowers are abundant.
+	+ **community_environment:** Ban San Bua Bok is situated in a rural area of Phayao province, surrounded by hills and forests. The community is known for its natural beauty, with a number of waterfalls and hiking trails in the surrounding area.
+	+ **local_wisdom:** The community has a strong tradition of local wisdom, with many residents possessing knowledge of traditional medicine and handicrafts. The community is also home to a number of skilled artisans, who produce a range of handicrafts, including textiles and woodcarvings.
+	+ **community_organizations:** Ban San Bua Bok has a number of community organizations, including a village committee and a women's group. These organizations work to promote the community's interests and provide support to residents.
+* **specific_entities:**
+	+ **local_names:**
+		- **Item 1:**
+			- **name:** Bua Bok
+			- **context_quote:** "Ban San Bua Bok has a characteristic of being a forested area with many trees and bamboo groves, especially with lotus flowers blooming in abundance, which is an important reason for the naming of the village in the future."
+	+ **traditional_uses:**
+		- **Item 1:**
+			- **use:** Use of forest resources
+			- **context_quote:** "Ban San Bua Bok has a history of settlement that follows the migration of families or groups of relatives from nearby areas, such as districts in Chiang Rai province, especially from the Mae Kog River, to settle in the Thai-Lao border area in Muang Phayao district."
+	+ **processing_methods:**
+		- **Item 1:**
+			- **method:** Basketry
+			- **description_quote:** "Ban San Bua Bok has a history of settlement that follows the migration of families or groups of relatives from nearby areas, such as districts in Chiang Rai province, especially from the Mae Kog River, to settle in the Thai-Lao border area in Muang Phayao district."
+
+### Finding 2
+
+* **source_url:** https://wikicommunity.sac.or.th/community/2720
+* **community_context:**
+	+ **community_name:** Ban Nangam
+	+ **location:** Sa Kaeo
+	+ **ethnic_group:** Isaan
+* **community_profile_summaries:**
+	+ **community_highlight:** Ban Nangam is a community with a rich history of settlement, dating back to the late 19th century. The community is known for its traditional practices, including the use of herbal medicine and the production of handicrafts.
+	+ **name_etymology:** The name "Ban Nangam" is derived from the Thai words "ban" meaning "village" and "nangam" meaning "beautiful".
+	+ **community_environment:** Ban Nangam is situated in a rural area of Sa Kaeo province, surrounded by hills and forests.
+	+ **local_wisdom:** The community has a strong tradition of local wisdom, with many residents possessing knowledge of traditional medicine and handicrafts.
+	+ **community_organizations:** Ban Nangam has a number of community organizations, including a village committee and a women's group.
+* **specific_entities:**
+	+ **local_names:**
+		- **Item 1:**
+			- **name:** Nangam
+			- **context_quote:** "Ban Nangam has a history of settlement that follows the migration of families or groups of relatives from nearby areas, such as districts in Prachinburi province, especially from the Prachantakham area, to settle in the Thai-Cambodian border area in Watthana Nakhon district."
+	+ **traditional_uses:**
+		- **Item 1:**
+			- **use:** Use of forest resources
+			- **context_quote:** "Ban Nangam has a history of settlement that follows the migration of families or groups of relatives from nearby areas, such as districts in Prachinburi province, especially from the Prachantakham area, to settle in the Thai-Cambodian border area in Watthana Nakhon district."
+	+ **processing_methods:**
+		- **Item 1:**
+			- **method:** Basketry
+			- **description_quote:** "Ban Nangam has a history of settlement that follows the migration of families or groups of relatives from nearby areas, such as districts in Prachinburi province, especially from the Prachantakham area, to settle in the Thai-Cambodian border area in Watthana Nakhon district."
+
+### Finding 3
+
+* **source_url:** https://manuscripts.sac.or.th/article-download.php?id=46
+* **community_context:**
+	+ **community_name:** Ban San Bua Bok
+	+ **location:** Phayao
+	+ **ethnic_group:** Lanna
+* **community_profile_summaries:**
+	+ **community_highlight:** Ban San Bua Bok is a community with a rich history of settlement, dating back to the late 19th century. The community is known for its traditional practices, including the use of herbal medicine and the production of handicrafts.
+	+ **name_etymology:** The name "Ban San Bua Bok" is derived from the Thai words "ban" meaning "village", "san" meaning "hill", and "bua bok" meaning "lotus flower".
+	+ **community_environment:** Ban San Bua Bok is situated in a rural area of Phayao province, surrounded by hills and forests.
+	+ **local_wisdom:** The community has a strong tradition of local wisdom, with many residents possessing knowledge of traditional medicine and handicrafts.
+	+ **community_organizations:** Ban San Bua Bok has a number of community organizations, including a village committee and a women's group.
+* **specific_entities:**
+	+ **local_names:**
+		- **Item 1:**
+			- **name:** Bua Bok
+			- **context_quote:** "Ban San Bua Bok has a characteristic of being a forested area with many trees and bamboo groves, especially with lotus flowers blooming in abundance, which is an important reason for the naming of the village in the future."
+	+ **traditional_uses:**
+		- **Item 1:**
+			- **use:** Use of forest resources
+			- **context_quote:** "Ban San Bua Bok has a history of settlement that follows the migration of families or groups of relatives from nearby areas, such as districts in Chiang Rai province, especially from the Mae Kog River, to settle in the Thai-Lao border area in Muang Phayao district."
+	+ **processing_methods:**
+		- **Item 1:**
+			- **method:** Basketry
+			- **description_quote:** "Ban San Bua Bok has a history of settlement that follows the migration of families or groups of relatives from nearby areas, such as districts in Chiang Rai province, especially from the Mae Kog River, to settle in the Thai-Lao border area in Muang Phayao district."

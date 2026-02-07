@@ -1,0 +1,28 @@
+# ===SAFETY_DATA=== 
+## International Safety Data for: Terminalia catappa
+* **herb_name:** Terminalia catappa 
+* **source_browsed:** https://dailymed.nlm.nih.gov/dailymed/fda/fdaDrugXsl.cfm?setid=21ab0a76-7f26-4bbe-8ed5-21d9b1bd746b&type=display
+### Drug Facts Label
+* **active_ingredients:**
+    * **Ingredient 1:**
+        * **name:** Avobenzone
+        * **strength:** 2.0%
+        * **purpose:** Sunscreen
+    * **Ingredient 2:**
+        * **name:** Octinoxate
+        * **strength:** 6.0%
+        * **purpose:** Sunscreen
+    * **Ingredient 3:**
+        * **name:** Octocrylene
+        * **strength:** 2.7%
+        * **purpose:** Sunscreen
+    * **Ingredient 4:**
+        * **name:** Oxybenzone
+        * **strength:** 2.0%
+        * **purpose:** Sunscreen
+* **uses:** helps prevent sunburn, if used as directed with other sun protection measures (see Directions), decreases the risk of skin cancer and early skin aging caused by the sun.
+* **warnings:** For external use only. Do not use on damaged or broken skin. When using this product keep out of eyes. Rinse with water to remove. Stop use and ask a doctor if rash occurs. Keep out of reach of children. If swallowed, get medical help or contact a Poison Control Center right away.
+* **directions:** For sunscreen use: apply liberally 15 minutes before sun exposure, use a water resistant sunscreen if swimming or sweating, reapply at least every 2 hours.
+* **other_information:** Protect the product in this container from excessive heat and direct sun.
+* **inactive_ingredients:** Water, Helianthus Annuus (Sunflower) Seed Oil, Butylene Glycol, Cetearyl Alcohol, Squalane, Isocetyl Stearate, Potassium Cetyl Phosphate, PPG-2 Myristyl Ether Propionate, Sorbitan Stearate, Methylsilanol Hydroxyproline Aspartate, Tocopheryl Acetate, sh-Oligopeptide-1, sh-Polypeptide-1, Phenoxyethanol, Terminalia Catappa Leaf Extract, Bisabolol, Dimethicone, Polysorbate 60, Magnesium Aluminum Silicate, Carbomer, Aminomethyl Propanol, Sodium PCA, Allantoin, Caprylyl Glycol, Chlorphenesin, Aloe Barbadensis Leaf Juice, Sambucus Nigra Flower Extract, Disodium EDTA, Fragrance, Glycolipids, PVP, Tannic Acid, Hydrolyzed Soy Flour, Sodium Hyaluronate, Geraniol, Citronellol. May Contain (+/-): Red 33.
+* **questions:** Call 1-866-986-7083, M – F 8am – 5pm CST.

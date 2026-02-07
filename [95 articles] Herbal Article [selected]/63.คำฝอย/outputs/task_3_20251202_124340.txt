@@ -1,0 +1,34 @@
+# ===RESEARCH_DATA===
+## Scientific Evidence for: Carthamus tinctorius
+* **herb_name:** Carthamus tinctorius
+* **herb_name_scientific:** Carthamus tinctorius
+
+### Validated Compounds
+* **Compound 1:**
+    * **compound_name:** not_found
+    * **mechanism_name:** not_found
+    * **supporting_studies:**
+        * **Study 1:** 
+            * **study_type:** not_found
+            * **abstract_raw:** Genome-Wide Screening for MYB Transcription Factors Involved in Flavonoid Glycoside Biosynthesis in Carthamus tinctorius L.
+            * **key_findings:** not_found
+            * **pmid:** 41300828
+            * **canonical_url:** https://pubmed.ncbi.nlm.nih.gov/41300828/
+            * **citation_apa:** not_found
+        * **Study 2:** 
+            * **study_type:** not_found
+            * **abstract_raw:** Safflower gas exchange, leaf water potential, and water-saving irrigation in surface and subsurface drip irrigation systems at different lateral spacings.
+            * **key_findings:** not_found
+            * **pmid:** 41291412
+            * **canonical_url:** https://pubmed.ncbi.nlm.nih.gov/41291412/
+            * **citation_apa:** not_found
+        * **Study 3:** 
+            * **study_type:** not_found
+            * **abstract_raw:** Emerging molecular targets and natural therapeutics for idiopathic pulmonary fibrosis: Insights into mechanisms, risks, and COVID-19 links.
+            * **key_findings:** not_found
+            * **pmid:** 41242507
+            * **canonical_url:** https://pubmed.ncbi.nlm.nih.gov/41242507/
+            * **citation_apa:** not_found
+
+### Overall Summary
+* **summary:** not_found

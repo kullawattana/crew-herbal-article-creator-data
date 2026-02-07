@@ -1,0 +1,16 @@
+# ===AUDIT_DATA_INTEGRITY_REPORT===
+*   **Collaboration Robustness (Data Loss):** 68.61%
+*   **Explanation Clarity (Hallucination/Handling):** 97.82%
+*   **Dropped Entities (Facts in Fact Sheet but not Article):**
+    *   Trend Fact: The nuance that Bitter Bean is *not explicitly mentioned* in the context of wellness policies that help older populations stay active.
+    *   Trend Fact: The nuance that Bitter Bean is *not explicitly mentioned* in the context of geothermal hot springs sanitation practices.
+    *   Compliance Fact (Food Registrations): All 10 specific registration details, including registration numbers, product names, company names, and statuses. For example, `registration_number=10-1-02358-1-0437`, `product_name=สะตอแกะ ตัดแต่ง`, `company_name=บริษัท ซีพี แอ็กซ์ตร้า จำกัด (มหาชน) สาขา กัลปพฤกษ์`, `status=สถานะผลิตภัณฑ์(คงอยู่)\ สถานะสถานที่ (คงอยู่)`, and the nine other similar detailed entries were omitted.
+    *   Culture Fact (Location - Thai Community): Northern Region.
+*   **Hallucinated Entities (Facts in Article but not Fact Sheet):**
+    *   The claim that "The growing interest in wellness policies that help older populations stay active and the importance of proper sanitation practices in geothermal hot springs also present opportunities for Parkia speciosa-based products." (The Master Fact Sheet explicitly states that Bitter Bean is *not explicitly mentioned* in these contexts, making the direct assertion of "opportunities" a hallucination).
+*   **Feedback:**
+    The audit reveals a strong performance in transferring core scientific and toxicity data, including the compound 1,2,4-Trithiolane, pharmacological findings, a comprehensive list of side effects, and details from case reports. All scientific abstract summaries, their corresponding APA citations, and all provided source URLs were accurately included in the Final Article. The handling of "Not Found" entries from the Fact Sheet was largely successful; these were either appropriately omitted or correctly identified as constraints within the strategic analysis.
+
+    However, the article suffered from significant data loss in the compliance section, failing to transfer any of the 10 specific food registration numbers, product names, company names, or statuses, instead providing only a generalized statement about their existence. A specific cultural location detail ("Northern Region" for the Thai Community) was also dropped.
+
+    Regarding clarity, one notable hallucination was identified: the article asserted direct "opportunities for Parkia speciosa-based products" stemming from wellness policies for older populations and geothermal hot springs sanitation. This contradicts the Master Fact Sheet, which explicitly stated that Bitter Bean is *not explicitly mentioned* in these contexts, indicating an unsupported interpretive leap by the article.

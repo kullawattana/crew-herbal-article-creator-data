@@ -1,0 +1,75 @@
+# ===MASTER_FACT_SHEET=== 
+## Consolidated Facts for: Bauhinia strychnifolia
+* **Trend Fact:** Not specified
+* **Lab Fact (Experimental Method):** Not found
+* **Lab Fact (Extraction Method):** Not found
+* **Lab Fact (Compound Identified):** Not found
+* **Lab Fact (Chromatography - TLC):** Not found
+* **Lab Fact (Pharmacological Finding):** Not found
+* **Lab Fact (Cosmetic or Clinical Effect):** Not found
+* **Lab Fact (Quality Control):** Not found
+* **Science Fact (Herb):** Bauhinia strychnifolia
+* **Science Fact (Compound):** Not specified
+* **Science Fact (Abstracts):**
+  * **Study 1:**
+    * **abstract_raw:** The stem and root of Bauhinia strychnifolia Craib (Fabaceae family) have been traditionally used in Thailand to treat fever, alcoholic toxication, allergy and cancer. An EtOH extract of Bauhinia strychnifolia showed good inhibitory activity against several cancer cell lines including HT-29, HeLa, MCF-7, and A549.
+    * **citation_apa:** Not found
+* **Compliance Fact (Food Registration 1):** registration_number=39-1-05865-4-0063, product_name=ชาสมุนไพร ตรา ย่านางแดง / Herbal tea Ya Nang Daeng brand, company_name=บริษัท กอเงินออร์แกนิคฟาร์ม จำกัด, status=สถานะผลิตภัณฑ์(คงอยู่)\ สถานะสถานที่ (คงอยู่)
+* **Compliance Fact (Safety Dosage):** Not found
+* **Compliance Fact (Safety Warning):** Not found
+* **Safety Fact (Active Ingredient):** Not found
+* **Safety Fact (Ingredient Purpose):** Not found
+* **Safety Fact (Uses):** Not found
+* **Safety Fact (Warnings):** Not found
+* **Safety Fact (Directions):** Not found
+* **Safety Fact (Other Info):** Not found
+* **Safety Fact (Inactive Ingredients):** Not found
+* **Safety Fact (Questions):** Not found
+* **Toxicity Fact (Summary):** The stem and root of Bauhinia strychnifolia Craib (Fabaceae family) have been traditionally used in Thailand to treat fever, alcoholic toxication, allergy and cancer. An EtOH extract of Bauhinia strychnifolia showed good inhibitory activity against several cancer cell lines including HT-29, HeLa, MCF-7, and A549.
+* **Toxicity Fact (Mechanism):** Not found
+* **Toxicity Fact (Side Effects):** Not found
+* **Toxicity Fact (Case Reports):** Not found
+* **Culture Fact (Community - The Army Medical Museum):** The Army Medical Museum 
+* **Culture Fact (Location - The Army Medical Museum):** Bangkok 
+* **Culture Fact (Ethnic Group - The Army Medical Museum):** Not specified 
+* **Culture Fact (Community Highlight - The Army Medical Museum):** The Army Medical Museum is located in the Phra Thinang Sisuthanawasa, Phaya Thai Palace, Bangkok. The museum was originally located at Pak Klong Lod and has been relocated several times to follow the unit's location. The museum is currently located on the first floor of the Phra Thinang Sisuthanawasa building, west wing. Six years ago, Sultan from the state of Johor, Malaysia, donated funds to renovate the Phra Thinang Sisuthanawasa and the Army Medical Museum.
+* **Culture Fact (Name Etymology - The Army Medical Museum):** Not found 
+* **Culture Fact (Environment - The Army Medical Museum):** Not found 
+* **Culture Fact (Local Wisdom - The Army Medical Museum):** Not found 
+* **Culture Fact (Organization - The Army Medical Museum):** Not found 
+* **Culture Fact (Local Name - The Army Medical Museum):** Ya Na Ngern 
+* **Culture Fact (Use - The Army Medical Museum):** Treat diseases 
+* **Culture Fact (Processing - The Army Medical Museum):** Grinding the bark of the Ya Na Ngern tree 
+* **Culture Fact (Source - The Army Medical Museum):** https://db.sac.or.th/museum/museum-detail/56
+* **Culture Fact (Community - Not specified):** Not specified 
+* **Culture Fact (Location - Not specified):** Not specified 
+* **Culture Fact (Ethnic Group - Not specified):** Not specified 
+* **Culture Fact (Community Highlight - Not specified):** Not found 
+* **Culture Fact (Name Etymology - Not specified):** Not found 
+* **Culture Fact (Environment - Not specified):** Not found 
+* **Culture Fact (Local Wisdom - Not specified):** Not found 
+* **Culture Fact (Organization - Not specified):** Not found 
+* **Culture Fact (Local Name - Not specified):** Ya Na Ngern 
+* **Culture Fact (Use - Not specified):** Treat diseases 
+* **Culture Fact (Processing - Not specified):** Grinding 
+* **Culture Fact (Source - Not specified):** https://www.sac.or.th/portal/th/article/detail/393
+* **Culture Fact (Community - Tai Dam):** Tai Dam 
+* **Culture Fact (Location - Tai Dam):** Loei 
+* **Culture Fact (Ethnic Group - Tai Dam):** Tai Dam 
+* **Culture Fact (Community Highlight - Tai Dam):** Not found 
+* **Culture Fact (Name Etymology - Tai Dam):** Not found 
+* **Culture Fact (Environment - Tai Dam):** Not found 
+* **Culture Fact (Local Wisdom - Tai Dam):** Not found 
+* **Culture Fact (Organization - Tai Dam):** Not found 
+* **Culture Fact (Local Name - Tai Dam):** Ya Na Ngern 
+* **Culture Fact (Use - Tai Dam):** Not specified 
+* **Culture Fact (Processing - Tai Dam):** Not specified 
+* **Culture Fact (Source - Tai Dam):** https://ethnicredb.sac.or.th/research_detail.php?id=819
+* **Internal RAG Fact (Herbal):** ย่านางแดง (Bauhinia strychnifolia) is not explicitly mentioned in the provided internal knowledge context. However, the context discusses Thai traditional medicine, its benefits, and the use of herbal remedies in Thai culture. According to the context, traditional Thai medicine is considered outdated and not suitable for modern times **JSON: [Herbs_traditional_Thai_medicine_in_the_lives_of_Thai_people.json, p.N/A]**. Nevertheless, it is acknowledged that traditional Thai medicine can be effective in treating minor ailments and reducing medical expenses **JSON: [Herbs_traditional_Thai_medicine_in_the_lives_of_Thai_people.json, p.N/A]**.
+* **Internal RAG Fact (Cultural):** Bauhinia strychnifolia, also known as ย่านางแดง, has been used in Thai traditional medicine for a long time. It is believed to have healing properties and is used to treat various ailments. According to Thai wisdom, Bauhinia strychnifolia has been used to make medicine for many years, and its use has been passed down from ancient times to the present day. It is considered a valuable herb in Thai culture and is used to promote overall health and well-being. Additionally, it is believed to have properties that can help to balance the elements in the body and promote digestion. However, it is recommended to consume it in moderation and in balance with other foods to avoid any adverse effects. **JSON: [Nutrition_in_Thai_wisdom.json, p.N/A]**
+* **Source URL (Trend):** Not specified
+* **Source URL (Science):** https://pubmed.ncbi.nlm.nih.gov/24120967/
+* **Source URL (Compliance):** Not specified
+* **Source URL (Safety):** Not specified
+* **Source URL (Toxicity):** https://pubmed.ncbi.nlm.nih.gov/24120967/
+* **Source URL (Culture):** https://db.sac.or.th/museum/museum-detail/56, https://www.sac.or.th/portal/th/article/detail/393, https://ethnicredb.sac.or.th/research_detail.php?id=819

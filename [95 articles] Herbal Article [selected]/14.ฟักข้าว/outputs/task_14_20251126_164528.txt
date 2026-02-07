@@ -1,0 +1,30 @@
+# ===AUDIT_DATA_INTEGRITY_REPORT===
+*   **Collaboration Robustness (Data Loss):** 63.04%
+*   **Explanation Clarity (Hallucination/Handling):** 84.00%
+*   **Dropped Entities (Facts in Fact Sheet but not Article):**
+    *   Compliance Fact (Food Registration 1): "No compliance fact available."
+    *   Compliance Fact (Food Registration 2): "No compliance fact available."
+    *   Compliance Fact (Safety Dosage): "No compliance fact available."
+    *   Compliance Fact (Safety Warning): "No compliance fact available."
+    *   Safety Fact (Active Ingredient): "No safety fact available."
+    *   Safety Fact (Ingredient Purpose): "No safety fact available."
+    *   Safety Fact (Uses): "No safety fact available."
+    *   Safety Fact (Warnings): "No safety fact available."
+    *   Safety Fact (Directions): "No safety fact available."
+    *   Safety Fact (Other Info): "No safety fact available."
+    *   Safety Fact (Inactive Ingredients): "No safety fact available."
+    *   Safety Fact (Questions): "No safety fact available."
+    *   Toxicity Fact (Mechanism): "The mechanism of cell death induced by the aril extract was found to be both apoptotic and necrotic, with typical biochemical and morphological characteristics."
+    *   Toxicity Fact (Case Reports): "No case reports were mentioned in the study."
+    *   Culture Fact (Wat Phra Mahathat Woramahawihan - processing_method): "Gilding"
+    *   Culture Fact (Ban Sop Lan - processing_method): "Planting"
+    *   Culture Fact (Pha To - processing_method): "Planting"
+*   **Hallucinated Entities (Facts in Article but not Fact Sheet):**
+    *   Inference/Interpretation: "suggesting that the extract may be safe for use." (from article's "Safety, Regulatory, and Constraints" section)
+    *   General Advice: "To ensure safety, it is crucial to develop and manufacture products in accordance with good manufacturing practices (GMPs) and conduct adequate safety testing to minimize the risk of adverse effects." (from article's "Safety, Regulatory, and Constraints" section)
+    *   Strategic Suggestion: "The product could be positioned as a natural, culturally inspired wellness supplement, appealing to consumers seeking traditional and organic products." (from article's "Strategic Analysis and Product Opportunities" section)
+    *   General Advice: "To mitigate potential safety and toxicity risks, the product development process should prioritize rigorous safety testing, GMP compliance, and transparent labeling." (from article's "Strategic Analysis and Product Opportunities" section)
+*   **Feedback:**
+    The **Collaboration Robustness** score of 63.04% indicates a significant data loss. While the article successfully transferred core scientific, toxicity summary, and cultural location/use facts, it dropped 17 distinct facts from the Master Fact Sheet. This includes specific cultural processing methods and the toxicity mechanism and case report findings. Crucially, the article failed to explicitly state the absence of information for all "No compliance fact available" (4 instances) and "No safety fact available" (8 instances) entries, instead opting for omission. Although it did not invent these facts, the explicit "not found" status from the fact sheet was not conveyed, representing a loss of a critical finding.
+
+    The **Explanation Clarity** score of 84.00% reflects that the article largely avoided inventing core scientific, cultural, or regulatory *facts* about Momordica cochinchinensis itself. However, it did introduce four instances of interpretive statements, general advice, and strategic suggestions that were not directly supported by explicit facts in the Master Fact Sheet. While these might be reasonable inferences or common industry practices, they constitute "hallucinations" as they do not originate from the provided source of truth. The article correctly handled explicit "not found" statements for Trend and Internal RAG facts by stating their absence, demonstrating good handling in those specific cases.

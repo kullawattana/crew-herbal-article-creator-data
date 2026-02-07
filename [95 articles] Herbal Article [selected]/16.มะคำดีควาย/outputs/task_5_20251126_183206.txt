@@ -1,0 +1,28 @@
+# ===SAFETY_DATA=== 
+## International Safety Data for: Sapindus rarak
+* **herb_name:** Sapindus rarak 
+* **source_browsed:** https://dailymed.nlm.nih.gov/dailymed/fda/fdaDrugXsl.cfm?setid=29ac7183-e575-506e-e063-6394a90a77c9&type=display
+### Drug Facts Label
+* **active_ingredients:**
+    * **Ingredient 1:**
+        * **name:** OXYBENZONE
+        * **strength:** 4 mg in 1g
+        * **purpose:** Sunscreen
+    * **Ingredient 2:**
+        * **name:** OCTINOXATE
+        * **strength:** 7.5 mg in 1g
+        * **purpose:** Sunscreen
+    * **Ingredient 3:**
+        * **name:** OCTISALATE
+        * **strength:** 4.75 mg in 1g
+        * **purpose:** Sunscreen
+    * **Ingredient 4:**
+        * **name:** AVOBENZONE
+        * **strength:** 2.85 mg in 1g
+        * **purpose:** Sunscreen
+* **uses:** helps prevent sunburn, if used as directed with other sun protection measures (see Directions), decreases the risk of skin cancer and skin aging caused by the sun
+* **warnings:** For external use only, Do not use on damaged broken skin, When using this product keep out of eyes. Rinse with water to remove, Stop use and ask a doctor if rash occurs., Keep out of reach of children., If swallowed, get medical help or contact a Poison Control Center right away.
+* **directions:** apply liberally 15 minutes before sun exposure, children less than 6 months of age: ask a doctor, reapply at least every 2 hours, use a water resistant sunscreen if swimming or sweating
+* **other_information:** protect the product in this container from excessive heat and direct sun, the product may stain certain types of fabrics
+* **inactive_ingredients:** WATER, GLYCERIN, SILICA, DIMETHICONE, STEARIC ACID, STEARYL ALCOHOL, NONENOL, SAPINDUS RARAK FRUIT EXTRACT, POUZOLZIA PENTANDRA EXTRACT, METHOXYBENZOYL METHYLSULFONYL OXOPIPERIDINYL PIPERAZINECARBOXAMIDE, THIAZOLYLALANINE, TRISILOXANE, DIMETHICONOL, MYRISTYL MYRISTATE, MALTODEXTRIN, PEG-100 STEARATE, CAPRYLYL GLYCOL, GLYCERYL STEARATE, SODIUM POLYACRYLATE, POLYURETHANE-40, POTASSIUM HYDROXIDE, ACRYLATES/C10-30 ALKYL ACRYLATE CROSSPOLYMER, DISODIUM EDTA, 1,2-HEXANEDIOL, FRAGRANCE
+* **questions:** Not found

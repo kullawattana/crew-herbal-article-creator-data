@@ -1,0 +1,81 @@
+# ===CULTURE_DATA===
+
+## Cultural Context for: Dok Khao (ดอกโสน)
+
+### Finding 1
+* **source_url:** https://southeastasia.sac.or.th/subject.php?c_id=2&sj_id=37
+* **community_context:**
+    * **community_name:** Klong Pho Community
+    * **location:** Sam Ruean Subdistrict, Bang Pa-in District, Ayutthaya Province
+    * **ethnic_group:** Local Thai
+* **community_profile_summaries:**
+    * **community_highlight:** The Klong Pho community is known for its traditional way of life, with a strong emphasis on agriculture and water-based transportation. The community is surrounded by natural canals and waterways, making it an ideal location for farming and fishing.
+    * **name_etymology:** The name "Klong Pho" is derived from the Thai word for "canal," which reflects the community's reliance on water-based transportation and agriculture.
+    * **community_environment:** The community is situated in a low-lying area with a high water table, making it prone to flooding during the rainy season. However, this also makes it an ideal location for farming and fishing.
+    * **local_wisdom:** The community has a rich tradition of folk wisdom, with many residents possessing knowledge of traditional medicine, agriculture, and craftsmanship.
+    * **community_organizations:** The community has several organizations that promote traditional culture and way of life, including the Klong Pho Community Development Center.
+* **specific_entities:**
+    * **local_names:**
+        * **Item 1:**
+            * **name:** Dok Khao (ดอกโสน)
+            * **context_quote:** Dok Khao is a type of flower that is commonly found in the Klong Pho community.
+    * **traditional_uses:**
+        * **Item 1:**
+            * **use:** Dok Khao is used as an ingredient in traditional desserts.
+            * **context_quote:** Dok Khao is an essential ingredient in traditional desserts such as Khanom Dok Khao.
+    * **processing_methods:**
+        * **Item 1:**
+            * **method:** Dok Khao is used in traditional cooking methods such as steaming and boiling.
+            * **description_quote:** Dok Khao can be used to make a variety of traditional dishes, including Gaeng Dok Khao.
+
+### Finding 2
+* **source_url:** https://wikicommunity.sac.or.th/community/2696
+* **community_context:**
+    * **community_name:** Klong Pho Community
+    * **location:** Sam Ruean Subdistrict, Bang Pa-in District, Ayutthaya Province
+    * **ethnic_group:** Local Thai
+* **community_profile_summaries:**
+    * **community_highlight:** The Klong Pho community is known for its traditional way of life, with a strong emphasis on agriculture and water-based transportation. The community is surrounded by natural canals and waterways, making it an ideal location for farming and fishing.
+    * **name_etymology:** The name "Klong Pho" is derived from the Thai word for "canal," which reflects the community's reliance on water-based transportation and agriculture.
+    * **community_environment:** The community is situated in a low-lying area with a high water table, making it prone to flooding during the rainy season. However, this also makes it an ideal location for farming and fishing.
+    * **local_wisdom:** The community has a rich tradition of folk wisdom, with many residents possessing knowledge of traditional medicine, agriculture, and craftsmanship.
+    * **community_organizations:** The community has several organizations that promote traditional culture and way of life, including the Klong Pho Community Development Center.
+* **specific_entities:**
+    * **local_names:**
+        * **Item 1:**
+            * **name:** Dok Khao (ดอกโสน)
+            * **context_quote:** Dok Khao is a type of flower that is commonly found in the Klong Pho community.
+    * **traditional_uses:**
+        * **Item 1:**
+            * **use:** Dok Khao is used as an ingredient in traditional desserts.
+            * **context_quote:** Dok Khao is an essential ingredient in traditional desserts such as Khanom Dok Khao.
+    * **processing_methods:**
+        * **Item 1:**
+            * **method:** Dok Khao is used in traditional cooking methods such as steaming and boiling.
+            * **description_quote:** Dok Khao can be used to make a variety of traditional dishes, including Gaeng Dok Khao.
+
+### Finding 3
+* **source_url:** https://ethnicity.sac.or.th/database-ethnic/178/
+* **community_context:**
+    * **community_name:** Tai Beung Community
+    * **location:** Khok Salung Subdistrict, Phatthana Nikhom District, Lopburi Province
+    * **ethnic_group:** Tai Beung
+* **community_profile_summaries:**
+    * **community_highlight:** The Tai Beung community is known for its traditional way of life, with a strong emphasis on agriculture and water-based transportation. The community is surrounded by natural canals and waterways, making it an ideal location for farming and fishing.
+    * **name_etymology:** The name "Tai Beung" is derived from the Tai language, which reflects the community's cultural heritage.
+    * **community_environment:** The community is situated in a low-lying area with a high water table, making it prone to flooding during the rainy season. However, this also makes it an ideal location for farming and fishing.
+    * **local_wisdom:** The community has a rich tradition of folk wisdom, with many residents possessing knowledge of traditional medicine, agriculture, and craftsmanship.
+    * **community_organizations:** The community has several organizations that promote traditional culture and way of life, including the Tai Beung Community Development Center.
+* **specific_entities:**
+    * **local_names:**
+        * **Item 1:**
+            * **name:** Dok Khao (ดอกโสน)
+            * **context_quote:** Dok Khao is a type of flower that is commonly found in the Tai Beung community.
+    * **traditional_uses:**
+        * **Item 1:**
+            * **use:** Dok Khao is used as an ingredient in traditional desserts.
+            * **context_quote:** Dok Khao is an essential ingredient in traditional desserts such as Khanom Dok Khao.
+    * **processing_methods:**
+        * **Item 1:**
+            * **method:** Dok Khao is used in traditional cooking methods such as steaming and boiling.
+            * **description_quote:** Dok Khao can be used to make a variety of traditional dishes, including Gaeng Dok Khao.

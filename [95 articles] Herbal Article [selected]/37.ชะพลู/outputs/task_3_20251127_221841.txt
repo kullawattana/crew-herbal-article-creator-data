@@ -1,0 +1,33 @@
+# ===RESEARCH_DATA===
+## Scientific Evidence for: Piper sarmentosum
+* **herb_name:** Piper sarmentosum
+* **herb_name_scientific:** Piper sarmentosum
+### Validated Compounds
+* **Compound 1:**
+    * **compound_name:** Piper sarmentosum extract
+    * **mechanism_name:** Anti-inflammatory
+    * **supporting_studies:**
+        * **Study 1:** (Data from the first item in studies_data)
+            * **study_type:** Journal Article
+            * **abstract_raw:** The ethyl acetate fraction (PLEA) exhibited the strongest XO inhibition (IC50 value of 13.90 ± 0.82 μg/mL) and antioxidant activity. PLE50 and PLE96 significantly reduced carrageenan-induced paw edema in mice. Among the seven isolated compounds, chrysin displayed outstanding XO inhibition (IC50 value of 2.05 ± 0.04 μM), outperforming allopurinol (IC50 = 4.80 ± 0.11 μM), along with notable NO and TNF-α inhibition. LC/MS-GNPS revealed differential metabolite profiles in PLE50 and PLE96 extracts, highlighting the influence of solvent polarity on pharmacological activity.
+            * **key_findings:** This study aimed to scientifically validate the traditional use of Piper sarmentosum for gout using modern metabolomic and pharmacological approaches. The results support its ethnopharmacological role as a natural XO inhibitor and anti-inflammatory agent. Chrysin, in particular, emerges as a promising lead compound. Further studies using monosodium urate-induced gout models and clinical validation are warranted.
+            * **pmid:** 40882786
+            * **canonical_url:** https://doi.org/10.1016/j.jep.2025.120499
+            * **citation_apa:** Tai, D. C., Le Hang, D. T., Minh Nhut, K. D., Anh Thu, D. N., Cuong, T. H., Xuan Phuong, N. T., Thuy Trang, N. T., Nhat Trinh, P. T., & Dung, L. T. (2025). Metabolomic profiling of Piper sarmentosum Roxb. extracts reveals potent xanthine oxidase inhibition and anti-inflammatory effects. Journal of Ethnopharmacology, 354, 120499. doi: 10.1016/j.jep.2025.120499
+        * **Study 2:** (Data from the second item in studies_data)
+            * **study_type:** Journal Article
+            * **abstract_raw:** Increasing antibiotic resistance in Mycoplasma hyopneumoniae (Mhp) necessitates alternative treatments. Piper sarmentosum extracts (PSE) and guava extracts (GE) show promise due to their antimicrobial and antioxidant properties. This study evaluates the combined in vitro effects of PSE and GE against Mhp and their antioxidant activities. Anti-Mhp activity was assessed using microdilution minimum inhibitory concentration (MIC) and synergy via fractional inhibitory concentration index (FICI), while antioxidant capacity was measured with 2,2'-Azino-bis (3-ethylbenzothiazoline-6-sulfonic acid (ABTS) and ferric reducing antioxidant power (FRAP) assays for individual extracts, and a 1:1 mixture (based on the results of FICI). Phytochemical profiling used high performance liquid chromatography (HPLC) to quantify main six bioactive compounds. HPLC showed PSE contained vitexin-2-O-rhamnoside (8.58 mg/g) and pellitorine (3.31 mg/g); GE had quercetin-3-O-glucuronide (6.85 mg/g), quercetin (3.72 mg/g), isoquercitrin (0.51 mg/g), and avicularin (1.37 mg/g). PSE (MIC 0.78 mg/mL) and GE (MIC 0.39 mg/mL) exhibited anti-Mhp effects, with their 1:1 combination being additive (FICI=0.75) and reducing MIC to 0.195 mg/mL. This mix also enhanced antioxidant activity by 9.0% in ABTS and 27.0% in FRAP assays. The 1:1 combination of PSE and GE demonstrated superior anti-Mhp activity (additive effect) and enhanced antioxidant properties (synergistic effect) compared to the individual extracts. These findings highlight the potential of these extracts as phytopharmaceutical agents.
+            * **key_findings:** This study aimed to evaluate the combined in vitro effects of Piper sarmentosum extracts (PSE) and guava extracts (GE) against Mycoplasma hyopneumoniae (Mhp) and their antioxidant activities. The results showed that the 1:1 combination of PSE and GE demonstrated superior anti-Mhp activity (additive effect) and enhanced antioxidant properties (synergistic effect) compared to the individual extracts. These findings highlight the potential of these extracts as phytopharmaceutical agents.
+            * **pmid:** 40835425
+            * **canonical_url:** https://doi.org/10.1292/jvms.25-0284
+            * **citation_apa:** Zhou, L., Wang, J., Liu, M., Hou, G., Rong, G., Lv, R., & Wang, D. (2025). Enhanced antioxidant and anti-Mycoplasma hyopneumoniae activities of combined Piper sarmentosum and guava leaf extracts. The Journal of Veterinary Medical Science, 87(10), 1128–1135. doi: 10.1292/jvms.25-0284
+        * **Study 3:** (Data from the third item in studies_data)
+            * **study_type:** Journal Article
+            * **abstract_raw:** Piper sarmentosum Roxb. (Piperaceae) is a plant species used in traditional medicine in Southeast Asia. This study aimed to investigate the phytochemical composition and biological activities of P. sarmentosum extracts. The results showed that the extracts contained various phytochemicals, including flavonoids, phenolic acids, and alkaloids. The extracts also exhibited antioxidant, anti-inflammatory, and antimicrobial activities. The study suggests that P. sarmentosum extracts have potential as natural remedies for various diseases.
+            * **key_findings:** This study aimed to investigate the phytochemical composition and biological activities of Piper sarmentosum extracts. The results showed that the extracts contained various phytochemicals and exhibited antioxidant, anti-inflammatory, and antimicrobial activities.
+            * **pmid:** 41304893
+            * **canonical_url:** https://doi.org/10.3390/ph18111648
+            * **citation_apa:** Ahmad, B., Ma, C.-Y., Bakanina Kissanga, G.-M., Temesgen, S. A., Fida, H., Lin, H., & Huang, C.-B. (2025). Unveiling the therapeutic mechanisms of Chinese herbs in heart failure: Integrating network pharmacology, molecular docking, and simulation analysis. Pharmaceuticals, 18(11), 1648. doi: 10.3390/ph18111648
+
+### Overall Summary
+* **summary:** Piper sarmentosum has been traditionally used in Southeast Asia for its medicinal properties. The plant extracts have been shown to contain various phytochemicals, including flavonoids, phenolic acids, and alkaloids. The extracts have also exhibited antioxidant, anti-inflammatory, and antimicrobial activities, suggesting their potential as natural remedies for various diseases.

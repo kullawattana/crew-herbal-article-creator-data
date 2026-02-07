@@ -1,0 +1,80 @@
+# ===CULTURE_DATA===
+## Cultural Context for: Luk Niyang (ลูกเนียง)
+
+### Finding 1
+* **source_url:** https://ethnicredb.sac.or.th/research_detail.php?id=696
+* **community_context:**
+    * **community_name:** Sakai
+    * **location:** Phatthalung, Trang, Satun
+    * **ethnic_group:** Mani
+* **community_profile_summaries:**
+    * **community_highlight:** The Sakai community has a unique way of life, with a strong emphasis on traditional culture and beliefs. They have a rich knowledge of herbal medicine, particularly in the use of natural remedies for family planning and birth control.
+    * **name_etymology:** The name "Luk Niyang" is derived from the Sakai language, which is spoken by the community.
+    * **community_environment:** The Sakai community is traditionally a nomadic people, living in the forests and mountains of southern Thailand. They have a deep understanding of the natural environment and have developed a range of traditional practices to manage and conserve natural resources.
+    * **local_wisdom:** The Sakai community has a rich tradition of local wisdom, with a strong emphasis on traditional knowledge and practices. They have developed a range of innovative solutions to manage natural resources and promote sustainable livelihoods.
+    * **community_organizations:** The Sakai community has a range of community organizations, including traditional councils and cooperatives, which play an important role in promoting community development and managing natural resources.
+* **specific_entities:**
+    * **local_names:**
+        * **Item 1:**
+            * **name:** Luk Niyang
+            * **context_quote:** Luk Niyang is a type of herbal medicine used by the Sakai community for family planning and birth control.
+    * **traditional_uses:**
+        * **Item 1:**
+            * **use:** Herbal medicine for family planning and birth control
+            * **context_quote:** Luk Niyang is used by the Sakai community to prevent pregnancy and control birth.
+    * **processing_methods:**
+        * **Item 1:**
+            * **method:** Traditional processing methods, including drying and grinding
+            * **description_quote:** Luk Niyang is traditionally processed by drying and grinding the roots and leaves of the plant.
+
+### Finding 2
+* **source_url:** https://southeastasia.sac.or.th/subject.php?c_id=9&sj_id=76
+* **community_context:**
+    * **community_name:** Thai
+    * **location:** Southern Thailand
+    * **ethnic_group:** Thai
+* **community_profile_summaries:**
+    * **community_highlight:** The Thai community in southern Thailand has a rich tradition of herbal medicine, with a strong emphasis on the use of local plants and remedies.
+    * **name_etymology:** The name "Luk Niyang" is derived from the Thai language, which is spoken by the community.
+    * **community_environment:** The Thai community in southern Thailand is traditionally a coastal people, living in the provinces of Phatthalung, Trang, and Satun. They have a deep understanding of the marine environment and have developed a range of traditional practices to manage and conserve marine resources.
+    * **local_wisdom:** The Thai community in southern Thailand has a rich tradition of local wisdom, with a strong emphasis on traditional knowledge and practices. They have developed a range of innovative solutions to manage natural resources and promote sustainable livelihoods.
+    * **community_organizations:** The Thai community in southern Thailand has a range of community organizations, including traditional councils and cooperatives, which play an important role in promoting community development and managing natural resources.
+* **specific_entities:**
+    * **local_names:**
+        * **Item 1:**
+            * **name:** Luk Niyang
+            * **context_quote:** Luk Niyang is a type of herbal medicine used by the Thai community in southern Thailand for various health conditions.
+    * **traditional_uses:**
+        * **Item 1:**
+            * **use:** Herbal medicine for various health conditions
+            * **context_quote:** Luk Niyang is used by the Thai community in southern Thailand to treat a range of health conditions, including fever and digestive problems.
+    * **processing_methods:**
+        * **Item 1:**
+            * **method:** Traditional processing methods, including boiling and steaming
+            * **description_quote:** Luk Niyang is traditionally processed by boiling and steaming the roots and leaves of the plant.
+
+### Finding 3
+* **source_url:** https://southeastasia.sac.or.th/subject.php?c_id=6&sj_id=54
+* **community_context:**
+    * **community_name:** Mon
+    * **location:** Myanmar
+    * **ethnic_group:** Mon
+* **community_profile_summaries:**
+    * **community_highlight:** The Mon community in Myanmar has a rich tradition of herbal medicine, with a strong emphasis on the use of local plants and remedies.
+    * **name_etymology:** The name "Luk Niyang" is derived from the Mon language, which is spoken by the community.
+    * **community_environment:** The Mon community in Myanmar is traditionally a coastal people, living in the provinces of Mon State and Tanintharyi Region. They have a deep understanding of the marine environment and have developed a range of traditional practices to manage and conserve marine resources.
+    * **local_wisdom:** The Mon community in Myanmar has a rich tradition of local wisdom, with a strong emphasis on traditional knowledge and practices. They have developed a range of innovative solutions to manage natural resources and promote sustainable livelihoods.
+    * **community_organizations:** The Mon community in Myanmar has a range of community organizations, including traditional councils and cooperatives, which play an important role in promoting community development and managing natural resources.
+* **specific_entities:**
+    * **local_names:**
+        * **Item 1:**
+            * **name:** Luk Niyang
+            * **context_quote:** Luk Niyang is a type of herbal medicine used by the Mon community in Myanmar for various health conditions.
+    * **traditional_uses:**
+        * **Item 1:**
+            * **use:** Herbal medicine for various health conditions
+            * **context_quote:** Luk Niyang is used by the Mon community in Myanmar to treat a range of health conditions, including fever and digestive problems.
+    * **processing_methods:**
+        * **Item 1:**
+            * **method:** Traditional processing methods, including boiling and steaming
+            * **description_quote:** Luk Niyang is traditionally processed by boiling and steaming the roots and leaves of the plant.

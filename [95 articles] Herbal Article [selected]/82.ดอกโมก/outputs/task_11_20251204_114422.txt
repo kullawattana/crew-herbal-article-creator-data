@@ -1,0 +1,69 @@
+# ===MASTER_FACT_SHEET=== 
+## Consolidated Facts for: Wrightia religiosa
+* **Trend Fact:** Not provided in the given context.
+* **Lab Fact (Experimental Method):** Not provided in the given context.
+* **Lab Fact (Extraction Method):** Not provided in the given context.
+* **Lab Fact (Compound Identified):** Tryptanthrin.
+* **Lab Fact (Chromatography - TLC):** Not provided in the given context.
+* **Lab Fact (Pharmacological Finding):** Antitubercular activity.
+* **Lab Fact (Cosmetic or Clinical Effect):** Not provided in the given context.
+* **Lab Fact (Quality Control):** Not provided in the given context.
+* **Science Fact (Herb):** Wrightia religiosa.
+* **Science Fact (Compound):** Tryptanthrin.
+* **Science Fact (Abstracts):**
+  * **Study 1:**
+    * **abstract_raw:** A series of Wrightia hanleyi extracts was screened for activity against Mycobacterium tuberculosis H37Rv. One active fraction contained a compound that initially appeared to be either the isoflavonoid wrightiadione or the alkaloid tryptanthrin, both of which have been previously reported in other Wrightia species. Characterization by NMR and MS, as well as evaluation of the literature describing these compounds, led to the conclusion that wrightiadione (1) was misidentified in the first report of its isolation from W. tomentosa in 1992 and again in 2015 when reported in W. pubescens and W. religiosa. Instead, the molecule described in these reports and in the present work is almost certainly the isobaric (same nominal mass) and isosteric (same number of atoms, valency, and shape) tryptanthrin (2), a well-known quinazolinone alkaloid found in a variety of plants including Wrightia species. Tryptanthrin (2) is also accessible synthetically via several routes and has been thoroughly characterized. Wrightiadione (1) has been synthesized and characterized and may have useful biological activity; however, this compound can no longer be said to be known to exist in Nature. To our knowledge, this misidentification of wrightiadione (1) has heretofore been unrecognized.
+    * **citation_apa:** (Garcellano et al., 2019)
+  * **Study 2:**
+    * **abstract_raw:** Particulate matter and volatile organic compound phytoremediation by perennial plants: Affecting factors and plant stress response.
+    * **citation_apa:** (Treesubsuntorn et al., 2021)
+  * **Study 3:**
+    * **abstract_raw:** Application of Acinetobacter indicus to promote cigarette smoke particulate matter phytoremediation: removal efficiency and plant-microbe interactions.
+    * **citation_apa:** (Nookongbut et al., 2024)
+* **Compliance Fact (Food Registration 1):** registration_number=13-2-06660-6-0035, product_name=Sang Yod Rice Chips (Shrimp Flavour), company_name=บริษัท บ้านขนมไทย อินเตอร์เนชั่นแนล จำกัด, status=สถานะผลิตภัณฑ์(คงอยู่)\ สถานะสถานที่ (คงอยู่)
+* **Compliance Fact (Food Registration 2):** registration_number=93-2-01461-6-0001, product_name=ข้าวสังข์หยดเมืองพัทลุง (ข้าวกล้อง), company_name=วิสาหกิจชุมชนกลุ่มแม่บ้านนาท่อมร่วมใจ, status=สถานะผลิตภัณฑ์(คงอยู่)\ สถานะสถานที่ (คงอยู่)
+* **Compliance Fact (Herbal Product 1):** registration_number=G185/68, product_name=ยาหม่องน้ำสุภาพโอสถ กลิ่นดอกโมก, company_name=โรงงานเภสัชอุตสาหกรรม เจเอสพี (ประเทศไทย)  (มหาชน), status=คงอยู่
+* **Compliance Fact (Cosmetic Product 1):** registration_number=10-1-5844046, product_name=ศรีธนา อโรมา ออย ดอกโมก, company_name=บริษัท แวนน์ คอสเมติกส์ แอนด์ แลบอราทอรี่ จำกัด, status=คงอยู่
+* **Safety Fact (Active Ingredient):** Not provided in the given context.
+* **Safety Fact (Ingredient Purpose):** Not provided in the given context.
+* **Safety Fact (Uses):** Not provided in the given context.
+* **Safety Fact (Warnings):** Not provided in the given context.
+* **Safety Fact (Directions):** Not provided in the given context.
+* **Safety Fact (Other Info):** Not provided in the given context.
+* **Safety Fact (Inactive Ingredients):** Not provided in the given context.
+* **Safety Fact (Questions):** Not provided in the given context.
+* **Toxicity Fact (Summary):** Not provided in the given context.
+* **Toxicity Fact (Mechanism):** Not provided in the given context.
+* **Toxicity Fact (Side Effects):** Not provided in the given context.
+* **Toxicity Fact (Case Reports):** Not provided in the given context.
+* **Culture Fact (Community - Ban Tha Lap):** community_name=Ban Tha Lap, location=Chai Nat Province, ethnic_group=Rural Community
+* **Culture Fact (Location - Ban Tha Lap):** location=Chai Nat Province
+* **Culture Fact (Ethnic Group - Ban Tha Lap):** ethnic_group=Rural Community
+* **Culture Fact (Community Highlight - Ban Tha Lap):** community_highlight=Ban Tha Lap is an old community located in the eastern part of the Chao Phraya River basin. The community is known for its agricultural products, particularly bananas, which are abundant in the area.
+* **Culture Fact (Name Etymology - Ban Tha Lap):** name_etymology=The name "Ban Tha Lap" is derived from the Thai words "ban" meaning "village" and "tha lap" meaning "landing place".
+* **Culture Fact (Environment - Ban Tha Lap):** community_environment=The community is situated in a fertile area, making it suitable for agriculture.
+* **Culture Fact (Local Wisdom - Ban Tha Lap):** local_wisdom=The community has developed a unique way of processing bananas into various products, such as banana chips and banana flour.
+* **Culture Fact (Organization - Ban Tha Lap):** community_organizations=The community has established organizations to promote and preserve their cultural heritage, such as the "Ban Tha Lap Cultural Preservation Group".
+* **Culture Fact (Local Name - Ban Tha Lap):** local_name=Kluay Nam Wa
+* **Culture Fact (Use - Ban Tha Lap):** traditional_use=Banana processing
+* **Culture Fact (Processing - Ban Tha Lap):** processing_method=Boiling
+* **Culture Fact (Source - Ban Tha Lap):** source_url=https://manuscripts.sac.or.th/article-download.php?id=62
+* **Culture Fact (Community - Phu Thai):** community_name=Phu Thai, location=Yasothon Province, ethnic_group=Phu Thai
+* **Culture Fact (Location - Phu Thai):** location=Yasothon Province
+* **Culture Fact (Ethnic Group - Phu Thai):** ethnic_group=Phu Thai
+* **Culture Fact (Community Highlight - Phu Thai):** community_highlight=The Phu Thai community is an ethnic group that migrated to Thailand from Laos. They originally believed in spirits but later converted to Buddhism.
+* **Culture Fact (Name Etymology - Phu Thai):** name_etymology=The name "Phu Thai" is derived from the Thai words "phu" meaning "people" and "Thai" meaning "free".
+* **Culture Fact (Environment - Phu Thai):** community_environment=The community is situated in a rural area, with a strong emphasis on agriculture.
+* **Culture Fact (Local Wisdom - Phu Thai):** local_wisdom=The community has developed a unique way of using herbs for medicinal purposes.
+* **Culture Fact (Organization - Phu Thai):** community_organizations=The community has established organizations to promote and preserve their cultural heritage, such as the "Phu Thai Cultural Preservation Group".
+* **Culture Fact (Local Name - Phu Thai):** local_name=Phu Thai
+* **Culture Fact (Use - Phu Thai):** traditional_use=Herbal medicine
+* **Culture Fact (Processing - Phu Thai):** processing_method=Boiling
+* **Culture Fact (Source - Phu Thai):** source_url=https://ethnicredb.sac.or.th/research_detail.php?id=1169
+* **Internal RAG Fact (Herbal):** Wrightia religiosa, also known as ดอกโมก, is not explicitly mentioned in the provided context. However, the context discusses Thai traditional medicine, its benefits, and the use of herbal remedies in Thai culture.
+* **Internal RAG Fact (Cultural):** ดอกโมก (Wrightia religiosa) has been used in Thai traditional medicine for a long time. It is believed to have various health benefits, including aiding in digestion and relieving symptoms of certain illnesses.
+* **Source URL (Science):** https://pubmed.ncbi.nlm.nih.gov/30295480/, https://pubmed.ncbi.nlm.nih.gov/34225152/, https://pubmed.ncbi.nlm.nih.gov/39145908/
+* **Source URL (Compliance):** Not provided in the given context.
+* **Source URL (Safety):** Not provided in the given context.
+* **Source URL (Toxicity):** Not provided in the given context.
+* **Source URL (Culture):** https://manuscripts.sac.or.th/article-download.php?id=62, https://ethnicredb.sac.or.th/research_detail.php?id=1169, https://manuscripts.sac.or.th/article-download.php?id=13

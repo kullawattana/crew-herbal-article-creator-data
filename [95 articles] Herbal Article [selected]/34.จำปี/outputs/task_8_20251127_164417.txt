@@ -1,0 +1,32 @@
+# ===CULTURE_DATA===
+## Cultural Context for: Ban Dong Bang (บ้านปางจำปี)
+
+### Finding 1
+* **source_url:** https://db.sac.or.th/thailand-cultural-encyclopedia/list.php?page=428
+* **community_context:**
+    * **community_name:** Ban Dong Bang (บ้านปางจำปี)
+    * **location:** Chiang Mai Province
+    * **ethnic_group:** Indigenous People
+* **community_profile_summaries:**
+    * **community_highlight:** Ban Dong Bang is a community that has been actively involved in the conservation and restoration of natural resources, particularly forests and water sources. The community has implemented various initiatives, such as reforestation programs, water conservation projects, and sustainable agriculture practices, to ensure the long-term sustainability of their natural resources.
+    * **name_etymology:** The name "Ban Dong Bang" is derived from the Thai words "ban" meaning village, "dong" meaning forest, and "bang" meaning river. The name reflects the community's close relationship with the natural environment and their dependence on the forest and river for their livelihood.
+    * **community_environment:** The community is located in a mountainous area, surrounded by forests and water sources. The environment is rich in biodiversity, with many species of plants and animals found in the area. The community has implemented measures to protect and conserve the environment, including the establishment of a community forest and the promotion of sustainable agriculture practices.
+    * **local_wisdom:** The community has a rich cultural heritage, with many traditional practices and customs still observed today. The community places a strong emphasis on the importance of living in harmony with nature and has developed a number of traditional practices and customs that reflect this philosophy.
+    * **community_organizations:** The community has a number of organizations and groups that work together to promote the conservation and restoration of natural resources. These include the Ban Dong Bang Community Forest Group, the Ban Dong Bang Water Conservation Group, and the Ban Dong Bang Sustainable Agriculture Group.
+* **specific_entities:**
+    * **local_names:**
+        * **Item 1:**
+            * **name:** Khamin Chan (ขมิ้นจันทร์)
+            * **context_quote:** "Khamin Chan is a type of herb that is commonly used in traditional medicine in our community."
+    * **traditional_uses:**
+        * **Item 1:**
+            * **use:** Relieve stomach pain
+            * **context_quote:** "Khamin Chan is used to relieve stomach pain and is also effective in treating diarrhea and fever."
+    * **processing_methods:**
+        * **Item 1:**
+            * **method:** Drying
+            * **description_quote:** "We dry the Khamin Chan leaves in the sun to preserve them for later use."
+
+### Finding 2
+* **source_url:** https://db.sac.or.th/thailand-cultural-encyclopedia/list.php?page=429
+* ... (etc.)

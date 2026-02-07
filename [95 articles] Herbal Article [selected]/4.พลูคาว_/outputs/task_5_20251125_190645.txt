@@ -1,0 +1,1 @@
+Thought: I will now filter the URLs to select the top 3-5 high-quality URLs, skipping PDFs, keeping HTML, deduplicating, and canonicalizing the URLs.

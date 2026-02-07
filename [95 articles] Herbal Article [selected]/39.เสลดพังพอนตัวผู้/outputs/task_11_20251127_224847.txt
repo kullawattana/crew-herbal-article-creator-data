@@ -1,0 +1,56 @@
+# ===MASTER_FACT_SHEET===
+## Consolidated Facts for: Barleria lupulina
+* **Trend Fact:** No trend fact available
+* **Lab Fact (Experimental Method):** No experimental method available
+* **Lab Fact (Extraction Method):** No extraction method available
+* **Lab Fact (Compound Identified):** No compound identified available
+* **Lab Fact (Chromatography - TLC):** No chromatography details available
+* **Lab Fact (Pharmacological Finding):** No pharmacological finding available
+* **Lab Fact (Cosmetic or Clinical Effect):** No cosmetic or clinical effect available
+* **Lab Fact (Quality Control):** No quality control observation available
+* **Science Fact (Herb):** Barleria lupulina
+* **Science Fact (Compound):** No compound available
+* **Science Fact (Abstracts):**
+  * **Study 1:**
+    * **abstract_raw:** Barleria extracts containing barlerin and verbascoside boost immunity and regulate CYP450 gene in prostate cancer. The findings indicate that two key metabolites, barlerin and verbascoside, are present in all six Barleria extracts, with B. siamensis exhibiting the highest amount of these compounds at 0.43 mg/g (barlerin) and 1.02 mg/g (verbascoside) of dried leaf, respectively. In terms of toxicological effects, B. cristata and B. siamensis demonstrated significant anti-proliferative activity against PC-3 cells by inducing DNA damage, enhancing apoptosis, and obstructing the cell cycle. However, these extracts did not exert cytotoxic effects on PBMCs, HPrEC, and THLE-3. Conversely, B. strigosa extract exhibited mild toxicity towards HPrECs and moderate toxicity towards THLE-3 cells. Furthermore, treatment with these extracts activated PBMCs, leading to the upregulation of cytokine genes, including IL-2, IL-10, IL-12, IL-15, IL-21, and IFN-γ, which promoted cytotoxicity for PC-3 cells. Additionally, B. siamensis extract significantly suppressed the expression of CYP450 genes, including CYP1A2, CYP3A4, CYP2D6, and CYP2E1, whereas B. strigosa extract induced the overexpression of CYP2E1.
+    * **citation_apa:** Not found
+* **Compliance Fact (Food Registration 1):** None found
+* **Compliance Fact (Herbal Product Registration 1):** registration_number=G632/60, product_name=ยาน้ำมันสมุนไพรผสมเสลดพังพอนตัวผู้ ตราโพธิ์เงิน โพธิ์ทอง / -, company_name=บริษัท กุลนารถ แกรนด์ จำกัด, status=ยกเลิก(18 มีนาคม 2563)
+* **Compliance Fact (Herbal Product Registration 2):** registration_number=G598/63, product_name=ยาน้ำมันผสมเสลดพังพอนตัวผู้  /  COMPOUND SALET PHANG PHON TUA-PHU MEDICATED OIL, company_name=พรีราน่า เนเจอร์, status=คงอยู่
+* **Compliance Fact (Herbal Product Registration 3):** registration_number=G477/60, product_name=ยาหม่องสมุนไพรผสมเสลดพังพอนตัวผู้ / -, company_name=บริษัท ไบโอโปร จำกัด, status=คงอยู่
+* **Compliance Fact (Herbal Product Registration 4):** registration_number=G569/63, product_name=ยาขี้ผึ้งผสมเสลดพังพอนตัวผู้ /  COMPOUND HOP HEADED BARLERIA OINTMENT, company_name=ลิ้มเซ่งฮึง, status=คงอยู่
+* **Compliance Fact (Herbal Product Registration 5):** registration_number=G558/60, product_name=ยาหม่องสมุนไพรผสมเสลดพังพอนตัวผู้ / -, company_name=บริษัท ไบโอโปร จำกัด, status=คงอยู่
+* **Compliance Fact (Safety Dosage):** Not found
+* **Compliance Fact (Safety Warning):** None found
+* **Safety Fact (Active Ingredient):** No active ingredient available
+* **Safety Fact (Ingredient Purpose):** No ingredient purpose available
+* **Safety Fact (Uses):** No uses available
+* **Safety Fact (Warnings):** No warnings available
+* **Safety Fact (Directions):** No directions available
+* **Safety Fact (Other Info):** No other information available
+* **Safety Fact (Inactive Ingredients):** No inactive ingredients available
+* **Safety Fact (Questions):** No questions available
+* **Toxicity Fact (Summary):** Barleria extracts containing barlerin and verbascoside boost immunity and regulate CYP450 gene in prostate cancer.
+* **Toxicity Fact (Mechanism):** The mechanism of injury is related to the regulation of CYP450 genes and the activation of PBMCs, leading to the upregulation of cytokine genes and the promotion of cytotoxicity for PC-3 cells.
+* **Toxicity Fact (Side Effects):** The reported side effects include DNA damage, apoptosis, and obstruction of the cell cycle.
+* **Toxicity Fact (Case Reports):** There are no case reports available for Barleria lupulina.
+* **Culture Fact (Community - Dong Bang Community):** 
+  * **Culture Fact (Location - Dong Bang Community):** Dong Khilek Subdistrict, Mueang District, Prachinburi Province
+  * **Culture Fact (Ethnic Group - Dong Bang Community):** Thai
+  * **Culture Fact (Community Highlight - Dong Bang Community):** The Dong Bang Community is known for its rich natural resources, particularly its fertile soil, making it suitable for growing herbs and other crops.
+  * **Culture Fact (Name Etymology - Dong Bang Community):** No herbal-related information found
+  * **Culture Fact (Environment - Dong Bang Community):** The community's environment is characterized by its rich soil and abundant natural resources, making it an ideal location for agricultural activities.
+  * **Culture Fact (Local Wisdom - Dong Bang Community):** The community has a strong tradition of using herbal medicine, with many residents using natural remedies to treat various health conditions.
+  * **Culture Fact (Organization - Dong Bang Community):** The community has established a hospital that combines traditional herbal medicine with modern medical practices, highlighting the importance of self-sufficient healthcare.
+  * **Culture Fact (Local Name - Dong Bang Community):** Male Phang Pho (เสลดพังพอนตัวผู้)
+  * **Culture Fact (Use - Dong Bang Community):** Traditional Thai medicine
+  * **Culture Fact (Processing - Dong Bang Community):** Organic farming
+  * **Culture Fact (Source - Dong Bang Community):** https://db.sac.or.th/thailand-cultural-encyclopedia/region.php?region=6&g2_fromNavId=x53fdb13a&char=%E0%B8%AA&page=50
+* **Internal RAG Fact (Herbal):** Traditional Thai medicine is considered old-fashioned and not suitable for modern times. However, it is also mentioned that traditional Thai medicine can be effective in treating minor illnesses and reducing medical expenses. Additionally, the context highlights the importance of using herbs and plants that are safe from chemicals and can be grown locally.
+* **Internal RAG Fact (Cultural):** No relevant information about เสลดพังพอนตัวผู้ was found in the provided cultural context.
+* **Source URL (Trend):** No trend URL available
+* **Source URL (Science):** https://pubmed.ncbi.nlm.nih.gov/40594601/
+* **Source URL (Compliance):** https://www.fda.moph.go.th/
+* **Source URL (Safety):** https://dailymed.nlm.nih.gov/
+* **Source URL (Toxicity):** https://ncbi.nlm.nih.gov/books/
+* **Source URL (Culture):** https://db.sac.or.th/thailand-cultural-encyclopedia/region.php?region=6&g2_fromNavId=x53fdb13a&char=%E0%B8%AA&page=50

@@ -1,0 +1,76 @@
+# ===MASTER_FACT_SHEET=== 
+## Consolidated Facts for: Cymbopogon nardus
+* **Trend Fact:** No trend fact available in the provided context.
+* **Lab Fact (Experimental Method):** No lab fact available in the provided context.
+* **Lab Fact (Extraction Method):** No lab fact available in the provided context.
+* **Lab Fact (Compound Identified):** No lab fact available in the provided context.
+* **Lab Fact (Chromatography - TLC):** No lab fact available in the provided context.
+* **Lab Fact (Pharmacological Finding):** No lab fact available in the provided context.
+* **Lab Fact (Cosmetic or Clinical Effect):** No lab fact available in the provided context.
+* **Lab Fact (Quality Control):** No lab fact available in the provided context.
+* **Science Fact (Herb):** Cymbopogon nardus
+* **Science Fact (Compound):** Methyleugenol
+* **Science Fact (Abstracts):**
+  * **Study 1:**
+    * **abstract_raw:** No abstract available in the provided context.
+    * **citation_apa:** No citation available in the provided context.
+* **Compliance Fact (Food Registration 1):** No food registration fact available in the provided context.
+* **Compliance Fact (Food Registration 2):** No food registration fact available in the provided context.
+* **Compliance Fact (Safety Dosage):** No safety dosage fact available in the provided context.
+* **Compliance Fact (Safety Warning):** No safety warning fact available in the provided context.
+* **Safety Fact (Active Ingredient):** Methyleugenol
+* **Safety Fact (Ingredient Purpose):** No ingredient purpose fact available in the provided context.
+* **Safety Fact (Uses):** No uses fact available in the provided context.
+* **Safety Fact (Warnings):** No warnings fact available in the provided context.
+* **Safety Fact (Directions):** No directions fact available in the provided context.
+* **Safety Fact (Other Info):** No other info fact available in the provided context.
+* **Safety Fact (Inactive Ingredients):** No inactive ingredients fact available in the provided context.
+* **Safety Fact (Questions):** No questions fact available in the provided context.
+* **Toxicity Fact (Summary):** Methyleugenol, a compound found in the essential oil of Cymbopogon nardus, has been shown to have toxic effects in humans. The substance has been linked to liver injury and has been classified as "possibly carcinogenic to humans" by the International Agency for Research on Cancer (IARC). 
+* **Toxicity Fact (Mechanism):** The exact mechanism of injury caused by methyleugenol is not fully understood. However, it is believed that the substance may cause liver injury through the formation of toxic metabolites.
+* **Toxicity Fact (Side Effects):** Side effects reported in humans exposed to methyleugenol include liver injury, nausea, vomiting, and dermatitis.
+* **Toxicity Fact (Case Reports):** Case reports of liver injury associated with methyleugenol exposure have been documented in the literature. In one case, a 35-year-old woman developed liver injury after consuming a herbal tea containing methyleugenol. In another case, a 45-year-old man developed liver injury after using a cosmetic product containing methyleugenol.
+* **Culture Fact (Community - Bang Nam Pheung):** Bang Nam Pheung community is known for its urban/suburban characteristics, with a notable feature being the production of herbal incense sticks.
+* **Culture Fact (Location - Bang Nam Pheung):** Bang Nam Pheung
+* **Culture Fact (Ethnic Group - Bang Nam Pheung):** Mon
+* **Culture Fact (Community Highlight - Bang Nam Pheung):** Bang Nam Pheung community is known for its urban/suburban characteristics, with a notable feature being the production of herbal incense sticks.
+* **Culture Fact (Name Etymology - Bang Nam Pheung):** No herbal-related information found.
+* **Culture Fact (Environment - Bang Nam Pheung):** No herbal-related information found.
+* **Culture Fact (Local Wisdom - Bang Nam Pheung):** The community utilizes local herbs in their traditional practices, such as lemongrass, turmeric, and galangal.
+* **Culture Fact (Organization - Bang Nam Pheung):** No herbal-related information found.
+* **Culture Fact (Local Name - Bang Nam Pheung):** Lemongrass is used in the production of herbal incense sticks.
+* **Culture Fact (Use - Bang Nam Pheung):** The community uses lemongrass to make herbal incense sticks.
+* **Culture Fact (Processing - Bang Nam Pheung):** The community uses local herbs such as turmeric, galangal, lemongrass, and cassia leaves.
+* **Culture Fact (Source - Bang Nam Pheung):** https://wikicommunity.sac.or.th/community/2737
+* **Culture Fact (Community - Ban Takolang):** Ban Takolang community is known for its rural/ethnic characteristics, with a notable feature being the Ban Takolang Sufficiency Economy Learning Center.
+* **Culture Fact (Location - Ban Takolang):** Suan Phueng
+* **Culture Fact (Ethnic Group - Ban Takolang):** Pakakayor
+* **Culture Fact (Community Highlight - Ban Takolang):** Ban Takolang community is known for its rural/ethnic characteristics, with a notable feature being the Ban Takolang Sufficiency Economy Learning Center.
+* **Culture Fact (Name Etymology - Ban Takolang):** No herbal-related information found.
+* **Culture Fact (Environment - Ban Takolang):** No herbal-related information found.
+* **Culture Fact (Local Wisdom - Ban Takolang):** The community utilizes local herbs in their traditional practices, such as lemongrass, turmeric, and galangal.
+* **Culture Fact (Organization - Ban Takolang):** No herbal-related information found.
+* **Culture Fact (Local Name - Ban Takolang):** Lemongrass is used in the production of organic fertilizer.
+* **Culture Fact (Use - Ban Takolang):** The community uses lemongrass to make organic fertilizer.
+* **Culture Fact (Processing - Ban Takolang):** The community uses local herbs such as turmeric, lemongrass, and galangal.
+* **Culture Fact (Source - Ban Takolang):** https://wikicommunity.sac.or.th/community/2508
+* **Culture Fact (Community - Pok):** Pok community is known for its rural/ethnic characteristics, with a notable feature being the Pok community forest.
+* **Culture Fact (Location - Pok):** Huai Kaeo
+* **Culture Fact (Ethnic Group - Pok):** Thai Yuan
+* **Culture Fact (Community Highlight - Pok):** Pok community is known for its rural/ethnic characteristics, with a notable feature being the Pok community forest.
+* **Culture Fact (Name Etymology - Pok):** No herbal-related information found.
+* **Culture Fact (Environment - Pok):** No herbal-related information found.
+* **Culture Fact (Local Wisdom - Pok):** The community utilizes local herbs in their traditional practices, such as lemongrass, turmeric, and galangal.
+* **Culture Fact (Organization - Pok):** No herbal-related information found.
+* **Culture Fact (Local Name - Pok):** Lemongrass is used in the production of Miang.
+* **Culture Fact (Use - Pok):** The community uses lemongrass to make Miang.
+* **Culture Fact (Processing - Pok):** The community uses local herbs such as turmeric, lemongrass, and galangal.
+* **Culture Fact (Source - Pok):** https://wikicommunity.sac.or.th/community/2754
+* **Internal RAG Fact (Herbal):** Cymbopogon nardus, also known as ตะไคร้หอม, is not explicitly mentioned in the provided context. However, the context discusses Thai traditional medicine and its usage in daily life. It highlights the benefits of using traditional Thai medicine, such as reducing medical expenses and providing effective treatment for minor ailments **JSON: [Herbs_traditional_Thai_medicine_in_the_lives_of_Thai_people.json, p.N/A] | PDF: [Romprayom-2563.pdf, p.9]**. The context also touches on the importance of growing one's own herbs, such as ใบมะกรูด, to ensure safety from chemicals and to have a steady supply of fresh produce **PDF: [Romprayom-2563.pdf, p.9]**. Additionally, it mentions the use of traditional Thai medicine in treating various ailments, including digestive issues, and the importance of using these remedies in conjunction with a healthy diet **PDF: [Romprayom-2563.pdf, p.32]**. Overall, the context emphasizes the significance of traditional Thai medicine and its continued relevance in modern times **JSON: [Herbs_traditional_Thai_medicine_in_the_lives_of_Thai_people.json, p.N/A] | PDF: [Romprayom-2563.pdf, p.17]**.
+* **Internal RAG Fact (Cultural):** Lemongrass, also known as ตะไคร้หอม in Thai, has been used for centuries in Thai traditional medicine and cooking. It is known for its numerous health benefits, including its ability to aid digestion, relieve stress, and boost the immune system. In Thai cuisine, lemongrass is often used in soups, curries, and other dishes for its unique flavor and aroma. It is also used in traditional Thai medicine to treat various ailments, such as fever, cough, and sore throat. Additionally, lemongrass is believed to have antioxidant and anti-inflammatory properties, which can help to protect against chronic diseases. Overall, lemongrass is a versatile and valuable herb in Thai culture, and its uses extend beyond the kitchen to traditional medicine and health remedies.
+* **Source URL (Trend):** No trend URL available in the provided context.
+* **Source URL (Science):** No science URL available in the provided context.
+* **Source URL (Compliance):** No compliance URL available in the provided context.
+* **Source URL (Safety):** https://dailymed.nlm.nih.gov/
+* **Source URL (Toxicity):** https://www.ncbi.nlm.nih.gov/books/NBK609280/?report=printable
+* **Source URL (Culture):** https://wikicommunity.sac.or.th/community/2737, https://wikicommunity.sac.or.th/community/2508, https://wikicommunity.sac.or.th/community/2754

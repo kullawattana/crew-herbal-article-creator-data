@@ -1,0 +1,18 @@
+# ===AUDIT_DATA_INTEGRITY_REPORT===
+*   **Collaboration Robustness (Data Loss):** 50%
+*   **Explanation Clarity (Hallucination/Handling):** 94.73%
+*   **Dropped Entities (Facts in Fact Sheet but not Article):**
+    *   Food Registration 1: registration_number=10-1-04060-5-0009, company_name=โอเชี่ยนฟูดส์ (Ocean Foods), status=สถานะผลิตภัณฑ์(คงอยู่)\ สถานะสถานที่ (คงอยู่) (Product status: exists, Location status: exists)
+    *   Food Registration 2: registration_number=10-1-04060-5-0011, company_name=โอเชี่ยนฟูดส์ (Ocean Foods), status=สถานะผลิตภัณฑ์(คงอยู่)\ สถานะสถานที่ (คงอยู่) (Product status: exists, Location status: exists)
+    *   Food Registration 3: registration_number=11-2-03048-6-0004, product_name=น้ำปลาผสม (ยี่ห้อ ดอกรัก) / Fish Sauce (dokrak brand), company_name=บริษัท บี.บี.ฟู้ด โปรดิวซ์ จำกัด (B.B. Food Produce Co., Ltd.), status=สถานะผลิตภัณฑ์(คงอยู่)\ สถานะสถานที่ (คงอยู่) (Product status: exists, Location status: exists)
+    *   Food Registration 4: registration_number=11-2-03048-6-0006, product_name=น้ำจิ้มไก่ (ยี่ห้อ ดอกรัก) / Sweet Chili Sauce (Dokrak Brand), company_name=บริษัท บี.บี.ฟู้ด โปรดิวซ์ จำกัด (B.B. Food Produce Co., Ltd.), status=สถานะผลิตภัณฑ์(คงอยู่)\ สถานะสถานที่ (คงอยู่) (Product status: exists, Location status: exists)
+    *   Food Registration 5: registration_number=11-2-03048-6-0007, product_name=ซอสพริกไทยดำ (ยี่ห้อ ดอกรัก) / Black Pepper Sauce (Dokrak Brand), company_name=บริษัท บี.บี.ฟู้ด โปรดิวซ์ จำกัด (B.B. Food Produce Co., Ltd.), status=สถานะผลิตภัณฑ์(คงอยู่)\ สถานะสถานที่ (คงอยู่) (Product status: exists, Location status: exists)
+    *   Toxicity Fact (Case Reports): No case reports mentioned in the article.
+    *   Culture Fact (Community - Wat Pa Daeng - name_etymology): Specific inscription lines for "Wat Pa Daeng" (first slab, line 17, and the second slab, lines 6 and 10).
+    *   Culture Fact (Community - Wat Pa Daeng - traditional_use): Specific abbot name (Phra Mongkhonwilat) and temple (Wat Kalayanavara).
+*   **Hallucinated Entities (Facts in Article but not Fact Sheet):**
+    *   The phrase "or related herbs" in "Several food products containing Calotropis gigantea or related herbs have been registered..."
+*   **Feedback:**
+    The audit revealed a **Collaboration Robustness (Data Loss) score of 50%**. This score reflects significant data loss, primarily due to the omission of specific details for the food registrations. While two product names were mentioned, the registration numbers, company names, and full status for all five registrations were not transferred. Additionally, a specific "Not found" fact regarding Toxicity Case Reports was entirely dropped, as were granular details about the etymology of "Wat Pa Daeng" and specific names from its traditional use.
+
+    The **Explanation Clarity (Hallucination/Handling) score is 94.73%**. This high score indicates excellent adherence to the Master Fact Sheet regarding the origin of facts. Only one minor hallucination was identified: the addition of "or related herbs" which was not explicitly supported by the fact sheet that focused solely on "ดอกรัก" (Calotropis gigantea) for the listed products. Crucially, the article demonstrated exemplary handling of "Not found" results (e.g., `citation_apa: Not found`, `Safety Dosage: Not found`), accurately conveying the absence of information rather than inventing it, which is a critical success in data integrity. Inferences and strategic analyses were generally well-grounded in the provided facts.

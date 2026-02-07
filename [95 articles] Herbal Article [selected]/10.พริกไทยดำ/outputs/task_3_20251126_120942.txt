@@ -1,0 +1,33 @@
+# ===RESEARCH_DATA===
+## Scientific Evidence for: Piper nigrum
+* **herb_name:** Piper nigrum
+* **herb_name_scientific:** Piper nigrum
+### Validated Compounds
+* **Compound 1:**
+    * **compound_name:** Piperine
+    * **mechanism_name:** Anti-inflammatory
+    * **supporting_studies:**
+        * **Study 1:** (Data from the first item in studies_data)
+            * **study_type:** Journal Article
+            * **abstract_raw:** Optimal drying method is important for the quality preservation of green pepper (GP). This study assessed the effects of five drying methods on the color, structure, flavor, and nutritional properties of dried GP. Results indicated that freeze drying (FD) preserved excellent color (L = 56.27, a = -3.76) and microstructure through low-temperature sublimation, while thermal drying (hot air drying (HAD) and far-infrared drying (FIRD)) enhanced the aroma release via melanoidin and lipid oxidation reactions. Notably, FD-FIRD significantly reduced the energy consumption and drying time by 50.98% and 55.6%, respectively, compared to FD alone. This combined drying method also maintained a high level of piperine (6.75 mg/g) and flavonoids retention ratio (370.53%), as well as preserving good antioxidant activity. Notably, the 25 dominant VOCs exhibited inverse correlations with piperine and phenols (r = -0.54 to -0.92). In short, FD-FIRD is a promising dehydration process.
+            * **key_findings:** The study found that freeze drying and far-infrared drying methods preserved the quality of green pepper, including its color, structure, flavor, and nutritional properties. The combined drying method also maintained a high level of piperine and flavonoids retention ratio, as well as preserving good antioxidant activity.
+            * **pmid:** 41282308
+            * **canonical_url:** https://doi.org/10.1016/j.fochx.2025.103183
+            * **citation_apa:** Wang, X., Su, H., Gao, R., Li, H., Lyu, Y., Chen, H., Zhong, Q., He, R., Li, C., & Chen, W. (2025). A comprehensive study on the effects of drying methods on the color, structure, flavor, and nutritional properties of green peppers (Piper nigrum L.). Food Chemistry: X, 32, 103183. doi: 10.1016/j.fochx.2025.103183
+        * **Study 2:** (Data from the second item in studies_data)
+            * **study_type:** Journal Article
+            * **abstract_raw:** Rheumatoid arthritis (RA) is a chronic inflammatory disease whose exact etiology is yet unidentified. Dexamethasone sodium phosphate (DSP) is an established anti-inflammatory agent, but its application is limited due to its dose-dependent toxicity. This can be minimized by targeting the delivery of DSP. Zinc oxide nanoparticles (ZnONPs) have potential in the management of RA owing to their anti-inflammatory and antioxidant characteristics. The aims of this research were to develop, optimize, and determine the cytotoxicity of FA decorated DSP loaded ZnONPs.
+            * **key_findings:** The study found that the developed FA decorated DSP loaded ZnONPs had potential in the management of RA due to their anti-inflammatory and antioxidant characteristics.
+            * **pmid:** 41273171
+            * **canonical_url:** https://doi.org/10.1177/1540658X251393093
+            * **citation_apa:** Dwivedi, S. D., Singh, D., Singh, M. R., & Permadi, N. (2025). Revolutionizing Rheumatoid Arthritis Management: Glucocorticoid-Loaded, Folic Acid-Conjugated Piper nigrum-Based Zinc-Oxide Nanoparticles. Assay and Drug Development Technologies, 251393093. doi: 10.1177/1540658X251393093
+        * **Study 3:** (Data from the third item in studies_data)
+            * **study_type:** Journal Article
+            * **abstract_raw:** Pepper (Piper nigrum L.) is a spice plant that contains bioactive compounds, including essential oils, with antioxidant and antimicrobial activity. The study intended to determine the composition of essential oil in the pepper plant's seeds, stems, as well as leaves and whether these materials had any potential antioxidant activity, and antibacterial activity against Escherichia coli and Staphylococcus aureus. GC-MS (Gas Chromatography-Mass Spectrometry) was utilized to investigate the components of pepper oil, and the inhibition diameter was used to determine the antibacterial activity.
+            * **key_findings:** The study found that the essential oil of Piper nigrum L. had antioxidant and antimicrobial activity, and the composition of the essential oil varied among different parts of the plant.
+            * **pmid:** 41245190
+            * **canonical_url:** https://doi.org/10.1002/fsn3.71205
+            * **citation_apa:** Nurjanah, S., Suryadi, E., Thoriq, A., Ainina, N., Mardawati, E., Ramadhan, M. G., Rosmiati, R., Akili, A. W. R., & Permadi, N. (2025). Essential Oils From Different Parts of Piper nigrum L.: Chemical Composition, Antibacterial, and Antioxidant Activities. Food Science & Nutrition, 13(11), e71205. doi: 10.1002/fsn3.71205
+
+### Overall Summary
+* **summary:** The studies found that Piper nigrum L. has antioxidant and antimicrobial activity, and the composition of the essential oil varied among different parts of the plant. The combined drying method of freeze drying and far-infrared drying preserved the quality of green pepper, including its color, structure, flavor, and nutritional properties. The developed FA decorated DSP loaded ZnONPs had potential in the management of RA due to their anti-inflammatory and antioxidant characteristics.

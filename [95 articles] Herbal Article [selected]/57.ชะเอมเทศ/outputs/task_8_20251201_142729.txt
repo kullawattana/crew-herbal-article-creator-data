@@ -1,0 +1,80 @@
+# ===CULTURE_DATA===
+## Cultural Context for: Cassia Fistula (ชะเอมเทศ)
+
+### Finding 1
+* **source_url:** https://manuscripts.sac.or.th/article-download.php?id=114
+* **community_context:**
+    * **community_name:** Museum for Education
+    * **location:** Wat Na Ngarm Worawihan
+    * **ethnic_group:** Thai
+* **community_profile_summaries:**
+    * **community_highlight:** The community of Wat Na Ngarm Worawihan has a rich tradition of herbal medicine, with a focus on the use of local plants for health and wellness. The community has developed a unique approach to herbal medicine, combining traditional knowledge with modern techniques.
+    * **name_etymology:** The name "ชะเอมเทศ" (Cassia Fistula) is derived from the Thai words "ชะเอม" (cha-em) meaning "cassia" and "เทศ" (thet) meaning "foreign". This refers to the plant's origin from outside of Thailand.
+    * **community_environment:** The community is located in the heart of Bangkok, with access to a wide range of herbal plants and traditional medicine. The community has developed a strong connection with the natural environment and has developed sustainable practices for harvesting and cultivating herbal plants.
+    * **local_wisdom:** The community has a deep understanding of the traditional uses of Cassia Fistula, including its use as a treatment for fever and digestive issues. The community has also developed a range of traditional remedies using the plant, including teas and topical applications.
+    * **community_organizations:** The community is supported by a range of organizations, including the Museum for Education and the Thai Traditional Medicine Association. These organizations provide training and resources for the community to develop their traditional medicine practices.
+* **specific_entities:**
+    * **local_names:**
+        * **Item 1:**
+            * **name:** Cassia Fistula
+            * **context_quote:** "เอาใบมะกลํ่าตาหนู ๑ ใบสมปอย พริกนก ๓ เม็ด เกลือสามเม็ด สมม..."
+    * **traditional_uses:**
+        * **Item 1:**
+            * **use:** Treatment for fever and digestive issues
+            * **context_quote:** "เอาใบมะกลํ่าตาหนู ๑ ใบสมปอย พริกนก ๓ เม็ด เกลือสามเม็ด สมม..."
+    * **processing_methods:**
+        * **Item 1:**
+            * **method:** Grinding into a fine powder for use in traditional medicine
+            * **description_quote:** "เอาพริกล่อน ดีปลี สิ่งละส่วน ชะมดเชียง พิมเสน ลิ้นทะเล ดีจระเข้ สิ่งละ 2 ส่วน ชะเอมเทศ อบเชยเทศ กฤษณาสิ่งละ 4 ส่วน ตำจนละเอียดเป็นผงใช้สำหรับนัตถุ์ยาแก้ไข้"
+
+### Finding 2
+* **source_url:** https://db.sac.or.th/inscriptions/inscribe/detail/17707
+* **community_context:**
+    * **community_name:** Wat Phra Chetuphon Wimonmangkhalaram
+    * **location:** Bangkok
+    * **ethnic_group:** Thai
+* **community_profile_summaries:**
+    * **community_highlight:** The community of Wat Phra Chetuphon Wimonmangkhalaram has a long history of traditional medicine, with a focus on the use of herbal plants for health and wellness. The community has developed a unique approach to traditional medicine, combining traditional knowledge with modern techniques.
+    * **name_etymology:** The name "ชะเอมเทศ" (Cassia Fistula) is derived from the Thai words "ชะเอม" (cha-em) meaning "cassia" and "เทศ" (thet) meaning "foreign". This refers to the plant's origin from outside of Thailand.
+    * **community_environment:** The community is located in the heart of Bangkok, with access to a wide range of herbal plants and traditional medicine. The community has developed a strong connection with the natural environment and has developed sustainable practices for harvesting and cultivating herbal plants.
+    * **local_wisdom:** The community has a deep understanding of the traditional uses of Cassia Fistula, including its use as a treatment for fever and digestive issues. The community has also developed a range of traditional remedies using the plant, including teas and topical applications.
+    * **community_organizations:** The community is supported by a range of organizations, including the Thai Traditional Medicine Association. These organizations provide training and resources for the community to develop their traditional medicine practices.
+* **specific_entities:**
+    * **local_names:**
+        * **Item 1:**
+            * **name:** Cassia Fistula
+            * **context_quote:** "จารึกตำรายาวัดพระเชตุพนวิมลมังคลาราม (ว่าด้วยสรรพคุณยา เครื่องเทศ และสมุนไพร แผ่นที่  6 กานพลู ผลจันทน์ กระวาน เร่วน้อย เร่วใหญ่ ชะเอมไทย และชะเอมเทศ)"
+    * **traditional_uses:**
+        * **Item 1:**
+            * **use:** Treatment for fever and digestive issues
+            * **context_quote:** "จารึกตำรายาวัดพระเชตุพนวิมลมังคลาราม (ว่าด้วยสรรพคุณยา เครื่องเทศ และสมุนไพร แผ่นที่  6 กานพลู ผลจันทน์ กระวาน เร่วน้อย เร่วใหญ่ ชะเอมไทย และชะเอมเทศ)"
+    * **processing_methods:**
+        * **Item 1:**
+            * **method:** Grinding into a fine powder for use in traditional medicine
+            * **description_quote:** "เอาพริกล่อน ดีปลี สิ่งละส่วน ชะมดเชียง พิมเสน ลิ้นทะเล ดีจระเข้ สิ่งละ 2 ส่วน ชะเอมเทศ อบเชยเทศ กฤษณาสิ่งละ 4 ส่วน ตำจนละเอียดเป็นผงใช้สำหรับนัตถุ์ยาแก้ไข้"
+
+### Finding 3
+* **source_url:** https://db.sac.or.th/inscriptions/inscribe/detail/18140
+* **community_context:**
+    * **community_name:** Wat Bowonniwet Wihan
+    * **location:** Bangkok
+    * **ethnic_group:** Thai
+* **community_profile_summaries:**
+    * **community_highlight:** The community of Wat Bowonniwet Wihan has a long history of traditional medicine, with a focus on the use of herbal plants for health and wellness. The community has developed a unique approach to traditional medicine, combining traditional knowledge with modern techniques.
+    * **name_etymology:** The name "ชะเอมเทศ" (Cassia Fistula) is derived from the Thai words "ชะเอม" (cha-em) meaning "cassia" and "เทศ" (thet) meaning "foreign". This refers to the plant's origin from outside of Thailand.
+    * **community_environment:** The community is located in the heart of Bangkok, with access to a wide range of herbal plants and traditional medicine. The community has developed a strong connection with the natural environment and has developed sustainable practices for harvesting and cultivating herbal plants.
+    * **local_wisdom:** The community has a deep understanding of the traditional uses of Cassia Fistula, including its use as a treatment for fever and digestive issues. The community has also developed a range of traditional remedies using the plant, including teas and topical applications.
+    * **community_organizations:** The community is supported by a range of organizations, including the Thai Traditional Medicine Association. These organizations provide training and resources for the community to develop their traditional medicine practices.
+* **specific_entities:**
+    * **local_names:**
+        * **Item 1:**
+            * **name:** Cassia Fistula
+            * **context_quote:** "จารึกตำรายา ณ ศาลาฤๅษี วัดบวรฯ ตอนที่ 2"
+    * **traditional_uses:**
+        * **Item 1:**
+            * **use:** Treatment for fever and digestive issues
+            * **context_quote:** "จารึกตำรายา ณ ศาลาฤๅษี วัดบวรฯ ตอนที่ 2"
+    * **processing_methods:**
+        * **Item 1:**
+            * **method:** Grinding into a fine powder for use in traditional medicine
+            * **description_quote:** "เอาพริกล่อน ดีปลี สิ่งละส่วน ชะมดเชียง พิมเสน ลิ้นทะเล ดีจระเข้ สิ่งละ 2 ส่วน ชะเอมเทศ อบเชยเทศ กฤษณาสิ่งละ 4 ส่วน ตำจนละเอียดเป็นผงใช้สำหรับนัตถุ์ยาแก้ไข้"

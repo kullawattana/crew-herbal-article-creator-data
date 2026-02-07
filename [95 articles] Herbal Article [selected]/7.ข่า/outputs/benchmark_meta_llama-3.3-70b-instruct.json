@@ -1,0 +1,11 @@
+{
+  "model": "meta/llama-3.3-70b-instruct",
+  "herbs": "Alpinia galanga",
+  "runtime_sec": 588.5,
+  "cpu_percent": 1.1,
+  "memory_mb_change": -147.08,
+  "total_tokens": 0,
+  "prompt_tokens": 0,
+  "completion_tokens": 0,
+  "total_cost": 0.0
+}

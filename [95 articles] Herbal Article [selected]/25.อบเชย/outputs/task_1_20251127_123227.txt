@@ -1,0 +1,6 @@
+# ===TRENDS_DATA=== 
+## Wellness Trends for: Cinnamon
+### Finding 1 
+* **herb_name:** Cinnamon
+* **wellness_context_summary:** Cinnamon has been shown to have immune-boosting properties, and can be used to prevent illness and promote overall wellness. It can be consumed as a herbal tea, or used in aromatherapy to promote relaxation and reduce stress. Cinnamon has also been shown to have antimicrobial properties, making it effective against a range of microorganisms.
+* **source_url:** https://globalwellnessinstitute.org/wp-content/uploads/2020/04/Immune-Boosting-Aroma-Bathing-at-Hot-Springs-Theme-Rains-Synthesis.pdf

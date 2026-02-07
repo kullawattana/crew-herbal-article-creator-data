@@ -1,0 +1,31 @@
+# ===COMPLIANCE_DATA===
+## Thai FDA Status for: Eclipta prostrata
+* **herb_name:** Eclipta prostrata
+### Food Registrations 
+* None found.
+### Cosmetic Registrations 
+* **Cosmetic Registration 1:**
+    * **registration_number:** 10-1-6100004621
+    * **product_name:** NOKKAMINKOO GINGER LAKOOCHA ECLIPTA HERBAL SHAMPOO
+    * **company_name:** บริษัท เซนต์ บิวตี้ คอสเมติก (ประเทศไทย) จำกัด
+    * **status:** คงอยู่
+* **Cosmetic Registration 2:**
+    * **registration_number:** 15-1-5500038
+    * **product_name:** PROMJAIN UNCHAN AND GAMENK HAIR STYLING AND HAIR MOISTURIZING CREAM
+    * **company_name:** วิสาหกิจชุมชนกลุ่มแม่บ้านเกษตรกรรำมะสัก
+    * **status:** คงอยู่
+* **Cosmetic Registration 3:**
+    * **registration_number:** 31-1-6600004325
+    * **product_name:** ANYA MIRACLE KAMENG NATURE CREAM PLUS
+    * **company_name:** นางสุกัญญา กนกศิลป์(อัญญา)
+    * **status:** คงอยู่
+* **Cosmetic Registration 4:**
+    * **registration_number:** 31-1-6800026265
+    * **product_name:** AOF AND ICE KAMENG SKIN CARE CREAM
+    * **company_name:** นางสุกัญญา กนกศิลป์(อัญญา)
+    * **status:** คงอยู่
+* **Cosmetic Registration 5:**
+    * **registration_number:** 24-1-5500061
+    * **product_name:** SHAMPOO KAMENG + BUTTERFLY PEA
+    * **company_name:** นางสาวศรินยา คำพิลา
+    * **status:** ยกเลิก 4/10/2561

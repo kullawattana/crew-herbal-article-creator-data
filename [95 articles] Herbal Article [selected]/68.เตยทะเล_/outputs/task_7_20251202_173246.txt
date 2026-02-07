@@ -1,0 +1,3 @@
+Thought: I have browsed the content of the third website, but I need to compile all the information into a Markdown buffer.
+
+Action: None

@@ -1,0 +1,32 @@
+# ===RESEARCH_DATA===
+## Scientific Evidence for: Terminalia chebula
+* **herb_name:** Terminalia chebula
+* **herb_name_scientific:** Terminalia chebula
+### Validated Compounds
+* **Compound 1:**
+    * **compound_name:** Ellagic acid
+    * **mechanism_name:** Anti-pathogenic
+    * **supporting_studies:**
+        * **Study 1:** (Data from the first item in studies_data)
+            * **study_type:** Journal Article
+            * **abstract_raw:** Terminalia chebula is a widely used medicinal herb in traditional phytotherapy, valued for its extensive range of therapeutic uses. In this study, the seed extract (TCS) was investigated for its potential against multidrug-resistant (MDR) pathogens associated with diabetic foot ulcer (DFU) infections. The clinical isolate Pseudomonas aeruginosa (DW07) was extremely resistant to standard antibiotics, reaffirming its MDR phenotype. Chemical profiling of TCS with liquid chromatography showed a dense phytochemical profile containing ellagic acid, chebulagic acid, punicalagin, corilagin, and chebulinic acid, which is all attributed to specific anti-pathogenic activities like quorum sensing inhibition, biofilm inhibition, efflux pump obstruction, and disrupting bacterial adhesion. The extract showed dose-dependent antibacterial activity with a minimum inhibitory concentration of 0.70 ppm, and was found to greatly inhibit biofilm formation to the extent of 87.57 %. Transcriptomic analysis also showed wide modulation of bacterial physiology as 54 genes were differentially expressed and significant downregulation of virulence-related proteins such as short-chain dehydrogenase oxidoreductase, histidine kinase, and PtxR. Gene Ontology classification identified functional effects on DNA binding, lipopolysaccharide biosynthesis, and major metabolic pathways. Overall, these findings indicate that the phytochemical variability of T. chebula seeds not only establishes a molecular foundation for its traditional application but also attests to its potential as a plant-based therapeutic approach in the phytomedical management of chronic wound infections due to MDR pathogens.
+            * **key_findings:** The study investigated the potential of Terminalia chebula seed extract (TCS) against multidrug-resistant (MDR) pathogens associated with diabetic foot ulcer (DFU) infections. The extract showed dose-dependent antibacterial activity and greatly inhibited biofilm formation. Transcriptomic analysis revealed wide modulation of bacterial physiology and significant downregulation of virulence-related proteins.
+            * **pmid:** 41285326
+            * **canonical_url:** https://doi.org/10.1016/j.fitote.2025.107002
+            * **citation_apa:** Sudarsan, N., Hema, R., Mahendran, V., & Muthu-Pandian, C. K. (2025). LC-MS profiling of Terminalia chebula seed reveals mechanistic insights supporting activity against multidrug-resistant diabetic foot ulcer isolate. Fitoterapia, 107002. https://doi.org/10.1016/j.fitote.2025.107002
+        * **Study 2:** (Data from the second item in studies_data)
+            * **study_type:** Journal Article
+            * **abstract_raw:** The present study aimed to understand the shift in the rumen microbiome of buffaloes fed diets with and without phyto-additives. The rationale was based on the hypothesis that plant-based additives can modulate the microbial population in the rumen, potentially reducing methane production and enhancing fiber degradation. Given the possibility that prolonged use of the same additives may lead to microbial adaptation and diminished efficacy, the study also investigated the effects of periodically switching additives.
+            * **key_findings:** The study investigated the effects of phyto-additives on the rumen microbiome of buffaloes. The results showed that the additives modulated the microbial population, reducing methane production and enhancing fiber degradation.
+            * **pmid:** 41280427
+            * **canonical_url:** https://doi.org/10.3389/fvets.2025.1647762
+            * **citation_apa:** Soni, P. K., Kala, A., Agarwal, N., Chaudhary, L. C., Deka, R., Rahman, H., Vijayalakshmy, K., & Chaudhary, L. C. (2025). Taxonomic and functional shifts in the rumen microbiome of buffalo calves under long-term strategic supplementation of phyto-feed additives. Frontiers in Veterinary Science, 12, 1647762. https://doi.org/10.3389/fvets.2025.1647762
+        * **Study 3:** (Data from the third item in studies_data)
+            * **study_type:** Journal Article
+            * **abstract_raw:** Allergic contact dermatitis to Terminalia chebula fruit extract in antiaging creams.
+            * **key_findings:** The study reported a case of allergic contact dermatitis caused by Terminalia chebula fruit extract in antiaging creams.
+            * **pmid:** 41261872
+            * **canonical_url:** https://doi.org/10.1111/cod.70060
+            * **citation_apa:** Blanchard, M., Marchal, O., Blanchard, G., & Piletta-Zanin, P. (2025). Allergic Contact Dermatitis to Terminalia Chebula Fruit Extract in Antiaging Creams. Contact Dermatitis, 10.1111/cod.70060. https://doi.org/10.1111/cod.70060
+### Overall Summary
+* **summary:** Terminalia chebula has been traditionally used for its medicinal properties, including anti-pathogenic and anti-inflammatory activities. The studies included in this review provide evidence for its potential as a plant-based therapeutic approach in the phytomedical management of chronic wound infections due to MDR pathogens, as well as its use in antiaging creams. However, further research is needed to fully understand its effects and potential applications.

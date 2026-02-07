@@ -1,0 +1,29 @@
+# ===COMPLIANCE_DATA=== 
+## Thai FDA Status for: Allium cepa
+* **herb_name:** Allium cepa
+### Food Registrations 
+* **Food Registration 1:**
+    * **registration_number:** 10-1-02263-5-0015
+    * **product_name:** Onion Powder
+    * **company_name:** Bioform International Co., Ltd.
+    * **status:** Active
+* **Food Registration 2:**
+    * **registration_number:** 10-1-10758-5-0092
+    * **product_name:** Yellow Onion Vacuum
+    * **company_name:** Natural and Premium Food Co., Ltd.
+    * **status:** Active
+* **Food Registration 3:**
+    * **registration_number:** 10-1-10758-5-0096
+    * **product_name:** Red Onion Vacuum
+    * **company_name:** Natural and Premium Food Co., Ltd.
+    * **status:** Active
+* **Food Registration 4:**
+    * **registration_number:** 10-1-10758-5-0347
+    * **product_name:** Onion Powder
+    * **company_name:** Natural and Premium Food Co., Ltd.
+    * **status:** Active
+* **Food Registration 5:**
+    * **registration_number:** 10-1-10758-5-0495
+    * **product_name:** Yellow and Red Onion Vacuum
+    * **company_name:** Natural and Premium Food Co., Ltd.
+    * **status:** Active

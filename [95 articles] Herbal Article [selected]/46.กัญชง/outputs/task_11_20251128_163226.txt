@@ -1,0 +1,56 @@
+# ===MASTER_FACT_SHEET===
+## Consolidated Facts for: Cannabis sativa
+* **Trend Fact:** No trend fact available
+* **Lab Fact (Experimental Method):** No lab fact available
+* **Lab Fact (Extraction Method):** No lab fact available
+* **Lab Fact (Compound Identified):** No lab fact available
+* **Lab Fact (Chromatography - TLC):** No lab fact available
+* **Lab Fact (Pharmacological Finding):** No lab fact available
+* **Lab Fact (Cosmetic or Clinical Effect):** No lab fact available
+* **Lab Fact (Quality Control):** No lab fact available
+* **Science Fact (Herb):** Cannabis sativa
+* **Science Fact (Compound):** Cannabidiol
+* **Science Fact (Abstracts):**
+  * **Study 1:**
+    * **abstract_raw:** Despite interest in using industrial hemp (IH) in cattle feed, there are minimal safety data on tissues from exposed cattle. This study sought to describe cannabinoid tissue concentrations, estimate withdrawal times for cattle exposed to IH inflorescence, and generate human exposure estimates for Δ9-tetrahydrocannabinol and cannabidiol. Twenty male Holsteins received IH inflorescence orally at 4.2 mg/kg/d cannabidiolic acid for 14 d. Liver, kidney, muscle, and adipose were collected at 1, 2, 3, 5, and 8 days after IH administration and analyzed for cannabinoids using liquid chromatography mass spectrometry. Withdrawal intervals and target tissues were selected based on the slowest-depleting cannabinoid. Δ9-tetrahydrocannabinol was detected in liver, kidney, and adipose and cannabidiol in all tissues. Withdrawal intervals for liver, kidney, muscle, and adipose were 68, 21, 39, and 154 d, respectively. Adipose was selected as the target tissue and cannabidiol the marker residue. Exposure estimates generated using data from this study revealed that newborns exceeded the lowest published global toxicity threshold of 1 μg/kg Δ9-tetrahydrocannabinol. Additional work should determine safe levels of cannabinoid exposure in vulnerable populations (i.e. children and adolescents). Our results will inform future discussions regarding the inclusion of IH in cattle feed.
+    * **citation_apa:** Fritz, B. R., Kleinhenz, M. D., Magnin, G., Griffin, J. J., Weeder, M. M., Curtis, A. K., ... & Coetzee, J. F. (2025). Tissue residue depletion of cannabinoids in cattle administered industrial hemp inflorescence. Scientific Reports, 15(1), 42337.
+  * **Study 2:**
+    * **abstract_raw:** Chronic cannabis use in people with bipolar disorder is associated with comparable decision-making and functional outcome to healthy participants.
+    * **citation_apa:** Miranda, A., Roberts, B. Z., Holloway, B. M., Peek, E., Rosberg, H., Ayoub, S. M., ... & Young, J. W. (2025). Chronic cannabis use in people with bipolar disorder is associated with comparable decision-making and functional outcome to healthy participants. Translational Psychiatry, 15(1), 506.
+* **Compliance Fact (Food Registration 1):** No compliance fact available
+* **Compliance Fact (Food Registration 2):** No compliance fact available
+* **Compliance Fact (Safety Dosage):** No compliance fact available
+* **Compliance Fact (Safety Warning):** No compliance fact available
+* **Safety Fact (Active Ingredient):** No safety fact available
+* **Safety Fact (Ingredient Purpose):** No safety fact available
+* **Safety Fact (Uses):** No safety fact available
+* **Safety Fact (Warnings):** No safety fact available
+* **Safety Fact (Directions):** No safety fact available
+* **Safety Fact (Other Info):** No safety fact available
+* **Safety Fact (Inactive Ingredients):** No safety fact available
+* **Safety Fact (Questions):** No safety fact available
+* **Toxicity Fact (Summary):** Cannabidiol (CBD) is a nonintoxicating compound found in the plant Cannabis sativa. It has been shown to have several beneficial pharmacological effects, including analgesic and anti-inflammatory activities. However, it can also cause dose-dependent hepatotoxicity, and its use has been associated with liver damage. Concomitant use of CBD and other medications, including leflunomide, lomitapide, mipomersen, pexidartinib, teriflunomide, and valproate, is known to cause liver damage.
+* **Toxicity Fact (Mechanism):** The mechanism of action for cannabidiol, especially concerning its anticonvulsant effect, has not been fully elucidated. CBD is known to have a low affinity for cannabinoid receptors CB1 and CB2, where it can act as an agonist or antagonist. The anti-inflammatory effects of CBD may be explained by its inverse agonist activity at the CB2 receptor.
+* **Toxicity Fact (Side Effects):** Reports of malaise, asthenia, and sedation associated with CBD use have been documented. These adverse effects may diminish over time and are more likely to be reported earlier in treatment. A meta-analysis demonstrated that CBD treatment is linked to somnolence, diarrhea, and transaminitis. CBD is associated with worsening respiratory depression in patients taking other respiratory-depressing drugs, such as opioids and benzodiazepines.
+* **Toxicity Fact (Case Reports):** There have been reports of required ventilation support for children and older adults after ingesting excessive cannabis amounts. CBD is only recently available and is usually used as an adjunct therapy; further investigations are necessary to better comprehend potential adverse effects and effects on liver enzymes and drug interactions.
+* **Culture Fact:** 
+  * **Culture Fact (Community - Hmong):** Hmong Ethnic Community
+  * **Culture Fact (Location - Hmong):** Tak Province
+  * **Culture Fact (Ethnic Group - Hmong):** Hmong
+  * **Culture Fact (Community Highlight - Hmong):** The Hmong community has a rich cultural heritage, with a strong emphasis on traditional practices and customs. They have a unique language, dress, and way of life that has been preserved over time. The community is known for its expertise in natural fiber production, particularly from the cannabis plant.
+  * **Culture Fact (Name Etymology - Hmong):** The name "Hmong" is derived from the Hmong language, which is spoken by the community. The term "กัญชง" (kanchong) refers to the cannabis plant, which is an important crop for the community.
+  * **Culture Fact (Environment - Hmong):** The Hmong community is located in the mountainous regions of Tak Province, where they have developed a unique relationship with the natural environment. They have a deep understanding of the local ecosystem and have developed sustainable practices to manage the natural resources.
+  * **Culture Fact (Local Wisdom - Hmong):** The Hmong community has a rich tradition of storytelling and oral history, which is passed down from generation to generation. They have a deep understanding of the local flora and fauna, and have developed unique practices for using natural resources.
+  * **Culture Fact (Organization - Hmong):** The Hmong community has a number of organizations that work to preserve and promote their cultural heritage. These organizations work to support the community's economic development, while also preserving their traditional practices and customs.
+  * **Culture Fact (Local Name - Hmong):** Kanchong is a plant used by the Hmong people to produce fiber.
+  * **Culture Fact (Use - Hmong):** The Hmong people use kanchong to produce fiber.
+  * **Culture Fact (Processing - Hmong):** The Hmong people process kanchong into fiber.
+  * **Culture Fact (Source - Hmong):** https://ethnicredb.sac.or.th/research_detail.php?id=53, https://sac-research.sac.or.th/file_thb/370-ch2.pdf, https://wikicommunity.sac.or.th/community/2613
+* **Internal RAG Fact (Herbal):** Although Cannabis sativa, also known as กัญชง, is not explicitly mentioned in the provided context, it is possible to extract relevant information about traditional Thai medicine and herbal remedies. The context highlights the importance of traditional Thai medicine in the lives of Thai people, emphasizing its ability to reduce medical expenses and provide effective treatment for minor ailments. Additionally, the context touches on the process of cultivating and preparing herbal remedies, including the use of various plants and ingredients to create medicinal dishes. However, it is essential to note that the context does not provide specific information about Cannabis sativa or its medicinal properties. The discussion revolves around traditional Thai medicine and herbal remedies in general, without explicit reference to กัญชง or Cannabis sativa.
+* **Internal RAG Fact (Cultural):** Cannabis, also known as กัญชง in Thai, has been used in traditional Thai medicine for its healing properties. It is believed to have a balancing effect on the body's elements, including the earth element (ปฐวีธาตุ), which comprises three systems: heart function (หทัยวัตถุ), new food (อุทธิยัง), and waste (กรีสัง). A balanced diet that includes cannabis can help prevent illnesses and maintain overall health. Additionally, cannabis is used in various Thai dishes, such as curries and soups, to aid digestion and relieve symptoms of certain health conditions. However, it is essential to consume cannabis in moderation, as excessive consumption can lead to an imbalance of the body's elements and cause health problems.
+* **Source URL (Trend):** No source URL available
+* **Source URL (Science):** https://doi.org/10.1038/s41598-025-26448-5, https://doi.org/10.1038/s41398-025-03718-4
+* **Source URL (Compliance):** No source URL available
+* **Source URL (Safety):** No source URL available
+* **Source URL (Toxicity):** https://www.ncbi.nlm.nih.gov/books/NBK556048/
+* **Source URL (Culture):** https://ethnicredb.sac.or.th/research_detail.php?id=53, https://sac-research.sac.or.th/file_thb/370-ch2.pdf, https://wikicommunity.sac.or.th/community/2613

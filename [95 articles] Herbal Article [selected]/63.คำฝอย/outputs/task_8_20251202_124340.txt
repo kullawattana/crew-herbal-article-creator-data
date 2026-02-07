@@ -1,0 +1,80 @@
+# ===CULTURE_DATA=== 
+## Cultural Context for: Khamin Chan (คำฝอย)
+
+### Finding 1
+* **source_url:** https://db.sac.or.th/thailand-cultural-encyclopedia/region.php?region=2&char=%E0%B8%84&page=11
+* **community_context:**
+    * **community_name:** Central Region
+    * **location:** Central Thailand
+    * **ethnic_group:** No information available
+* **community_profile_summaries:**
+    * **community_highlight:** No herbal-related information found.
+    * **name_etymology:** No herbal-related information found.
+    * **community_environment:** No herbal-related information found.
+    * **local_wisdom:** No herbal-related information found.
+    * **community_organizations:** No herbal-related information found.
+* **specific_entities:**
+    * **local_names:**
+        * **Item 1:**
+            * **name:** Khamin Chan
+            * **context_quote:** Khamin Chan : Plant, Central Region
+    * **traditional_uses:**
+        * **Item 1:**
+            * **use:** Plant
+            * **context_quote:** Khamin Chan : Plant, Central Region
+    * **processing_methods:**
+        * **Item 1:**
+            * **method:** No information available
+            * **description_quote:** No information available
+
+### Finding 2
+* **source_url:** https://db.sac.or.th/thailand-cultural-encyclopedia/freeterm.php?freeterm_id=5&page=16
+* **community_context:**
+    * **community_name:** Free Term : Plant
+    * **location:** Central Thailand
+    * **ethnic_group:** No information available
+* **community_profile_summaries:**
+    * **community_highlight:** No herbal-related information found.
+    * **name_etymology:** No herbal-related information found.
+    * **community_environment:** No herbal-related information found.
+    * **local_wisdom:** No herbal-related information found.
+    * **community_organizations:** No herbal-related information found.
+* **specific_entities:**
+    * **local_names:**
+        * **Item 1:**
+            * **name:** Khamin Chan
+            * **context_quote:** Khamin Chan : Plant, Central Region
+    * **traditional_uses:**
+        * **Item 1:**
+            * **use:** Plant
+            * **context_quote:** Khamin Chan : Plant, Central Region
+    * **processing_methods:**
+        * **Item 1:**
+            * **method:** No information available
+            * **description_quote:** No information available
+
+### Finding 3
+* **source_url:** https://db.sac.or.th/thailand-cultural-encyclopedia/list.php?char=%E0%B8%84&page=50
+* **community_context:**
+    * **community_name:** Category C
+    * **location:** Central Thailand
+    * **ethnic_group:** No information available
+* **community_profile_summaries:**
+    * **community_highlight:** No herbal-related information found.
+    * **name_etymology:** No herbal-related information found.
+    * **community_environment:** No herbal-related information found.
+    * **local_wisdom:** No herbal-related information found.
+    * **community_organizations:** No herbal-related information found.
+* **specific_entities:**
+    * **local_names:**
+        * **Item 1:**
+            * **name:** Khamin Chan
+            * **context_quote:** Khamin Chan : Plant, Central Region
+    * **traditional_uses:**
+        * **Item 1:**
+            * **use:** Plant
+            * **context_quote:** Khamin Chan : Plant, Central Region
+    * **processing_methods:**
+        * **Item 1:**
+            * **method:** No information available
+            * **description_quote:** No information available

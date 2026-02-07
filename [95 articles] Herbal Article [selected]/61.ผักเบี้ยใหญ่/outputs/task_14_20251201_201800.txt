@@ -1,0 +1,35 @@
+# ===AUDIT_DATA_INTEGRITY_REPORT===
+*   **Collaboration Robustness (Data Loss):** 46%
+*   **Explanation Clarity (Hallucination/Handling):** 42%
+*   **Dropped Entities (Facts in Fact Sheet but not Article):**
+    -   `Compliance Fact (Food Registration 1)`: "None found." (The fact of no food registration was not mentioned).
+    -   `Compliance Fact (Cosmetic Registration 1)`: Full details (registration_number=10-1-6200004631, company_name=บริษัท คอมเพล็กชั่น ซายน์ จำกัด, status=คงอยู่) for product "อภัยภูเบศร ผักเบี้ยใหญ่ ฟิสิคอล ซีซี ครีม เอสพีเอฟ 50 พีเอ+++ เบอร์ 30". (Only the product name was partially used).
+    -   `Compliance Fact (Cosmetic Registration 2)`: All details for "อภัยภูเบศร ผักเบี้ยใหญ่ เซนซิทีฟ คลีนซิ่ง วอเตอร์".
+    -   `Compliance Fact (Cosmetic Registration 3)`: All details for "อภัยภูเบศร ผักเบี้ยใหญ่ เซนซิทีฟ บอดี้ โลชั่น".
+    -   `Compliance Fact (Cosmetic Registration 4)`: All details for "อภัยภูเบศร ผักเบี้ยใหญ่ เดอร์ม่า ฟิลเลอร์".
+    -   `Culture Fact (Location - Sala Sung Municipality, Lopburi)`: "Thale Chup Son Subdistrict, Mueang District, Lopburi Province".
+    -   `Culture Fact (Community Highlight - Sala Sung Municipality, Lopburi)`: The full text: "The Sala Sung Municipality in Lopburi Province is home to the ancient Mon community, known for their rich cultural heritage and traditional practices. The community has a strong emphasis on preserving their ancient traditions, including the use of herbal remedies. However, no specific information on herbal-related strengths was found." (While elements are mentioned, the complete fact as a single entity is not transferred).
+    -   `Culture Fact (Name Etymology - Sala Sung Municipality, Lopburi)`: "The name "Lopburi" is derived from the ancient Mon language, with "Lavo" meaning "city" and "Pura" meaning "land". This etymology is related to the ancient Mon kingdom that once flourished in the area."
+    -   `Culture Fact (Environment - Sala Sung Municipality, Lopburi)`: The full text: "The community is situated in a rural area, surrounded by lush green forests and fertile plains. The environment is conducive to the growth of various herbs and plants, which are used in traditional medicine. However, no specific information on herbal-related environment was found." (The "no specific information" clause of this fact was dropped).
+    -   `Culture Fact (Local Wisdom - Sala Sung Municipality, Lopburi)`: The full text: "The ancient Mon community has a rich tradition of using herbal remedies for various ailments. However, no specific information on local wisdom related to herbs was found." (The "no specific information" clause of this fact was dropped).
+    -   `Culture Fact (Organization - Sala Sung Municipality, Lopburi)`: "The community has several organizations that work towards preserving their cultural heritage and traditional practices. However, no specific information on community organizations related to herbs was found."
+    -   `Culture Fact (Local Name - Sala Sung Municipality, Lopburi)`: "Lavo Pura".
+    -   `Culture Fact (Use - Sala Sung Municipality, Lopburi)`: "Making merit".
+    -   `Culture Fact (Processing - Sala Sung Municipality, Lopburi)`: "Inscription".
+    -   `Internal RAG Fact (Herbal)`: The full text regarding Portulaca oleracea not being explicitly mentioned in internal knowledge, discussion about Thai traditional medicine being old-fashioned but reducing expenses, locally grown herbs, etc.
+*   **Hallucinated Entities (Facts in Article but not Fact Sheet):**
+    -   "suggests a growing demand for products incorporating this herb."
+    -   "indicate a potential market for products targeting skin health and protection."
+    -   "...using locally grown herbs highlights the importance of traditional knowledge in the development of new products."
+    -   "...it is essential to consider potential constraints in product development."
+    -   "...indicates compliance with relevant regulatory requirements."
+    -   "However, further research is necessary to ensure the safe use of Portulaca oleracea in new products."
+    -   "The market opportunity for products utilizing Portulaca oleracea is significant, particularly in the cosmetic and pharmaceutical industries."
+    -   "The technical feasibility of developing new products is supported by the successful extraction and identification of compounds such as PoMPK3." (The assertion of "technical feasibility" beyond the mere identification of PoMPK3).
+    -   "...must be addressed through further research and compliance with regulatory requirements."
+    -   "A strategic recommendation for new product development would be to focus on the creation of cosmetic and pharmaceutical products that leverage the anti-inflammatory and protective effects of Portulaca oleracea."
+    -   "In conclusion, Portulaca oleracea is a plant with significant potential in the development of new products, particularly in the cosmetic and pharmaceutical industries."
+    -   "...indicate a promising market for products targeting skin health and protection."
+    -   "However, further research is necessary to ensure the safe use of Portulaca oleracea in new products and to comply with relevant regulatory requirements."
+    -   "By leveraging the traditional wisdom and scientific knowledge of Portulaca oleracea, companies can capitalize on the growing demand for products incorporating this herb while minimizing potential risks and ensuring the well-being of consumers."
+*   **Feedback:** The article successfully incorporated the scientific abstracts, APA citations, scientific source URLs, and the main cultural RAG fact. It also correctly handled several "not found" facts (e.g., trend facts, safety/toxicity concerns) by explicitly stating their absence or omitting them. However, the robustness score is significantly impacted by the omission of specific details from multiple cosmetic registrations and several specific cultural facts (e.g., location subdistrict, name etymology, local name, traditional use, processing method). The "Internal RAG Fact (Herbal)" was also entirely dropped. The clarity score suffers due to a substantial number of statements that are inferences, speculations, or strategic recommendations not directly present in the Master Fact Sheet, constituting hallucination. Additionally, some "not found" clauses within composite cultural facts and the "None found" status for food registration were implicitly omitted rather than explicitly addressed, which, while not inventing information, represents a slight data loss of negative facts.

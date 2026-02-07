@@ -1,0 +1,19 @@
+# ===COMPLIANCE_DATA===
+## Thai FDA Status for: Plumeria rubra
+* **herb_name:** Plumeria rubra
+### Food Registrations
+* None found.
+### Drug Registrations
+* None found.
+### Cosmetic Registrations
+* None found.
+### Hazardous Substance Registrations
+* None found.
+### Medical Device Registrations
+* None found.
+### Establishment Licenses
+* None found.
+### Vaccine Registrations
+* None found.
+### Other Registrations
+* None found.

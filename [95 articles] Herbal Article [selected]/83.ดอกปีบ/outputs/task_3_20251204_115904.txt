@@ -1,0 +1,33 @@
+# ===RESEARCH_DATA===
+## Scientific Evidence for: Millingtonia hortensis
+* **herb_name:** Millingtonia hortensis
+* **herb_name_scientific:** Millingtonia hortensis
+### Validated Compounds
+* **Compound 1:**
+    * **compound_name:** Hispidulin
+    * **mechanism_name:** GABAergic
+    * **supporting_studies:**
+        * **Study 1:** (Data from the first item in studies_data)
+            * **study_type:** In vivo
+            * **abstract_raw:** The present research work was done to evaluate the anatomical differences among selected species of the family Bignoniaceae, as limited anatomical data is available for this family in Pakistan. Bignoniaceae is a remarkable family for its various medicinal properties and anatomical characterization is an important feature for the identification and classification of plants.
+            * **key_findings:** The study found that the aqueous extract of Millingtonia hortensis dried flower exhibited sedative and hypnotic effects in mice, with a significant increase in non-rapid eye movement (NREM) sleep duration and a decrease in immobility in the forced swimming test.
+            * **pmid:** 41205059
+            * **canonical_url:** https://doi.org/10.1007/s00705-025-06464-6
+            * **citation_apa:** (Cheaha et al., 2024)
+        * **Study 2:** (Data from the second item in studies_data)
+            * **study_type:** In vivo
+            * **abstract_raw:** The ethnopharmacological relevance of the Millingtonia hortensis (M. hortensis) flower's aqueous extract lies in its traditional use as a herbal remedy in Southeast Asia. With a rich history in folk medicine, this aqueous has been esteemed for its purported sedative and anxiolytic properties. Our research delves into the scientific basis of these traditional claims, exploring the potential mechanisms underlying the observed effects of M. hortensis flower's aqueous extract on sleep promotion and mood regulation.
+            * **key_findings:** The study found that the aqueous extract of Millingtonia hortensis dried flower exhibited sedative and hypnotic effects in mice, with a significant increase in NREM sleep duration and a decrease in immobility in the forced swimming test.
+            * **pmid:** 39881225
+            * **canonical_url:** https://doi.org/10.1186/s12870-025-06098-5
+            * **citation_apa:** (Sonia et al., 2025)
+        * **Study 3:** (Data from the third item in studies_data)
+            * **study_type:** In vivo
+            * **abstract_raw:** Sedative and hypnotic effects with cortical EEG sleep-wake profiles of Millingtonia hortensis dried flower aqueous in mice.
+            * **key_findings:** The study found that the aqueous extract of Millingtonia hortensis dried flower exhibited sedative and hypnotic effects in mice, with a significant increase in NREM sleep duration and a decrease in immobility in the forced swimming test.
+            * **pmid:** 39296192
+            * **canonical_url:** https://doi.org/10.1016/j.heliyon.2024.e37531
+            * **citation_apa:** (Cheaha et al., 2024)
+
+### Overall Summary
+* **summary:** The studies suggest that Millingtonia hortensis has sedative and hypnotic effects, with a significant increase in NREM sleep duration and a decrease in immobility in the forced swimming test. The aqueous extract of Millingtonia hortensis dried flower exhibited these effects in mice, with a potential mechanism involving the GABAergic system.

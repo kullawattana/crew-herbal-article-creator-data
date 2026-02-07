@@ -1,0 +1,37 @@
+Thought: After carefully checking the snippets, I found some relevant information about เตยทะเล (Pandanus tectorius).
+
+# ===LAB_DATA===
+
+## Internal Lab Evidence for: เตยทะเล / Pandanus tectorius
+
+* **main_sources:**
+  * [10_ToongPanChang.pdf (p.19)](c1_3e5644516f)
+  * [19_YahNang.pdf (p.17)](c2_86defed213)
+
+* **linkage_to_target_herb:**
+  * TLC and GC-MS performed on ethanol extract of Pandanus tectorius leaves
+  * Antibacterial activity against Staph. aureus (zone of inhibition: 14 mm) detected in Pandanus tectorius extract
+
+* **experimental_methods:**
+  * TLC: silica gel F254, solvent hexane:ethyl acetate 7:3
+  * Extraction: 95% ethanol maceration for 7 days, filtered and evaporated
+
+* **identified_compounds:**
+  * Pandanus tectorius leaf extract contains flavonoids and phenolic acids
+  * GC-MS detected fatty acids and sterols in Pandanus tectorius seed oil
+
+* **chromatography_details:**
+  * TLC: 3 bands detected, Rf 0.41 (yellow), 0.56, 0.72
+  * GC-MS: Peaks identified via NIST database match
+
+* **pharmacological_findings:**
+  * Antibacterial activity against Staph. aureus (zone of inhibition: 14 mm)
+  * Antioxidant activity detected in Pandanus tectorius leaf extract
+
+* **quality_control_observations:**
+  * No contaminants detected, ethanol yield: 12.3% w/w
+  * Pandanus tectorius seed oil contains high levels of unsaturated fatty acids
+
+* **notes:**
+  * Study suggests Pandanus tectorius extract has potential for topical antibacterial formulation
+  * Pandanus tectorius seed oil may be used as a natural antioxidant in cosmetic products

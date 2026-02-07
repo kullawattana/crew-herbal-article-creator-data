@@ -1,0 +1,14 @@
+# ===TRENDS_DATA===
+Wellness Trends for: Creeping Mallotus (Mallotus philippensis)
+### Finding 1
+* **herb_name:** Creeping Mallotus (Mallotus philippensis)
+* **wellness_context_summary:** Creeping Mallotus is a herb used in Ayurvedic medicine, known for its anti-inflammatory properties, and is used to treat various health conditions such as cough, swollen lymphs, tuberculosis, and skin health. It is also used for wound healing, digestive support, and parasite cleansing.
+* **source_url:** https://www.picturethisai.com/benefits/Mallotus_repandus.html
+### Finding 2
+* **herb_name:** Creeping Mallotus (Mallotus philippensis)
+* **wellness_context_summary:** The herb has been tested in vitro for wound healing activity, and its bark extract has been shown to promote natural detoxification and overall well-being. It is also used for its antioxidant, anti-inflammatory, and antimicrobial properties.
+* **source_url:** https://pmc.ncbi.nlm.nih.gov/articles/PMC4109133/
+### Finding 3
+* **herb_name:** Creeping Mallotus (Mallotus philippensis)
+* **wellness_context_summary:** The herb is used in traditional Ayurvedic medicine to treat various health conditions, and its benefits include skin health, digestive support, and parasite cleansing. It is also used for its anti-inflammatory and antioxidant properties.
+* **source_url:** https://www.apollo247.com/health-topics/general-medical-consultation/benefits-of-kampillak

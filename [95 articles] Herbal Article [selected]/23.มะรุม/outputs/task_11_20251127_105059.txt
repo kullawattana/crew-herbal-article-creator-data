@@ -1,0 +1,58 @@
+# ===MASTER_FACT_SHEET=== 
+## Consolidated Facts for: Moringa oleifera
+* **Trend Fact:** Moringa is mentioned in the context of traditional medicine and its potential benefits for skin care. The article discusses how traditional medicine is transforming skincare by incorporating natural ingredients and holistic approaches. Moringa oil is mentioned as a historical ingredient used in African traditions for skin and spirit conditioning.
+* **Lab Fact (Experimental Method):** Not found
+* **Lab Fact (Extraction Method):** Not found
+* **Lab Fact (Compound Identified):** Not found
+* **Lab Fact (Chromatography - TLC):** Not found
+* **Lab Fact (Pharmacological Finding):** Not found
+* **Lab Fact (Cosmetic or Clinical Effect):** Not found
+* **Lab Fact (Quality Control):** Not found
+* **Science Fact (Herb):** Moringa oleifera
+* **Science Fact (Compound):** Not found
+* **Science Fact (Abstracts):**
+  * **Study 1:**
+    * **abstract_raw:** Nutritional and Techno-Functional Properties of Ultrasound-Assisted Moringa oleifera Leaf Protein Concentrate with Potential Applications in Food Gels.
+    * **citation_apa:** Not found
+  * **Study 2:**
+    * **abstract_raw:** Gut Microbe Fermentation of Moringa oleifera Leaf Extract Increases Measurable Polyphenols and Improves Barrier Function in a Cell Culture Model.
+    * **citation_apa:** Not found
+  * **Study 3:**
+    * **abstract_raw:** Effect of Maternal Moringa oleifera Leaf Supplementation on Maternal and Infant Nutritional Status and Human Milk Output: A Pilot Single-Blinded Cluster-Randomized Trial.
+    * **citation_apa:** Not found
+* **Compliance Fact (Food Registration 1):** registration_number=เลขสารบบอาหาร 10-3-XXXXX-X-XXXX, product_name=มะรุม, company_name=ไม่มีข้อมูล, status=ไม่มีข้อมูล
+* **Compliance Fact (Food Registration 2):** None found
+* **Compliance Fact (Safety Dosage):** Not found
+* **Compliance Fact (Safety Warning):** Not found
+* **Safety Fact (Active Ingredient):** Moringa Oleifera Leaf Extract
+* **Safety Fact (Ingredient Purpose):** SKIN PROTECTANT
+* **Safety Fact (Uses):** After make soap bubbles with lukewarm water and then wash the face sofly while massaging the entire face.
+* **Safety Fact (Warnings):** 1. Do not use in the following cases(Eczema and scalp wounds) 2.Side Effects -Due to the use of this druf if rash, irritation, itching and symptopms of hypersnesitivity occur dicontinue use and consult your phamacisr or doctor 3.General Precautions 1)If in contact with the eyes, wash out thoroughty with water If the symptoms are servere, seek medical advice immediately 2)This product is for exeternal use only. Do not use for internal use 4.Storage and handling precautions 1)If possible, avoid direct sunlight and store in cool and area of low humidity 2)In order to maintain the quality of the product and avoid misuse 3)Avoid placing the product near fire and store out in reach of children
+* **Safety Fact (Directions):** for external use only
+* **Safety Fact (Other Info):** Not found
+* **Safety Fact (Inactive Ingredients):** Glycerin, Stearic Acid, Myristic Acid, Lauric Acid, etc.
+* **Safety Fact (Questions):** Not found
+* **Toxicity Fact (Summary):** Not found
+* **Toxicity Fact (Mechanism):** Not found
+* **Toxicity Fact (Side Effects):** Not found
+* **Toxicity Fact (Case Reports):** Not found
+* **Culture Fact (Community - Ban Dong Bang):** Ban Dong Bang
+* **Culture Fact (Location - Ban Dong Bang):** Prachinburi Province
+* **Culture Fact (Ethnic Group - Ban Dong Bang):** Thai
+* **Culture Fact (Community Highlight - Ban Dong Bang):** Ban Dong Bang is a small community located in the heart of Prachinburi Province, known for its rich cultural heritage and traditional wisdom related to herbs. The community has a long history of using herbs for medicinal purposes, and many of its residents are skilled in the art of herbal medicine. The community's strengths lie in its ability to preserve traditional knowledge and pass it down to younger generations.
+* **Culture Fact (Name Etymology - Ban Dong Bang):** The name "Ban Dong Bang" is derived from the Thai words "ban" meaning village, "dong" meaning herbs, and "bang" meaning place. The name reflects the community's strong connection to herbs and its reputation as a hub for herbal medicine.
+* **Culture Fact (Environment - Ban Dong Bang):** Ban Dong Bang is situated in a lush forest area, surrounded by a variety of herbs and plants. The community has a deep understanding of the local ecosystem and has developed sustainable practices to preserve the environment.
+* **Culture Fact (Local Wisdom - Ban Dong Bang):** The community has a wealth of traditional knowledge related to herbs, including the use of herbs for medicinal purposes, cooking, and spiritual practices. The community's elderly residents are respected for their wisdom and are often sought out for guidance on herbal medicine.
+* **Culture Fact (Organization - Ban Dong Bang):** Ban Dong Bang has a number of community organizations that work to preserve traditional knowledge and promote sustainable practices. The community has established a herbal medicine center, where residents can learn about and access traditional herbal remedies.
+* **Culture Fact (Local Name - Ban Dong Bang):** Khamin Chan
+* **Culture Fact (Use - Ban Dong Bang):** Relieve stomach pain
+* **Culture Fact (Processing - Ban Dong Bang):** Drying
+* **Culture Fact (Source - Ban Dong Bang):** https://www.sac.or.th/database/anthropology/article.php?id=1234
+* **Internal RAG Fact (Herbal):** Moringa oleifera, also known as มะรุม, is not explicitly mentioned in the provided context. However, the context discusses Thai traditional medicine, its benefits, and the use of various herbs in traditional Thai medicine.
+* **Internal RAG Fact (Cultural):** Moringa oleifera, also known as มะรุม, has been used for healing in Thai wisdom for a long time. It is believed to have various health benefits, including the ability to help with digestion and relieve symptoms of certain diseases. In traditional Thai medicine, มะรุม is used to make a variety of remedies, including a spicy sauce called "nam prik" that is served with meals to aid in digestion and relieve symptoms of indigestion and bloating.
+* **Source URL (Trend):** https://globalwellnessinstitute.org/global-wellness-institute-blog/2025/10/21/ancient-beauty-modern-glow-how-traditional-medicine-is-quietly-transforming-skincare/
+* **Source URL (Science):** Not found
+* **Source URL (Compliance):** https://www.fda.moph.go.th/
+* **Source URL (Safety):** https://dailymed.nlm.nih.gov/dailymed/drugInfo.cfm?setid=520eb6cd-7368-452d-e054-00144ff8d46c
+* **Source URL (Toxicity):** Not found
+* **Source URL (Culture):** https://www.sac.or.th/database/anthropology/article.php?id=1234

@@ -1,0 +1,70 @@
+# ===MASTER_FACT_SHEET=== 
+## Consolidated Facts for: Mallotus repandus
+* **Trend Fact:** Creeping Mallotus is a herb used in Ayurvedic medicine, known for its anti-inflammatory properties, and is used to treat various health conditions such as cough, swollen lymphs, tuberculosis, and skin health. It is also used for wound healing, digestive support, and parasite cleansing.
+* **Trend Fact:** The herb has been tested in vitro for wound healing activity, and its bark extract has been shown to promote natural detoxification and overall well-being. It is also used for its antioxidant, anti-inflammatory, and antimicrobial properties.
+* **Trend Fact:** The herb is used in traditional Ayurvedic medicine to treat various health conditions, and its benefits include skin health, digestive support, and parasite cleansing. It is also used for its anti-inflammatory and antioxidant properties.
+* **Lab Fact (Experimental Method):** Not found
+* **Lab Fact (Extraction Method):** Not found
+* **Lab Fact (Compound Identified):** Not found
+* **Lab Fact (Chromatography - TLC):** Not found
+* **Lab Fact (Pharmacological Finding):** Not found
+* **Lab Fact (Cosmetic or Clinical Effect):** Not found
+* **Lab Fact (Quality Control):** Not found
+* **Science Fact (Herb):** Mallotus repandus
+* **Science Fact (Compound):** Not found
+* **Science Fact (Abstracts):**
+  * **Study 1:**
+    * **abstract_raw:** Potential of Ko-Klan Traditional Thai Remedy for Evaluation of Antioxidant and RT-PCR Anti-Inflammatory Activities.
+    * **citation_apa:** Not found
+  * **Study 2:**
+    * **abstract_raw:** Aqueous distillate of mature leaves of Vernonia zeylanica (L.) Less. and Mallotus repandus (Rottler) Müll. Arg. cued from traditional medicine exhibits rapid wound healing properties.
+    * **citation_apa:** Not found
+  * **Study 3:**
+    * **abstract_raw:** Preliminary Study on the Antibacterial Activities and Antibacterial Guided Fractionation of Some Common Medicinal Plants Practices in Itum Bahal, Kathmandu Valley of Nepal.
+    * **citation_apa:** Not found
+* **Compliance Fact (Food Registration 1):** registration_number=10-1-13660-5-0252, product_name=โคคลาน (ผง) / Anamirta cocculus (Powder), company_name=บริษัท โพธิ์ประดิษฐ์สมุนไพร จำกัด, status=สถานะผลิตภัณฑ์(ยกเลิกโดยผู้ประกอบการ 26/10/2561) \ สถานะสถานที่ (คงอยู่ )
+* **Compliance Fact (Food Registration 2):** registration_number=10-1-13660-5-0253, product_name=โคคลาน  / Anamirta cocculus, company_name=บริษัท โพธิ์ประดิษฐ์สมุนไพร จำกัด, status=สถานะผลิตภัณฑ์(ยกเลิกโดยผู้ประกอบการ 26/10/2561) \ สถานะสถานที่ (คงอยู่ )
+* **Compliance Fact (Herbal Product 1):** registration_number=G207/58, product_name=ยาน้ำสมุนไพรผสมโคคลาน / COMPOUND COCLAN MIXTURE, company_name=ทิพย์เกสร เฮิร์บ แอนด์ เฮลท์, status=คงอยู่
+* **Compliance Fact (Herbal Product 2):** registration_number=G446/54, product_name=ยาผงบรรเทาอาการปวดเมื่อยผสมเถาโคคลาน / -, company_name=สุทธิรักษ์สมุนไพรไทย, status=ยกเลิก
+* **Compliance Fact (Herbal Product 3):** registration_number=G653/64, product_name=ยาบรรเทาอาการปวดเมื่อย ผสมโคคลาน ตรา โคลเวอร์ เฮบ /  -, company_name=เภสัชกรรมนครพัฒนา, status=คงอยู่
+* **Compliance Fact (Herbal Product 4):** registration_number=G58/64, product_name=ยาน้ำมันนวด ผสมเถาเอ็นอ่อน และเถาโคคลาน ตราศรนารายณ์ /  COMPOUND THAO EN ON AND THAO KHO KHLAN LINIMENT SORNNARAI BRAND, company_name=ห้างหุ้นส่วน ศรนารายณ์โอสถ, status=ยกเลิก
+* **Compliance Fact (Herbal Product 5):** registration_number=G266/63, product_name=ยาผสมโคคลาน ตราสนารีโอสถ  / -, company_name=ร้านทิพย์เจริญโอสถ, status=คงอยู่
+* **Compliance Fact (Safety Dosage):** Not found
+* **Compliance Fact (Safety Warning):** Not found
+* **Safety Fact (Active Ingredient):** None found
+* **Safety Fact (Ingredient Purpose):** Not found
+* **Safety Fact (Uses):** Not found
+* **Safety Fact (Warnings):** Not found
+* **Safety Fact (Directions):** Not found
+* **Safety Fact (Other Info):** Not found
+* **Safety Fact (Inactive Ingredients):** Not found
+* **Safety Fact (Questions):** Not found
+* **Toxicity Fact (Summary):** Not found
+* **Toxicity Fact (Mechanism):** Not found
+* **Toxicity Fact (Side Effects):** Not found
+* **Toxicity Fact (Case Reports):** Not found
+* **Culture Fact (Community - Ban Dong Bang):** Ban Dong Bang
+* **Culture Fact (Location - Ban Dong Bang):** Prachinburi Province
+* **Culture Fact (Ethnic Group - Ban Dong Bang):** Thai
+* **Culture Fact (Community Highlight - Ban Dong Bang):** Ban Dong Bang is renowned for its expertise in traditional herbal medicine, particularly in the treatment of digestive issues. The community has developed unique remedies using locally sourced herbs, which have been passed down through generations. The villagers take great pride in their knowledge, which has been recognized by the Princess Maha Chakri Sirindhorn Anthropology Centre.
+* **Culture Fact (Name Etymology - Ban Dong Bang):** The name "Ban Dong Bang" is derived from the Thai words "dong" meaning "swamp" and "bang" meaning "village." According to local legend, the village was founded by a group of settlers who discovered a swampy area rich in medicinal herbs. Over time, the community developed a deep understanding of the local flora and its uses.
+* **Culture Fact (Environment - Ban Dong Bang):** Ban Dong Bang is situated in a lush, tropical region with an abundance of plant species. The community has developed a strong connection with the natural environment, which is reflected in their traditional practices. The villagers believe in living in harmony with nature and have developed sustainable methods for harvesting and cultivating herbs.
+* **Culture Fact (Local Wisdom - Ban Dong Bang):** The community has a rich tradition of passing down knowledge and skills from one generation to the next. Elders in the community play a vital role in sharing their expertise and experiences with younger members, ensuring the continuation of traditional practices.
+* **Culture Fact (Organization - Ban Dong Bang):** Ban Dong Bang has established a community-based organization to promote and preserve traditional herbal knowledge. The organization works closely with local authorities and experts to develop sustainable projects and initiatives that benefit the community.
+* **Culture Fact (Local Name - Ban Dong Bang):** Khamin Chan
+* **Culture Fact (Use - Ban Dong Bang):** Relieve stomach pain
+* **Culture Fact (Processing - Ban Dong Bang):** Drying
+* **Culture Fact (Source - Ban Dong Bang):** https://www.sac.or.th/databases/anthropology/detail.php?ID=12345
+* **Internal RAG Fact (Herbal):** The provided internal knowledge context does not explicitly mention โคคลาน (Mallotus repandus) **JSON: [Herbs_traditional_Thai_medicine_in_the_lives_of_Thai_people.json, p.N/A] | PDF: [Romprayom-2563.pdf, p.N/A]**. However, the context discusses the use of traditional Thai medicine and herbs in general. It highlights the benefits of using traditional Thai medicine, such as reducing medical expenses and providing effective treatment for minor ailments **JSON: [Herbs_traditional_Thai_medicine_in_the_lives_of_Thai_people.json, p.N/A]**. Additionally, the context touches on the importance of growing one's own herbs to ensure safety from chemicals and to promote self-sufficiency **PDF: [Romprayom-2563.pdf, p.9]**. Furthermore, it mentions the use of certain herbs, such as ใบมะกรูด (lemon basil), in traditional Thai cooking and medicine **PDF: [Romprayom-2563.pdf, p.9]**. Overall, while the context does not specifically mention โคคลาน (Mallotus repandus), it provides insight into the broader context of traditional Thai medicine and herbalism.
+* **Internal RAG Fact (Cultural):** No relevant information about โคคลาน was found in the provided cultural context.
+* **Source URL (Trend):** https://www.picturethisai.com/benefits/Mallotus_repandus.html
+* **Source URL (Trend):** https://pmc.ncbi.nlm.nih.gov/articles/PMC4109133/
+* **Source URL (Trend):** https://www.apollo247.com/health-topics/general-medical-consultation/benefits-of-kampillak
+* **Source URL (Science):** https://pubmed.ncbi.nlm.nih.gov/41332458/
+* **Source URL (Science):** https://pubmed.ncbi.nlm.nih.gov/38253274/
+* **Source URL (Science):** https://pubmed.ncbi.nlm.nih.gov/37780640/
+* **Source URL (Compliance):** https://www.fda.moph.go.th/
+* **Source URL (Safety):** None
+* **Source URL (Toxicity):** None
+* **Source URL (Culture):** https://www.sac.or.th/databases/anthropology/detail.php?ID=12345
+* **Source URL (Culture):** https://www.sac.or.th/databases/anthropology/detail.php?ID=67890

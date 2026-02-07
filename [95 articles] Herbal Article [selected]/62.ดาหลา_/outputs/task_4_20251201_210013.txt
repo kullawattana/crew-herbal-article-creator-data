@@ -1,0 +1,29 @@
+# ===COMPLIANCE_DATA===
+## Thai FDA Status for: Torch Ginger
+* **herb_name:** Torch Ginger
+### Food Registrations
+* **Food Registration 1:**
+    * **registration_number:** 11-2-01844-6-0008
+    * **product_name:** น้ำดื่ม ตรา ดาหลา (Drinking Water Dalha Brand)
+    * **company_name:** บริษัท จุลสิน จำกัด (Jul Sin Co., Ltd.)
+    * **status:** สถานะผลิตภัณฑ์(คงอยู่)\ สถานะสถานที่ (คงอยู่) (Product status: Existing, Location status: Existing)
+* **Food Registration 2:**
+    * **registration_number:** 13-1-23064-5-0212
+    * **product_name:** กรีน คอฟฟี่ บีน พลัส (ผลิตภัณฑ์เสริมอาหาร) (ตรา ดาหลา) / Green Coffee Bean Plus (Dietary Supplement Product) (Dalha Brand)
+    * **company_name:** บริษัท มาร์วาลิค เฮลท์ จำกัด (Marvalic Health Co., Ltd.)
+    * **status:** สถานะผลิตภัณฑ์(คงอยู่)\ สถานะสถานที่ (คงอยู่) (Product status: Existing, Location status: Existing)
+* **Food Registration 3:**
+    * **registration_number:** 21-2-00465-6-0001
+    * **product_name:** กิมจิ อาม่า / A-ma Kimchi
+    * **company_name:** กิมจิอาม่า (A-ma Kimchi)
+    * **status:** สถานะผลิตภัณฑ์(คงอยู่)\ สถานะสถานที่ (คงอยู่) (Product status: Existing, Location status: Existing)
+* **Food Registration 4:**
+    * **registration_number:** 21-2-00465-6-0002
+    * **product_name:** ไชเท้าดอง (กิมจิ อาม่า) / Pickled Radish (A-ma Kimchi)
+    * **company_name:** กิมจิอาม่า (A-ma Kimchi)
+    * **status:** สถานะผลิตภัณฑ์(คงอยู่)\ สถานะสถานที่ (คงอยู่) (Product status: Existing, Location status: Existing)
+* **Food Registration 5:**
+    * **registration_number:** 21-2-02467-6-0004
+    * **product_name:** น้ำดื่มตรา ดาหลา / Darla Brand Drinking Water
+    * **company_name:** สาม ยู (Sam Yu)
+    * **status:** สถานะผลิตภัณฑ์(คงอยู่)\ สถานะสถานที่ (คงอยู่) (Product status: Existing, Location status: Existing)

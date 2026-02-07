@@ -1,0 +1,1 @@
+{'ok': True, 'path': '/Users/topgun/crew-herbal-article-creator/herbal_article_creator/outputs/research_paper.docx', 'message': 'Word document saved as outputs/research_paper.docx'}

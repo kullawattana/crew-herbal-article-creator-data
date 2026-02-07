@@ -1,0 +1,61 @@
+# ===MASTER_FACT_SHEET=== 
+## Consolidated Facts for: Eclipta prostrata
+* **Trend Fact:** False Daisy is an herb used in Ayurveda to increase hair growth. According to a study from 2014, False Daisy helps stimulate hair follicles and provokes a faster hair growth stage in nude mice.
+* **Trend Fact:** False Daisy is used in herbal hair oils to help stimulate hair growth. It is also used in polyherbal ointments to strengthen hair and promote hair growth.
+* **Trend Fact:** False Daisy is used in herbal creams to help stimulate hair growth. It is also used in cubosomal suspensions to target the delivery of drugs and herbal remedies.
+* **Lab Fact (Experimental Method):** Not found.
+* **Lab Fact (Extraction Method):** Not found.
+* **Lab Fact (Compound Identified):** Not found.
+* **Lab Fact (Chromatography - TLC):** Not found.
+* **Lab Fact (Pharmacological Finding):** Not found.
+* **Lab Fact (Cosmetic or Clinical Effect):** Not found.
+* **Lab Fact (Quality Control):** Not found.
+* **Science Fact (Herb):** Eclipta prostrata (L.) L.
+* **Science Fact (Compound):** wedelolactone
+* **Science Fact (Abstracts):**
+  * **Study 1:**
+    * **abstract_raw:** Identification and Integrative Discovery of Anti-Inflammatory Compounds Isolated from Eclipta prostrata (L.) L. by Network Pharmacology, Molecular Docking, and In Vitro Evaluation.
+    * **citation_apa:** Not found.
+  * **Study 2:**
+    * **abstract_raw:** Preventive Effects of Eclipta prostrata and Hordeum vulgare Extract Complex on Precocious Puberty in Danazol- and High-Fat Diet-Induced Rat Models.
+    * **citation_apa:** Not found.
+* **Compliance Fact (Food Registration 1):** None found.
+* **Compliance Fact (Cosmetic Registration 1):** registration_number=10-1-6100004621, product_name=NOKKAMINKOO GINGER LAKOOCHA ECLIPTA HERBAL SHAMPOO, company_name=บริษัท เซนต์ บิวตี้ คอสเมติก (ประเทศไทย) จำกัด, status=คงอยู่
+* **Compliance Fact (Cosmetic Registration 2):** registration_number=15-1-5500038, product_name=PROMJAIN UNCHAN AND GAMENK HAIR STYLING AND HAIR MOISTURIZING CREAM, company_name=วิสาหกิจชุมชนกลุ่มแม่บ้านเกษตรกรรำมะสัก, status=คงอยู่
+* **Compliance Fact (Cosmetic Registration 3):** registration_number=31-1-6600004325, product_name=ANYA MIRACLE KAMENG NATURE CREAM PLUS, company_name=นางสุกัญญา กนกศิลป์(อัญญา), status=คงอยู่
+* **Compliance Fact (Cosmetic Registration 4):** registration_number=31-1-6800026265, product_name=AOF AND ICE KAMENG SKIN CARE CREAM, company_name=นางสุกัญญา กนกศิลป์(อัญญา), status=คงอยู่
+* **Compliance Fact (Cosmetic Registration 5):** registration_number=24-1-5500061, product_name=SHAMPOO KAMENG + BUTTERFLY PEA, company_name=นางสาวศรินยา คำพิลา, status=ยกเลิก 4/10/2561
+* **Compliance Fact (Safety Dosage):** Not found.
+* **Compliance Fact (Safety Warning):** Not found.
+* **Safety Fact (Active Ingredient):** Not found.
+* **Safety Fact (Ingredient Purpose):** Not found.
+* **Safety Fact (Uses):** Not found.
+* **Safety Fact (Warnings):** Not found.
+* **Safety Fact (Directions):** Not found.
+* **Safety Fact (Other Info):** Not found.
+* **Safety Fact (Inactive Ingredients):** Not found.
+* **Safety Fact (Questions):** Not found.
+* **Toxicity Fact (Summary):** Eclipta prostrata has been reported to have hypolipidemic effects, and its mechanism of action is not well understood. The ethanol extract (EP) of Eclipta and fractions EPF1-EPF4, obtained by eluting with different concentrations of ethanol from a HPD-450 macroporous resin column chromatography of the EP, were screened in hyperlipidemic mice for lipid-lowering activity, and EPF3 was the most active fraction. The LD50 of EPF3 was undetectable because no mice died with administration of EPF3 at 10.4 g/kg.
+* **Toxicity Fact (Mechanism):** The results showed that EPF3 significantly decreased body-weight gain and liver-weight gain and reduced the serum lipid levels in hyperlipidemic hamsters. EPF3 also increased the activities of antioxidant enzymes; up-regulated the mRNA expression of peroxisome proliferator-activated receptor α (PPARα), low density lipoprotein receptor (LDLR), lecithin-cholesterol transferase (LCAT) and scavenger receptor class B type Ι receptor (SR-BI); and down-regulated the mRNA expression of 3-hydroxy-3-methyl-glutaryl-CoA reductase (HMGR) in the liver.
+* **Toxicity Fact (Side Effects):** No side effects were reported in the study.
+* **Toxicity Fact (Case Reports):** No case reports were found in the study.
+* **Culture Fact (Community - Chunchon Takhiantong):** Chunchon Takhiantong
+* **Culture Fact (Location - Chunchon Takhiantong):** Chanthaburi Province
+* **Culture Fact (Ethnic Group - Chunchon Takhiantong):** Chong
+* **Culture Fact (Community Highlight - Chunchon Takhiantong):** Chunchon Takhiantong is a community with a dense population of Chong people, particularly in Village 4, Takhiantong Subdistrict, and Village 5, Pachak Subdistrict. The community has a rich cultural heritage, with a strong emphasis on traditional medicine and herbal remedies.
+* **Culture Fact (Name Etymology - Chunchon Takhiantong):** The name "Takhiantong" is derived from the abundance of Takhian trees in the area. The community was previously known as "Ban Tayod" but was later renamed to "Ban Takhiantong".
+* **Culture Fact (Environment - Chunchon Takhiantong):** The community is situated in a rural area with a diverse range of flora and fauna. The villagers have a deep understanding of the local ecosystem and have developed traditional practices to conserve and utilize the natural resources.
+* **Culture Fact (Local Wisdom - Chunchon Takhiantong):** The community has a rich tradition of herbal medicine, with a wide range of plants used for various ailments. The villagers have developed unique processing methods and recipes to prepare the herbs for consumption.
+* **Culture Fact (Organization - Chunchon Takhiantong):** The community has a strong social structure, with various organizations and groups working together to promote cultural heritage and traditional practices.
+* **Culture Fact (Local Name - Chunchon Takhiantong):** Kameng
+* **Culture Fact (Use - Chunchon Takhiantong):** Used to prepare medicine
+* **Culture Fact (Processing - Chunchon Takhiantong):** Ground into a powder and consumed with Kanom Jeen (fermented rice noodles)
+* **Culture Fact (Source - Chunchon Takhiantong):** https://sac-research.sac.or.th/uploads/article//2020_20200731100408-1.pdf
+* **Internal RAG Fact (Herbal):** Eclipta prostrata, also known as กะเม็ง, is not explicitly mentioned in the provided context. However, the context discusses Thai traditional medicine and its uses, benefits, and processes. It highlights the importance of using traditional Thai medicine to reduce healthcare costs and promote self-sufficiency. The context also mentions various herbs and plants used in traditional Thai medicine, but does not specifically mention Eclipta prostrata. It is possible that Eclipta prostrata is used in traditional Thai medicine, but further research is needed to confirm this.
+* **Internal RAG Fact (Cultural):** กะเม็ง (Eclipta prostrata) is a herb used in Thai traditional medicine for its various health benefits. It is believed to have antioxidant, anti-inflammatory, and antibacterial properties, making it effective in treating various ailments such as fever, rheumatism, and skin conditions. The herb is also used to promote digestion and relieve symptoms of indigestion and bloating. Additionally, กะเม็ง is used in traditional Thai cooking as a ingredient in soups and curries, where it is valued for its unique flavor and nutritional properties.
+* **Source URL (Trend):** https://www.healthline.com/health/herbs-for-hair-growth
+* **Source URL (Science):** https://doi.org/10.3390/ph18111653
+* **Source URL (Compliance):** Not found.
+* **Source URL (Safety):** Not found.
+* **Source URL (Toxicity):** https://pubmed.ncbi.nlm.nih.gov/25562812/
+* **Source URL (Culture):** https://sac-research.sac.or.th/uploads/article//2020_20200731100408-1.pdf

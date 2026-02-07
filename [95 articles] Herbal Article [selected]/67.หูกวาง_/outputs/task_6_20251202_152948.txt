@@ -1,0 +1,3 @@
+Thought: I have browsed the URL, and now I need to extract the relevant information.
+
+Action: None

@@ -1,0 +1,20 @@
+# ===SAFETY_DATA=== 
+## International Safety Data for: Syzygium aromaticum
+* **herb_name:** Syzygium aromaticum
+* **source_browsed:** https://dailymed.nlm.nih.gov/dailymed/fda/fdaDrugXsl.cfm?setid=2431aa5f-1cad-4356-e063-6394a90aec07&type=display
+### Drug Facts Label
+* **active_ingredients:**
+    * **Ingredient 1:**
+        * **name:** Allium sativum
+        * **strength:** 2000 mg in 2 U
+        * **purpose:** Not found
+    * **Ingredient 2:**
+        * **name:** Momordica charantia
+        * **strength:** 740 mg in 2 U
+        * **purpose:** Not found
+* **uses:** Decrease Ocular Pressure, Minimize Pressure Related Headaches, Improve Visual Acuity, Reduce Light Sensitivity
+* **warnings:** Not safe for pregnant women, Do not use if imprinted seal under cap is broken or missing.
+* **directions:** Take 2 capsules by mouth before breakfast and 2 capsules at night before dinner.
+* **other_information:** Keep bottle tightly closed. Store in a cool dry place, out of children's reach.
+* **inactive_ingredients:** Vegetable Capsule (HPMC), Rice Flour, Syzygium aromaticum L
+* **questions:** Not found

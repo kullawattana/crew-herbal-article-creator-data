@@ -1,0 +1,59 @@
+# ===MASTER_FACT_SHEET===
+## Consolidated Facts for: Murraya paniculata
+* **Trend Fact:** The Global Wellness Institute's Hydrothermal Initiative aims to increase transparency and awareness in the design, build, and implementation of all elements of spas and wellness facilities involving thermal and wet treatments. The initiative's guide provides design and building guidelines for hydrothermal areas in spas and private residences, highlighting the benefits of hydrothermal bathing, including cleansing, detoxifying, and improving the immune system.
+* **Trend Fact:** The Global Wellness Institute's Wellness Evidence portal provides a comprehensive resource for finding authoritative studies on various wellness modalities, including aromatherapy, which may involve the use of Orange Jasmine essential oil.
+* **Trend Fact:** The Global Wellness Institute's Nutrition for Healthspan Initiative highlights the importance of a balanced diet that includes antioxidant-rich foods, such as fruits and herbs like Orange Jasmine, to promote overall health and wellbeing.
+* **Lab Fact (Experimental Method):** Not found
+* **Lab Fact (Extraction Method):** Not found
+* **Lab Fact (Compound Identified):** Not found
+* **Lab Fact (Chromatography - TLC):** Not found
+* **Lab Fact (Pharmacological Finding):** Not found
+* **Lab Fact (Cosmetic or Clinical Effect):** Not found
+* **Lab Fact (Quality Control):** Not found
+* **Science Fact (Herb):** Murraya paniculata
+* **Science Fact (Compound):** Not found
+* **Science Fact (Abstracts):**
+  * **Study 1:**
+    * **abstract_raw:** Not found
+    * **citation_apa:** Not found
+* **Compliance Fact (Food Registration 1):** registration_number=10-1-22345-1-0003, product_name=น้ำมันปาล์มโอเลอินจากเนื้อปาล์มผ่านกรรมวิธี (ตรา ดอกแก้ว) / -, company_name=เจริญชัยพาณิชย์, status=สถานะผลิตภัณฑ์(คงอยู่)\ สถานะสถานที่ (คงอยู่)
+* **Compliance Fact (Food Registration 2):** registration_number=11-2-01354-2-0001, product_name=น้ำมันปาล์มโอเลอินจากเนื้อปาล์มผ่านกรรมวิธี ตรา ดอกแก้ว, company_name=ต.เจริญการค้า, status=สถานะผลิตภัณฑ์(คงอยู่)\ สถานะสถานที่ (คงอยู่)
+* **Compliance Fact (Food Registration 3):** registration_number=11-2-01951-6-0820, product_name=น้ำดื่มตรา ดอกแก้วเจ้าจอม, company_name=บริษัท เอเซีย วอเตอร์มาร์ท จำกัด, status=สถานะผลิตภัณฑ์(คงอยู่)\ สถานะสถานที่ (คงอยู่)
+* **Compliance Fact (Food Registration 4):** registration_number=12-2-00157-2-0037, product_name=น้ำดื่ม ตรา ดอกแก้ว, company_name=ห้างหุ้นส่วนจำกัด ช.เจริญพูนผล, status=สถานะผลิตภัณฑ์(ผู้ประกอบการแจ้งยกเลิกใบอนุญาต 19/3/2567) \ สถานะสถานที่ (ผู้ประกอบการแจ้งยกเลิก 19/3/2567)
+* **Compliance Fact (Food Registration 5):** registration_number=14-2-01359-6-0212, product_name=น้ำดื่มตรา ดอกแก้วเจ้าจอม, company_name=บริษัท ฮอลแลนด์ สตาร์ บรรจุภัณฑ์ จำกัด, status=สถานะผลิตภัณฑ์(ยกเลิกโดยผู้ประกอบการ 14/11/2566) \ สถานะสถานที่ (คงอยู่ )
+* **Compliance Fact (Safety Dosage):** Not found
+* **Compliance Fact (Safety Warning):** Not found
+* **Safety Fact (Active Ingredient):** Not found
+* **Safety Fact (Ingredient Purpose):** Not found
+* **Safety Fact (Uses):** Not found
+* **Safety Fact (Warnings):** Not found
+* **Safety Fact (Directions):** Not found
+* **Safety Fact (Other Info):** Not found
+* **Safety Fact (Inactive Ingredients):** Not found
+* **Safety Fact (Questions):** Not found
+* **Toxicity Fact (Summary):** Murraya paniculata has been traditionally used as a folk medicine. The plant has been reported to have various biological activities, including antibacterial, anti-inflammatory, and antioxidant activities. However, there is limited information available on its toxicity.
+* **Toxicity Fact (Mechanism):** The mechanism of injury associated with Murraya paniculata is not well understood. However, it is believed that the plant's bioactive compounds may cause toxicity in high doses.
+* **Toxicity Fact (Side Effects):** There are limited reports of side effects associated with Murraya paniculata. However, it is reported to have caused significant effects in acute toxicity assays, although these effects had no clinical relevance.
+* **Toxicity Fact (Case Reports):** There are no reported case studies on the toxicity of Murraya paniculata. However, the plant has been traditionally used as a folk medicine, and its bioactive compounds have been reported to have various biological activities.
+* **Culture Fact (Community - Kaeo Manee 2):** community_name=Kaeo Manee 2
+* **Culture Fact (Location - Kaeo Manee 2):** location=-
+* **Culture Fact (Ethnic Group - Kaeo Manee 2):** ethnic_group=-
+* **Culture Fact (Community Highlight - Kaeo Manee 2):** community_highlight=No herbal-related information found.
+* **Culture Fact (Name Etymology - Kaeo Manee 2):** name_etymology=Dok Kaeo, also known as Manee Ratana, is a term from the Trai Phum Khatha story. It refers to a type of gemstone with a length of 4 cubits and a size comparable to a cartwheel. The gemstone has two golden lotus flowers on either side of its head. Dok Kaeo is accompanied by 84,000 different types of gemstones as its retinue.
+* **Culture Fact (Environment - Kaeo Manee 2):** community_environment=No herbal-related information found.
+* **Culture Fact (Local Wisdom - Kaeo Manee 2):** local_wisdom=No herbal-related information found.
+* **Culture Fact (Organization - Kaeo Manee 2):** community_organizations=No herbal-related information found.
+* **Culture Fact (Local Name - Kaeo Manee 2):** local_name=-
+* **Culture Fact (Use - Kaeo Manee 2):** traditional_use=-
+* **Culture Fact (Processing - Kaeo Manee 2):** processing_method=-
+* **Culture Fact (Source - Kaeo Manee 2):** source_url=https://thailitdir.sac.or.th/character-detail.php?n_id=230
+* **Internal RAG Fact (Herbal):** Murraya paniculata, also known as ดอกแก้ว, is not explicitly mentioned in the provided context. However, the context discusses Thai traditional medicine and its benefits, highlighting the importance of using natural remedies to treat various health conditions. According to the context, Thai traditional medicine is a cost-effective way to treat minor ailments and can be used to reduce healthcare expenses **JSON: [Herbs_traditional_Thai_medicine_in_the_lives_of_Thai_people.json, p.N/A] | PDF: [Romprayom-2563.pdf, p.9]**. Additionally, the context emphasizes the significance of using fresh and natural ingredients in cooking to promote overall health and well-being **JSON: [Herbs_traditional_Thai_medicine_in_the_lives_of_Thai_people.json, p.N/A] | PDF: [Romprayom-2563.pdf, p.9]**. Furthermore, the context touches on the idea of using traditional Thai medicine to treat various health conditions, including digestive issues and fever **JSON: [Herbs_traditional_Thai_medicine_in_the_lives_of_Thai_people.json, p.N/A] | PDF: [Romprayom-2563.pdf, p.32]**. Overall, while Murraya paniculata is not explicitly mentioned, the context provides valuable insights into the benefits and uses of Thai traditional medicine.
+* **Internal RAG Fact (Cultural):** No relevant information about ดอกแก้ว was found in the provided cultural context.
+* **Source URL (Trend):** https://globalwellnessinstitute.org/initiatives/hydrothermal-initiative/
+* **Source URL (Trend):** https://globalwellnessinstitute.org/wellnessevidence/
+* **Source URL (Trend):** https://globalwellnessinstitute.org/global-wellness-institute-blog/2025/04/02/nutrition-for-healthspan-initiative-trends-for-2025/
+* **Source URL (Science):** Not found
+* **Source URL (Compliance):** Not found
+* **Source URL (Safety):** Not found
+* **Source URL (Toxicity):** https://pmc.ncbi.nlm.nih.gov/articles/PMC5456234/
+* **Source URL (Culture):** https://thailitdir.sac.or.th/character-detail.php?n_id=230

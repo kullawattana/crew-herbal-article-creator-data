@@ -1,0 +1,61 @@
+# ===MASTER_FACT_SHEET=== 
+## Consolidated Facts for: Smilax
+* **Trend Fact:** Smilax was also sold as a natural testosterone booster that has been gaining popularity in the health and fitness community. It was an herbal supplement derived from the Smilax plant, which has been used for centuries as a natural remedy for a variety of ailments. Some studies have shown Smilax may possibly increase testosterone levels, reduce inflammation, and improve overall health.
+* **Trend Fact:** Sarsaparilla (Smilax officinalis) is suggested for its potential anti-inflammatory and immune-boosting properties. Dr. Sebi recommended it for its nutrient content and potential health benefits.
+* **Trend Fact:** Engeletin, a natural Smilax glabra rhizomilax derivative, has been reported to exhibit robust anti-inflammatory activity and may alleviate depressive-like behaviors by modulating microglial polarization via the LCN2/CXCL10 signalling pathway.
+* **Lab Fact (Experimental Method):** Not found
+* **Lab Fact (Extraction Method):** Not found
+* **Lab Fact (Compound Identified):** Not found
+* **Lab Fact (Chromatography - TLC):** Not found
+* **Lab Fact (Pharmacological Finding):** Not found
+* **Lab Fact (Cosmetic or Clinical Effect):** Not found
+* **Lab Fact (Quality Control):** Not found
+* **Science Fact (Herb):** Smilax
+* **Science Fact (Compound):** Engeletin
+* **Science Fact (Abstracts):**
+  * **Study 1:**
+    * **abstract_raw:** Not found
+    * **citation_apa:** Not found
+  * **Study 2:**
+    * **abstract_raw:** Not found
+    * **citation_apa:** Not found
+  * **Study 3:**
+    * **abstract_raw:** Engeletin, a natural Smilax glabra rhizomilax derivative, has been reported to exhibit robust anti-inflammatory activity and may alleviate depressive-like behaviors by modulating microglial polarization via the LCN2/CXCL10 signalling pathway.
+    * **citation_apa:** Not found
+* **Compliance Fact (Food Registration 1):** registration_number=10-1-13660-5-0227, product_name=ข้าวเย็นเหนือ / Smilax corbularia Kunth, company_name=บริษัท โพธิ์ประดิษฐ์สมุนไพร จำกัด, status=สถานะผลิตภัณฑ์(ยกเลิกโดยผู้ประกอบการ 26/10/2561) \ สถานะสถานที่ (คงอยู่ )
+* **Compliance Fact (Food Registration 2):** registration_number=10-1-13660-5-0228, product_name=ข้าวเย็นเหนือ (ผง) / Smilax corbularia Kunth (Powder), company_name=บริษัท โพธิ์ประดิษฐ์สมุนไพร จำกัด, status=สถานะผลิตภัณฑ์(ยกเลิกโดยผู้ประกอบการ 26/10/2561) \ สถานะสถานที่ (คงอยู่ )
+* **Compliance Fact (Safety Dosage):** Not found
+* **Compliance Fact (Safety Warning):** Not found
+* **Safety Fact (Active Ingredient):** Not found
+* **Safety Fact (Ingredient Purpose):** Not found
+* **Safety Fact (Uses):** Not found
+* **Safety Fact (Warnings):** Not found
+* **Safety Fact (Directions):** Not found
+* **Safety Fact (Other Info):** Not found
+* **Safety Fact (Inactive Ingredients):** Not found
+* **Safety Fact (Questions):** Not found
+* **Toxicity Fact (Summary):** Not found
+* **Toxicity Fact (Mechanism):** Not found
+* **Toxicity Fact (Side Effects):** Not found
+* **Toxicity Fact (Case Reports):** Not found
+* **Culture Fact (Community - Sakai):** Sakai
+* **Culture Fact (Location - Sakai):** Trang, Phatthalung, Satun, Yala, and Narathiwat Provinces
+* **Culture Fact (Ethnic Group - Sakai):** Mani, Manik, Orang Asli, Asli, Jahai
+* **Culture Fact (Community Highlight - Sakai):** The Sakai people are a minority group living in the southern part of Thailand, scattered in small groups in the dense forests and mountainous areas of Trang, Phatthalung, Satun, Yala, and Narathiwat provinces. They have a unique way of life, including their food gathering methods, shelter construction, beliefs, and rituals. However, some Sakai groups have started to settle down and intermarry with locals, leading to an increase in mixed Sakai descendants. Despite adapting to urban culture, some Sakai groups still face challenges in adjusting to certain aspects of city life.
+* **Culture Fact (Name Etymology - Sakai):** The name "Sakai" is derived from the Malay word "sakai," meaning "forest dweller" or "aboriginal people."
+* **Culture Fact (Environment - Sakai):** The Sakai people live in the dense forests and mountainous areas of southern Thailand, where they have developed a unique relationship with nature. However, their way of life is threatened by the destruction of their natural habitat and the exploitation of their resources by outsiders.
+* **Culture Fact (Local Wisdom - Sakai):** The Sakai people have a rich cultural heritage, including their traditional knowledge of forest products, hunting methods, and spiritual practices. However, their lack of formal education and the disregard for their rights by outsiders have made them vulnerable to exploitation.
+* **Culture Fact (Organization - Sakai):** Not found
+* **Culture Fact (Local Name - Sakai):** Sakai
+* **Culture Fact (Use - Sakai):** Food gathering
+* **Culture Fact (Processing - Sakai):** Hunting
+* **Culture Fact (Source - Sakai):** https://db.sac.or.th/thailand-cultural-encyclopedia/list.php?page=211
+* **Internal RAG Fact (Herbal):** ข้าวเย็นเหนือ (Smilax corbularia) is not explicitly mentioned in the provided internal knowledge context. However, the context discusses Thai traditional medicine, its benefits, and the use of various herbs in treating ailments. It highlights the importance of traditional medicine in reducing healthcare costs and promoting self-sufficiency. The context also touches on the process of cultivating and preparing herbs for medicinal use. Although Smilax corbularia is not specifically mentioned, the context provides valuable insights into the realm of Thai traditional medicine and its applications.
+* **Internal RAG Fact (Cultural):** ข้าวเย็นเหนือ (Khao Yen Nuea) is a type of Thai herb that has been used for centuries in traditional medicine. It is believed to have various health benefits, including aiding digestion, relieving flatulence, and treating certain illnesses. The herb is also used as a spice in Thai cuisine, particularly in dishes such as tom yum soup and green curry. According to Thai wisdom, ข้าวเย็นเหนือ is considered a "cooling" herb, meaning it is believed to help balance the body's temperature and prevent heat-related illnesses. It is also thought to have anti-inflammatory properties and is used to treat conditions such as arthritis and gout. In addition, ข้าวเย็นเหนือ is believed to have antioxidant properties, which can help protect the body against free radicals and oxidative stress. Overall, ข้าวเย็นเหนือ is a versatile and highly valued herb in Thai traditional medicine and cuisine.
+* **Source URL (Trend):** https://www.trulyhuge.com/forum/1483.html
+* **Source URL (Trend):** https://theafricanbiomineralbalance.com/list-of-dr-sebi-approved-herb-for-cancer/
+* **Source URL (Trend):** https://pubmed.ncbi.nlm.nih.gov/38597406/
+* **Source URL (Compliance):** Not found
+* **Source URL (Safety):** Not found
+* **Source URL (Toxicity):** Not found
+* **Source URL (Culture):** https://db.sac.or.th/thailand-cultural-encyclopedia/list.php?page=211

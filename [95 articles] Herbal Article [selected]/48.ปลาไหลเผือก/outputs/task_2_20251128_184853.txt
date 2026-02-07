@@ -1,0 +1,10 @@
+# ===LAB_DATA=== 
+## Internal Lab Evidence for: ปลาไหลเผือก / Eurycoma longifolia
+* **main_sources:** None found
+* **linkage_to_target_herb:** None found
+* **experimental_methods:** None found
+* **identified_compounds:** None found
+* **chromatography_details:** None found
+* **pharmacological_findings:** None found
+* **quality_control_observations:** None found
+* **notes:** None found

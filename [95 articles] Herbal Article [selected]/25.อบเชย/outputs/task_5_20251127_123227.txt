@@ -1,0 +1,3 @@
+Thought: I will now filter the URLs to ensure they are explicitly about Cinnamomum verum and extract the relevant information.
+
+Action: None

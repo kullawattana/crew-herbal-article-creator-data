@@ -1,0 +1,55 @@
+# ===MASTER_FACT_SHEET===
+## Consolidated Facts for: Persicaria odorata
+* **Trend Fact:** Not found
+* **Lab Fact (Experimental Method):** Not found
+* **Lab Fact (Extraction Method):** Not found
+* **Lab Fact (Compound Identified):** Not found
+* **Lab Fact (Chromatography - TLC):** Not found
+* **Lab Fact (Pharmacological Finding):** Not found
+* **Lab Fact (Cosmetic or Clinical Effect):** Not found
+* **Lab Fact (Quality Control):** Not found
+* **Science Fact (Herb):** Persicaria odorata
+* **Science Fact (Compound):** Not found
+* **Science Fact (Abstracts):**
+  * **Study 1:**
+    * **abstract_raw:** Not found
+    * **citation_apa:** Not found
+* **Compliance Fact (Food Registration 1):** registration_number=10-1-02358-1-0524, product_name=ผักแพ้ว ตัดแต่ง, company_name=บริษัท ซีพี แอ็กซ์ตร้า จำกัด (มหาชน) สาขา กัลปพฤกษ์, status=สถานะผลิตภัณฑ์(คงอยู่)\ สถานะสถานที่ (คงอยู่)
+* **Compliance Fact (Food Registration 2):** registration_number=14-1-06936-6-0387, product_name=กลิ่น ผักแพว (วัตถุแต่งกลิ่นรสธรรมชาติ) /  PHAK PHAEO FLAVOUR (NATURAL FLAVOUR), company_name=บริษัท อุตสาหกรรมเครื่องหอมไทย-จีน จำกัด, status=สถานะผลิตภัณฑ์(คงอยู่)\ สถานะสถานที่ (คงอยู่)
+* **Compliance Fact (Food Registration 3):** registration_number=26-2-00258-2-0587, product_name=ผักแพ้ว ตัดแต่ง, company_name=บริษัท ซีพี แอ็กซ์ตร้า จำกัด (มหาชน) สาขา นครนายก, status=สถานะผลิตภัณฑ์(คงอยู่)\ สถานะสถานที่ (คงอยู่)
+* **Compliance Fact (Food Registration 4):** registration_number=30-2-04957-2-0573, product_name=ผักแพ้ว ตัดแต่ง, company_name=บริษัท ซีพี แอ็กซ์ตร้า จำกัด (มหาชน) สาขาปากช่อง, status=สถานะผลิตภัณฑ์(คงอยู่)\ สถานะสถานที่ (คงอยู่)
+* **Compliance Fact (Food Registration 5):** registration_number=30-2-07060-6-0042, product_name=ผักแพวตราสตางค์ฟาร์ม /  Plover Stang Farm brand, company_name=สตางค์ฟาร์ม, status=สถานะผลิตภัณฑ์(คงอยู่)\ สถานะสถานที่ (คงอยู่)
+* **Compliance Fact (Safety Dosage):** Not found
+* **Compliance Fact (Safety Warning):** Not found
+* **Safety Fact (Active Ingredient):** Niacinamide, Adenosine
+* **Safety Fact (Ingredient Purpose):** Skin Brightening, Skin anti wrinkle
+* **Safety Fact (Uses):** Helps brighten skin, Helps anti wrinkle
+* **Safety Fact (Warnings):** For external use only. Avoid contact with eyes. Discontinue use if signs of irritation or rashes appear. Replace the cap after use. Keep out of reach of children.
+* **Safety Fact (Directions):** After facial wash, apply an adequate amount on face and neck. Apply twice a day on normal skin, morning and night, at the last stage of skin care. Tap gently for max absorption
+* **Safety Fact (Other Info):** Not found
+* **Safety Fact (Inactive Ingredients):** Water, Dimethicone, Glycerin, Methylpropanediol, 1,2-Hexanediol, Macadamia Ternifolia Seed Oil, Persea Gratissima (Avocado) Oil, Sodium Acrylate/Sodium Acryloyldimethyl Taurate Copolymer, Helianthus Annuus (Sunflower) Seed Oil, Isohexadecane, Betaine, Cyclopentasiloxane, Cetearyl Alcohol, Dimethicone/Vinyl Dimethicone Crosspolymer, Arginine, Carbomer, Polysorbate 80, Butylene Glycol, Glycine Soja (Soybean) Oil, Cetearyl Glucoside, Caprylic/Capric Triglyceride, Sorbitan Oleate, Phellinus Linteus Extract, Hydrogenated Lecithin, Lavandula Angustifolia (Lavender) Oil, Sodium Hyaluronate, PEG-40 Castor Oil, Disodium EDTA, Glycine Soja (Soybean) Sterols, Citrus Grandis (Grapefruit) Peel Oil, Biosaccharide Gum-1, Beta-Glucan, Centella Asiatica Extract, Bixa Orellana Seed Oil, Acetyl Hexapeptide-8, rh-Oligopeptide-1, Piper Methysticum Leaf/Root/Stem Extract, Copper Tripeptide-1, Palmitoyl Tetrapeptide-7, Palmitoyl Tripeptide-1, Hydroxydecyl Ubiquinone, Cananga Odorata Flower Oil, Tocopherol, Chrysanthellum Indicum Extract, Rheum Palmatum Root/Stalk Extract, Asarum Sieboldi Root Extract, Larix Sibirica Wood Extract, Quercus Mongolia Leaf Extract, Persicaria Hydropiper Extract, Illicium Verum (Anise) Fruit Extract, Corydalis Turtschaninovii Root Extract, Coptis Japonica Root Extract, Machilus Thunbergii Bark Extract, rh-Oligopeptide-2, rh-Polypeptide-1, rh-Polypeptide-3
+* **Safety Fact (Questions):** TEL,+82-539-3450, www.ultravcosmetic.com
+* **Toxicity Fact (Summary):** Not found
+* **Toxicity Fact (Mechanism):** Not found
+* **Toxicity Fact (Side Effects):** Not found
+* **Toxicity Fact (Case Reports):** Not found
+* **Culture Fact (Community - Singaporean Chinese):** Singaporean Chinese (ชาวสิงคโปร์)
+* **Culture Fact (Location - Singaporean Chinese):** Singapore (สิงคโปร์)
+* **Culture Fact (Ethnic Group - Singaporean Chinese):** Chinese, Hokkien (จีน ฮกเกี้ยน)
+* **Culture Fact (Community Highlight - Singaporean Chinese):** The Singaporean Chinese community is known for its cleanliness and organization. In the 1950s, the government began to regulate street vendors and hawker centers, leading to the development of a unique food culture. The community's ability to adapt to change and innovate has contributed to the success of their culinary traditions.
+* **Culture Fact (Name Etymology - Singaporean Chinese):** The name "Pak Phaew" is derived from the Thai language and refers to a type of leafy green vegetable commonly used in Singaporean cuisine. The name is also associated with the dish "Laksa," a popular spicy noodle soup that originated in Singapore.
+* **Culture Fact (Environment - Singaporean Chinese):** The Singaporean Chinese community has a strong emphasis on cleanliness and organization, which is reflected in their food culture. The government's efforts to regulate street vendors and hawker centers have contributed to the development of a unique and vibrant food scene.
+* **Culture Fact (Local Wisdom - Singaporean Chinese):** The community's traditional wisdom is reflected in their use of local ingredients and cooking methods. The use of "Pak Phaew" in Laksa is an example of this, as it adds a unique flavor and texture to the dish.
+* **Culture Fact (Organization - Singaporean Chinese):** The community has a number of organizations that promote and preserve their cultural heritage, including the Singaporean Chinese Cultural Centre.
+* **Culture Fact (Local Name - Singaporean Chinese):** Pak Phaew (ผักแพว)
+* **Culture Fact (Use - Singaporean Chinese):** Making Laksa
+* **Culture Fact (Processing - Singaporean Chinese):** Boiling
+* **Culture Fact (Source - Singaporean Chinese):** https://southeastasia.sac.or.th/subject.php?c_id=8&sj_id=68
+* **Internal RAG Fact (Herbal):** Persicaria odorata, also known as ผักแพว, is not explicitly mentioned in the provided internal knowledge context. However, the context discusses Thai traditional medicine and its uses, benefits, and cultural significance. It highlights the importance of using traditional medicine to reduce healthcare costs and promote self-sufficiency. The context also touches on the preparation and consumption of various Thai dishes, including those made with herbs and spices, which may be related to Persicaria odorata. Additionally, it mentions the use of traditional medicine in Lanna culture to alleviate symptoms of illness and promote overall well-being. **JSON: [Herbs_traditional_Thai_medicine_in_the_lives_of_Thai_people.json, p.N/A] | PDF: [Romprayom-2563.pdf, p.9, 17, 32]**
+* **Internal RAG Fact (Cultural):** Persicaria odorata, also known as ผักแพว, has been used in Thai traditional medicine for a long time. It is believed to have various health benefits, including aiding digestion and relieving symptoms of certain illnesses. In Thai cuisine, Persicaria odorata is often used as a ingredient in dishes such as spicy soups and salads. The herb is also used in traditional Thai medicine to treat various health conditions, including fever, rheumatism, and skin diseases. Additionally, Persicaria odorata is believed to have antioxidant and anti-inflammatory properties, which can help to protect against cell damage and reduce inflammation in the body. Overall, Persicaria odorata is a versatile herb that has been used in Thai traditional medicine for centuries, and its health benefits are still valued today.
+* **Source URL (Trend):** Not found
+* **Source URL (Science):** Not found
+* **Source URL (Compliance):** https://www.fda.moph.go.th/
+* **Source URL (Safety):** https://dailymed.nlm.nih.gov/dailymed/drugInfo.cfm?setid=17e392bd-f960-4c20-b06c-fcbdae6f2612&audience=consumer
+* **Source URL (Toxicity):** Not found
+* **Source URL (Culture):** https://southeastasia.sac.or.th/subject.php?c_id=8&sj_id=68

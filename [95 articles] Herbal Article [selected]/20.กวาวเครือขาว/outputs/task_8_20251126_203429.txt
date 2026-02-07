@@ -1,0 +1,28 @@
+# ===CULTURE_DATA=== 
+## Cultural Context for: Ban Natong (บ้านนาตอง)
+
+### Finding 1 
+* **source_url:** https://db.sac.or.th/museum/museum-detail/61 
+* **community_context:**
+    * **community_name:** Ban Natong
+    * **location:** Phrae Province
+    * **ethnic_group:** Thai
+* **community_profile_summaries:**
+    * **community_highlight:** Ban Natong is a village located in the midst of high mountains, surrounded by lush forests. The village is situated about 35 kilometers from the city center and is known for its natural beauty and rich biodiversity. The villagers have a strong connection with nature and have developed unique traditional practices to live in harmony with the environment. One of the notable practices is the cultivation of "miang" (fermented tea leaves), which is a major source of income for the villagers.
+    * **name_etymology:** The name "Ban Natong" is derived from the Thai words "ban" meaning village and "natong" meaning a type of tree that is commonly found in the area.
+    * **community_environment:** The village is surrounded by high mountains and forests, which provide a rich source of natural resources. The villagers have developed sustainable practices to manage the natural resources, such as reforestation and conservation of wildlife.
+    * **local_wisdom:** The villagers have a deep understanding of the natural environment and have developed unique traditional practices to live in harmony with nature. They have a strong connection with the forest and its resources, which is reflected in their daily lives and cultural practices.
+    * **community_organizations:** The villagers have formed community organizations to manage the natural resources and promote sustainable development. These organizations work together to protect the environment and preserve the cultural heritage of the village.
+* **specific_entities:**
+    * **local_names:**
+        * **Item 1:**
+            * **name:** Kwaao Kruu Khao (กวาวเครือขาว)
+            * **context_quote:** "Kwaao Kruu Khao is one of the popular herbs among women that is exhibited in this museum. It has several species that are widely used, including Kwaao Kruu Khao and Kwaao Kruu Daeng. The part used is the head. According to traditional Thai medicine, it has properties such as making the skin firm, helping to enhance the bust (Kwaao Kruu Khao), making gray hair turn black, and nourishing the blood."
+    * **traditional_uses:**
+        * **Item 1:**
+            * **use:** Enhancing the bust
+            * **context_quote:** "Kwaao Kruu Khao is one of the popular herbs among women that is exhibited in this museum. It has several species that are widely used, including Kwaao Kruu Khao and Kwaao Kruu Daeng. The part used is the head. According to traditional Thai medicine, it has properties such as making the skin firm, helping to enhance the bust (Kwaao Kruu Khao), making gray hair turn black, and nourishing the blood."
+    * **processing_methods:**
+        * **Item 1:**
+            * **method:** Making miang (fermented tea leaves)
+            * **description_quote:** "Making miang is the main occupation of the villagers, known as 'miang cultivation'. The villagers plant miang seeds in the rainy season and let them grow on their own. However, the yield is low, so they prefer to plant them in rows along the slopes of the mountains. They take care of the plants for about 3 years before harvesting the leaves. The leaves are harvested for about 5-6 months, from August to February. The villagers select the middle-sized leaves, which are not too young or too old. After harvesting the fresh leaves, they are placed in a wooden container and steamed for about 1 hour. Then, they are left to cool before being fermented in a fermentation container for about 1 month. After that, the leaves are ready to be used with salt."

@@ -1,0 +1,290 @@
+Thought: I will meticulously audit the Master Fact Sheet against the Final Article, identifying every distinct fact in the Fact Sheet and verifying its presence and accuracy in the Article. I will then identify any facts in the Article that do not originate from the Fact Sheet, marking them as hallucinations. I will pay close attention to the handling of "Not Found" results, specifically regarding the RAG facts. Finally, I will compile the scores and lists as required by the specified format.
+
+**1. Extract Facts from Master Fact Sheet (Source of Truth):**
+
+*   **Trend Facts (5):**
+    1.  GWI: no relevant information about Yellow Vine found.
+    2.  GWI: No relevant articles or studies about Yellow Vine found.
+    3.  GWI: No information about health benefits or wellness trends related to Yellow Vine.
+    4.  GWI: No relevant data or research about Yellow Vine found.
+    5.  GWI: No information about Yellow Vine found.
+*   **Science Facts (4):**
+    6.  Herb: Coscinium fenestratum.
+    7.  Compound: Berberine.
+    8.  Study 1 Abstract: Integrating macro-microscopy, DNA barcoding and HPTLC for quality assessment of berberine containing botanicals traded as Maramanjal/Daruharidra.
+    9.  Study 1 Citation APA: Koppala Narayana, S. K., Kaira, P., Karthikeyan, M., Shanmugam, M., Sundharamoorthy, S., Andalil, R., Kallingil Gopi, D., Prakasam, R., Ramachandran, S., & Arumugam, K. (2025). Integrating macro-microscopy, DNA barcoding and HPTLC for quality assessment of berberine containing botanicals traded as Maramanjal/Daruharidra. Journal of Ayurveda and Integrative Medicine, 16(5), 101192. https://doi.org/10.1016/j.jaim.2025.101192
+*   **Compliance Facts (10 - specific food registrations):**
+    10. Food Reg 1: 10-1-00146-1-0157, แฮมเบอร์เกอร์เนื้อ, บริษัท อิออน (ไทยแลนด์) จำกัด สาขาประชาอุทิศ, สถานะผลิตภัณฑ์(ผู้ประกอบการแจ้งยกเลิกใบอนุญาต 19/8/2568) \ สถานะสถานที่ (ยกเลิกโดยผู้ประกอบการ 19/8/2568)
+    11. Food Reg 2: 10-1-00146-1-0173, แฮมเบอร์เกอร์หมูหมักซอสเทริยากิ, บริษัท อิออน (ไทยแลนด์) จำกัด สาขาประชาอุทิศ, สถานะผลิตภัณฑ์(ผู้ประกอบการแจ้งยกเลิกใบอนุญาต 19/8/2568) \ สถานะสถานที่ (ยกเลิกโดยผู้ประกอบการ 19/8/2568)
+    12. Food Reg 3: 10-1-00146-1-0186, แฮมเบอร์เกอร์ไก่, บริษัท อิออน (ไทยแลนด์) จำกัด สาขาประชาอุทิศ, สถานะผลิตภัณฑ์(ผู้ประกอบการแจ้งยกเลิกใบอนุญาต 19/8/2568) \ สถานะสถานที่ (ยกเลิกโดยผู้ประกอบการ 19/8/2568)
+    13. Food Reg 4: 10-1-00146-1-0187, แฮมเบอร์เกอร์ปลา, บริษัท อิออน (ไทยแลนด์) จำกัด สาขาประชาอุทิศ, สถานะผลิตภัณฑ์(ผู้ประกอบการแจ้งยกเลิกใบอนุญาต 19/8/2568) \ สถานะสถานที่ (ยกเลิกโดยผู้ประกอบการ 19/8/2568)
+    14. Food Reg 5: 10-1-00146-1-0188, แฮมเบอร์เกอร์หมู, บริษัท อิออน (ไทยแลนด์) จำกัด สาขาประชาอุทิศ, สถานะผลิตภัณฑ์(ผู้ประกอบการแจ้งยกเลิกใบอนุญาต 19/8/2568) \ สถานะสถานที่ (ยกเลิกโดยผู้ประกอบการ 19/8/2568)
+    15. Food Reg 6: 10-1-00146-1-0194, แซนด์วิชทูน่า แฮม, บริษัท อิออน (ไทยแลนด์) จำกัด สาขาประชาอุทิศ, สถานะผลิตภัณฑ์(ผู้ประกอบการแจ้งยกเลิกใบอนุญาต 19/8/2568) \ สถานะสถานที่ (ยกเลิกโดยผู้ประกอบการ 19/8/2568)
+    16. Food Reg 7: 10-1-00252-1-0393, เดนิชทรีโอ (แฮม, ไส้กรอก, ปูอัด) (เครื่องหมายการค้าเซเว่นเฟรช), บริษัท ซีพีแรม จำกัด, สถานะผลิตภัณฑ์(คงอยู่)\ สถานะสถานที่ (คงอยู่)
+    17. Food Reg 8: 10-1-00252-5-0250, เดนิชทรีโอ (แฮม,ปูอัด,ไส้กรอก) (เครื่องหมายการค้าเลอแปง) / Trio Danish (Lepan Brand), บริษัท ซีพีแรม จำกัด, สถานะผลิตภัณฑ์(คงอยู่)\ สถานะสถานที่ (คงอยู่)
+    18. Food Reg 9: 10-1-00252-5-0270, ดับเบิ้ลแซนด์วิชกระเป๋า 4 ไส้ (แซลมอน,ปูอัดอลาสก้า,แฮม,ไก่สเปรด) (เครื่องหมายการค้าเลอแปง), บริษัท ซีพีแรม จำกัด, สถานะผลิตภัณฑ์(คงอยู่)\ สถานะสถานที่ (คงอยู่)
+    19. Food Reg 10: 10-1-00252-5-0273, ดับเบิ้ลแซนด์วิชกระเป๋า 4 ไส้ (แซลมอน,ปูอัด,แฮม,ไก่สเปรด) (เครื่องหมายการค้าเลอแปง), บริษัท ซีพีแรม จำกัด, สถานะผลิตภัณฑ์(คงอยู่)\ สถานะสถานที่ (คงอยู่)
+*   **Culture Facts (Yong) (12):**
+    20. Community: Yong.
+    21. Location: Lamphun Province.
+    22. Ethnic Group: Tai Lue.
+    23. Community Highlight: The Yong community has a rich cultural heritage, with a strong emphasis on traditional practices and customs. They have a unique history, having migrated from Myanmar to Thailand in the 18th century. Today, they are primarily found in Lamphun Province, with a smaller population in Chiang Mai and Chiang Rai.
+    24. Name Etymology: The name "Yong" is derived from the city of Yong in Shan State, Myanmar. The people of Yong are also known as "Tai Lue" or "Lue".
+    25. Environment: The Yong community has traditionally relied on agriculture and forestry for their livelihood. However, with the introduction of modern farming practices and the expansion of urban areas, their way of life has undergone significant changes.
+    26. Local Wisdom: The Yong people have a deep understanding of traditional medicine, using various plants and herbs to treat illnesses. They also have a strong spiritual connection to their ancestors and the natural world.
+    27. Organization: The Yong community has a strong sense of social organization, with a complex system of kinship ties and community leaders.
+    28. Local Name: Khamin Chan.
+    29. Use: Relieve stomach pain.
+    30. Processing: Drying.
+    31. Source URL: https://ethnicity.sac.or.th/database-ethnic/181/
+*   **Culture Facts (Lue) (12):**
+    32. Community: Lue.
+    33. Location: Nan Province.
+    34. Ethnic Group: Tai Lue.
+    35. Community Highlight: The Lue community has a rich cultural heritage, with a strong emphasis on traditional practices and customs. They have a unique history, having migrated from Myanmar to Thailand in the 18th century. Today, they are primarily found in Nan Province, with a smaller population in Chiang Mai and Chiang Rai.
+    36. Name Etymology: The name "Lue" is derived from the city of Lue in Shan State, Myanmar. The people of Lue are also known as "Tai Lue" or "Lue".
+    37. Environment: The Lue community has traditionally relied on agriculture and forestry for their livelihood. However, with the introduction of modern farming practices and the expansion of urban areas, their way of life has undergone significant changes.
+    38. Local Wisdom: The Lue people have a deep understanding of traditional medicine, using various plants and herbs to treat illnesses. They also have a strong spiritual connection to their ancestors and the natural world.
+    39. Organization: The Lue community has a strong sense of social organization, with a complex system of kinship ties and community leaders.
+    40. Local Name: Khamin Chan.
+    41. Use: Relieve stomach pain.
+    42. Processing: Drying.
+    43. Source URL: https://ethnicity.sac.or.th/database-ethnic/182/
+*   **Internal RAG Facts (2):**
+    44. Herbal RAG: Coscinium fenestratum, also known as แฮ่ม, is not explicitly mentioned in the provided context. However, the context discusses Thai traditional medicine and its benefits, including cost-effectiveness and the use of natural ingredients. The context also mentions the use of various herbs and plants in traditional Thai medicine, but does not specifically mention Coscinium fenestratum. Additionally, the context provides information on the preparation and use of traditional Thai medicine, including the use of ingredients such as ใบมะกรูด (Thai basil) and คั่วบานะบายข้าวกิน (a type of Thai dish). Overall, the context highlights the importance of traditional Thai medicine and its potential benefits, but does not provide specific information on Coscinium fenestratum.
+    45. Cultural RAG: Haem (แฮ่ม) is a Thai herb that has been used in traditional medicine for a long time. It is believed to have various health benefits, including aiding digestion and relieving symptoms of certain diseases. Haem is also used as a ingredient in some Thai dishes, such as spicy sauces and curries. In addition, it is used in traditional Thai medicine to treat various ailments, including fever, rheumatism, and skin diseases. Haem is also believed to have anti-inflammatory properties and is used to treat wounds and injuries. Furthermore, Haem is used in Thai culture as a way to balance the body's elements, including earth, water, fire, and air. It is also used to treat imbalances in the body's energy, or "lumphatic" system. Overall, Haem is a versatile herb that has been used in Thai culture for centuries to promote health and well-being.
+*   **Source URLs (8):**
+    46. Source URL (Trend): https://globalwellnessinstitute.org/
+    47. Source URL (Trend): https://globalwellnessinstitute.org/initiatives/wellness-evidence/
+    48. Source URL (Trend): https://globalwellnessinstitute.org/research/
+    49. Source URL (Trend): https://globalwellnessinstitute.org/geography-of-wellness/
+    50. Source URL (Trend): https://globalwellnessinstitute.org/wellness-moonshot/
+    51. Source URL (Science): https://doi.org/10.1016/j.jaim.2025.101192
+    52. Source URL (Culture): https://ethnicity.sac.or.th/database-ethnic/181/
+    53. Source URL (Culture): https://ethnicity.sac.or.th/database-ethnic/182/
+
+**Total Facts in Fact Sheet = 53**
+
+**2. Audit Robustness (Data Loss):**
+
+*   **Trend Facts (5):** All 5 are adequately covered/synthesized in the "Introduction to Herbal Trends" section. (5/5 retained)
+*   **Science Facts (4):** All 4 are present and accurate. (4/4 retained)
+*   **Compliance Facts (10):** All 10 specific food registration facts are missing. The article only refers to "The various food registration facts" generally. (0/10 retained)
+*   **Culture Facts (Yong) (12):**
+    *   Community (Yong): Retained.
+    *   Location (Lamphun Province): Dropped (not explicitly mentioned).
+    *   Ethnic Group (Tai Lue): Dropped (not explicitly mentioned).
+    *   Community Highlight: Partially retained (general "cultural heritage," "traditional practices," "customs") but specific details (migration history, specific locations) are dropped. For strictness, counted as dropped.
+    *   Name Etymology: Dropped.
+    *   Environment: Retained ("reliance on agriculture and forestry").
+    *   Local Wisdom: Retained ("deep understanding of traditional medicine," "strong spiritual connection").
+    *   Organization: Dropped.
+    *   Local Name (Khamin Chan): Retained.
+    *   Use (Relieve stomach pain): Retained.
+    *   Processing (Drying): Retained.
+    *   Source URL: Retained.
+    *   (6/12 retained)
+*   **Culture Facts (Lue) (12):**
+    *   Community (Lue): Retained.
+    *   Location (Nan Province): Dropped (not explicitly mentioned).
+    *   Ethnic Group (Tai Lue): Dropped (not explicitly mentioned).
+    *   Community Highlight: Partially retained (general "cultural heritage," "traditional practices," "customs") but specific details (migration history, specific locations) are dropped. For strictness, counted as dropped.
+    *   Name Etymology: Dropped.
+    *   Environment: Retained ("reliance on agriculture and forestry").
+    *   Local Wisdom: Retained ("deep understanding of traditional medicine," "strong spiritual connection").
+    *   Organization: Dropped.
+    *   Local Name (Khamin Chan): Retained.
+    *   Use (Relieve stomach pain): Retained.
+    *   Processing (Drying): Retained.
+    *   Source URL: Retained.
+    *   (6/12 retained)
+*   **Internal RAG Facts (2):**
+    *   Herbal RAG: The critical meta-information that "Coscinium fenestratum...is not explicitly mentioned in the provided context" is dropped. The article presents the general information about Thai traditional medicine as directly applicable to C. fenestratum without this nuance. (0/1 retained for the full fact, including its meta-finding).
+    *   Cultural RAG: General benefits (aiding digestion, relieving certain diseases) are retained. However, specific details like fever, rheumatism, skin diseases, anti-inflammatory properties, treating wounds/injuries, balancing body elements, and the "lumphatic" system are dropped. (1/1 retained for the general benefits, but specific details are lost). I will count the *specific dropped items* as individual dropped entities, but the overall RAG fact is partially reflected. To be precise, I'll count the specific lost details as dropped.
+*   **Source URLs (8):** All 8 are present in "Sources Consulted." (8/8 retained)
+
+**Dropped Entities (Facts in Fact Sheet but not Article):**
+
+1.  Compliance Fact (Food Registration 1): registration_number=10-1-00146-1-0157, product_name=แฮมเบอร์เกอร์เนื้อ, company_name=บริษัท อิออน (ไทยแลนด์) จำกัด สาขาประชาอุทิศ, status=สถานะผลิตภัณฑ์(ผู้ประกอบการแจ้งยกเลิกใบอนุญาต 19/8/2568) \ สถานะสถานที่ (ยกเลิกโดยผู้ประกอบการ 19/8/2568)
+2.  Compliance Fact (Food Registration 2): registration_number=10-1-00146-1-0173, product_name=แฮมเบอร์เกอร์หมูหมักซอสเทริยากิ, company_name=บริษัท อิออน (ไทยแลนด์) จำกัด สาขาประชาอุทิศ, status=สถานะผลิตภัณฑ์(ผู้ประกอบการแจ้งยกเลิกใบอนุญาต 19/8/2568) \ สถานะสถานที่ (ยกเลิกโดยผู้ประกอบการ 19/8/2568)
+3.  Compliance Fact (Food Registration 3): registration_number=10-1-00146-1-0186, product_name=แฮมเบอร์เกอร์ไก่, company_name=บริษัท อิออน (ไทยแลนด์) จำกัด สาขาประชาอุทิศ, status=สถานะผลิตภัณฑ์(ผู้ประกอบการแจ้งยกเลิกใบอนุญาต 19/8/2568) \ สถานะสถานที่ (ยกเลิกโดยผู้ประกอบการ 19/8/2568)
+4.  Compliance Fact (Food Registration 4): registration_number=10-1-00146-1-0187, product_name=แฮมเบอร์เกอร์ปลา, company_name=บริษัท อิออน (ไทยแลนด์) จำกัด สาขาประชาอุทิศ, status=สถานะผลิตภัณฑ์(ผู้ประกอบการแจ้งยกเลิกใบอนุญาต 19/8/2568) \ สถานะสถานที่ (ยกเลิกโดยผู้ประกอบการ 19/8/2568)
+5.  Compliance Fact (Food Registration 5): registration_number=10-1-00146-1-0188, product_name=แฮมเบอร์เกอร์หมู, company_name=บริษัท อิออน (ไทยแลนด์) จำกัด สาขาประชาอุทิศ, status=สถานะผลิตภัณฑ์(ผู้ประกอบการแจ้งยกเลิกใบอนุญาต 19/8/2568) \ สถานะสถานที่ (ยกเลิกโดยผู้ประกอบการ 19/8/2568)
+6.  Compliance Fact (Food Registration 6): registration_number=10-1-00146-1-0194, product_name=แซนด์วิชทูน่า แฮม, company_name=บริษัท อิออน (ไทยแลนด์) จำกัด สาขาประชาอุทิศ, status=สถานะผลิตภัณฑ์(ผู้ประกอบการแจ้งยกเลิกใบอนุญาต 19/8/2568) \ สถานะสถานที่ (ยกเลิกโดยผู้ประกอบการ 19/8/2568)
+7.  Compliance Fact (Food Registration 7): registration_number=10-1-00252-1-0393, product_name=เดนิชทรีโอ (แฮม, ไส้กรอก, ปูอัด) (เครื่องหมายการค้าเซเว่นเฟรช), company_name=บริษัท ซีพีแรม จำกัด, status=สถานะผลิตภัณฑ์(คงอยู่)\ สถานะสถานที่ (คงอยู่)
+8.  Compliance Fact (Food Registration 8): registration_number=10-1-00252-5-0250, product_name=เดนิชทรีโอ (แฮม,ปูอัด,ไส้กรอก) (เครื่องหมายการค้าเลอแปง) / Trio Danish (Lepan Brand), company_name=บริษัท ซีพีแรม จำกัด, status=สถานะผลิตภัณฑ์(คงอยู่)\ สถานะสถานที่ (คงอยู่)
+9.  Compliance Fact (Food Registration 9): registration_number=10-1-00252-5-0270, product_name=ดับเบิ้ลแซนด์วิชกระเป๋า 4 ไส้ (แซลมอน,ปูอัดอลาสก้า,แฮม,ไก่สเปรด) (เครื่องหมายการค้าเลอแปง), company_name=บริษัท ซีพีแรม จำกัด, status=สถานะผลิตภัณฑ์(คงอยู่)\ สถานะสถานที่ (คงอยู่)
+10. Compliance Fact (Food Registration 10): registration_number=10-1-00252-5-0273, product_name=ดับเบิ้ลแซนด์วิชกระเป๋า 4 ไส้ (แซลมอน,ปูอัด,แฮม,ไก่สเปรด) (เครื่องหมายการค้าเลอแปง), company_name=บริษัท ซีพีแรม จำกัด, status=สถานะผลิตภัณฑ์(คงอยู่)\ สถานะสถานที่ (คงอยู่)
+11. Culture Fact (Location - Yong): Lamphun Province
+12. Culture Fact (Ethnic Group - Yong): Tai Lue
+13. Culture Fact (Community Highlight - Yong): The Yong community has a rich cultural heritage, with a strong emphasis on traditional practices and customs. They have a unique history, having migrated from Myanmar to Thailand in the 18th century. Today, they are primarily found in Lamphun Province, with a smaller population in Chiang Mai and Chiang Rai.
+14. Culture Fact (Name Etymology - Yong): The name "Yong" is derived from the city of Yong in Shan State, Myanmar. The people of Yong are also known as "Tai Lue" or "Lue".
+15. Culture Fact (Organization - Yong): The Yong community has a strong sense of social organization, with a complex system of kinship ties and community leaders.
+16. Culture Fact (Location - Lue): Nan Province
+17. Culture Fact (Ethnic Group - Lue): Tai Lue
+18. Culture Fact (Community Highlight - Lue): The Lue community has a rich cultural heritage, with a strong emphasis on traditional practices and customs. They have a unique history, having migrated from Myanmar to Thailand in the 18th century. Today, they are primarily found in Nan Province, with a smaller population in Chiang Mai and Chiang Rai.
+19. Culture Fact (Name Etymology - Lue): The name "Lue" is derived from the city of Lue in Shan State, Myanmar. The people of Lue are also known as "Tai Lue" or "Lue".
+20. Culture Fact (Organization - Lue): The Lue community has a strong sense of social organization, with a complex system of kinship ties and community leaders.
+21. Internal RAG Fact (Herbal) - meta-information: Coscinium fenestratum, also known as แฮ่ม, is not explicitly mentioned in the provided context.
+22. Internal RAG Fact (Cultural) - specific ailments: fever
+23. Internal RAG Fact (Cultural) - specific ailments: rheumatism
+24. Internal RAG Fact (Cultural) - specific ailments: skin diseases
+25. Internal RAG Fact (Cultural) - specific properties: anti-inflammatory properties
+26. Internal RAG Fact (Cultural) - specific uses: treat wounds and injuries
+27. Internal RAG Fact (Cultural) - specific cultural use: balance the body's elements, including earth, water, fire, and air
+28. Internal RAG Fact (Cultural) - specific cultural use: treat imbalances in the body's energy, or "lumphatic" system.
+
+**Total Facts Retained = 5 (Trend) + 4 (Science) + 0 (Compliance) + 6 (Yong) + 6 (Lue) + 0 (Herbal RAG meta) + 1 (Cultural RAG general) + 8 (URLs) = 30**
+*Note: I counted the Cultural RAG general statement ("believed to have various health benefits, including aiding digestion and relieving symptoms of certain diseases") as retained, but the specific details within it as dropped.*
+**Total Dropped Entities = 53 - 30 = 23** (This is a more accurate count based on my detailed list above, where I broke down the RAG Cultural fact into specific dropped items. My previous count of 28 was slightly off due to how I grouped things. The list above is 28 items.)
+Let's re-calculate:
+Facts from FS: 53
+Facts in Article:
+*   Trend: 5 (all covered)
+*   Science: 4 (all covered)
+*   Compliance: 0 (all 10 dropped)
+*   Culture Yong: 6 (Community, Environment, Local Wisdom, Local Name, Use, Processing, Source URL) -> 6 retained, 6 dropped (Location, Ethnic Group, Community Highlight, Name Etymology, Organization, Source URL is counted separately)
+    *   Wait, Source URL is counted separately. So Yong has 5 retained, 6 dropped.
+*   Culture Lue: 5 retained, 6 dropped.
+*   Internal RAG:
+    *   Herbal RAG: The meta-info is dropped. The content about Thai traditional medicine is *used* but not *presented as a finding* of the RAG. This is a nuanced loss. I'll count the meta-fact as lost.
+    *   Cultural RAG: General benefits are in. Specific benefits are lost. So, 1 partially retained, 8 specific points lost.
+*   Source URLs: 8 (all covered)
+
+Let's re-list retained facts to be super clear:
+1.  GWI: no relevant information about Yellow Vine found. (Covered)
+2.  GWI: No relevant articles or studies about Yellow Vine found. (Covered)
+3.  GWI: No information about health benefits or wellness trends related to Yellow Vine. (Covered)
+4.  GWI: No relevant data or research about Yellow Vine found. (Covered)
+5.  GWI: No information about Yellow Vine found. (Covered)
+6.  Herb: Coscinium fenestratum. (Covered)
+7.  Compound: Berberine. (Covered)
+8.  Study 1 Abstract. (Covered)
+9.  Study 1 Citation APA. (Covered)
+10. Culture Fact (Community - Yong): Yong. (Covered)
+11. Culture Fact (Environment - Yong): reliance on agriculture and forestry. (Covered)
+12. Culture Fact (Local Wisdom - Yong): deep understanding of traditional medicine, strong spiritual connection. (Covered)
+13. Culture Fact (Local Name - Yong): Khamin Chan. (Covered)
+14. Culture Fact (Use - Yong): Relieve stomach pain. (Covered)
+15. Culture Fact (Processing - Yong): Drying. (Covered)
+16. Culture Fact (Community - Lue): Lue. (Covered)
+17. Culture Fact (Environment - Lue): reliance on agriculture and forestry. (Covered)
+18. Culture Fact (Local Wisdom - Lue): deep understanding of traditional medicine, strong spiritual connection. (Covered)
+19. Culture Fact (Local Name - Lue): Khamin Chan. (Covered)
+20. Culture Fact (Use - Lue): Relieve stomach pain. (Covered)
+21. Culture Fact (Processing - Lue): Drying. (Covered)
+22. Internal RAG Fact (Cultural) - general benefits: believed to have various health benefits, including aiding digestion and relieving symptoms of certain diseases. (Partially covered, general idea retained)
+23. Source URL (Trend): https://globalwellnessinstitute.org/
+24. Source URL (Trend): https://globalwellnessinstitute.org/initiatives/wellness-evidence/
+25. Source URL (Trend): https://globalwellnessinstitute.org/research/
+26. Source URL (Trend): https://globalwellnessinstitute.org/geography-of-wellness/
+27. Source URL (Trend): https://globalwellnessinstitute.org/wellness-moonshot/
+28. Source URL (Science): https://doi.org/10.1016/j.jaim.2025.101192
+29. Source URL (Culture): https://ethnicity.sac.or.th/database-ethnic/181/
+30. Source URL (Culture): https://ethnicity.sac.or.th/database-ethnic/182/
+
+**Total Retained Facts = 30.**
+**Total Dropped Entities = 53 - 30 = 23.** (This matches the specific list of 28 dropped entities I created earlier if I consider the general RAG Cultural fact as 1 item, and the Herbal RAG meta-info as 1 item.)
+The previous dropped list was 28 items. Let's re-verify the count.
+10 Compliance + 5 Yong (Location, Ethnic Group, Community Highlight, Name Etymology, Organization) + 5 Lue (Location, Ethnic Group, Community Highlight, Name Etymology, Organization) + 1 Herbal RAG meta-info + 7 Cultural RAG specific details (fever, rheumatism, skin diseases, anti-inflammatory, wounds, injuries, balancing elements, lymphatic system).
+10 + 5 + 5 + 1 + 8 = 29.
+So 29 entities are dropped.
+Retained = 53 - 29 = 24.
+Score = (24 / 53) * 100 = 45.28% -> **45%**
+
+**3. Audit Clarity (Hallucination & Handling):**
+
+**Hallucinated Entities (Facts in Article but not Fact Sheet):**
+These are statements presented as factual or directly implied, but not directly found or strictly inferable from the Master Fact Sheet.
+
+1.  "indicating a gap in awareness about its potential benefits." (Fact Sheet only states lack of info, not "potential benefits" or "gap in awareness").
+2.  "suggesting an opportunity to educate the market about this herb." (Recommendation/speculation).
+3.  "further emphasizes the need for awareness and education." (Recommendation/speculation).
+4.  "Overall, the lack of information about Yellow Vine on the GWI website presents a chance to introduce this herb to the wellness market and highlight its potential benefits." (Recommendation/synthesis).
+5.  "...which is crucial for developing effective and safe wellness products." (Interpretation/elaboration beyond the raw scientific fact).
+6.  "This traditional use highlights the cultural significance of the herb in Thai traditional medicine." (Interpretation/elaboration; "cultural significance" and "Thai traditional medicine" are interpretive links).
+7.  "...demonstrate a strong connection with nature and a holistic approach to health." (Interpretation/elaboration).
+8.  "...reflects a broader cultural heritage, where traditional practices and customs are highly valued." (Interpretation/elaboration).
+9.  "While the Master Fact Sheet does not explicitly mention safety or toxicity concerns related to Coscinium fenestratum, ensuring the safety and compliance of any product derived from this herb is crucial." (The second part is a general statement/recommendation, not a fact from the sheet).
+10. "This involves conducting thorough safety assessments and toxicity studies, as well as complying with food and drug regulations." (General knowledge/recommendation).
+11. "Therefore, any development of Coscinium fenestratum-based products must prioritize consumer safety and adhere to all relevant regulatory requirements." (Recommendation/conclusion).
+12. "The lack of information about Yellow Vine on the GWI website presents a market opportunity to create awareness and educate consumers about the potential benefits of Coscinium fenestratum." (Recommendation/synthesis).
+13. "However, critical constraints such as ensuring safety, conducting toxicity studies, and complying with regulations must be addressed." (General knowledge/recommendation).
+14. "The strategic recommendation is to develop a berberine-based dietary supplement or herbal remedy, targeting consumers interested in natural wellness products, and to leverage the cultural significance of Coscinium fenestratum in traditional Thai medicine as a unique selling point." (Recommendation/strategy).
+15. "...where it is valued for its potential health benefits." (Interpretation/generalization from "use for relieving stomach pain" and RAG cultural).
+16. "Overall, Coscinium fenestratum is a versatile herb with potential health benefits, and its cultural significance in traditional Thai medicine makes it an interesting subject for further study and product development." (Synthesis/recommendation).
+17. "Coscinium fenestratum, or Yellow Vine, presents an opportunity for introduction to the wellness market due to its potential benefits and cultural significance in traditional Thai medicine." (Synthesis/recommendation).
+18. "By leveraging scientific research, traditional wisdom, and strategic planning, a berberine-based product derived from Coscinium fenestratum can be developed to appeal to consumers seeking natural and effective health solutions." (Synthesis/recommendation).
+19. "Ensuring the safety, quality, and regulatory compliance of such a product is crucial for its success and the well-being of consumers." (Conclusion/recommendation).
+20. "As the wellness market continues to grow, Coscinium fenestratum stands out as a unique and culturally rooted herb that can contribute to the diversity of natural wellness products available to consumers." (Conclusion/recommendation).
+
+**Total Hallucinated Entities = 20.**
+
+**Check "Not Found" Handling:**
+The Master Fact Sheet did not contain "citation_apa: not_found". However, the "Internal RAG Fact (Herbal)" explicitly stated that "Coscinium fenestratum...is not explicitly mentioned in the provided context." The article failed to correctly handle this "not found" result; it did not report this finding. Instead, it used the general information about Thai traditional medicine from that RAG fact and applied it directly to Coscinium fenestratum, effectively ignoring the "not explicitly mentioned" nuance. This is a failure in handling a "not found" result as a finding.
+
+**Calculate Explanation Clarity (Hallucination/Handling) Score:**
+Total distinct factual/interpretive statements in the article = 24 (retained facts) + 20 (hallucinated statements) = 44.
+Statements originating from fact sheet = 24.
+Score = (24 / 44) * 100 = 54.54% -> **55%**
+
+**Final Review of Scores:**
+*   Collaboration Robustness (Data Loss): (24 retained / 53 total) * 100 = 45.28% -> 45%
+*   Explanation Clarity (Hallucination/Handling): (24 retained facts / (24 retained facts + 20 hallucinated statements)) * 100 = 54.54% -> 55%
+
+The audit is complete.# ===AUDIT_DATA_INTEGRITY_REPORT===
+*   **Collaboration Robustness (Data Loss):** 45%
+*   **Explanation Clarity (Hallucination/Handling):** 55%
+*   **Dropped Entities (Facts in Fact Sheet but not Article):**
+    -   Compliance Fact (Food Registration 1): registration_number=10-1-00146-1-0157, product_name=แฮมเบอร์เกอร์เนื้อ, company_name=บริษัท อิออน (ไทยแลนด์) จำกัด สาขาประชาอุทิศ, status=สถานะผลิตภัณฑ์(ผู้ประกอบการแจ้งยกเลิกใบอนุญาต 19/8/2568) \ สถานะสถานที่ (ยกเลิกโดยผู้ประกอบการ 19/8/2568)
+    -   Compliance Fact (Food Registration 2): registration_number=10-1-00146-1-0173, product_name=แฮมเบอร์เกอร์หมูหมักซอสเทริยากิ, company_name=บริษัท อิออน (ไทยแลนด์) จำกัด สาขาประชาอุทิศ, status=สถานะผลิตภัณฑ์(ผู้ประกอบการแจ้งยกเลิกใบอนุญาต 19/8/2568) \ สถานะสถานที่ (ยกเลิกโดยผู้ประกอบการ 19/8/2568)
+    -   Compliance Fact (Food Registration 3): registration_number=10-1-00146-1-0186, product_name=แฮมเบอร์เกอร์ไก่, company_name=บริษัท อิออน (ไทยแลนด์) จำกัด สาขาประชาอุทิศ, status=สถานะผลิตภัณฑ์(ผู้ประกอบการแจ้งยกเลิกใบอนุญาต 19/8/2568) \ สถานะสถานที่ (ยกเลิกโดยผู้ประกอบการ 19/8/2568)
+    -   Compliance Fact (Food Registration 4): registration_number=10-1-00146-1-0187, product_name=แฮมเบอร์เกอร์ปลา, company_name=บริษัท อิออน (ไทยแลนด์) จำกัด สาขาประชาอุทิศ, status=สถานะผลิตภัณฑ์(ผู้ประกอบการแจ้งยกเลิกใบอนุญาต 19/8/2568) \ สถานะสถานที่ (ยกเลิกโดยผู้ประกอบการ 19/8/2568)
+    -   Compliance Fact (Food Registration 5): registration_number=10-1-00146-1-0188, product_name=แฮมเบอร์เกอร์หมู, company_name=บริษัท อิออน (ไทยแลนด์) จำกัด สาขาประชาอุทิศ, status=สถานะผลิตภัณฑ์(ผู้ประกอบการแจ้งยกเลิกใบอนุญาต 19/8/2568) \ สถานะสถานที่ (ยกเลิกโดยผู้ประกอบการ 19/8/2568)
+    -   Compliance Fact (Food Registration 6): registration_number=10-1-00146-1-0194, product_name=แซนด์วิชทูน่า แฮม, company_name=บริษัท อิออน (ไทยแลนด์) จำกัด สาขาประชาอุทิศ, status=สถานะผลิตภัณฑ์(ผู้ประกอบการแจ้งยกเลิกใบอนุญาต 19/8/2568) \ สถานะสถานที่ (ยกเลิกโดยผู้ประกอบการ 19/8/2568)
+    -   Compliance Fact (Food Registration 7): registration_number=10-1-00252-1-0393, product_name=เดนิชทรีโอ (แฮม, ไส้กรอก, ปูอัด) (เครื่องหมายการค้าเซเว่นเฟรช), company_name=บริษัท ซีพีแรม จำกัด, status=สถานะผลิตภัณฑ์(คงอยู่)\ สถานะสถานที่ (คงอยู่)
+    -   Compliance Fact (Food Registration 8): registration_number=10-1-00252-5-0250, product_name=เดนิชทรีโอ (แฮม,ปูอัด,ไส้กรอก) (เครื่องหมายการค้าเลอแปง) / Trio Danish (Lepan Brand), company_name=บริษัท ซีพีแรม จำกัด, status=สถานะผลิตภัณฑ์(คงอยู่)\ สถานะสถานที่ (คงอยู่)
+    -   Compliance Fact (Food Registration 9): registration_number=10-1-00252-5-0270, product_name=ดับเบิ้ลแซนด์วิชกระเป๋า 4 ไส้ (แซลมอน,ปูอัดอลาสก้า,แฮม,ไก่สเปรด) (เครื่องหมายการค้าเลอแปง), company_name=บริษัท ซีพีแรม จำกัด, status=สถานะผลิตภัณฑ์(คงอยู่)\ สถานะสถานที่ (คงอยู่)
+    -   Compliance Fact (Food Registration 10): registration_number=10-1-00252-5-0273, product_name=ดับเบิ้ลแซนด์วิชกระเป๋า 4 ไส้ (แซลมอน,ปูอัด,แฮม,ไก่สเปรด) (เครื่องหมายการค้าเลอแปง), company_name=บริษัท ซีพีแรม จำกัด, status=สถานะผลิตภัณฑ์(คงอยู่)\ สถานะสถานที่ (คงอยู่)
+    -   Culture Fact (Location - Yong): Lamphun Province
+    -   Culture Fact (Ethnic Group - Yong): Tai Lue
+    -   Culture Fact (Community Highlight - Yong): The Yong community has a rich cultural heritage, with a strong emphasis on traditional practices and customs. They have a unique history, having migrated from Myanmar to Thailand in the 18th century. Today, they are primarily found in Lamphun Province, with a smaller population in Chiang Mai and Chiang Rai.
+    -   Culture Fact (Name Etymology - Yong): The name "Yong" is derived from the city of Yong in Shan State, Myanmar. The people of Yong are also known as "Tai Lue" or "Lue".
+    -   Culture Fact (Organization - Yong): The Yong community has a strong sense of social organization, with a complex system of kinship ties and community leaders.
+    -   Culture Fact (Location - Lue): Nan Province
+    -   Culture Fact (Ethnic Group - Lue): Tai Lue
+    -   Culture Fact (Community Highlight - Lue): The Lue community has a rich cultural heritage, with a strong emphasis on traditional practices and customs. They have a unique history, having migrated from Myanmar to Thailand in the 18th century. Today, they are primarily found in Nan Province, with a smaller population in Chiang Mai and Chiang Rai.
+    -   Culture Fact (Name Etymology - Lue): The name "Lue" is derived from the city of Lue in Shan State, Myanmar. The people of Lue are also known as "Tai Lue" or "Lue".
+    -   Culture Fact (Organization - Lue): The Lue community has a strong sense of social organization, with a complex system of kinship ties and community leaders.
+    -   Internal RAG Fact (Herbal) - meta-information: Coscinium fenestratum, also known as แฮ่ม, is not explicitly mentioned in the provided context.
+    -   Internal RAG Fact (Cultural) - specific ailments: fever
+    -   Internal RAG Fact (Cultural) - specific ailments: rheumatism
+    -   Internal RAG Fact (Cultural) - specific ailments: skin diseases
+    -   Internal RAG Fact (Cultural) - specific properties: anti-inflammatory properties
+    -   Internal RAG Fact (Cultural) - specific uses: treat wounds and injuries
+    -   Internal RAG Fact (Cultural) - specific cultural use: balance the body's elements, including earth, water, fire, and air
+    -   Internal RAG Fact (Cultural) - specific cultural use: treat imbalances in the body's energy, or "lumphatic" system.
+*   **Hallucinated Entities (Facts in Article but not Fact Sheet):**
+    -   "indicating a gap in awareness about its potential benefits."
+    -   "suggesting an opportunity to educate the market about this herb."
+    -   "further emphasizes the need for awareness and education."
+    -   "Overall, the lack of information about Yellow Vine on the GWI website presents a chance to introduce this herb to the wellness market and highlight its potential benefits."
+    -   "...which is crucial for developing effective and safe wellness products."
+    -   "This traditional use highlights the cultural significance of the herb in Thai traditional medicine."
+    -   "...demonstrate a strong connection with nature and a holistic approach to health."
+    -   "...reflects a broader cultural heritage, where traditional practices and customs are highly valued."
+    -   "ensuring the safety and compliance of any product derived from this herb is crucial."
+    -   "This involves conducting thorough safety assessments and toxicity studies, as well as complying with food and drug regulations."
+    -   "Therefore, any development of Coscinium fenestratum-based products must prioritize consumer safety and adhere to all relevant regulatory requirements."
+    -   "The lack of information about Yellow Vine on the GWI website presents a market opportunity to create awareness and educate consumers about the potential benefits of Coscinium fenestratum."
+    -   "However, critical constraints such as ensuring safety, conducting toxicity studies, and complying with regulations must be addressed."
+    -   "The strategic recommendation is to develop a berberine-based dietary supplement or herbal remedy, targeting consumers interested in natural wellness products, and to leverage the cultural significance of Coscinium fenestratum in traditional Thai medicine as a unique selling point."
+    -   "...where it is valued for its potential health benefits."
+    -   "Overall, Coscinium fenestratum is a versatile herb with potential health benefits, and its cultural significance in traditional Thai medicine makes it an interesting subject for further study and product development."
+    -   "Coscinium fenestratum, or Yellow Vine, presents an opportunity for introduction to the wellness market due to its potential benefits and cultural significance in traditional Thai medicine."
+    -   "By leveraging scientific research, traditional wisdom, and strategic planning, a berberine-based product derived from Coscinium fenestratum can be developed to appeal to consumers seeking natural and effective health solutions."
+    -   "Ensuring the safety, quality, and regulatory compliance of such a product is crucial for its success and the well-being of consumers."
+    -   "As the wellness market continues to grow, Coscinium fenestratum stands out as a unique and culturally rooted herb that can contribute to the diversity of natural wellness products available to consumers."
+*   **Feedback:**
+    The audit reveals significant data integrity issues. For **Data Loss**, the article failed to transfer critical specific compliance data (all 10 food registration facts) and numerous detailed cultural facts, instead opting for generalized summaries. The crucial meta-information from the Herbal RAG fact, indicating that Coscinium fenestratum was *not explicitly mentioned* in its source context, was also lost. This represents a substantial omission of specific, verifiable details from the Master Fact Sheet.
+    For **Hallucination**, the article introduces a considerable amount of interpretive language, recommendations, and speculative statements that are not directly present or strictly inferable from the raw facts provided in the Master Fact Sheet. While such elements can be part of article writing, under a zero-tolerance audit for facts *not* found in the source, these are classified as hallucinations. The handling of "not found" results was also poor, as the article did not convey the nuance of the RAG finding that C. fenestratum was not explicitly mentioned, thus presenting information as directly sourced when it was not.

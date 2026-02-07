@@ -1,0 +1,17 @@
+# ===TRENDS_DATA===
+## Wellness Trends for: Smilax
+
+### Finding 1
+* **herb_name:** Smilax
+* **wellness_context_summary:** Smilax was also sold as a natural testosterone booster that has been gaining popularity in the health and fitness community. It was an herbal supplement derived from the Smilax plant, which has been used for centuries as a natural remedy for a variety of ailments. Some studies have shown Smilax may possibly increase testosterone levels, reduce inflammation, and improve overall health.
+* **source_url:** https://www.trulyhuge.com/forum/1483.html
+
+### Finding 2
+* **herb_name:** Smilax
+* **wellness_context_summary:** Sarsaparilla (Smilax officinalis) is suggested for its potential anti-inflammatory and immune-boosting properties. Dr. Sebi recommended it for its nutrient content and potential health benefits.
+* **source_url:** https://theafricanbiomineralbalance.com/list-of-dr-sebi-approved-herb-for-cancer/
+
+### Finding 3
+* **herb_name:** Smilax
+* **wellness_context_summary:** Engeletin, a natural Smilax glabra rhizomilax derivative, has been reported to exhibit robust anti-inflammatory activity and may alleviate depressive-like behaviors by modulating microglial polarization via the LCN2/CXCL10 signalling pathway.
+* **source_url:** https://pubmed.ncbi.nlm.nih.gov/38597406/

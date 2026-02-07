@@ -1,0 +1,84 @@
+# ===CULTURE_DATA===
+
+## Cultural Context for: Yang Na (ยางนา)
+
+### Finding 1
+
+* **source_url:** https://wikicommunity.sac.or.th/community/index?CommunitySearch%5Bkeyword_id%5D=3774
+* **community_context:**
+    * **community_name:** Yang Na
+    * **location:** Prachinburi
+    * **ethnic_group:** Karen
+* **community_profile_summaries:**
+    * **community_highlight:** Yang Na community is a Karen community located in Prachinburi Province, with a population of approximately 1,000 people. The community has a diverse way of life, including farming, animal husbandry, and plantation.
+    * **name_etymology:** The name "Yang Na" is used to refer to the Karen community in Prachinburi Province.
+    * **community_environment:** No herbal-related information found.
+    * **local_wisdom:** No herbal-related information found.
+    * **community_organizations:** No herbal-related information found.
+* **specific_entities:**
+    * **local_names:**
+        * **Item 1:**
+            * **name:** Yang Na
+            * **context_quote:** Yang Na is the name used to refer to the Karen community in Prachinburi Province.
+    * **traditional_uses:**
+        * **Item 1:**
+            * **use:** Farming
+            * **context_quote:** Farming is an important way of life for the Yang Na community.
+    * **processing_methods:**
+        * **Item 1:**
+            * **method:** Machine use
+            * **description_quote:** Machine use is a method used in farming.
+
+### Finding 2
+
+* **source_url:** https://traditional-objects.sac.or.th/th/equipment-detail.php?ob_id=461
+* **community_context:**
+    * **community_name:** Luk Yang
+    * **location:** Not specified
+    * **ethnic_group:** Not specified
+* **community_profile_summaries:**
+    * **community_highlight:** No herbal-related information found.
+    * **name_etymology:** Luk Yang is a toy made from bamboo, with a spherical shape and 2-3-5 fins, containing seeds inside.
+    * **community_environment:** No herbal-related information found.
+    * **local_wisdom:** No herbal-related information found.
+    * **community_organizations:** No herbal-related information found.
+* **specific_entities:**
+    * **local_names:**
+        * **Item 1:**
+            * **name:** Luk Yang
+            * **context_quote:** Luk Yang is a toy made from bamboo.
+    * **traditional_uses:**
+        * **Item 1:**
+            * **use:** Playing
+            * **context_quote:** Playing Luk Yang is a method used in playing.
+    * **processing_methods:**
+        * **Item 1:**
+            * **method:** Cutting
+            * **description_quote:** Cutting is a method used in making Luk Yang.
+
+### Finding 3
+
+* **source_url:** https://sac-research.sac.or.th/file_thb/397-fullText.pdf
+* **community_context:**
+    * **community_name:** Museum of Ethnology
+    * **location:** Mae Hong Son Province
+    * **ethnic_group:** Not specified
+* **community_profile_summaries:**
+    * **community_highlight:** No herbal-related information found.
+    * **name_etymology:** The Museum of Ethnology is a museum related to people, emphasizing community and ethnic group participation.
+    * **community_environment:** No herbal-related information found.
+    * **local_wisdom:** No herbal-related information found.
+    * **community_organizations:** No herbal-related information found.
+* **specific_entities:**
+    * **local_names:**
+        * **Item 1:**
+            * **name:** Museum of Ethnology
+            * **context_quote:** The Museum of Ethnology is a museum related to people.
+    * **traditional_uses:**
+        * **Item 1:**
+            * **use:** Exhibition
+            * **context_quote:** Exhibition is a method used in exhibiting the Museum of Ethnology.
+    * **processing_methods:**
+        * **Item 1:**
+            * **method:** Management
+            * **description_quote:** Management is a method used in managing the Museum of Ethnology.

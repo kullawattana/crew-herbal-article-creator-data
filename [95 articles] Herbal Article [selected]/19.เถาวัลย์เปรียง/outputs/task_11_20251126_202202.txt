@@ -1,0 +1,54 @@
+# ===MASTER_FACT_SHEET===
+## Consolidated Facts for: Derris scandens
+* **Trend Fact:** Not found
+* **Lab Fact (Experimental Method):** Not found
+* **Lab Fact (Extraction Method):** Not found
+* **Lab Fact (Compound Identified):** Not found
+* **Lab Fact (Chromatography - TLC):** Not found
+* **Lab Fact (Pharmacological Finding):** Not found
+* **Lab Fact (Cosmetic or Clinical Effect):** Not found
+* **Lab Fact (Quality Control):** Not found
+* **Science Fact (Herb):** Derris scandens
+* **Science Fact (Compound):** Genistein-7-O-[α-rhamnopyranosyl-(1→6)]-β-glucopyranoside
+* **Science Fact (Abstracts):**
+  * **Study 1:**
+    * **abstract_raw:** This study explored the extraction of genistein-7-O-[α-rhamnopyranosyl-(1→6)]-β-glucopyranoside (GTG) from Derris scandens using an aqueous-ethanol solvent system, aiming to optimize yield and antioxidant activity. Hansen solubility parameters (HSP) were employed to determine the optimal solvent composition, with the highest GTG yield (6.83 ± 0.06 mg/g dried weight) obtained from 50% ethanol-correlating well with HSP predictions. Ultrasonic extraction was most effective with solvents having a dielectric constant between 50 and 60. The antioxidant potential of isolated GTG was evaluated using the DPPH assay, which yielded an IC(50) of 87.86 ± 1.85 μM, and the FRAP assay, with a value of 34.23 ± 2.75 mg FeSO(4) equivalents. Molecular orbital analysis revealed HOMO and LUMO energy gaps (ΔE = 10.6715 eV) similar to known antioxidants such as gallic acid, ascorbic acid, Trolox, and quercetin. These findings demonstrate that HSP effectively guided solvent selection for ultrasound-assisted extraction of GTG. The antioxidant activity is attributed to GTG's capacity to donate electrons and stabilize radicals via extended charge delocalization within the aglycone structure, confirming its potential as a natural antioxidant agent.
+    * **citation_apa:** Tantinithiphong, T., Eiamart, W., Tadtong, S., Vorarat, S., & Samee, W. (2025). Application of Hansen Solubility Parameters in the Aqueous-Ethanol Extraction of Genistein-7-O-[α-rhamnopyranosyl-(1→6)]-β-glucopyranoside from Derris scandens and Its Molecular Orbital Study on Antioxidant Activity. International Journal of Molecular Sciences, 26(12), 5740. https://doi.org/10.3390/ijms26125740
+* **Compliance Fact (Food Registration 1):** registration_number=10-1-00450-1-0016, product_name=ชาสมุนไพร เถาวัลย์เปรียง (ตราเอ็นทู ที) / JEWEL VINE HERBAL TEA (N2 TEA BRAND), company_name=บริษัท คัลเลอร์-พลาส จำกัด, status=สถานะผลิตภัณฑ์(คงอยู่)\ สถานะสถานที่ (คงอยู่)
+* **Compliance Fact (Food Registration 2):** registration_number=10-1-00450-1-0028, product_name=ชาสมุนไพร เถาวัลย์เปรียง (ตรา จีอีโอ) / JEWEL VINE HERAL TEA (GEO BRAND), company_name=บริษัท คัลเลอร์-พลาส จำกัด, status=สถานะผลิตภัณฑ์(คงอยู่)\ สถานะสถานที่ (คงอยู่)
+* **Compliance Fact (Food Registration 3):** registration_number=10-1-01949-1-0194, product_name=ชาสมุนไพร เถาวัลย์เปรียง / JEWEL VINE HERBAL TEA, company_name=บริษัท โรงงานเภสัชอุตสาหกรรม เจเอสพี (ประเทศไทย) จำกัด (มหาชน), status=สถานะผลิตภัณฑ์(ผู้ประกอบการแจ้งยกเลิกใบอนุญาต 16/1/2567) \ สถานะสถานที่ (ยกเลิกโดยผู้ประกอบการ 16/1/2567)
+* **Compliance Fact (Food Registration 4):** registration_number=10-1-01949-1-0206, product_name=ชาสมุนไพร เถาวัลย์เปรียงผสมใบหญ้าหวาน / JEWEL VINE AND STEVIA HERBAL TEA, company_name=บริษัท โรงงานเภสัชอุตสาหกรรม เจเอสพี (ประเทศไทย) จำกัด (มหาชน), status=สถานะผลิตภัณฑ์(ผู้ประกอบการแจ้งยกเลิกใบอนุญาต 16/1/2567) \ สถานะสถานที่ (ยกเลิกโดยผู้ประกอบการ 16/1/2567)
+* **Compliance Fact (Food Registration 5):** registration_number=10-1-09148-1-0013, product_name=ชาสมุนไพร เถาวัลย์เปรียง (ตราภูต้นน้ำ), company_name=บริษัท ภูต้นน้ำ จำกัด, status=สถานะผลิตภัณฑ์(ยกเลิก 8/6/2560) \ สถานะสถานที่ (ยกเลิก 8/6/2560)
+* **Compliance Fact (Safety Dosage):** Not found
+* **Compliance Fact (Safety Warning):** Not found
+* **Safety Fact (Active Ingredient):** Not found
+* **Safety Fact (Ingredient Purpose):** Not found
+* **Safety Fact (Uses):** Not found
+* **Safety Fact (Warnings):** Not found
+* **Safety Fact (Directions):** Not found
+* **Safety Fact (Other Info):** Not found
+* **Safety Fact (Inactive Ingredients):** Not found
+* **Safety Fact (Questions):** Not found
+* **Toxicity Fact (Summary):** Derris scandens has been reported to cause liver injury, including acute hepatitis and cholestatic hepatitis, in some cases. The mechanism of liver injury is not well understood, but it is thought to be related to the herb's ability to induce liver enzymes and cause oxidative stress.
+* **Toxicity Fact (Mechanism):** The mechanism of liver injury caused by Derris scandens is not well understood, but it is thought to be related to the herb's ability to induce liver enzymes and cause oxidative stress.
+* **Toxicity Fact (Side Effects):** Reported side effects of Derris scandens include liver injury, acute hepatitis, cholestatic hepatitis, and elevated liver enzymes.
+* **Toxicity Fact (Case Reports):** There have been several case reports of liver injury associated with Derris scandens, including acute hepatitis and cholestatic hepatitis. In some cases, the liver injury has been severe and has required hospitalization.
+* **Culture Fact (Community - Ban Khok, Ban Na Law, U Thong District, Suphan Buri Province):** 
+    * **community_name:** Ban Khok, Ban Na Law, U Thong District, Suphan Buri Province
+    * **location:** U Thong District, Suphan Buri Province
+    * **ethnic_group:** Villagers
+    * **community_highlight:** The community of Ban Khok and Ban Na Law in U Thong District, Suphan Buri Province, has a rich tradition of using natural resources for various purposes. One of the plants used by the community is the Peppercorn Vine (เถาวัลย์เปรียง), which is a type of climber that grows in the area. The community uses the vine's bark to make rope.
+    * **name_etymology:** The name "Peppercorn Vine" is derived from the plant's resemblance to peppercorns. The name "เถาวัลย์เปรียง" is a combination of two Thai words: "เถา" meaning "vine" and "วัลย์เปรียง" meaning "peppercorn-like".
+    * **community_environment:** The community of Ban Khok and Ban Na Law is surrounded by a lush forest, which provides a rich source of natural resources. The community has developed a strong connection with the environment and uses the resources sustainably.
+    * **local_wisdom:** The community has a deep understanding of the local flora and fauna, which is passed down through generations. The use of the Peppercorn Vine is an example of the community's traditional knowledge and skills.
+    * **community_organizations:** The community has a strong social structure, with various organizations and groups that work together to manage the natural resources and promote sustainable development.
+    * **local_name:** Peppercorn Vine (เถาวัลย์เปรียง)
+    * **traditional_use:** Making rope from the vine's bark
+    * **processing_method:** Using the vine's bark to make rope by cutting and drying the bark, then twisting it into rope.
+    * **source_url:** https://db.sac.or.th/anthroarchives/search_grid.php?s_page=1945
+* **Internal RAG Fact (Herbal):** Unfortunately, the provided internal knowledge context does not explicitly mention เถาวัลย์เปรียง (Derris scandens). However, the context discusses the benefits and uses of traditional Thai medicine, highlighting its potential to reduce medical expenses and provide effective treatment for minor ailments. It also touches on the importance of self-sufficiency in food production and the use of local ingredients in traditional medicine. Additionally, the context mentions the use of certain plants, such as ใบมะกรูด (Thai basil), in traditional Thai medicine, but does not provide specific information on เถาวัลย์เปรียง (Derris scandens).
+* **Internal RAG Fact (Cultural):** No relevant information about เถาวัลย์เปรียง was found in the provided cultural context.
+* **Source URL (Science):** https://doi.org/10.3390/ijms26125740
+* **Source URL (Compliance):** https://www.fda.moph.go.th/
+* **Source URL (Toxicity):** https://www.ncbi.nlm.nih.gov/books/NBK548097/
+* **Source URL (Culture):** https://db.sac.or.th/anthroarchives/search_grid.php?s_page=1945

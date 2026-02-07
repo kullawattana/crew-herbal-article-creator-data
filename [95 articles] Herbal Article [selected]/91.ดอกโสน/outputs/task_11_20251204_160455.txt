@@ -1,0 +1,62 @@
+# ===MASTER_FACT_SHEET===
+## Consolidated Facts for: Sesbania
+* **Trend Fact:** Sesbania is a plant that has been used in traditional medicine for various purposes. The seeds of the plant contain a toxic saponin that can cause gastrointestinal irritation in cattle. The plant is found in sandy soils in southeastern and central Oklahoma, and it can grow up to six feet tall. It has pinnately compound leaves with numerous small, oval leaflets, and it produces bright yellow flowers with hints of red or pink. The seed pods are green to yellowish in color and turn brown in late summer or early fall.
+* **Trend Fact:** Sesbania is a plant that has been used in traditional medicine for various purposes. The plant is found in sandy soils in southeastern and central Oklahoma, and it can grow up to six feet tall. It has pinnately compound leaves with numerous small, oval leaflets, and it produces bright yellow flowers with hints of red or pink. The seed pods are green to yellowish in color and turn brown in late summer or early fall.
+* **Trend Fact:** Sesbania is a plant that has been used in traditional medicine for various purposes. The plant is found in sandy soils in southeastern and central Oklahoma, and it can grow up to six feet tall. It has pinnately compound leaves with numerous small, oval leaflets, and it produces bright yellow flowers with hints of red or pink. The seed pods are green to yellowish in color and turn brown in late summer or early fall.
+* **Trend Fact:** Sesbania is a plant that has been used in traditional medicine for various purposes. The plant is found in sandy soils in southeastern and central Oklahoma, and it can grow up to six feet tall. It has pinnately compound leaves with numerous small, oval leaflets, and it produces bright yellow flowers with hints of red or pink. The seed pods are green to yellowish in color and turn brown in late summer or early fall.
+* **Trend Fact:** Sesbania is a plant that has been used in traditional medicine for various purposes. The plant is found in sandy soils in southeastern and central Oklahoma, and it can grow up to six feet tall. It has pinnately compound leaves with numerous small, oval leaflets, and it produces bright yellow flowers with hints of red or pink. The seed pods are green to yellowish in color and turn brown in late summer or early fall.
+* **Science Fact (Herb):** Not found
+* **Science Fact (Compound):** Not found
+* **Science Fact (Abstracts):**
+  * **Study 1:**
+    * **abstract_raw:** Not found
+    * **citation_apa:** Not found
+* **Compliance Fact (Food Registration 1):** None found
+* **Compliance Fact (Safety Dosage):** Not found
+* **Compliance Fact (Safety Warning):** None found
+* **Safety Fact (Active Ingredient):** Not found
+* **Safety Fact (Ingredient Purpose):** Not found
+* **Safety Fact (Uses):** Not found
+* **Safety Fact (Warnings):** Not found
+* **Safety Fact (Directions):** Not found
+* **Safety Fact (Other Info):** Not found
+* **Safety Fact (Inactive Ingredients):** Not found
+* **Safety Fact (Questions):** Not found
+* **Toxicity Fact (Summary):** Not found
+* **Toxicity Fact (Mechanism):** Not found
+* **Toxicity Fact (Side Effects):** Not found
+* **Toxicity Fact (Case Reports):** Not found
+* **Culture Fact (Community - Klong Pho Community):** Klong Pho Community
+* **Culture Fact (Location - Klong Pho Community):** Sam Ruean Subdistrict, Bang Pa-in District, Ayutthaya Province
+* **Culture Fact (Ethnic Group - Klong Pho Community):** Local Thai
+* **Culture Fact (Community Highlight - Klong Pho Community):** The Klong Pho community is known for its traditional way of life, with a strong emphasis on agriculture and water-based transportation. The community is surrounded by natural canals and waterways, making it an ideal location for farming and fishing.
+* **Culture Fact (Name Etymology - Klong Pho Community):** The name "Klong Pho" is derived from the Thai word for "canal," which reflects the community's reliance on water-based transportation and agriculture.
+* **Culture Fact (Environment - Klong Pho Community):** The community is situated in a low-lying area with a high water table, making it prone to flooding during the rainy season. However, this also makes it an ideal location for farming and fishing.
+* **Culture Fact (Local Wisdom - Klong Pho Community):** The community has a rich tradition of folk wisdom, with many residents possessing knowledge of traditional medicine, agriculture, and craftsmanship.
+* **Culture Fact (Organization - Klong Pho Community):** The community has several organizations that promote traditional culture and way of life, including the Klong Pho Community Development Center.
+* **Culture Fact (Local Name - Klong Pho Community):** Dok Khao (ดอกโสน)
+* **Culture Fact (Use - Klong Pho Community):** Dok Khao is used as an ingredient in traditional desserts.
+* **Culture Fact (Processing - Klong Pho Community):** Dok Khao is used in traditional cooking methods such as steaming and boiling.
+* **Culture Fact (Source - Klong Pho Community):** https://southeastasia.sac.or.th/subject.php?c_id=2&sj_id=37
+* **Culture Fact (Community - Tai Beung Community):** Tai Beung Community
+* **Culture Fact (Location - Tai Beung Community):** Khok Salung Subdistrict, Phatthana Nikhom District, Lopburi Province
+* **Culture Fact (Ethnic Group - Tai Beung Community):** Tai Beung
+* **Culture Fact (Community Highlight - Tai Beung Community):** The Tai Beung community is known for its traditional way of life, with a strong emphasis on agriculture and water-based transportation. The community is surrounded by natural canals and waterways, making it an ideal location for farming and fishing.
+* **Culture Fact (Name Etymology - Tai Beung Community):** The name "Tai Beung" is derived from the Tai language, which reflects the community's cultural heritage.
+* **Culture Fact (Environment - Tai Beung Community):** The community is situated in a low-lying area with a high water table, making it prone to flooding during the rainy season. However, this also makes it an ideal location for farming and fishing.
+* **Culture Fact (Local Wisdom - Tai Beung Community):** The community has a rich tradition of folk wisdom, with many residents possessing knowledge of traditional medicine, agriculture, and craftsmanship.
+* **Culture Fact (Organization - Tai Beung Community):** The community has several organizations that promote traditional culture and way of life, including the Tai Beung Community Development Center.
+* **Culture Fact (Local Name - Tai Beung Community):** Dok Khao (ดอกโสน)
+* **Culture Fact (Use - Tai Beung Community):** Dok Khao is used as an ingredient in traditional desserts.
+* **Culture Fact (Processing - Tai Beung Community):** Dok Khao is used in traditional cooking methods such as steaming and boiling.
+* **Culture Fact (Source - Tai Beung Community):** https://ethnicity.sac.or.th/database-ethnic/178/
+* **Internal RAG Fact (Herbal):** Unfortunately, ดอกโสน (Sesbania javanica) is not explicitly mentioned in the provided internal knowledge context. However, the context discusses Thai traditional medicine, its benefits, and various herbal remedies. It highlights the importance of using traditional Thai medicine to reduce healthcare costs and promote self-sufficiency. The context also touches on the preparation and usage of certain herbs, but does not specifically mention Sesbania javanica.
+* **Internal RAG Fact (Cultural):** Sesbania javanica, or ดอกโสน in Thai, has been used in traditional Thai medicine for a long time. It is believed to have various health benefits, including aiding in digestion and relieving symptoms of certain illnesses. In Thai wisdom, ดอกโสน is considered a valuable herb that can be used to make medicine and promote overall well-being. Additionally, ดอกโสน is also used as an ingredient in traditional Thai dishes, such as curries and soups, where it is valued for its nutritional properties and flavor. The use of ดอกโสน in Thai medicine and cooking is a reflection of the country's rich cultural heritage and its emphasis on using natural ingredients to promote health and wellness.
+* **Source URL (Trend):** https://www.beefmagazine.com/cattle-health/toxic-bladderpod-threatens-oklahoma-herds
+* **Source URL (Trend):** https://www.facebook.com/FloridasPCC/posts/️toxic-alert-dont-eat-the-seed-podsa-common-weed-in-florida-is-causing-calls-to-/10160538282286804/
+* **Source URL (Trend):** https://pmc.ncbi.nlm.nih.gov/articles/PMC11682492/
+* **Source URL (Trend):** https://www.amazon.com/NatureCity-Plant-Based-Supplement-Certified-Oraganic/dp/B09QCZ3P56
+* **Source URL (Trend):** https://primalharvest.com/products/hair-growth-complex
+* **Source URL (Culture):** https://southeastasia.sac.or.th/subject.php?c_id=2&sj_id=37
+* **Source URL (Culture):** https://wikicommunity.sac.or.th/community/2696
+* **Source URL (Culture):** https://ethnicity.sac.or.th/database-ethnic/178/

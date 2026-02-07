@@ -1,0 +1,29 @@
+# ===COMPLIANCE_DATA===
+## Thai FDA Status for: Murraya paniculata
+* **herb_name:** Murraya paniculata
+### Food Registrations
+* **Food Registration 1:**
+    * **registration_number:** 10-1-22345-1-0003
+    * **product_name:** น้ำมันปาล์มโอเลอินจากเนื้อปาล์มผ่านกรรมวิธี (ตรา ดอกแก้ว) / -
+    * **company_name:** เจริญชัยพาณิชย์
+    * **status:** สถานะผลิตภัณฑ์(คงอยู่)\ สถานะสถานที่ (คงอยู่)
+* **Food Registration 2:**
+    * **registration_number:** 11-2-01354-2-0001
+    * **product_name:** น้ำมันปาล์มโอเลอินจากเนื้อปาล์มผ่านกรรมวิธี ตรา ดอกแก้ว
+    * **company_name:** ต.เจริญการค้า
+    * **status:** สถานะผลิตภัณฑ์(คงอยู่)\ สถานะสถานที่ (คงอยู่)
+* **Food Registration 3:**
+    * **registration_number:** 11-2-01951-6-0820
+    * **product_name:** น้ำดื่มตรา ดอกแก้วเจ้าจอม
+    * **company_name:** บริษัท เอเซีย วอเตอร์มาร์ท จำกัด
+    * **status:** สถานะผลิตภัณฑ์(คงอยู่)\ สถานะสถานที่ (คงอยู่)
+* **Food Registration 4:**
+    * **registration_number:** 12-2-00157-2-0037
+    * **product_name:** น้ำดื่ม ตรา ดอกแก้ว
+    * **company_name:** ห้างหุ้นส่วนจำกัด ช.เจริญพูนผล
+    * **status:** สถานะผลิตภัณฑ์(ผู้ประกอบการแจ้งยกเลิกใบอนุญาต 19/3/2567) \ สถานะสถานที่ (ผู้ประกอบการแจ้งยกเลิก 19/3/2567)
+* **Food Registration 5:**
+    * **registration_number:** 14-2-01359-6-0212
+    * **product_name:** น้ำดื่มตรา ดอกแก้วเจ้าจอม
+    * **company_name:** บริษัท ฮอลแลนด์ สตาร์ บรรจุภัณฑ์ จำกัด
+    * **status:** สถานะผลิตภัณฑ์(ยกเลิกโดยผู้ประกอบการ 14/11/2566) \ สถานะสถานที่ (คงอยู่ )

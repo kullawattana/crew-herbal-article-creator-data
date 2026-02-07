@@ -1,0 +1,81 @@
+# ===CULTURE_DATA===
+
+## Cultural Context for: Wat Pa Daeng (วัดป่าแดง)
+
+### Finding 1
+* **source_url:** https://manuscripts.sac.or.th/article-download.php?id=22
+* **community_context:**
+    * **community_name:** Wat Pa Daeng
+    * **location:** Sukhothai Province
+    * **ethnic_group:** Unspecified
+* **community_profile_summaries:**
+    * **community_highlight:** No herbal-related information found.
+    * **name_etymology:** The name "Wat Pa Daeng" is mentioned in the inscriptions on the stone slabs, specifically on the first slab, line 17, and the second slab, lines 6 and 10.
+    * **community_environment:** The temple is believed to be located in the area of the ancient city of Sukhothai, although its exact location is unknown.
+    * **local_wisdom:** The inscriptions on the stone slabs provide information on the history and significance of the temple, including the appointment of a new abbot.
+    * **community_organizations:** No information found.
+* **specific_entities:**
+    * **local_names:**
+        * **Item 1:**
+            * **name:** Wat Pa Daeng
+            * **context_quote:** In the inscriptions on the stone slabs, specifically on the first slab, line 17, and the second slab, lines 6 and 10.
+    * **traditional_uses:**
+        * **Item 1:**
+            * **use:** The appointment of a new abbot, Phra Mongkhonwilat, as the abbot of Wat Kalayanavara.
+            * **context_quote:** Phra Sangkharat, the abbot of the forest monastery, appointed Phra Mongkhonwilat as the abbot of Wat Kalayanavara for the second time.
+    * **processing_methods:**
+        * **Item 1:**
+            * **method:** Inscription
+            * **description_quote:** The stone slab was inscribed in the year 768 of the Chula Sakarat era (1949 CE).
+
+### Finding 2
+* **source_url:** https://db.sac.or.th/inscriptions/inscribe/detail/206
+* **community_context:**
+    * **community_name:** Wat Pa Daeng
+    * **location:** Sukhothai Province
+    * **ethnic_group:** Unspecified
+* **community_profile_summaries:**
+    * **community_highlight:** No herbal-related information found.
+    * **name_etymology:** The name "Wat Pa Daeng" is mentioned in the inscriptions on the stone slabs, specifically on the first slab, line 17, and the second slab, lines 6 and 10.
+    * **community_environment:** The temple is believed to be located in the area of the ancient city of Sukhothai, although its exact location is unknown.
+    * **local_wisdom:** The inscriptions on the stone slabs provide information on the history and significance of the temple, including the appointment of a new abbot.
+    * **community_organizations:** No information found.
+* **specific_entities:**
+    * **local_names:**
+        * **Item 1:**
+            * **name:** Wat Pa Daeng
+            * **context_quote:** In the inscriptions on the stone slabs, specifically on the first slab, line 17, and the second slab, lines 6 and 10.
+    * **traditional_uses:**
+        * **Item 1:**
+            * **use:** The appointment of a new abbot, Phra Mongkhonwilat, as the abbot of Wat Kalayanavara.
+            * **context_quote:** Phra Sangkharat, the abbot of the forest monastery, appointed Phra Mongkhonwilat as the abbot of Wat Kalayanavara for the second time.
+    * **processing_methods:**
+        * **Item 1:**
+            * **method:** Inscription
+            * **description_quote:** The stone slab was inscribed in the year 768 of the Chula Sakarat era (1949 CE).
+
+### Finding 3
+* **source_url:** https://culturio.sac.or.th/author/142/all
+* **community_context:**
+    * **community_name:** Wat Pa Daeng
+    * **location:** Sukhothai Province
+    * **ethnic_group:** Unspecified
+* **community_profile_summaries:**
+    * **community_highlight:** No herbal-related information found.
+    * **name_etymology:** The name "Wat Pa Daeng" is mentioned in the inscriptions on the stone slabs, specifically on the first slab, line 17, and the second slab, lines 6 and 10.
+    * **community_environment:** The temple is believed to be located in the area of the ancient city of Sukhothai, although its exact location is unknown.
+    * **local_wisdom:** The inscriptions on the stone slabs provide information on the history and significance of the temple, including the appointment of a new abbot.
+    * **community_organizations:** No information found.
+* **specific_entities:**
+    * **local_names:**
+        * **Item 1:**
+            * **name:** Wat Pa Daeng
+            * **context_quote:** In the inscriptions on the stone slabs, specifically on the first slab, line 17, and the second slab, lines 6 and 10.
+    * **traditional_uses:**
+        * **Item 1:**
+            * **use:** The appointment of a new abbot, Phra Mongkhonwilat, as the abbot of Wat Kalayanavara.
+            * **context_quote:** Phra Sangkharat, the abbot of the forest monastery, appointed Phra Mongkhonwilat as the abbot of Wat Kalayanavara for the second time.
+    * **processing_methods:**
+        * **Item 1:**
+            * **method:** Inscription
+            * **description_quote:** The stone slab was inscribed in the year 768 of the Chula Sakarat era (1949 CE).

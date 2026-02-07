@@ -1,0 +1,24 @@
+# ===CULTURE_DATA=== ## Cultural Context for: Pak Phaew (ผักแพว)
+### Finding 1 * **source_url:** https://southeastasia.sac.or.th/subject.php?c_id=8&sj_id=68 * **community_context:**
+    * **community_name:** Singaporean Chinese (ชาวสิงคโปร์)
+    * **location:** Singapore (สิงคโปร์)
+    * **ethnic_group:** Chinese, Hokkien (จีน ฮกเกี้ยน)
+* **community_profile_summaries:**
+    * **community_highlight:** The Singaporean Chinese community is known for its cleanliness and organization. In the 1950s, the government began to regulate street vendors and hawker centers, leading to the development of a unique food culture. The community's ability to adapt to change and innovate has contributed to the success of their culinary traditions.
+    * **name_etymology:** The name "Pak Phaew" is derived from the Thai language and refers to a type of leafy green vegetable commonly used in Singaporean cuisine. The name is also associated with the dish "Laksa," a popular spicy noodle soup that originated in Singapore.
+    * **community_environment:** The Singaporean Chinese community has a strong emphasis on cleanliness and organization, which is reflected in their food culture. The government's efforts to regulate street vendors and hawker centers have contributed to the development of a unique and vibrant food scene.
+    * **local_wisdom:** The community's traditional wisdom is reflected in their use of local ingredients and cooking methods. The use of "Pak Phaew" in Laksa is an example of this, as it adds a unique flavor and texture to the dish.
+    * **community_organizations:** The community has a number of organizations that promote and preserve their cultural heritage, including the Singaporean Chinese Cultural Centre.
+* **specific_entities:**
+    * **local_names:**
+        * **Item 1:**
+            * **name:** Pak Phaew (ผักแพว)
+            * **context_quote:** The most important ingredient that cannot be missed is Pak Phaew. This vegetable is a crucial component that gives Laksa its unique flavor and aroma, and is often referred to as "Laksa leaf."
+    * **traditional_uses:**
+        * **Item 1:**
+            * **use:** Making Laksa
+            * **context_quote:** Laksa is a popular dish among Singaporeans, and is often served with steaming hot rice.
+    * **processing_methods:**
+        * **Item 1:**
+            * **method:** Boiling
+            * **description_quote:** Boiling is a common cooking method used by Singaporeans to prepare Laksa.

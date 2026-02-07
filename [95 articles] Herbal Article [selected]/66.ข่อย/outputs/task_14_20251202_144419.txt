@@ -1,0 +1,33 @@
+# ===AUDIT_DATA_INTEGRITY_REPORT===
+*   **Collaboration Robustness (Data Loss):** 43.18%
+*   **Explanation Clarity (Hallucination/Handling):** 97.56%
+*   **Dropped Entities (Facts in Fact Sheet but not Article):**
+    *   Toxicity Fact (Mechanism): "The underlying mechanism of neuroprotection involves the activation of the Nrf2 signaling pathway, which promotes antioxidant defense by up-regulating the expression of antioxidant-related genes such as NQO1, GCLM, and EAAT3."
+    *   Toxicity Fact (Case Reports): "No human case reports were mentioned in the study."
+    *   Culture Fact (Community - Wat Lai Hin Luang) - ethnic_group: Lanna
+    *   Culture Fact (Community - Wat Lai Hin Luang) - community_highlight: Wat Lai Hin Luang is a temple in Lampang Province that has a rich cultural heritage. The temple has a collection of ancient documents and artifacts related to Buddhism, including palm-leaf manuscripts and traditional Thai books.
+    *   Culture Fact (Community - Wat Lai Hin Luang) - name_etymology: The name "Wat Lai Hin Luang" is derived from the Lanna language and refers to the temple's location on a large stone slab.
+    *   Culture Fact (Community - Wat Lai Hin Luang) - community_environment: The community surrounding Wat Lai Hin Luang is predominantly Lanna, and the temple plays an important role in preserving the cultural heritage of the region.
+    *   Culture Fact (Community - Wat Lai Hin Luang) - community_organizations: The temple has established a museum to showcase its collection of ancient documents and artifacts, providing a valuable resource for researchers and the local community.
+    *   Culture Fact (Community - Wat Lai Hin Luang) - local_name: Khoy Book
+    *   Culture Fact (Community - Wat Lai Hin Luang) - traditional_use: Conservation of ancient documents
+    *   Culture Fact (Community - Wat Lai Hin Luang) - processing_method: Cataloging
+    *   Culture Fact (Community - Wat Phra That Lampang Luang) - ethnic_group: Lanna
+    *   Culture Fact (Community - Wat Phra That Lampang Luang) - community_highlight: Wat Phra That Lampang Luang is a temple in Lampang Province that is known for its ancient artifacts and documents related to Buddhism.
+    *   Culture Fact (Community - Wat Phra That Lampang Luang) - name_etymology: The name "Wat Phra That Lampang Luang" is derived from the Lanna language and refers to the temple's location in Lampang Province.
+    *   Culture Fact (Community - Wat Phra That Lampang Luang) - community_environment: The community surrounding Wat Phra That Lampang Luang is predominantly Lanna, and the temple plays an important role in preserving the cultural heritage of the region.
+    *   Culture Fact (Community - Wat Phra That Lampang Luang) - community_organizations: The temple has established a museum to showcase its collection of ancient documents and artifacts, providing a valuable resource for researchers and the local community.
+    *   Culture Fact (Community - Wat Phra That Lampang Luang) - local_name: Palm-leaf manuscript
+    *   Culture Fact (Community - Wat Phra That Lampang Luang) - traditional_use: Conservation of ancient documents
+    *   Culture Fact (Community - Wat Phra That Lampang Luang) - processing_method: Drying
+    *   Culture Fact (Community - Wat Chalermprakiat) - ethnic_group: Lanna
+    *   Culture Fact (Community - Wat Chalermprakiat) - community_highlight: Wat Chalermprakiat is a temple in Lampang Province that is known for its ancient artifacts and documents related to Buddhism.
+    *   Culture Fact (Community - Wat Chalermprakiat) - name_etymology: The name "Wat Chalermprakiat" is derived from the Lanna language and refers to the temple's location in Lampang Province.
+    *   Culture Fact (Community - Wat Chalermprakiat) - community_environment: The community surrounding Wat Chalermprakiat is predominantly Lanna, and the temple plays an important role in preserving the cultural heritage of the region.
+    *   Culture Fact (Community - Wat Chalermprakiat) - community_organizations: The temple has established a museum to showcase its collection of ancient documents and artifacts, providing a valuable resource for researchers and the local community.
+    *   Culture Fact (Community - Wat Chalermprakiat) - local_name: Traditional Thai book
+    *   Culture Fact (Community - Wat Chalermprakiat) - traditional_use: Conservation of ancient documents
+    *   Culture Fact (Community - Wat Chalermprakiat) - processing_method: Binding
+*   **Hallucinated Entities (Facts in Article but not Fact Sheet):**
+    *   Specific mention of "liver injury" as a potential adverse reaction in the "Safety, Regulatory, and Constraints" section.
+*   **Feedback:** The article successfully transferred key high-level facts such as the herb's name, its neuroprotective abstract, general traditional uses, and all source URLs. It also flawlessly handled all "Not Found" statements from the Fact Sheet, either by explicitly stating the absence of information or by omitting the topic without inventing details. The handling of the `citation_apa: Not found` was perfect. However, there was significant data loss regarding the detailed sub-facts within the Culture Fact sections, where many specific cultural details for each temple community were omitted. Additionally, the specific mechanism of neuroprotection from the Toxicity Fact was entirely dropped, as were the Case Reports. One minor hallucination was identified with the specific mention of "liver injury." The robustness score reflects the substantial loss of granular data, while the clarity score is high due to excellent handling of "Not Found" findings and minimal hallucination of new facts.

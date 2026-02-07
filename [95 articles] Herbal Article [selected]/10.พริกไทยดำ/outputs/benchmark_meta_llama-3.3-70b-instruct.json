@@ -1,0 +1,11 @@
+{
+  "model": "meta/llama-3.3-70b-instruct",
+  "herbs": "Piper nigrum",
+  "runtime_sec": 505.78,
+  "cpu_percent": 2.6,
+  "memory_mb_change": 276.78,
+  "total_tokens": 0,
+  "prompt_tokens": 0,
+  "completion_tokens": 0,
+  "total_cost": 0.0
+}

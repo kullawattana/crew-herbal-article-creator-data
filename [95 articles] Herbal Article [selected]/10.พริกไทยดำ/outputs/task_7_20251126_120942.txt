@@ -1,0 +1,65 @@
+# ===RAW_THAI_DATA===
+## ข้อมูลวัฒนธรรมดิบสำหรับ: พริกไทยดำ
+
+### การค้นหา 1
+* **source_url:** https://db.sac.or.th/thailand-cultural-encyclopedia/region.php?region=2&page=205
+* **community_context:**
+    * **community_name:** พริกไทยดำ
+    * **location:** ภาคกลาง
+    * **ethnic_group:** จีนฮกเกี้ยน
+* **full_thai_narrative_context:** พริกไทยดำเป็นพริกไทยที่มีสีดำและมีรสชาติเผ็ดร้อน
+* **specific_entities:**
+    * **local_names:**
+        * **Item 1:**
+            * **name:** พริกไทยดำ
+            * **context_quote:** พริกไทยดำเป็นพริกไทยที่มีสีดำและมีรสชาติเผ็ดร้อน
+    * **traditional_uses:**
+        * **Item 1:**
+            * **use:** ใช้ในการปรุงอาหาร
+            * **context_quote:** พริกไทยดำใช้ในการปรุงอาหารเพื่อให้มีรสชาติเผ็ดร้อน
+    * **processing_methods:**
+        * **Item 1:**
+            * **method:** การตากแห้ง
+            * **description_quote:** พริกไทยดำสามารถตากแห้งเพื่อเก็บไว้ใช้ในอนาคต
+
+### การค้นหา 2
+* **source_url:** https://www.sac.or.th/portal/th/article/detail/411
+* **community_context:**
+    * **community_name:** แทรกยาดำ
+    * **location:** สิงคโปร์
+    * **ethnic_group:** จีนแคะ
+* **full_thai_narrative_context:** แทรกยาดำเป็นสำนวนที่มาจากตำรับตำราการแพทย์แผยไทยโบราณ
+* **specific_entities:**
+    * **local_names:**
+        * **Item 1:**
+            * **name:** แทรกยาดำ
+            * **context_quote:** แทรกยาดำเป็นสำนวนที่มาจากตำรับตำราการแพทย์แผยไทยโบราณ
+    * **traditional_uses:**
+        * **Item 1:**
+            * **use:** ใช้ในการแพทย์แผนไทย
+            * **context_quote:** แทรกยาดำใช้ในการแพทย์แผนไทยเพื่อปรุงยาสมุนไพร
+    * **processing_methods:**
+        * **Item 1:**
+            * **method:** การผสมผสาน
+            * **description_quote:** แทรกยาดำสามารถผสมผสานกับยาสมุนไพรอื่นๆ เพื่อเพิ่มประสิทธิภาพ
+
+### การค้นหา 3
+* **source_url:** https://southeastasia.sac.or.th/subject.php?c_id=8&sj_id=68
+* **community_context:**
+    * **community_name:** สิงคโปร์
+    * **location:** สิงคโปร์
+    * **ethnic_group:** จีนฮกเกี้ยน
+* **full_thai_narrative_context:** สิงคโปร์เป็นประเทศที่มีวัฒนธรรมอาหารที่หลากหลาย
+* **specific_entities:**
+    * **local_names:**
+        * **Item 1:**
+            * **name:** ข้าวมันไก่
+            * **context_quote:** ข้าวมันไก่เป็นอาหารที่มีชื่อเสียงของสิงคโปร์
+    * **traditional_uses:**
+        * **Item 1:**
+            * **use:** ใช้ในการปรุงอาหาร
+            * **context_quote:** ข้าวมันไก่ใช้ในการปรุงอาหารเพื่อให้มีรสชาติเผ็ดร้อน
+    * **processing_methods:**
+        * **Item 1:**
+            * **method:** การตากแห้ง
+            * **description_quote:** ข้าวมันไก่สามารถตากแห้งเพื่อเก็บไว้ใช้ในอนาคต

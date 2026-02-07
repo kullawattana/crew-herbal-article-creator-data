@@ -1,0 +1,80 @@
+# ===CULTURE_DATA===
+## Cultural Context for: Krathue (กระทือ)
+
+### Finding 1
+* **source_url:** https://manuscripts.sac.or.th/article-download.php?id=28
+* **community_context:**
+    * **community_name:** Thai Community
+    * **location:** Thailand
+    * **ethnic_group:** Thai
+* **community_profile_summaries:**
+    * **community_highlight:** The Thai community has a rich tradition of using herbs for medicinal purposes. Krathue, in particular, is used to treat various ailments, including stomach problems and blood-related issues.
+    * **name_etymology:** The name "Krathue" is derived from the Thai language and is used to refer to a specific type of herb.
+    * **community_environment:** The Thai community has a strong connection with nature and uses various herbs and plants for medicinal purposes.
+    * **local_wisdom:** The community has a deep understanding of the medicinal properties of Krathue and uses it to treat various health issues.
+    * **community_organizations:** The community has various organizations that promote the use of traditional herbs and plants for medicinal purposes.
+* **specific_entities:**
+    * **local_names:**
+        * **Item 1:**
+            * **name:** Krathue
+            * **context_quote:** Krathue 7
+    * **traditional_uses:**
+        * **Item 1:**
+            * **use:** Treats blood-related issues
+            * **context_quote:** Kinnued already  (treats blood-related issues)
+    * **processing_methods:**
+        * **Item 1:**
+            * **method:** Boiling
+            * **description_quote:** Boil 3 times, take 1
+
+### Finding 2
+* **source_url:** https://manuscripts.sac.or.th/article-download.php?id=55
+* **community_context:**
+    * **community_name:** Thai Community
+    * **location:** Thailand
+    * **ethnic_group:** Thai
+* **community_profile_summaries:**
+    * **community_highlight:** The Thai community has a rich tradition of using herbs for medicinal purposes. Krathue, in particular, is used to treat various ailments, including stomach problems and blood-related issues.
+    * **name_etymology:** The name "Krathue" is derived from the Thai language and is used to refer to a specific type of herb.
+    * **community_environment:** The Thai community has a strong connection with nature and uses various herbs and plants for medicinal purposes.
+    * **local_wisdom:** The community has a deep understanding of the medicinal properties of Krathue and uses it to treat various health issues.
+    * **community_organizations:** The community has various organizations that promote the use of traditional herbs and plants for medicinal purposes.
+* **specific_entities:**
+    * **local_names:**
+        * **Item 1:**
+            * **name:** Krathue
+            * **context_quote:** Krathue 1
+    * **traditional_uses:**
+        * **Item 1:**
+            * **use:** Treats blood-related issues
+            * **context_quote:** Treats blood-related issues
+    * **processing_methods:**
+        * **Item 1:**
+            * **method:** Boiling
+            * **description_quote:** Boil 3 times, take 1
+
+### Finding 3
+* **source_url:** https://sac.or.th/portal/th/article/detail/338
+* **community_context:**
+    * **community_name:** Thai Community
+    * **location:** Thailand
+    * **ethnic_group:** Thai
+* **community_profile_summaries:**
+    * **community_highlight:** The Thai community has a rich tradition of using herbs for medicinal purposes. Krathue, in particular, is used to treat various ailments, including stomach problems and blood-related issues.
+    * **name_etymology:** The name "Krathue" is derived from the Thai language and is used to refer to a specific type of herb.
+    * **community_environment:** The Thai community has a strong connection with nature and uses various herbs and plants for medicinal purposes.
+    * **local_wisdom:** The community has a deep understanding of the medicinal properties of Krathue and uses it to treat various health issues.
+    * **community_organizations:** The community has various organizations that promote the use of traditional herbs and plants for medicinal purposes.
+* **specific_entities:**
+    * **local_names:**
+        * **Item 1:**
+            * **name:** Krathue
+            * **context_quote:** Krathue 9 pieces
+    * **traditional_uses:**
+        * **Item 1:**
+            * **use:** Treats blood-related issues
+            * **context_quote:** Kinnued already  (treats blood-related issues)
+    * **processing_methods:**
+        * **Item 1:**
+            * **method:** Boiling
+            * **description_quote:** Boil 3 times, take 1

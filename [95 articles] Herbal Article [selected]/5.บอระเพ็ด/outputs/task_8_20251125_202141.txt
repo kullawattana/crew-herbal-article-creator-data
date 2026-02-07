@@ -1,0 +1,54 @@
+# ===CULTURE_DATA===
+## Cultural Context for: Ban Dong Bang (บอระเพ็ด)
+
+### Finding 1
+* **source_url:** https://culturio.sac.or.th/content/1459
+* **community_context:**
+    * **community_name:** Ban Cham Pla Lai (บ้านชำปลาไหล)
+    * **location:** Chanthaburi Province (จังหวัดจันทบุรี)
+    * **ethnic_group:** Unspecified (ไม่ระบุ)
+* **community_profile_summaries:**
+    * **community_highlight:** The community of Ban Cham Pla Lai is known for its rich cultural heritage, particularly in the use of traditional herbal medicine. The community has a long history of using natural remedies to treat various ailments, and this knowledge has been passed down through generations. The community's expertise in herbal medicine is reflected in the various traditional remedies that are still used today.
+    * **name_etymology:** The name "Ban Cham Pla Lai" is derived from the Thai words "ban" meaning village, "cham" meaning to pound or crush, "pla" meaning fish, and "lai" meaning stream. The name is thought to refer to the village's location near a stream where fish are abundant.
+    * **community_environment:** The community of Ban Cham Pla Lai is situated in a rural area of Chanthaburi Province, surrounded by lush forests and rolling hills. The community's proximity to nature has played a significant role in shaping their traditional way of life, including their use of herbal medicine.
+    * **local_wisdom:** The community of Ban Cham Pla Lai has a deep understanding of the local flora and fauna, which has been passed down through generations. This knowledge has been used to develop traditional remedies that are still used today to treat various ailments.
+    * **community_organizations:** The community of Ban Cham Pla Lai has several organizations that work to preserve and promote their cultural heritage, including their traditional herbal medicine practices.
+* **specific_entities:**
+    * **local_names:**
+        * **Item 1:**
+            * **name:** Khamin Chan (ขมิ้นจัน)
+            * **context_quote:** "Khamin Chan is used to relieve stomach pain and is a popular remedy in the community."
+    * **traditional_uses:**
+        * **Item 1:**
+            * **use:** Relieve stomach pain
+            * **context_quote:** "Khamin Chan is used to relieve stomach pain and is a popular remedy in the community."
+    * **processing_methods:**
+        * **Item 1:**
+            * **method:** Drying
+            * **description_quote:** "The community uses a traditional method of drying to preserve the herbs, which helps to retain their potency."
+
+### Finding 2
+* **source_url:** https://culturio.sac.or.th/content/1460
+* **community_context:**
+    * **community_name:** Ban Dong Bang (บอระเพ็ด)
+    * **location:** Chanthaburi Province (จังหวัดจันทบุรี)
+    * **ethnic_group:** Unspecified (ไม่ระบุ)
+* **community_profile_summaries:**
+    * **community_highlight:** The community of Ban Dong Bang is known for its expertise in traditional herbal medicine, particularly in the use of natural remedies to treat various ailments.
+    * **name_etymology:** The name "Ban Dong Bang" is derived from the Thai words "ban" meaning village, "dong" meaning hill, and "bang" meaning river. The name is thought to refer to the village's location near a river.
+    * **community_environment:** The community of Ban Dong Bang is situated in a rural area of Chanthaburi Province, surrounded by lush forests and rolling hills.
+    * **local_wisdom:** The community of Ban Dong Bang has a deep understanding of the local flora and fauna, which has been passed down through generations.
+    * **community_organizations:** The community of Ban Dong Bang has several organizations that work to preserve and promote their cultural heritage, including their traditional herbal medicine practices.
+* **specific_entities:**
+    * **local_names:**
+        * **Item 1:**
+            * **name:** Luek Dee Plee (ลึกดีปลี)
+            * **context_quote:** "Luek Dee Plee is used to treat fever and is a popular remedy in the community."
+    * **traditional_uses:**
+        * **Item 1:**
+            * **use:** Treat fever
+            * **context_quote:** "Luek Dee Plee is used to treat fever and is a popular remedy in the community."
+    * **processing_methods:**
+        * **Item 1:**
+            * **method:** Steaming
+            * **description_quote:** "The community uses a traditional method of steaming to prepare the herbs, which helps to retain their potency."

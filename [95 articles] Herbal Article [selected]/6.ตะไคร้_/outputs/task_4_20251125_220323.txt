@@ -1,0 +1,29 @@
+# ===COMPLIANCE_DATA===
+## Thai FDA Status for: Cymbopogon citratus
+* **herb_name:** Cymbopogon citratus
+### Food Registrations
+* **Food Registration 1:**
+    * **registration_number:** 10-1-00155-5-0026
+    * **product_name:** ตะไคร้ผง / Lemongrass Powder
+    * **company_name:** ร้าน ต เจริญ 88
+    * **status:** สถานะผลิตภัณฑ์(คงอยู่)\ สถานะสถานที่ (คงอยู่)
+* **Food Registration 2:**
+    * **registration_number:** 10-1-00450-1-0006
+    * **product_name:** ชาสมุนไพร ตะไคร้ (ตราเอ็นทู ที) / LEMON GRASS HERBAL TEA (N2 TEA BRAND)
+    * **company_name:** บริษัท คัลเลอร์-พลาส จำกัด
+    * **status:** สถานะผลิตภัณฑ์(คงอยู่)\ สถานะสถานที่ (คงอยู่)
+* **Food Registration 3:**
+    * **registration_number:** 10-1-00654-1-0112
+    * **product_name:** ไก่ทอด รสสมุนไพร (ตะไคร้, ใบเตย, พริกไทยดำ, ขมิ้นชัน) (ตรา ใต้ตะวัน)
+    * **company_name:** ห้างหุ้นส่วนจำกัด หาญบิสิเนส-อินเตอร์เนชั่นแนล
+    * **status:** สถานะผลิตภัณฑ์(ยกเลิก 8/3/2560) \ สถานะสถานที่ (ขาดต่ออายุ 31/12/2559)
+* **Food Registration 4:**
+    * **registration_number:** 10-1-00654-1-0117
+    * **product_name:** ทอดมันปลาหมึก รสสมุนไพร (ตะไคร้, ใบเตย, พริกไทยดำ, ขมิ้นชัน) (ตรา ใต้ตะวัน)
+    * **company_name:** ห้างหุ้นส่วนจำกัด หาญบิสิเนส-อินเตอร์เนชั่นแนล
+    * **status:** สถานะผลิตภัณฑ์(ยกเลิก 8/3/2560) \ สถานะสถานที่ (ขาดต่ออายุ 31/12/2559)
+* **Food Registration 5:**
+    * **registration_number:** 10-1-00654-1-0121
+    * **product_name:** แหนมเห็ดรสสมุนไพร (ตะไคร้, ขิง, กระเทียม, ใบเตย, พริกไทยดำ) (ตรา แซ่บจัง)
+    * **company_name:** ห้างหุ้นส่วนจำกัด หาญบิสิเนส-อินเตอร์เนชั่นแนล
+    * **status:** สถานะผลิตภัณฑ์(ยกเลิก 8/3/2560) \ สถานะสถานที่ (ขาดต่ออายุ 31/12/2559)

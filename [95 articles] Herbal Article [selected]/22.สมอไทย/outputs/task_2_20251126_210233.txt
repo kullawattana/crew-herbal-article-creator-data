@@ -1,0 +1,1 @@
+Thought: I have gathered the search results from the Pinecone tool using both the Thai name "สมอไทย" and the English/Scientific name "Terminalia chebula". Now, I need to filter the snippets to extract relevant lab evidence related to สมอไทย.

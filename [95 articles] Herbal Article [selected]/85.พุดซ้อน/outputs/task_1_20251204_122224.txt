@@ -1,0 +1,25 @@
+# ===TRENDS_DATA===
+### Finding 1
+* **herb_name:** Gardenia
+* **wellness_context_summary:** Fructus gardeniae (FG) is a traditional Chinese medicine and health food that has been used for thousands of years to treat anxiety, depression, insomnia, and psychiatric disorders. This study investigated the effects of FG on sleep deprivation-induced anxiety-like behavior in rats. The results showed that FG improved anxiety behavior and inhibited neuroinflammation in sleep-deprived rats, and the mechanism may be related to the regulation of hippocampal metabolites and intestinal microflora composition.
+* **source_url:** https://pubmed.ncbi.nlm.nih.gov/37377643/
+
+### Finding 2
+* **herb_name:** Gardenia
+* **wellness_context_summary:** Crocetin, a carotenoid compound from Gardenia jasminoides Ellis, may contribute to improving the quality of sleep. A pilot study found that crocetin reduced the number of wakening episodes and improved subjective sleep quality in healthy adult men with mild sleep complaints.
+* **source_url:** https://pubmed.ncbi.nlm.nih.gov/20537515/
+
+### Finding 3
+* **herb_name:** Gardenia
+* **wellness_context_summary:** Genipin, a compound from Gardenia jasminoides, has been found to have therapeutic potential for central neurodegenerative diseases. It has anti-inflammatory, neuroprotective, neurogenic, antidiabetic, and antidepressant effects, making it a potential treatment for neurodegenerative diseases such as Alzheimer's disease and Parkinson's disease.
+* **source_url:** https://pubmed.ncbi.nlm.nih.gov/27395402/
+
+### Finding 4
+* **herb_name:** Gardenia
+* **wellness_context_summary:** Geniposide, a compound from Gardenia jasminoides, has been found to have anti-atherosclerotic effects by regulating macrophage polarization via the FOS/MAPK signaling pathway.
+* **source_url:** https://pubmed.ncbi.nlm.nih.gov/37149071/
+
+### Finding 5
+* **herb_name:** Gardenia
+* **wellness_context_summary:** Geniposide, a compound from Gardenia jasminoides, has been found to have anti-atherosclerotic effects by regulating macrophage polarization via the CXCL14 expression by perivascular adipose tissue (PVAT).
+* **source_url:** https://pubmed.ncbi.nlm.nih.gov/37149071/

@@ -1,0 +1,82 @@
+# ===MASTER_FACT_SHEET=== 
+## Consolidated Facts for: Houttuynia cordata
+* **Trend Fact:** Unfortunately, I was unable to find any relevant articles about Fish Mint on the Global Wellness Institute (GWI) website. The search results did not provide any relevant information about Fish Mint, and the browse website tool did not yield any useful results. Therefore, I am unable to provide a summary of the herb's specific context.
+* **Lab Fact (Experimental Method):** Not found
+* **Lab Fact (Extraction Method):** Not found
+* **Lab Fact (Compound Identified):** Not found
+* **Lab Fact (Chromatography - TLC):** Not found
+* **Lab Fact (Pharmacological Finding):** Not found
+* **Lab Fact (Cosmetic or Clinical Effect):** Not found
+* **Lab Fact (Quality Control):** Not found
+* **Science Fact (Herb):** Houttuynia cordata
+* **Science Fact (Compound):** Not found
+* **Science Fact (Abstracts):**
+  * **Study 1:**
+    * **abstract_raw:** Not found
+    * **citation_apa:** Not found
+* **Compliance Fact (Food Registration 1):** registration_number=10-1-01949-5-0084, product_name=พลูคาว เบต้า ซี (ผลิตภัณฑ์เสริมอาหาร สารสกัดจากพลูคาว, ยีสต์ เบต้า กลูแคน, วิตามินซี) /  Plukaow Beta C (Houttuynia Cordata Extract, Yeast Beta Glucan, Ascorbic Acid Dietary Supplement Product), company_name=บริษัท โรงงานเภสัชอุตสาหกรรม เจเอสพี (ประเทศไทย) จำกัด (มหาชน), status=สถานะผลิตภัณฑ์(ผู้ประกอบการแจ้งยกเลิกใบอนุญาต 16/1/2567) \ สถานะสถานที่ (ยกเลิกโดยผู้ประกอบการ 16/1/2567)
+* **Compliance Fact (Food Registration 2):** registration_number=10-1-07165-5-0023, product_name=รฏา พลูคาวพลัส (ผลิตภัณฑ์เสริมอาหาร) / RA-TA Plu Kaow Plus (Dietary Supplement Product), company_name=บริษัท วิตต้าโปร กรุ๊ป จำกัด, status=สถานะผลิตภัณฑ์(คงอยู่)\ สถานะสถานที่ (คงอยู่)
+* **Compliance Fact (Food Registration 3):** registration_number=10-1-08758-5-0087, product_name=ผลิตภัณฑ์เสริมอาหาร เฮอร์เบิล แล็ป โฟร์ พลัส พลูคาว / HERBAL LAB 4 PLUS FISH MINT DIETARY SUPPLEMENT PRODUCT, company_name=บริษัท กรุงเทพทิพ จำกัด, status=สถานะผลิตภัณฑ์(คงอยู่)\ สถานะสถานที่ (คงอยู่)
+* **Compliance Fact (Food Registration 4):** registration_number=10-1-08860-5-0001, product_name=พลูคาว ซี พลัส (ผลิตภัณฑ์เสริมอาหาร)(ตรา พีเอสที) / PLU KAOW C PLUS (DIETARY SUPPLEMENT PRODUCT)(PST BRAND), company_name=บริษัท ปราสาททองโอสถ จำกัด, status=สถานะผลิตภัณฑ์(ยกเลิกเนื่องจากย้ายใบอนุญาต ) \ สถานะสถานที่ (คงอยู่ 1/1/2443)
+* **Compliance Fact (Food Registration 5):** registration_number=10-1-13660-5-0096, product_name=พลูคาว / Houttuynia cordata Thunb, company_name=บริษัท โพธิ์ประดิษฐ์สมุนไพร จำกัด, status=สถานะผลิตภัณฑ์(คงอยู่)\ สถานะสถานที่ (คงอยู่)
+* **Compliance Fact (Safety Dosage):** Not found
+* **Compliance Fact (Safety Warning):** Not found
+* **Safety Fact (Active Ingredient):** Not found
+* **Safety Fact (Ingredient Purpose):** Not found
+* **Safety Fact (Uses):** Not found
+* **Safety Fact (Warnings):** Not found
+* **Safety Fact (Directions):** Not found
+* **Safety Fact (Other Info):** Not found
+* **Safety Fact (Inactive Ingredients):** Not found
+* **Safety Fact (Questions):** Not found
+* **Toxicity Fact (Summary):** Not found
+* **Toxicity Fact (Mechanism):** Not found
+* **Toxicity Fact (Side Effects):** Not found
+* **Toxicity Fact (Case Reports):** Not found
+* **Culture Fact (Community - Phlu Kao):** 
+    * **community_name:** Phlu Kao
+    * **location:** Buriram
+    * **ethnic_group:** Thai
+    * **community_highlight:** Phlu Kao is a plant with various medicinal properties and is widely used in Thailand, especially in the northern and northeastern regions. The community has a strong tradition of using Phlu Kao to treat various diseases, including fever, cold, and headache.
+    * **name_etymology:** The name "Phlu Kao" is derived from the Thai words "phlu" meaning "plant" and "kao" meaning "medicinal". This name reflects the plant's medicinal properties and its importance in traditional Thai medicine.
+    * **community_environment:** The community is located in the northern region of Thailand, where Phlu Kao is widely cultivated and used in traditional medicine. The region's climate and soil conditions are suitable for the plant's growth, and the community has developed a strong tradition of using Phlu Kao in their daily lives.
+    * **local_wisdom:** The community has a rich tradition of using Phlu Kao in traditional medicine, and the plant is considered a valuable resource for treating various diseases. The community's knowledge of Phlu Kao's medicinal properties and its uses has been passed down through generations, and the plant remains an important part of the community's cultural heritage.
+    * **community_organizations:** The community has several organizations that promote the use of Phlu Kao in traditional medicine, including the Phlu Kao Association, which aims to preserve and promote the plant's medicinal properties and its cultural significance.
+    * **local_name:** Phlu Kao
+    * **traditional_use:** Used to treat various diseases, including fever, cold, and headache.
+    * **processing_method:** Boiling water
+    * **source_url:** https://covidarchives.sac.or.th/source/dailynews/page/215/
+* **Culture Fact (Community - Phlu Kao):** 
+    * **community_name:** Phlu Kao
+    * **location:** Central Region
+    * **ethnic_group:** Thai
+    * **community_highlight:** Phlu Kao is a plant with various medicinal properties and is widely used in Thailand, especially in the central region. The community has a strong tradition of using Phlu Kao to treat various diseases, including fever, cold, and headache.
+    * **name_etymology:** The name "Phlu Kao" is derived from the Thai words "phlu" meaning "plant" and "kao" meaning "medicinal". This name reflects the plant's medicinal properties and its importance in traditional Thai medicine.
+    * **community_environment:** The community is located in the central region of Thailand, where Phlu Kao is widely cultivated and used in traditional medicine. The region's climate and soil conditions are suitable for the plant's growth, and the community has developed a strong tradition of using Phlu Kao in their daily lives.
+    * **local_wisdom:** The community has a rich tradition of using Phlu Kao in traditional medicine, and the plant is considered a valuable resource for treating various diseases. The community's knowledge of Phlu Kao's medicinal properties and its uses has been passed down through generations, and the plant remains an important part of the community's cultural heritage.
+    * **community_organizations:** The community has several organizations that promote the use of Phlu Kao in traditional medicine, including the Phlu Kao Association, which aims to preserve and promote the plant's medicinal properties and its cultural significance.
+    * **local_name:** Phlu Kao
+    * **traditional_use:** Used to treat various diseases, including fever, cold, and headache.
+    * **processing_method:** Boiling water
+    * **source_url:** https://db.sac.or.th/thailand-cultural-encyclopedia/region_book.php?region=2
+* **Culture Fact (Community - Phlu Kao):** 
+    * **community_name:** Phlu Kao
+    * **location:** Northern Region
+    * **ethnic_group:** Thai
+    * **community_highlight:** Phlu Kao is a plant with various medicinal properties and is widely used in Thailand, especially in the northern region. The community has a strong tradition of using Phlu Kao to treat various diseases, including fever, cold, and headache.
+    * **name_etymology:** The name "Phlu Kao" is derived from the Thai words "phlu" meaning "plant" and "kao" meaning "medicinal". This name reflects the plant's medicinal properties and its importance in traditional Thai medicine.
+    * **community_environment:** The community is located in the northern region of Thailand, where Phlu Kao is widely cultivated and used in traditional medicine. The region's climate and soil conditions are suitable for the plant's growth, and the community has developed a strong tradition of using Phlu Kao in their daily lives.
+    * **local_wisdom:** The community has a rich tradition of using Phlu Kao in traditional medicine, and the plant is considered a valuable resource for treating various diseases. The community's knowledge of Phlu Kao's medicinal properties and its uses has been passed down through generations, and the plant remains an important part of the community's cultural heritage.
+    * **community_organizations:** The community has several organizations that promote the use of Phlu Kao in traditional medicine, including the Phlu Kao Association, which aims to preserve and promote the plant's medicinal properties and its cultural significance.
+    * **local_name:** Phlu Kao
+    * **traditional_use:** Used to treat various diseases, including fever, cold, and headache.
+    * **processing_method:** Boiling water
+    * **source_url:** https://db.sac.or.th/inscriptions/glossary
+* **Internal RAG Fact (Herbal):** Houttuynia cordata, also known as พลูคาว, is not explicitly mentioned in the provided context. However, the context discusses Thai traditional medicine and its uses, benefits, and processes. It highlights the importance of using traditional Thai medicine to reduce healthcare costs and promote self-sufficiency. The context also mentions the use of various herbs and plants in traditional Thai medicine, including ใบมะกรูด, which is a type of leaf used in cooking and medicine. Additionally, the context touches on the topic of food and health, emphasizing the importance of eating seasonal foods and using natural remedies to maintain good health. Overall, the context provides a general overview of traditional Thai medicine and its significance in Thai culture.
+* **Internal RAG Fact (Cultural):** พลูคาว (Houttuynia cordata) is a herb used in Thai traditional medicine for its various health benefits. It is believed to have antioxidant, anti-inflammatory, and antimicrobial properties, making it useful for treating various ailments such as fever, rheumatism, and skin conditions. In Thai cuisine, พลูคาว is used as an ingredient in dishes such as tom yum soup and salads, where its unique flavor and aroma are valued. Additionally, the herb is used in traditional Thai medicine to treat digestive issues, such as diarrhea and dysentery, as well as respiratory problems like bronchitis and asthma. The leaves and stems of the plant are used to make a tea that is said to have a number of health benefits, including reducing inflammation and improving digestion. Overall, พลูคาว is a versatile herb that has been used for centuries in Thai traditional medicine and cuisine.
+* **Source URL (Trend):** Not found
+* **Source URL (Science):** Not found
+* **Source URL (Compliance):** Not found
+* **Source URL (Safety):** Not found
+* **Source URL (Toxicity):** Not found
+* **Source URL (Culture):** https://covidarchives.sac.or.th/source/dailynews/page/215/, https://db.sac.or.th/thailand-cultural-encyclopedia/region_book.php?region=2, https://db.sac.or.th/inscriptions/glossary

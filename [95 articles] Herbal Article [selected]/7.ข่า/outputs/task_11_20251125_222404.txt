@@ -1,0 +1,87 @@
+# ===MASTER_FACT_SHEET=== 
+## Consolidated Facts for: Alpinia galanga
+* **Trend Fact:** Galangal is a spice native to Southern Asia, closely related to ginger and turmeric. It has been used in Ayurvedic and traditional Chinese medicine for centuries to treat various ailments, including infections, inflammation, and cancer. Galangal root is rich in antioxidants and may boost male fertility, reduce inflammation and pain, and protect against infections and certain types of cancer.
+* **Trend Fact:** Galangal root is a spice closely related to ginger and turmeric, and a popularly employed remedy in Ayurvedic and traditional Chinese medicine. It can add flavor, antioxidants, and anti-inflammatory compounds to dishes and may provide a slew of health benefits, including boosting male fertility and protecting against infections and potentially even certain forms of cancer.
+* **Trend Fact:** Galangal root is a rich source of antioxidants, which are beneficial plant compounds that help fight disease and protect cells from damaging free radicals. It may also protect against certain cancers, boost male fertility, and reduce inflammation and pain. Galangal root is likely safe when consumed in the amounts typically found in foods, but there's limited information regarding a safe dosage or potential side effects of consuming it in larger amounts.
+* **Lab Fact (Experimental Method):** Not found
+* **Lab Fact (Extraction Method):** Not found
+* **Lab Fact (Compound Identified):** Not found
+* **Lab Fact (Chromatography - TLC):** Not found
+* **Lab Fact (Pharmacological Finding):** Not found
+* **Lab Fact (Cosmetic or Clinical Effect):** Not found
+* **Lab Fact (Quality Control):** Not found
+* **Science Fact (Herb):** Alpinia galanga
+* **Science Fact (Compound):** Not found
+* **Science Fact (Abstracts):**
+  * **Study 1:**
+    * **abstract_raw:** This study evaluated the cardioprotective effects of Alpinia galanga rhizome extract (GRE) against noise-induced myocardial injury via phytochemical profiling, molecular docking, and in vivo assessment. Male Wistar rats (n = 6/group) were assigned to the following four groups: control (C), control + GRE (100 mg/kg), noise-exposed (N), and noise-exposed + GRE (N+GRE, 100 mg/kg). Rats in the N and N+GRE groups were exposed to 90 dB(A) white noise for 2 h/day for 28 days, with GRE administered orally throughout the exposure period. Phytochemical analysis confirmed the presence of flavonoids and phenolic acids with known antioxidant and anti-inflammatory activities. In vitro, GRE significantly reduced nitric oxide production in lipopolysaccharide-stimulated RAW264.7 macrophages. In vivo, noise exposure elevated cardiac malondialdehyde levels, impaired antioxidant enzyme activity, and increased circulating tumor necrosis factor-alpha (TNF-alpha) and heme oxygenase-1 (HO-1) levels. GRE treatment restored redox balance, suppressed proinflammatory mediator levels, and improved histopathological alterations. Molecular docking analysis indicated strong binding of GRE phytoconstituents to HO-1 and TNF-alpha, supporting the observed in vivo effects. These findings demonstrate that GRE mitigates noise-induced cardiac injury through its antioxidant and anti-inflammatory properties, highlighting its therapeutic potential.
+    * **citation_apa:** Not found
+  * **Study 2:**
+    * **abstract_raw:** Plant essential oils (EOs) are gaining importance as eco-friendly alternatives to synthetic pesticides. This study evaluated chemical composition, nematicidal, and phytotoxic potential of EOs extracted from distinct parts (rhizome, leaves, fruits, and flowers) of Alpinia malaccensis. Gas chromatography-mass spectrometry (GC-MS) analysis revealed that monoterpenes dominated EOs, with key compounds alpha-terpinolene, camphene, and p-cymene. Nematicidal activity of EOs was evaluated against Meloidogyne incognita via mortality and egg hatchability bioassays. The fruit and flower EOs exhibited the highest nematicidal activity, with LC(50) and IC(50) values of 0.96 and 0.07 microL/mL at 96 h, respectively. In phytotoxicity bioassay against wild radish (Raphanus raphanistrum) and chicory (Cichorium intybus), all EOs exhibited concentration-dependent inhibitory effects. Against radish seeds, phytotoxic impact of EOs was moderate. However, it was higher against radish seeds, where flower EO showed seed germination inhibition ranging from 90% to 100% and seedling growth inhibition from 94.14% to 100% at 1.00 microL/mL concentration. Molecular docking studies of selected EO constituents with five nematode target proteins identified 1-naphthalenol and cis-calamenene as the most promising candidates, exhibiting strong binding affinities. These findings highlight potential of A. malaccensis EOs as natural nematicidal and phytotoxic agents, providing valuable insights for sustainable pest and weed management strategies.
+    * **citation_apa:** Not found
+  * **Study 3:**
+    * **abstract_raw:** Alpinia officinarum Hance, a medicinal and edible plant in the Zingiberaceae family, has applications in pharmaceuticals, food, nutraceuticals, spices, cosmetics, and fruit and vegetable preservation. However, the molecular mechanisms governing the biosynthesis of flavonoids, the primary bioactive compounds in A. officinarum, remain unclear. This study provided the first chromosome-grade genome assembly of A. officinarum, revealing it to be a triploid species with a 2.10-Gb haploid genome. Using integrated transcriptomic and metabolomic analysis, 107 flavonoid compounds selectively accumulated in the rhizome and prospective rhizome-specific flavonoid genes were identified. Gene-metabolite correlation analysis and weighted gene co-expression network analysis suggested that AobHLH94 was imperative to flavonoid biosynthesis regulation in the rhizome. Functional assays confirmed that AobHLH94 was a key regulator in the flavonoid biosynthesis pathway in A. officinarum and enhanced flavonoid accumulation in rice (Oryza sativa). We also discovered that AobHLH94 bound to the e-box elements (-CANNTG-) in the promoters of AoC4H and AoCHI genes, thereby upregulating their expression levels and enhancing flavonoid synthesis. Simultaneously, AobHLH94 indirectly modulated AoCHS. Our research explains the regulatory processes behind rhizome-specific flavonoid accumulation and provides relevant information for future A. officinarum improvement and breeding efforts.
+    * **citation_apa:** Not found
+* **Compliance Fact (Food Registration 1):** registration_number=10-1-00146-1-0008, product_name=ข้าวโพดหวานต้ม, company_name=บริษัท อิออน (ไทยแลนด์) จำกัด สาขาประชาอุทิศ, status=ผู้ประกอบการแจ้งยกเลิกใบอนุญาต 19/8/2568
+* **Compliance Fact (Food Registration 2):** registration_number=10-1-00146-1-0010, product_name=ข้าวไก่ทอด, company_name=บริษัท อิออน (ไทยแลนด์) จำกัด สาขาประชาอุทิศ, status=ผู้ประกอบการแจ้งยกเลิกใบอนุญาต 19/8/2568
+* **Compliance Fact (Food Registration 3):** registration_number=10-1-00146-1-0011, product_name=ข้าวคลุกกะปิ, company_name=บริษัท อิออน (ไทยแลนด์) จำกัด สาขาประชาอุทิศ, status=ผู้ประกอบการแจ้งยกเลิกใบอนุญาต 19/8/2568
+* **Compliance Fact (Food Registration 4):** registration_number=10-1-00146-1-0012, product_name=ข้าวหมูทอด, company_name=บริษัท อิออน (ไทยแลนด์) จำกัด สาขาประชาอุทิศ, status=ผู้ประกอบการแจ้งยกเลิกใบอนุญาต 19/8/2568
+* **Compliance Fact (Food Registration 5):** registration_number=10-1-00146-1-0013, product_name=ข้าวผัดไส้กรอก, company_name=บริษัท อิออน (ไทยแลนด์) จำกัด สาขาประชาอุทิศ, status=ผู้ประกอบการแจ้งยกเลิกใบอนุญาต 19/8/2568
+* **Compliance Fact (Safety Dosage):** Not found
+* **Compliance Fact (Safety Warning):** Not found
+* **Safety Fact (Active Ingredient):** Titanium Dioxide, Zinc Oxide
+* **Safety Fact (Ingredient Purpose):** Sunscreen
+* **Safety Fact (Uses):** Helps prevent sunburn. If used as directed with other sun protection measures (see ), decreases the risk of skin cancer and early skin aging caused by the sun.
+* **Safety Fact (Warnings):** Do not use on damaged or broken skin. When using this product Keep out of eyes. Rinse with water to remove. Stop use and ask a doctor if rash occurs. Keep out of reach of children. If product is swallowed, get medical help or contact a Poison Control Center right away.
+* **Safety Fact (Directions):** Apply liberally and evenly 15 minutes before sun exposure. Reapply at least every 2 hours. Use a water-resistant sunscreen if swimming or sweating.
+* **Safety Fact (Other Info):** Protect the product in this container from excessive heat and direct sun.
+* **Safety Fact (Inactive Ingredients):** 1,2-Hexanediol, Acrylates/Ammonium Methacrylate Copolymer, Allantoin, Aloe Barbadensis Leaf Juice, Alpinia Galanga Extract, Alumina, Benzyl Benzoate, Benzyl Salicylate, Biotin, Boron Nitridem, Butylene Glycol, C12-15 Alkyl Benzoate, Calendula Officinalis Flower Extract, Camellia Oleifera Leaf Extract, Caprylyl Glycol, Caprylyl Methicone, Cellulose Acetate, Cetyl Alcohol, Chamomilla Recutita (Matricaria) Flower Extract, Chlorphenesin, Citral, Citric Acid Cucumis Sativus (Cucumber) Fruit Extract, Cyclomethicone, Cyclophentasiloxane, Dimethicone , Disodium EDTA, Ethylhexyl Palmitate, Euterpe Oleracea Fruit Extract, Fragrance, Glycerin, Glyceryl Caprylate, Glyceryl Stearate, Hexyl Cinnamal, Hydrolyzed Yeast Protein, Hydroxyethyl Acylate/Sodium Acryloyldimethyl Taurate Copolymer, Iron Oxide (CI 77491), Iron Oxide (CI 77492), Iron Oxide (CI 77499), Lauryl Peg-9 Polydimethylsiloxyethyl Dimethicone, Lilial, Limonene, Niacinamide, Panthenol, PEG-100 Stearate, Pentylene Glycol, Polyhydroxystearic Acid, Polysorbate 60, Propanediol, Propylene Glycol Stearate, Propylene Glycol, Pyridoxine HCl, Sodium Citrate, Sodium Hyaluronate, Sodium PCA, Thermus Thermophilus Ferment, Triethoxycaprylylsilane, Triethoxysilylethyl Polydimethylsiloxyethyl Dimethicone, Water, Xanthan Gum
+* **Safety Fact (Questions):** Call 1.800.932.9873
+* **Toxicity Fact (Summary):** Not found
+* **Toxicity Fact (Mechanism):** Not found
+* **Toxicity Fact (Side Effects):** Not found
+* **Toxicity Fact (Case Reports):** Not found
+* **Culture Fact (Community - Bru):** Bru
+* **Culture Fact (Location - Bru):** Nong Khai Province
+* **Culture Fact (Ethnic Group - Bru):** Bru
+* **Culture Fact (Community Highlight - Bru):** The Bru community is known for their expertise in handicrafts and basketry. They have a strong tradition of making rice or rotational farming, and also engage in fishing and trading with neighboring communities.
+* **Culture Fact (Name Etymology - Bru):** The name "Bru" is used by the ethnic group to refer to themselves.
+* **Culture Fact (Environment - Bru):** The Bru community has adapted to the local ecosystem by engaging in fishing and trading with neighboring communities.
+* **Culture Fact (Local Wisdom - Bru):** The Bru community has a strong tradition of making rice or rotational farming, and also engage in fishing and trading with neighboring communities.
+* **Culture Fact (Organization - Bru):** No herbal-related information found
+* **Culture Fact (Local Name - Bru):** Bru
+* **Culture Fact (Use - Bru):** Rice or rotational farming
+* **Culture Fact (Processing - Bru):** Basketry
+* **Culture Fact (Source - Bru):** https://ethnicity.sac.or.th/database-ethnic/185/
+* **Culture Fact (Community - Akha):** Akha
+* **Culture Fact (Location - Akha):** Chiang Rai Province
+* **Culture Fact (Ethnic Group - Akha):** Akha
+* **Culture Fact (Community Highlight - Akha):** The Akha community has a strong tradition of agriculture and has migrated from Tibet to various parts of Southeast Asia.
+* **Culture Fact (Name Etymology - Akha):** The name "Akha" is used by the ethnic group to refer to themselves.
+* **Culture Fact (Environment - Akha):** The Akha community has adapted to the local ecosystem by engaging in agriculture and trading with neighboring communities.
+* **Culture Fact (Local Wisdom - Akha):** The Akha community has a strong tradition of agriculture and has migrated from Tibet to various parts of Southeast Asia.
+* **Culture Fact (Organization - Akha):** No herbal-related information found
+* **Culture Fact (Local Name - Akha):** Akha
+* **Culture Fact (Use - Akha):** Agriculture
+* **Culture Fact (Processing - Akha):** Basketry
+* **Culture Fact (Source - Akha):** https://ethnicity.sac.or.th/database-ethnic/211/
+* **Culture Fact (Community - Kha):** Kha
+* **Culture Fact (Location - Kha):** Nong Khai Province
+* **Culture Fact (Ethnic Group - Kha):** Kha
+* **Culture Fact (Community Highlight - Kha):** The Kha community is known for their expertise in handicrafts and basketry. They have a strong tradition of making rice or rotational farming, and also engage in fishing and trading with neighboring communities.
+* **Culture Fact (Name Etymology - Kha):** The name "Kha" is used by the ethnic group to refer to themselves.
+* **Culture Fact (Environment - Kha):** The Kha community has adapted to the local ecosystem by engaging in fishing and trading with neighboring communities.
+* **Culture Fact (Local Wisdom - Kha):** The Kha community has a strong tradition of making rice or rotational farming, and also engage in fishing and trading with neighboring communities.
+* **Culture Fact (Organization - Kha):** No herbal-related information found
+* **Culture Fact (Local Name - Kha):** Kha
+* **Culture Fact (Use - Kha):** Rice or rotational farming
+* **Culture Fact (Processing - Kha):** Basketry
+* **Culture Fact (Source - Kha):** https://db.sac.or.th/clipping/th/news?keyword=%E0%B8%A7%E0%B8%B1%E0%B8%94%E0%B8%9E%E0%B8%A3%E0%B8%B0%E0%B8%98%E0%B8%A3%E0%B8%A3%E0%B8%A1%E0%B8%81%E0%B8%B2%E0%B8%A2
+* **Internal RAG Fact (Herbal):** ข่า (Alpinia galanga) is a type of herb used in traditional Thai medicine. According to the context, ข่า is used to treat various health issues, including digestive problems and fever. The herb is also used in cooking and is believed to have health benefits when consumed as part of a balanced diet. In traditional Thai medicine, ข่า is used in combination with other herbs to treat various ailments, including fever and digestive issues. The context also mentions that ข่า is used in traditional Thai recipes, such as "คั่วบานะบายข้าวกิน" which is a dish made with ข่า, pork, and other ingredients.
+* **Internal RAG Fact (Cultural):** Alpinia galanga, also known as ข่า in Thai, has been used for healing in Thai wisdom for a long time. It is a type of herb that is commonly used in Thai cuisine and traditional medicine. According to the provided context, Alpinia galanga has been used to make a type of chili paste called "น้ำพริก" which is a condiment in Thai cuisine. It is also used as a medicine to treat various ailments. The context also mentions that Alpinia galanga is a type of "ธาตุเจ้าเรือน" which refers to a type of herb that is believed to have healing properties. Additionally, the context provides information on how to prepare and consume Alpinia galanga, including the use of various ingredients such as "ดอกเก็กฮวย" and "เกสรบัวหลวง". Overall, Alpinia galanga is a significant herb in Thai culture and traditional medicine, and its uses and benefits are well-documented in the provided context.
+* **Source URL (Trend):** https://healthyfocus.org/health-benefits-of-galangal/, https://draxe.com/nutrition/galangal/, https://www.healthline.com/nutrition/galangal-root
+* **Source URL (Science):** https://pubmed.ncbi.nlm.nih.gov/41246931/, https://pubmed.ncbi.nlm.nih.gov/41212904/, https://pubmed.ncbi.nlm.nih.gov/41185059/
+* **Source URL (Compliance):** https://www.fda.moph.go.th/
+* **Source URL (Safety):** https://dailymed.nlm.nih.gov/dailymed/fda/fdaDrugXsl.cfm?setid=45ec77c5-5ec4-0e51-e054-00144ff8d46c&type=display
+* **Source URL (Toxicity):** Not found
+* **Source URL (Culture):** https://ethnicity.sac.or.th/database-ethnic/185/, https://ethnicity.sac.or.th/database-ethnic/211/, https://db.sac.or.th/clipping/th/news?keyword=%E0%B8%A7%E0%B8%B1%E0%B8%94%E0%B8%9E%E0%B8%A3%E0%B8%B0%E0%B8%98%E0%B8%A3%E0%B8%A3%E0%B8%A1%E0%B8%81%E0%B8%B2%E0%B8%A2

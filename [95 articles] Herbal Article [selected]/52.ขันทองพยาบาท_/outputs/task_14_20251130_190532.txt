@@ -1,0 +1,10 @@
+# ===AUDIT_DATA_INTEGRITY_REPORT===
+*   **Collaboration Robustness (Data Loss):** 90.63%
+*   **Explanation Clarity (Hallucination/Handling):** 100%
+*   **Dropped Entities (Facts in Fact Sheet but not Article):**
+    *   Safety Fact (Inactive Ingredients): WATER, SODIUM CHLORIDE
+    *   Culture Fact (Ethnic Group - Takhian Thong Community): Chong People
+    *   Culture Fact (Organization - Takhian Thong Community): The community has a strong sense of social organization, with various groups and associations working together to promote cultural preservation and community development.
+*   **Hallucinated Entities (Facts in Article but not Fact Sheet):**
+    *   None
+*   **Feedback:** The Final Article demonstrates strong adherence to the Master Fact Sheet, accurately transferring the majority of critical facts and correctly handling all "Not found" and "None found" entries. Specifically, the article's treatment of `citation_apa: not_found` by explicitly stating "Not found" in the references section is a perfect example of correct handling. No instances of factual hallucination were detected. However, three distinct facts were omitted from the article, leading to a minor data loss and a robustness score of 90.63%. These dropped facts include the specific inactive ingredients, the ethnic group associated with the Takhian Thong Community, and details about the community's social organization. Addressing these minor omissions would result in a perfect robustness score.

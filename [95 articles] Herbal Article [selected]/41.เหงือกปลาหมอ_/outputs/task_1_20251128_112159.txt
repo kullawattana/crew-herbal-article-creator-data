@@ -1,0 +1,22 @@
+# ===TRENDS_DATA===
+## Wellness Trends for: Sea Holly
+### Finding 1
+* **herb_name:** Sea Holly
+* **wellness_context_summary:** Sea Holly, also known as Acanthus species, is a prominent herb in traditional Thai medicine. It is used to treat diseases and heal wounds, and is also used in Asian recipes to improve the life quality of cancer patients and cure skin conditions such as wound healing.
+* **source_url:** https://www.news-medical.net/news/20240124/Could-this-traditional-Thai-medicine-have-wound-healing-abilities.aspx
+### Finding 2
+* **herb_name:** Sea Holly
+* **wellness_context_summary:** Sargassum species, commonly known as gulf-weed or sea holly, have been found to have therapeutic potential and health benefits. Studies have shown that Sargassum species have antioxidant, anti-inflammatory, and antimicrobial properties, making them a potential treatment for various diseases.
+* **source_url:** https://pmc.ncbi.nlm.nih.gov/articles/PMC3931196/
+### Finding 3
+* **herb_name:** Sea Holly
+* **wellness_context_summary:** Eryngium Planum, commonly called Sea Holly, is a hardy and drought-tolerant shrub that thrives in poor soil. It is used in traditional medicine to treat various health conditions, including wound healing and skin conditions.
+* **source_url:** https://samaritan.com/3-Bare-Roots-Longfield-Gardens-407924/
+### Finding 4
+* **herb_name:** Sea Holly
+* **wellness_context_summary:** Sea Holly is one of the herbal ingredients listed on the company's website for Tapee Tea, which has been warned by the FDA for potential health risks. The tea's herbal ingredients, including wolfberry, sea holly, java tea, and cat's whiskers, may interact with certain medications or have adverse effects in certain individuals.
+* **source_url:** https://www.consumerlab.com/recalls/14782/fda-warns-consumers-not-to-use-tapee-tea/
+### Finding 5
+* **herb_name:** Sea Holly
+* **wellness_context_summary:** Sea Holly is mentioned as one of the flowering shrubs that thrive in full sun, according to Gardenia. It is a fragrant summer border plant that can be used in gardening.
+* **source_url:** https://www.gardenia.net/guide/flowering-shrubs-that-thrive-in-full-sun

@@ -1,0 +1,22 @@
+# ===RESEARCH_DATA===
+## Scientific Evidence for: Acacia concinna
+* **herb_name:** Acacia concinna
+* **herb_name_scientific:** Acacia concinna
+### Validated Compounds
+* **Compound 1:**
+    * **compound_name:** Iron oxide nanoparticles
+    * **mechanism_name:** Antimicrobial
+    * **supporting_studies:**
+        * **Study 1:** (Data from the first item in studies_data)
+            * **study_type:** Journal Article
+            * **abstract_raw:** In the present study, magnetic iron oxide nanoparticles (IONPs) were successfully synthesized using Acacia concinna pod extract as a natural bio-reducer and stabilizing agent. Field Emission Scanning Electron Microscopy revealed a heterogeneous morphology comprising both spherical and rod-shaped nanoparticles. The spherical particles exhibited an average diameter of 100-200 nm, while the rod-shaped particles demonstrated an aspect ratio of 2.49. Vibrating Sample Magnetometry analysis indicated a saturation magnetization of 54.284 emu/g, and Brunauer-Emmett-Teller analysis determined a specific surface area of 59.851 m^2/g. The presence of diverse biomolecules in the A. concinna extract was confirmed using various analytical techniques. Among them, pentadecanoic acid was found to play a crucial role in the synthesis mechanism of IONPs. Furthermore, X-ray Photoelectron Spectroscopy analysis showed Fe 2p3/2 and Fe 2p1/2 binding energies at 708.2 eV and 721.85 eV, respectively, validating the formation of Fe2O3. The synthesized IONPs exhibited no antimicrobial activity against several tested bacteria, including Staphylococcus aureus, Bacillus subtilis, Escherichia coli, Pseudomonas aeruginosa, as well as fungi, such as Penicillium spp., Aspergillus flavus, Fusarium oxysporum, and Rhizoctonia solani. Biocompatibility studies on the L929 normal fibroblast cell line revealed that the synthesized IONPs did not exhibit cytotoxicity, further supporting their potential as a biocompatible material. This makes them potential candidate for use in drug delivery systems as well as in various therapeutic and diagnostic applications.
+            * **key_findings:** The study successfully synthesized iron oxide nanoparticles using Acacia concinna pod extract and characterized their morphology, magnetic properties, and biocompatibility. The nanoparticles showed no antimicrobial activity but were found to be biocompatible.
+            * **pmid:** 41113921
+            * **canonical_url:** https://doi.org/10.1007/s13205-025-04571-4
+            * **citation_apa:** Yadwade, R., Babu, P., & Ankamwar, B. (2025). Biosynthesis of iron oxide nanoparticles and their antimicrobial and biocompatibility studies: a sustainable approach. 3 Biotech, 15(11), 394. https://doi.org/10.1007/s13205-025-04571-4
+        * **Study 2:** (Data from the second item...)
+            * ...
+        * (Up to 3 studies)
+
+### Overall Summary
+* **summary:** The studies suggest that Acacia concinna can be used to synthesize iron oxide nanoparticles with potential applications in drug delivery systems and therapeutic and diagnostic applications. However, the nanoparticles showed no antimicrobial activity.

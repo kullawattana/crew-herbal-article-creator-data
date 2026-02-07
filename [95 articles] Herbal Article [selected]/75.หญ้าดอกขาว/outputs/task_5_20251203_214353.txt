@@ -1,0 +1,101 @@
+# ===SAFETY_DATA===
+## International Safety Data for: Vernonia cinerea
+* **herb_name:** Vernonia cinerea
+* **source_browsed:** https://dailymed.nlm.nih.gov/dailymed/fda/fdaDrugXsl.cfm?setid=bb505479-8fab-427d-a705-afeca9d7108d
+
+### Drug Facts Label
+* **active_ingredients:**
+    * **Ingredient 1:**
+        * **name:** Borax
+        * **strength:** 6X
+        * **purpose:** Not found
+    * **Ingredient 2:**
+        * **name:** Bryonia (Alba)
+        * **strength:** 6X
+        * **purpose:** Not found
+    * **Ingredient 3:**
+        * **name:** Echinacea Purpurea
+        * **strength:** 6X
+        * **purpose:** Not found
+    * **Ingredient 4:**
+        * **name:** Juglans Cinerea
+        * **strength:** 6X
+        * **purpose:** Not found
+    * **Ingredient 5:**
+        * **name:** Kali Muriaticum
+        * **strength:** 6X
+        * **purpose:** Not found
+    * **Ingredient 6:**
+        * **name:** Magnesia Muriatica
+        * **strength:** 6X
+        * **purpose:** Not found
+    * **Ingredient 7:**
+        * **name:** Muriaticum Acidum
+        * **strength:** 6X
+        * **purpose:** Not found
+    * **Ingredient 8:**
+        * **name:** Discus Intervertebralis Suis
+        * **strength:** 8X, 12X, 18X, 24X, 30X
+        * **purpose:** Not found
+    * **Ingredient 9:**
+        * **name:** Oral Mucosa (Suis)
+        * **strength:** 8X, 12X, 18X, 24X, 30X
+        * **purpose:** Not found
+    * **Ingredient 10:**
+        * **name:** Antimonium Crudum
+        * **strength:** 12X
+        * **purpose:** Not found
+    * **Ingredient 11:**
+        * **name:** Arsenicum Album
+        * **strength:** 12X
+        * **purpose:** Not found
+    * **Ingredient 12:**
+        * **name:** Bismuthum Subnitricum
+        * **strength:** 12X
+        * **purpose:** Not found
+    * **Ingredient 13:**
+        * **name:** Chamomilla
+        * **strength:** 12X
+        * **purpose:** Not found
+    * **Ingredient 14:**
+        * **name:** Cinchona Officinalis
+        * **strength:** 12X
+        * **purpose:** Not found
+    * **Ingredient 15:**
+        * **name:** Nux Moschata
+        * **strength:** 12X
+        * **purpose:** Not found
+    * **Ingredient 16:**
+        * **name:** Sambucus Nigra
+        * **strength:** 12X
+        * **purpose:** Not found
+    * **Ingredient 17:**
+        * **name:** Sepia
+        * **strength:** 12X
+        * **purpose:** Not found
+    * **Ingredient 18:**
+        * **name:** Mercurius Solubilis
+        * **strength:** 12X, 18X, 24X, 30X
+        * **purpose:** Not found
+    * **Ingredient 19:**
+        * **name:** Calcarea Phosphorica
+        * **strength:** 12X, 18X, 30X
+        * **purpose:** Not found
+    * **Ingredient 20:**
+        * **name:** Ignatia Amara
+        * **strength:** 12X, 30X
+        * **purpose:** Not found
+    * **Ingredient 21:**
+        * **name:** Oxygenium
+        * **strength:** 16X
+        * **purpose:** Not found
+    * **Ingredient 22:**
+        * **name:** Candida Albicans
+        * **strength:** 16X, 18X, 24X, 30X
+        * **purpose:** Not found
+* **uses:** For temporary relief of symptoms related to oral health, such as cavitation, delayed dentition, dry mouth, painful eating, eruptions on the tongue and inner cheeks and tooth sensitivity.
+* **warnings:** Keep out of reach of children. In case of overdose, Contact physician or Poison Control Center right away. If pregnant or breast-feeding, seek advice of a health professional before use. Tamper seal: "Sealed for Your Protection." Do not use if seal is broken or missing.
+* **directions:** 1-10 drops under the tongue, 3 times a day or as directed by a health professional. Consult a physician for use in children under 12 years of age.
+* **other_information:** Disclaimer: This homeopathic product has not been evaluated by the Food and Drug Administration for safety or efficacy. FDA is not aware of scientific evidence to support homeopathy as effective.
+* **inactive_ingredients:** Demineralized Water, 25% Ethanol.
+* **questions:** Dist. By: Deseret Biologicals, Inc. 469 W. Parkland Drive Sandy, UT 84070 www.desbio.com

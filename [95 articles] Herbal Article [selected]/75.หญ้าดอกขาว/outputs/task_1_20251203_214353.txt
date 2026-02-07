@@ -1,0 +1,9 @@
+# ===TRENDS_DATA===
+### Finding 1
+* **herb_name:** Little Ironweed
+* **wellness_context_summary:** Little ironweed is listed as an ingredient that can be used to support health conditions such as anemia, bleeding (external), and abdominal pain.
+* **source_url:** https://caringsunshine.com/relationships/relationship-anemia-and-leucovorin/, https://caringsunshine.com/relationships/relationship-bleeding-external-and-vitamin-k-menadione/, https://caringsunshine.com/relationships/relationship-abdominal-pain-and-stinging-nettle/
+### Finding 2
+* **herb_name:** Little Ironweed
+* **wellness_context_summary:** Naturista Kohila Root Powder is a herbal powder that can be used to cure hemorrhoids and constipation. It is also beneficial for stomach fullness, anorexia, stomach ulcers, and diseases in the stomach. The powder can be consumed as a drink or porridge. It is recommended to drink at least 6-8 glasses of water a day and to avoid alcohol, drugs, and smoking. A well-ventilated perforated seat should also be used. The powder can be used to reduce fat absorption and control blood cholesterol. It is also beneficial for skin burns, tuberculosis, respiratory disorders, and pneumonia. The powder contains polyphenol and ascorbic acids which control blood pressure and heal wounds in internal tissues. At the beginning of the day, at least three days a week, drinking porridge (kola kenda) with kohila root and red kekulu rice, kohila root and Brahmi leaves, little ironweed, especially heen bovitiya.
+* **source_url:** https://www.naturistaceylon.com/product/naturista-kohila-root-powder/

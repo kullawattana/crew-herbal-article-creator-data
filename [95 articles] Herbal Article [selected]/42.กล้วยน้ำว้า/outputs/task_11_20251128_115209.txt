@@ -1,0 +1,99 @@
+# ===MASTER_FACT_SHEET=== 
+## Consolidated Facts for: Musa paradisiaca
+* **Trend Fact:** Not found in the provided context.
+* **Lab Fact (Experimental Method):** Not found in the provided context.
+* **Lab Fact (Extraction Method):** Not found in the provided context.
+* **Lab Fact (Compound Identified):** Not found in the provided context.
+* **Lab Fact (Chromatography - TLC):** Not found in the provided context.
+* **Lab Fact (Pharmacological Finding):** Not found in the provided context.
+* **Lab Fact (Cosmetic or Clinical Effect):** Not found in the provided context.
+* **Lab Fact (Quality Control):** Not found in the provided context.
+* **Science Fact (Herb):** Musa paradisiaca
+* **Science Fact (Compound):** Not found in the provided context.
+* **Science Fact (Abstracts):**
+  * **Study 1:**
+    * **abstract_raw:** Unripe Musa paradisiaca fruit exhibited an adverse toxicological profile following prolonged administration and caused oxidative stress in rodents. The aqueous extract of unripe Musa paradisiaca fruit is commonly used for the treatment of ulcers in eastern Nigeria. This study aimed to assess the acute and subacute effects of an aqueous extract of unripe fruit on male and female fertility in rats.
+    * **citation_apa:** Not found in the provided context.
+  * **Study 2:** Not found in the provided context.
+  * **Study 3:** Not found in the provided context.
+  * **Study 4:** Not found in the provided context.
+  * **Study 5:** Not found in the provided context.
+* **Compliance Fact (Food Registration 1):** registration_number=10-1-01452-1-0001, product_name=กล้วยน้ำว้าอบ (ตรา บาบาเน่), company_name=บริษัท ควอลิตี้ มีท จำกัด, status=สถานะผลิตภัณฑ์(คงอยู่)\ สถานะสถานที่ (คงอยู่)
+* **Compliance Fact (Food Registration 2):** registration_number=10-1-01452-1-0002, product_name=กล้วยน้ำว้าอบ (ตรา เรือนไทย), company_name=บริษัท ควอลิตี้ มีท จำกัด, status=สถานะผลิตภัณฑ์(คงอยู่)\ สถานะสถานที่ (คงอยู่)
+* **Compliance Fact (Food Registration 3):** registration_number=10-1-01452-1-0015, product_name=กล้วยน้ำว้าอบ (ตราสุธีรา), company_name=บริษัท ควอลิตี้ มีท จำกัด, status=สถานะผลิตภัณฑ์(คงอยู่)\ สถานะสถานที่ (คงอยู่)
+* **Compliance Fact (Food Registration 4):** registration_number=10-1-01554-1-0022, product_name=ซุปฟักทอง,กล้วยน้ำว้า,เนื้อไก่ผสมไข่สำเร็จรูป (สูตร 2) / PUMPKIN,BANANA,CHICKEN AND EGG SOUP (FORMULA II), company_name=บริษัท สหภัณฑ์ เซ็นจูรี่ จำกัด, status=สถานะผลิตภัณฑ์(คงอยู่)\ สถานะสถานที่ (คงอยู่)
+* **Compliance Fact (Food Registration 5):** registration_number=10-1-01554-1-0039, product_name=ซุปเนื้อปลา, กล้วยน้ำว้า, ไข่ไก่, ฟักทอง, งา สำเร็จรูป / FISH, BANANA, EGG, PUMPKIN AND SESAME SOUP, company_name=บริษัท สหภัณฑ์ เซ็นจูรี่ จำกัด, status=สถานะผลิตภัณฑ์(คงอยู่)\ สถานะสถานที่ (คงอยู่)
+* **Compliance Fact (Safety Dosage):** Not found in the provided context.
+* **Compliance Fact (Safety Warning):** Not found in the provided context.
+* **Safety Fact (Active Ingredient):** 
+    * **Ingredient 1:** Calc Fluor, strength=12X HPUS, purpose=deficient teeth enamel; tooth ache; teeth become loose
+    * **Ingredient 2:** Calc Phos, strength=12X HPUS, purpose=rapid decay of teeth
+    * **Ingredient 3:** Kali Phos, strength=6X HPUS, purpose=offensive oder from mouth; gums bleed easily
+    * **Ingredient 4:** Malus pumila, flos (Crab Apple), strength=5X HPUS, purpose=feeling unclean inside and out
+    * **Ingredient 5:** Nat Sulph, strength=6X HPUS, purpose=salivates after meals; dryness with redness of gums
+    * **Ingredient 6:** Rock Water, strength=5X HPUS, purpose=strong desire for self-perfection
+    * **Ingredient 7:** Silicea, strength=12X HPUS, purpose=bad breath in morning
+    * **Ingredient 8:** Ulex europaeus, flos (Gorse), strength=5X HPUS, purpose=stagnation has taken hold
+* **Safety Fact (Ingredient Purpose):** 
+    * **Ingredient 1:** Calc Fluor, purpose=deficient teeth enamel; tooth ache; teeth become loose
+    * **Ingredient 2:** Calc Phos, purpose=rapid decay of teeth
+    * **Ingredient 3:** Kali Phos, purpose=offensive oder from mouth; gums bleed easily
+    * **Ingredient 4:** Malus pumila, flos (Crab Apple), purpose=feeling unclean inside and out
+    * **Ingredient 5:** Nat Sulph, purpose=salivates after meals; dryness with redness of gums
+    * **Ingredient 6:** Rock Water, purpose=strong desire for self-perfection
+    * **Ingredient 7:** Silicea, purpose=bad breath in morning
+    * **Ingredient 8:** Ulex europaeus, flos (Gorse), purpose=stagnation has taken hold
+* **Safety Fact (Uses):** temporarily relieves symptoms of tooth decay, toothache, bleeding gums, bad breath
+* **Safety Fact (Warnings):** Stop use and ask a veterinarian if symptoms persist or worsen. Keep out of reach of children.
+* **Safety Fact (Directions):** pets 31 lbs and heavier: 5 sprays in mouth twice per day 5 days per week. pets 30 lbs and lighter: 3 sprays in mouth twice per day 5 days per week. may be sprayed into pet's water bowl. may be applied externally to the top of pet's head.
+* **Safety Fact (Other Info):** do not use if plastic seal around cap is broken or missing. store in a cool, dry place.
+* **Safety Fact (Inactive Ingredients):** Banana*, Floss Flower*, Lemon*, Natural Flavor, Pineapple*, Purified and Structured Water, Snapdragon*, Venus Fly Trap*
+* **Safety Fact (Questions):** Call 800.570.0021 Between 9am-5pm PST info@siddhaflowers.com siddhaflowers.com
+* **Toxicity Fact (Summary):** Unripe Musa paradisiaca fruit exhibited an adverse toxicological profile following prolonged administration and caused oxidative stress in rodents.
+* **Toxicity Fact (Mechanism):** The extract (500 mg/kg) significantly (P < .05) enhanced sperm count and motility relative to the untreated control; significantly (P < .05) reduced SOD, CAT, and glutathione levels, while significantly (P < .05) elevated LH, FSH, and MDA levels in male and female rats. Histological examination revealed significant structural damage to the ovaries.
+* **Toxicity Fact (Side Effects):** The extract (500 mg/kg) significantly (P < .05) enhanced sperm count and motility relative to the untreated control; significantly (P < .05) reduced SOD, CAT, and glutathione levels, while significantly (P < .05) elevated LH, FSH, and MDA levels in male and female rats. Histological examination revealed significant structural damage to the ovaries.
+* **Toxicity Fact (Case Reports):** Unripe Musa paradisiaca fruit exhibited an adverse toxicological profile following prolonged administration and caused oxidative stress in rodents.
+* **Culture Fact (Community - Ban Thale Noi):** community_name=Ban Thale Noi
+* **Culture Fact (Location - Ban Thale Noi):** location=Rayong Province
+* **Culture Fact (Ethnic Group - Ban Thale Noi):** ethnic_group=Thai
+* **Culture Fact (Community Highlight - Ban Thale Noi):** community_highlight=Ban Thale Noi community is known for its unique environment, where the sea and freshwater mix, creating a special flavor for their bananas.
+* **Culture Fact (Name Etymology - Ban Thale Noi):** name_etymology=The name "Ban Thale Noi" comes from the fact that the community is located near the sea and has a small beach.
+* **Culture Fact (Environment - Ban Thale Noi):** community_environment=The community is situated near the sea and has a mix of freshwater and saltwater, creating a unique environment for their crops.
+* **Culture Fact (Local Wisdom - Ban Thale Noi):** local_wisdom=The community has developed a way to cultivate bananas in this unique environment, creating a special flavor.
+* **Culture Fact (Organization - Ban Thale Noi):** community_organizations=The community has a strong sense of unity and has developed a product called "gluey banana" which is a dried banana snack.
+* **Culture Fact (Local Name - Ban Thale Noi):** local_name=Gluey Banana, context_quote=Gluey banana is a type of banana that is cultivated in the Ban Thale Noi community. It has a special flavor due to the unique environment.
+* **Culture Fact (Use - Ban Thale Noi):** traditional_use=Fishing, context_quote=The community has a strong fishing tradition and has developed a way to cultivate bananas in this unique environment.
+* **Culture Fact (Processing - Ban Thale Noi):** processing_method=Making Gluey Banana, description_quote=The process of making gluey banana involves drying the bananas in the sun and then packaging them as a snack.
+* **Culture Fact (Source - Ban Thale Noi):** source_url=https://wikicommunity.sac.or.th/community/949
+* **Culture Fact (Community - Ban Thung Kae Joi):** community_name=Ban Thung Kae Joi
+* **Culture Fact (Location - Ban Thung Kae Joi):** location=Trang Province
+* **Culture Fact (Ethnic Group - Ban Thung Kae Joi):** ethnic_group=Thai
+* **Culture Fact (Community Highlight - Ban Thung Kae Joi):** community_highlight=Ban Thung Kae Joi community is known for its unique environment, where the forest and the sea meet. The community has developed a product called "sago" which is a type of starch extracted from the sago palm tree.
+* **Culture Fact (Name Etymology - Ban Thung Kae Joi):** name_etymology=The name "Ban Thung Kae Joi" comes from the fact that the community is located near the forest and the sea.
+* **Culture Fact (Environment - Ban Thung Kae Joi):** community_environment=The community is situated near the forest and the sea, creating a unique environment for their crops.
+* **Culture Fact (Local Wisdom - Ban Thung Kae Joi):** local_wisdom=The community has developed a way to extract starch from the sago palm tree, creating a product called "sago".
+* **Culture Fact (Organization - Ban Thung Kae Joi):** community_organizations=The community has a strong sense of unity and has developed a product called "sago" which is a type of starch extracted from the sago palm tree.
+* **Culture Fact (Local Name - Ban Thung Kae Joi):** local_name=Sago, context_quote=Sago is a type of starch extracted from the sago palm tree. It is a unique product of the Ban Thung Kae Joi community.
+* **Culture Fact (Use - Ban Thung Kae Joi):** traditional_use=Making Sago, context_quote=The community has developed a way to extract starch from the sago palm tree, creating a product called "sago".
+* **Culture Fact (Processing - Ban Thung Kae Joi):** processing_method=Extracting Sago, description_quote=The process of extracting sago involves cutting the sago palm tree and then extracting the starch from the trunk.
+* **Culture Fact (Source - Ban Thung Kae Joi):** source_url=https://wikicommunity.sac.or.th/community/562
+* **Culture Fact (Community - Ban Tha Lap):** community_name=Ban Tha Lap
+* **Culture Fact (Location - Ban Tha Lap):** location=Chai Nat Province
+* **Culture Fact (Ethnic Group - Ban Tha Lap):** ethnic_group=Thai
+* **Culture Fact (Community Highlight - Ban Tha Lap):** community_highlight=Ban Tha Lap community is known for its unique environment, where the river and the sea meet. The community has developed a product called "dried banana" which is a dried banana snack.
+* **Culture Fact (Name Etymology - Ban Tha Lap):** name_etymology=The name "Ban Tha Lap" comes from the fact that the community is located near the river and the sea.
+* **Culture Fact (Environment - Ban Tha Lap):** community_environment=The community is situated near the river and the sea, creating a unique environment for their crops.
+* **Culture Fact (Local Wisdom - Ban Tha Lap):** local_wisdom=The community has developed a way to cultivate bananas in this unique environment, creating a special flavor.
+* **Culture Fact (Organization - Ban Tha Lap):** community_organizations=The community has a strong sense of unity and has developed a product called "dried banana" which is a dried banana snack.
+* **Culture Fact (Local Name - Ban Tha Lap):** local_name=Dried Banana, context_quote=Dried banana is a type of snack that is made from bananas. It is a unique product of the Ban Tha Lap community.
+* **Culture Fact (Use - Ban Tha Lap):** traditional_use=Fishing, context_quote=The community has a strong fishing tradition and has developed a way to cultivate bananas in this unique environment.
+* **Culture Fact (Processing - Ban Tha Lap):** processing_method=Making Dried Banana, description_quote=The process of making dried banana involves drying the bananas in the sun and then packaging them as a snack.
+* **Culture Fact (Source - Ban Tha Lap):** source_url=https://wikicommunity.sac.or.th/community/529
+* **Internal RAG Fact (Herbal):** Musa paradisiaca, also known as กล้วยน้ำว้า, is not explicitly mentioned in the provided context. However, the context discusses Thai traditional medicine, its benefits, and the importance of using natural remedies.
+* **Internal RAG Fact (Cultural):** Musa paradisiaca, also known as กล้วยน้ำว้า, has been used for healing in Thai wisdom for a long time. It is believed to have various health benefits, including aiding in digestion and relieving symptoms of certain illnesses.
+* **Source URL (Trend):** Not found in the provided context.
+* **Source URL (Science):** https://pubmed.ncbi.nlm.nih.gov/38679583/
+* **Source URL (Compliance):** https://www.fda.moph.go.th/
+* **Source URL (Safety):** https://dailymed.nlm.nih.gov/dailymed/fda/fdaDrugXsl.cfm?setid=e35acb33-27de-4eaa-a530-036d2c727d35&type=display
+* **Source URL (Toxicity):** https://pubmed.ncbi.nlm.nih.gov/38679583/
+* **Source URL (Culture):** https://wikicommunity.sac.or.th/community/949, https://wikicommunity.sac.or.th/community/562, https://wikicommunity.sac.or.th/community/529

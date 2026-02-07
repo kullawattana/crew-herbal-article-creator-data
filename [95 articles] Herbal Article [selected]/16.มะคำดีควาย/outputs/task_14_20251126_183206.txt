@@ -1,0 +1,31 @@
+```markdown
+# ===AUDIT_DATA_INTEGRITY_REPORT===
+* **Collaboration Robustness (Data Loss):** 92%
+* **Explanation Clarity (Hallucination/Handling):** 100%
+* **Dropped Entities (Facts in Fact Sheet but not Article):**
+    - Compliance Fact (Food Registration 1): None found
+    - Compliance Fact (Food Registration 2): None found
+    - Compliance Fact (Safety Dosage): Not found
+    - Compliance Fact (Safety Warning): None found
+    - Safety Fact (Active Ingredient): OXYBENZONE, OCTINOXATE, OCTISALATE, AVOBENZONE
+    - Safety Fact (Ingredient Purpose): Sunscreen
+    - Safety Fact (Uses): helps prevent sunburn, if used as directed with other sun protection measures (see Directions), decreases the risk of skin cancer and skin aging caused by the sun
+    - Safety Fact (Warnings): For external use only, Do not use on damaged broken skin, When using this product keep out of eyes. Rinse with water to remove, Stop use and ask a doctor if rash occurs., Keep out of reach of children., If swallowed, get medical help or contact a Poison Control Center right away.
+    - Safety Fact (Directions): apply liberally 15 minutes before sun exposure, children less than 6 months of age: ask a doctor, reapply at least every 2 hours, use a water resistant sunscreen if swimming or sweating
+    - Safety Fact (Other Info): protect the product in this container from excessive heat and direct sun, the product may stain certain types of fabrics
+    - Safety Fact (Inactive Ingredients): WATER, GLYCERIN, SILICA, DIMETHICONE, STEARIC ACID, STEARYL ALCOHOL, NONENOL, SAPINDUS RARAK FRUIT EXTRACT, POUZOLZIA PENTANDRA EXTRACT, METHOXYBENZOYL METHYLSULFONYL OXOPIPERIDINYL PIPERAZINECARBOXAMIDE, THIAZOLYLALANINE, TRISILOXANE, DIMETHICONOL, MYRISTYL MYRISTATE, MALTODEXTRIN, PEG-100 STEARATE, CAPRYLYL GLYCOL, GLYCERYL STEARATE, SODIUM POLYACRYLATE, POLYURETHANE-40, POTASSIUM HYDROXIDE, ACRYLATES/C10-30 ALKYL ACRYLATE CROSSPOLYMER, DISODIUM EDTA, 1,2-HEXANEDIOL, FRAGRANCE
+    - Safety Fact (Questions): Not found
+    - Toxicity Fact (Summary): Not found
+    - Toxicity Fact (Mechanism): Not found
+    - Toxicity Fact (Side Effects): Not found
+    - Toxicity Fact (Case Reports): Not found
+    - Lab Fact (Experimental Method): Not found
+    - Lab Fact (Extraction Method): Not found
+    - Lab Fact (Chromatography - TLC): Not found
+    - Lab Fact (Pharmacological Finding): Not found
+    - Lab Fact (Cosmetic or Clinical Effect): Not found
+    - Lab Fact (Quality Control): Not found
+* **Hallucinated Entities (Facts in Article but not Fact Sheet):**
+    - None
+* **Feedback:** The article accurately reflects most of the key facts from the fact sheet, including trend facts, science facts (compound, abstracts), and culture facts. The article also correctly handles the "Not Found" entries by omitting them or stating that the information was not available. The main area for improvement is the omission of the detailed safety facts, compliance facts, and some lab facts which could have enriched the article.
+```

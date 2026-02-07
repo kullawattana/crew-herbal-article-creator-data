@@ -1,0 +1,1 @@
+Thought: I have the parsed data for the first study. Now, I need to extract the required information and store it in a structured format.

@@ -1,0 +1,86 @@
+# ===MASTER_FACT_SHEET=== 
+## Consolidated Facts for: Coccinia grandis
+* **Trend Fact:** None found
+* **Lab Fact (Experimental Method):** None found
+* **Lab Fact (Extraction Method):** None found
+* **Lab Fact (Compound Identified):** None found
+* **Lab Fact (Chromatography - TLC):** None found
+* **Lab Fact (Pharmacological Finding):** None found
+* **Lab Fact (Cosmetic or Clinical Effect):** None found
+* **Lab Fact (Quality Control):** None found
+* **Science Fact (Herb):** Coccinia grandis
+* **Science Fact (Compound):** Catechin
+* **Science Fact (Abstracts):**
+  * **Study 1:**
+    * **abstract_raw:** The therapeutic role of Coccinia grandis in flavor-enhancing high-lipid diet-induced chronic kidney disease: a dual role of NF-kB and TGF-β/Smad in renal fibrosis.
+    * **citation_apa:** Banerjee, A., Roy, J., Sarkar, D., Shil, A., Das, D., & Maji, B. K. (2025). The therapeutic role of Coccinia grandis in flavor-enhancing high-lipid diet-induced chronic kidney disease: a dual role of NF-kB and TGF-β/Smad in renal fibrosis. Molecular Biology Reports, 52(1), 798. https://doi.org/10.1007/s11033-025-10798-4
+  * **Study 2:**
+    * **abstract_raw:** Genetic variability, morphological diversity, and antioxidant potential in gynoecious Coccinia accessions: implications for breeding and biofortification.
+    * **citation_apa:** Yadav, L. P., Gangadhara, K., Singh, A. K., Yadav, V., Apparao, V. V., Pawar, A., Kumar, S., Janani, P., Khapte, P. S., Meena, N. K., Jinger, D., Rane, J., & Maji, B. K. (2025). Genetic variability, morphological diversity, and antioxidant potential in gynoecious Coccinia accessions: implications for breeding and biofortification. BMC Plant Biology, 25(1), 844. https://doi.org/10.1186/s12870-025-06335-x
+  * **Study 3:**
+    * **abstract_raw:** Potential Applications of Zingiber officinale, Clitoria ternatea, and Coccinia grandis for Enhancing the Functionality of Set Yogurts.
+    * **citation_apa:** Jayaweera, Y., Silva, M., Chandrapala, J., Liyanage, R., Jayathunge, K. G. L. R., & Alahakoon, A. U. (2025). Potential Applications of Zingiber officinale, Clitoria ternatea, and Coccinia grandis for Enhancing the Functionality of Set Yogurts. Food Science & Nutrition, 13(7), e70475. https://doi.org/10.1002/fsn3.70475
+* **Compliance Fact (Food Registration 1):** registration_number=10-1-00357-5-0029, product_name=ข้าวหอมมะลิเคลือบผักรวมสูตรเคลือบป๋วยเล้ง บร็อคโคลี ผักโขม ตำลึง (ตราจินนี่ย์), company_name=บริษัท บางกอกตลาดข้าวไทย จำกัด, status=สถานะผลิตภัณฑ์(คงอยู่)\ สถานะสถานที่ (คงอยู่)
+* **Compliance Fact (Food Registration 2):** registration_number=10-1-00357-5-0031, product_name=ข้าวเหนียวเคลือบผักรวมสูตรเคลือบป๋วยเล้ง บร็อคโคลี ผักโขม ตำลึง (ตราจินนี่ย์), company_name=บริษัท บางกอกตลาดข้าวไทย จำกัด, status=สถานะผลิตภัณฑ์(คงอยู่)\ สถานะสถานที่ (คงอยู่)
+* **Compliance Fact (Food Registration 3):** registration_number=10-1-11542-1-0010, product_name=ตำลึงแช่อิ่มแห้ง, company_name=นางอรุณ นฤทุม, status=สถานะผลิตภัณฑ์(คงอยู่)\ สถานะสถานที่ (คงอยู่)
+* **Compliance Fact (Food Registration 4):** registration_number=10-1-13660-5-0148, product_name=ตำลึง  / Ivy Gourd, company_name=บริษัท โพธิ์ประดิษฐ์สมุนไพร จำกัด, status=สถานะผลิตภัณฑ์(คงอยู่)\ สถานะสถานที่ (คงอยู่)
+* **Compliance Fact (Food Registration 5):** registration_number=10-1-13660-5-0149, product_name=ตำลึง (ผง) / Ivy Gourd (Powder), company_name=บริษัท โพธิ์ประดิษฐ์สมุนไพร จำกัด, status=สถานะผลิตภัณฑ์(คงอยู่)\ สถานะสถานที่ (คงอยู่)
+* **Safety Fact (Active Ingredient):** None found
+* **Safety Fact (Ingredient Purpose):** None found
+* **Safety Fact (Uses):** None found
+* **Safety Fact (Warnings):** None found
+* **Safety Fact (Directions):** None found
+* **Safety Fact (Other Info):** None found
+* **Safety Fact (Inactive Ingredients):** None found
+* **Safety Fact (Questions):** None found
+* **Toxicity Fact (Summary):** Coccinia grandis has been found to have potential therapeutic roles in flavor-enhancing high-lipid diet-induced chronic kidney disease, and its extracts have been shown to have antioxidant and anti-inflammatory activities. However, there is limited information available on its liver toxicity.
+* **Toxicity Fact (Mechanism):** The mechanism of liver injury caused by Coccinia grandis is not well understood, but it is believed to be related to its antioxidant and anti-inflammatory activities.
+* **Toxicity Fact (Side Effects):** There are limited reports of side effects associated with Coccinia grandis, but it may cause gastrointestinal upset, allergic reactions, and interact with certain medications.
+* **Toxicity Fact (Case Reports):** There are no case reports of liver injury associated with Coccinia grandis available in the literature.
+* **Culture Fact (Community - Thai Numbers in Traditional Medicine):** 
+    * **community_name:** Thai Numbers in Traditional Medicine
+    * **location:** 
+    * **ethnic_group:** 
+    * **community_highlight:** Tam Lueng is a plant used in traditional Thai medicine, known for its cooling properties and ability to counteract poison. The leaves of the male and female plants have different characteristics, with the male leaves having a serrated edge and the female leaves being rounded.
+    * **name_etymology:** No herbal-related information found
+    * **community_environment:** No herbal-related information found
+    * **local_wisdom:** Tam Lueng is used in traditional medicine to treat various ailments, including fever and inflammation.
+    * **community_organizations:** No herbal-related information found
+    * **local_name:** Tam Lueng
+    * **traditional_use:** Treats fever and inflammation
+    * **processing_method:** Grind into a paste and mix with water
+    * **source_url:** https://sac.or.th/portal/th/article/detail/338
+* **Culture Fact (Community - Database of Inscriptions in Thailand):** 
+    * **community_name:** Database of Inscriptions in Thailand
+    * **location:** 
+    * **ethnic_group:** 
+    * **community_highlight:** No herbal-related information found
+    * **name_etymology:** No herbal-related information found
+    * **community_environment:** No herbal-related information found
+    * **local_wisdom:** Tam Lueng is used in traditional medicine to treat various ailments, including cancer.
+    * **community_organizations:** No herbal-related information found
+    * **local_name:** Tam Lueng
+    * **traditional_use:** Treats cancer
+    * **processing_method:** Soak in liquor
+    * **source_url:** https://db.sac.or.th/inscriptions/glossary/detail/8968
+* **Culture Fact (Community - Database of Inscriptions in Thailand):** 
+    * **community_name:** Database of Inscriptions in Thailand
+    * **location:** 
+    * **ethnic_group:** 
+    * **community_highlight:** No herbal-related information found
+    * **name_etymology:** No herbal-related information found
+    * **community_environment:** No herbal-related information found
+    * **local_wisdom:** Tam Lueng is used in traditional medicine to treat various ailments, including asthma.
+    * **community_organizations:** No herbal-related information found
+    * **local_name:** Tam Lueng
+    * **traditional_use:** Treats asthma
+    * **processing_method:** Soak in liquor
+    * **source_url:** https://db.sac.or.th/inscriptions/inscribe/detail/921
+* **Internal RAG Fact (Herbal):** The provided internal knowledge context does not explicitly mention "ตำลึง" or "Coccinia grandis". However, the context discusses Thai traditional medicine, its benefits, and its uses in treating various ailments. It highlights the importance of using traditional Thai medicine in reducing healthcare costs and promoting self-sufficiency in healthcare.
+* **Internal RAG Fact (Cultural):** Tamalueng, also known as "ตำลึง" in Thai, has been used in traditional Thai medicine for its various health benefits. According to the provided context, Tamalueng is a type of herb that has been used for centuries in Thai wisdom to promote overall health and well-being. It is believed to have properties that can help to balance the body's elements, including earth, water, fire, and air, which are essential for maintaining good health. Additionally, Tamalueng is thought to have antioxidant and anti-inflammatory properties, which can help to protect the body against diseases and promote healing. In traditional Thai medicine, Tamalueng is often used to treat various ailments, including digestive issues, respiratory problems, and skin conditions. It is also believed to have a positive effect on the immune system, helping to boost the body's natural defenses against illness and disease. Overall, Tamalueng is considered a valuable herb in traditional Thai medicine, and its use has been passed down through generations as a natural remedy for various health issues.
+* **Source URL (Trend):** None found
+* **Source URL (Science):** https://doi.org/10.1007/s11033-025-10798-4, https://doi.org/10.1186/s12870-025-06335-x, https://doi.org/10.1002/fsn3.70475
+* **Source URL (Compliance):** None found
+* **Source URL (Safety):** None found
+* **Source URL (Toxicity):** https://www.ncbi.nlm.nih.gov/books/NBK548196/
+* **Source URL (Culture):** https://sac.or.th/portal/th/article/detail/338, https://db.sac.or.th/inscriptions/glossary/detail/8968, https://db.sac.or.th/inscriptions/inscribe/detail/921

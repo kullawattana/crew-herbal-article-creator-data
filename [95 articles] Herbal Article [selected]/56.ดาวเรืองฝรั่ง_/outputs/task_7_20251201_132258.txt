@@ -1,0 +1,57 @@
+# ===RAW_THAI_DATA===
+## ข้อมูลวัฒนธรรมดิบสำหรับ: ดาวเรืองฝรั่ง
+### การค้นหา 1 * **source_url:** https://wikicommunity.sac.or.th/community/621 * **community_context:**
+    * **community_name:** ท่าพูด
+    * **location:** จังหวัดนครปฐม
+    * **ethnic_group:** -
+* **full_thai_narrative_context:** ตามตำนานเกี่ยวกับที่มาของชุมชนนี้ เล่าสืบต่อกันมาว่า มีพี่น้องสองคนนั่งพิงอยู่ใกล้จอมปลวกใหญ่ พอพี่ชายนอนหลับไป น้องชายมองเห็นตัวแมงดาวเรืองคลานออกมาจากจมูกพี่ชาย และคลายหายเข้าไปในจอมปลวก ต่อมาตนเองก็นอนหลับแล้วฝันว่ามีภูติมาบอกที่ซ่อนขุมทรัพย์ แล้วขอให้ขุดเอามาขายเพื่อนำเงินมาสร้างวัด พอตื่นขึ้นมาสองพี่น้องจึงชวนกันมาขุดที่จอมปลวกและพบทรัพย์สมบัติมากมาย จึงนำมาขายเพื่อนำเงินมาสร้างวัด และตั้งชื่อวัดว่า"วัดเจตภูติ" ต่อมาจึงเรียกเพี้ยนมาเป็น "วัดตะพูด" และวัดท่าพูดตามลำดับ
+* **specific_entities:**
+    * **local_names:**
+        * **Item 1:**
+            * **name:** -
+            * **context_quote:** -
+    * **traditional_uses:**
+        * **Item 1:**
+            * **use:** -
+            * **context_quote:** -
+    * **processing_methods:**
+        * **Item 1:**
+            * **method:** -
+            * **description_quote:** -
+### การค้นหา 2 * **source_url:** https://manuscripts.sac.or.th/source-relate.php?page=2&id=3 * **community_context:**
+    * **community_name:** -
+    * **location:** -
+    * **ethnic_group:** -
+* **full_thai_narrative_context:** -
+* **specific_entities:**
+    * **local_names:**
+        * **Item 1:**
+            * **name:** -
+            * **context_quote:** -
+    * **traditional_uses:**
+        * **Item 1:**
+            * **use:** -
+            * **context_quote:** -
+    * **processing_methods:**
+        * **Item 1:**
+            * **method:** -
+            * **description_quote:** -
+### การค้นหา 3 * **source_url:** https://ethnicity.sac.or.th/database-ethnic/179/ * **community_context:**
+    * **community_name:** -
+    * **location:** -
+    * **ethnic_group:** -
+* **full_thai_narrative_context:** -
+* **specific_entities:**
+    * **local_names:**
+        * **Item 1:**
+            * **name:** -
+            * **context_quote:** -
+    * **traditional_uses:**
+        * **Item 1:**
+            * **use:** -
+            * **context_quote:** -
+    * **processing_methods:**
+        * **Item 1:**
+            * **method:** -
+            * **description_quote:** -
+# ===RAW_THAI_DATA===

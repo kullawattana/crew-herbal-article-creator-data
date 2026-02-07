@@ -1,0 +1,3 @@
+Thought: I have browsed the Thai FDA website and found relevant information about กัญชง (Cannabis sativa). Now, I need to extract the registration numbers and compile the final report.
+
+Action: None

@@ -1,0 +1,54 @@
+# ===COMPLIANCE_DATA===
+## Thai FDA Status for: Jasminum sambac
+* **herb_name:** Jasminum sambac
+### Food Registrations
+* **Food Registration 1:**
+    * **registration_number:** 10-1-02963-5-0247
+    * **product_name:** น้ำดื่มตรา มะลิวรรณ์ สาย3 / Maliwan Sai 3 Drinking Water
+    * **company_name:** บริษัท ไวท์ ปาร์ตี้ พลัส จำกัด
+    * **status:** สถานะผลิตภัณฑ์(คงอยู่)\ สถานะสถานที่ (คงอยู่)
+* **Food Registration 2:**
+    * **registration_number:** 10-1-03051-5-0019
+    * **product_name:** ขนมบุปผา (มะลิ) / Blooms Thai Shortbread Cookies (Jasmine)
+    * **company_name:** กลุ่มอาชีพหมู่ 5 กระทุ่มราย
+    * **status:** สถานะผลิตภัณฑ์(คงอยู่)\ สถานะสถานที่ (คงอยู่)
+* **Food Registration 3:**
+    * **registration_number:** 10-1-03644-1-0097
+    * **product_name:** ช็อกโก้ คริสปี้ เบรกฟาสต์ จัสมินไรซ์ ซีเรียล ช็อกโกแลต เฟลเวอร์ (อาหารเช้า ธัญพืชจากข้าวกล้องหอม มะลิ ช็อกโกแลต)(ตรา ลูนนี่ย์ตูน) / CHOCO KRISPY BREAKFAST JASMINE RICE CEREAL CHOCOLATE FLAVOR (LOONEY TUNES BRAND)
+    * **company_name:** บริษัท ไทยวิคเตอร์ฟู้ด จำกัด
+    * **status:** สถานะผลิตภัณฑ์(คงอยู่)\ สถานะสถานที่ (คงอยู่)
+* **Food Registration 4:**
+    * **registration_number:** 10-1-03644-1-0103
+    * **product_name:** อาหารเช้าซีเรียลจากข้าวกล้องหอม มะลิ รส โกโก้ (ตรา ช็อกโก้บูม)
+    * **company_name:** บริษัท ไทยวิคเตอร์ฟู้ด จำกัด
+    * **status:** สถานะผลิตภัณฑ์(คงอยู่)\ สถานะสถานที่ (คงอยู่)
+* **Food Registration 5:**
+    * **registration_number:** 10-1-03644-1-0104
+    * **product_name:** อาหารเช้าซีเรียลจากข้าวกล้องหอม มะลิ รส สตรอเบอร์รี่ (ตรา พิ้งกี้บูม)
+    * **company_name:** บริษัท ไทยวิคเตอร์ฟู้ด จำกัด
+    * **status:** สถานะผลิตภัณฑ์(คงอยู่)\ สถานะสถานที่ (คงอยู่)
+* **Food Registration 6:**
+    * **registration_number:** 10-1-03644-1-0105
+    * **product_name:** อาหารเช้าซีเรียลจากข้าวกล้องหอม มะลิ รส น้ำผึ้ง(ตรา ฮันนี่บูม)
+    * **company_name:** บริษัท ไทยวิคเตอร์ฟู้ด จำกัด
+    * **status:** สถานะผลิตภัณฑ์(คงอยู่)\ สถานะสถานที่ (คงอยู่)
+* **Food Registration 7:**
+    * **registration_number:** 10-1-04741-1-0936
+    * **product_name:** โฮล หอม-มะลิ ไรซ์ พาวเดอร์ ดริ๊งค์ (เครื่องดื่มข้าวกล้องหอมมะลิชนิดผง) (เครื่องหมายการค้า อัลฟาเมตะ) / WHOLE HOM-MALI RICE POWDER DRINK (BROWN JASMINE RICE POWDER DRINK) (ALPHAMETA (TM))
+    * **company_name:** บริษัท โควิก เคทท์ อินเตอร์เนชั่นแนล (ประเทศไทย) จำกัด
+    * **status:** สถานะผลิตภัณฑ์(คงอยู่)\ สถานะสถานที่ (คงอยู่)
+* **Food Registration 8:**
+    * **registration_number:** 10-1-06754-5-1035
+    * **product_name:** เค้กนม ตรา โบว์ มะลิ / Milky Cake
+    * **company_name:** บริษัท โบว์เบเกอรี่เฮ้าส์ จำกัด
+    * **status:** สถานะผลิตภัณฑ์(คงอยู่)\ สถานะสถานที่ (คงอยู่)
+* **Food Registration 9:**
+    * **registration_number:** 10-1-08064-5-0035
+    * **product_name:** ชาจากพืช ทาร์ตเชอร์รี่ สตรอว์เบอร์รี่ เอลเดอร์เบอร์รี่ ราสป์เบอร์รี่ คาโมมายล์ ดอกคำฝอย ใบหม่อน มะลิ ชาอู่หลง (ตราชารมย์-ดี) / TART CHERRY, STRAWBERRY, ELDERBERRY, RASPBERRY, CHAMOMILE, SAFFLOWER, MULBERRY, JASMINE, OOLONG TEA INFUSION TEA (CHAROM-D BRAND)
+    * **company_name:** บริษัท จมิรา จำกัด
+    * **status:** สถานะผลิตภัณฑ์(ยกเลิกโดยผู้ประกอบการ 19/4/2565) \ สถานะสถานที่ (คงอยู่ )
+* **Food Registration 10:**
+    * **registration_number:** 10-1-11652-5-0057
+    * **product_name:** ชาดอกไม้รวมแพ็ค 4 ชนิด​ (กุหลาบ ลาเวนเดอร์ มะลิ คาโมมายล์) (ตราอิ่มเอิบ) / Four Assorted Flower Teas (Rose Lavender Jasmine Chamomile) (Im-Erb Brand)
+    * **company_name:** บริษัท ชีวารมณ์ จำกัด
+    * **status:** สถานะผลิตภัณฑ์(คงอยู่)\ สถานะสถานที่ (คงอยู่)

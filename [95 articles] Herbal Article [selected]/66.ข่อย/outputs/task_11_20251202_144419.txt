@@ -1,0 +1,76 @@
+# ===MASTER_FACT_SHEET=== 
+## Consolidated Facts for: Streblus asper
+* **Trend Fact:** Not found in the provided context.
+* **Lab Fact (Experimental Method):** Not found in the provided context.
+* **Lab Fact (Extraction Method):** Not found in the provided context.
+* **Lab Fact (Compound Identified):** Not found in the provided context.
+* **Lab Fact (Chromatography - TLC):** Not found in the provided context.
+* **Lab Fact (Pharmacological Finding):** Not found in the provided context.
+* **Lab Fact (Cosmetic or Clinical Effect):** Not found in the provided context.
+* **Lab Fact (Quality Control):** Not found in the provided context.
+* **Science Fact (Herb):** Streblus asper
+* **Science Fact (Compound):** Not found in the provided context.
+* **Science Fact (Abstracts):**
+  * **Study 1:**
+    * **abstract_raw:** Ethanolic extract of Streblus asper leaves protects against glutamate-induced toxicity in HT22 hippocampal neuronal cells and extends lifespan of Caenorhabditis elegans. The extract possesses both longevity effects and neuroprotective activity against glutamate-induced cell death, supporting its therapeutic potential for the treatment of age-associated neurodegenerative diseases.
+    * **citation_apa:** Not found
+* **Compliance Fact (Food Registration 1):** None found.
+* **Compliance Fact (Safety Dosage):** Not found in the provided context.
+* **Compliance Fact (Safety Warning):** None found.
+* **Safety Fact (Active Ingredient):** Not found in the provided context.
+* **Safety Fact (Ingredient Purpose):** Not found in the provided context.
+* **Safety Fact (Uses):** Not found in the provided context.
+* **Safety Fact (Warnings):** Not found in the provided context.
+* **Safety Fact (Directions):** Not found in the provided context.
+* **Safety Fact (Other Info):** Not found in the provided context.
+* **Safety Fact (Inactive Ingredients):** Not found in the provided context.
+* **Safety Fact (Questions):** Not found in the provided context.
+* **Toxicity Fact (Summary):** Ethanolic extract of Streblus asper leaves protects against glutamate-induced toxicity in HT22 hippocampal neuronal cells and extends lifespan of Caenorhabditis elegans.
+* **Toxicity Fact (Mechanism):** The underlying mechanism of neuroprotection involves the activation of the Nrf2 signaling pathway, which promotes antioxidant defense by up-regulating the expression of antioxidant-related genes such as NQO1, GCLM, and EAAT3.
+* **Toxicity Fact (Side Effects):** None reported in the study.
+* **Toxicity Fact (Case Reports):** No human case reports were mentioned in the study.
+* **Culture Fact (Community - Wat Lai Hin Luang):** 
+  * **community_name:** Wat Lai Hin Luang
+  * **location:** Lampang Province
+  * **ethnic_group:** Lanna
+  * **community_highlight:** Wat Lai Hin Luang is a temple in Lampang Province that has a rich cultural heritage. The temple has a collection of ancient documents and artifacts related to Buddhism, including palm-leaf manuscripts and traditional Thai books.
+  * **name_etymology:** The name "Wat Lai Hin Luang" is derived from the Lanna language and refers to the temple's location on a large stone slab.
+  * **community_environment:** The community surrounding Wat Lai Hin Luang is predominantly Lanna, and the temple plays an important role in preserving the cultural heritage of the region.
+  * **local_wisdom:** The community has a deep understanding of the importance of preserving ancient documents and artifacts, recognizing their value in understanding the history and culture of the region.
+  * **community_organizations:** The temple has established a museum to showcase its collection of ancient documents and artifacts, providing a valuable resource for researchers and the local community.
+  * **local_name:** Khoy Book
+  * **traditional_use:** Conservation of ancient documents
+  * **processing_method:** Cataloging
+  * **source_url:** https://db.sac.or.th/museum/knowledge/12
+* **Culture Fact (Community - Wat Phra That Lampang Luang):** 
+  * **community_name:** Wat Phra That Lampang Luang
+  * **location:** Lampang Province
+  * **ethnic_group:** Lanna
+  * **community_highlight:** Wat Phra That Lampang Luang is a temple in Lampang Province that is known for its ancient artifacts and documents related to Buddhism.
+  * **name_etymology:** The name "Wat Phra That Lampang Luang" is derived from the Lanna language and refers to the temple's location in Lampang Province.
+  * **community_environment:** The community surrounding Wat Phra That Lampang Luang is predominantly Lanna, and the temple plays an important role in preserving the cultural heritage of the region.
+  * **local_wisdom:** The community has a deep understanding of the importance of preserving ancient documents and artifacts, recognizing their value in understanding the history and culture of the region.
+  * **community_organizations:** The temple has established a museum to showcase its collection of ancient documents and artifacts, providing a valuable resource for researchers and the local community.
+  * **local_name:** Palm-leaf manuscript
+  * **traditional_use:** Conservation of ancient documents
+  * **processing_method:** Drying
+  * **source_url:** https://db.sac.or.th/museum/knowledge/13
+* **Culture Fact (Community - Wat Chalermprakiat):** 
+  * **community_name:** Wat Chalermprakiat
+  * **location:** Lampang Province
+  * **ethnic_group:** Lanna
+  * **community_highlight:** Wat Chalermprakiat is a temple in Lampang Province that is known for its ancient artifacts and documents related to Buddhism.
+  * **name_etymology:** The name "Wat Chalermprakiat" is derived from the Lanna language and refers to the temple's location in Lampang Province.
+  * **community_environment:** The community surrounding Wat Chalermprakiat is predominantly Lanna, and the temple plays an important role in preserving the cultural heritage of the region.
+  * **local_wisdom:** The community has a deep understanding of the importance of preserving ancient documents and artifacts, recognizing their value in understanding the history and culture of the region.
+  * **community_organizations:** The temple has established a museum to showcase its collection of ancient documents and artifacts, providing a valuable resource for researchers and the local community.
+  * **local_name:** Traditional Thai book
+  * **traditional_use:** Conservation of ancient documents
+  * **processing_method:** Binding
+  * **source_url:** https://db.sac.or.th/museum/knowledge/14
+* **Internal RAG Fact (Herbal):** ข่อย (Streblus asper) has been used in traditional Thai medicine for a long time. It is believed to have various health benefits, including aiding digestion and relieving symptoms of certain illnesses.
+* **Internal RAG Fact (Cultural):** ข่อย (Streblus asper) is considered a valuable herb that can help maintain a healthy balance of elements within the body. It is also used as an ingredient in traditional Thai dishes, such as spicy sauces and soups, to add flavor and nutrition.
+* **Source URL (Toxicity):** https://pmc.ncbi.nlm.nih.gov/articles/PMC5745612/
+* **Source URL (Culture - Wat Lai Hin Luang):** https://db.sac.or.th/museum/knowledge/12
+* **Source URL (Culture - Wat Phra That Lampang Luang):** https://db.sac.or.th/museum/knowledge/13
+* **Source URL (Culture - Wat Chalermprakiat):** https://db.sac.or.th/museum/knowledge/14

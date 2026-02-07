@@ -1,0 +1,25 @@
+# ===RESEARCH_DATA===
+## Scientific Evidence for: Vernonia cinerea
+* **herb_name:** Vernonia cinerea
+* **herb_name_scientific:** Vernonia cinerea
+### Validated Compounds
+* **Compound 1:**
+    * **compound_name:** Rutin
+    * **mechanism_name:** COX-2 inhibition
+    * **supporting_studies:**
+        * **Study 1:** (Data from the first item in studies_data)
+            * **study_type:** In-silico study
+            * **abstract_raw:** In-silico identification of COX-2 inhibitory phytochemicals from traditional medicinal plants: molecular docking, dynamics, and safety predictions.
+            * **key_findings:** Rutin, a flavonoid glycoside, showed binding affinity to COX-2 receptor, exceeding that of the standard NSAID diclofenac.
+            * **pmid:** 40969544
+            * **canonical_url:** https://doi.org/10.1007/s40203-025-00407-4
+            * **citation_apa:** Abdollahi, F., Hadizadeh, F., Farhadian, S., Assaran-Darban, R., & Shakour, N. (2025). In-silico identification of COX-2 inhibitory phytochemicals from traditional medicinal plants: molecular docking, dynamics, and safety predictions. In Silico Pharmacology, 13(3), 133.
+        * **Study 2:** (Data from the second item in studies_data)
+            * **study_type:** Randomized Controlled Trial
+            * **abstract_raw:** Comparison of Herbal and Potassium Nitrate Toothpastes in Managing Dentin Hypersensitivity: A Randomized Controlled Trial.
+            * **key_findings:** The herbal toothpaste supplemented with potassium nitrate demonstrated superior efficacy in reducing dentin hypersensitivity.
+            * **pmid:** 40863072
+            * **canonical_url:** https://doi.org/10.3390/dj13080369
+            * **citation_apa:** Vajrabhaya, L. O., Benjasupattananan, S., Sappayatosok, K., Sirikururat, P., Korsuwannawong, S., & Dechosilpa, V. (2025). Comparison of Herbal and Potassium Nitrate Toothpastes in Managing Dentin Hypersensitivity: A Randomized Controlled Trial. Dentistry Journal, 13(8), 369.
+### Overall Summary
+* **summary:** Vernonia cinerea has been traditionally used for its medicinal properties, including its potential role in smoking cessation and anti-inflammatory therapy. The herb has been shown to have a benign safety profile, with no serious safety concerns reported. Further research is essential to fully assess its efficacy and applicability.

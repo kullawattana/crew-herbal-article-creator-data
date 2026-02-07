@@ -1,0 +1,81 @@
+# ===CULTURE_DATA===
+
+## Cultural Context for: Chaphlu (ชะพลู)
+
+### Finding 1
+* **source_url:** https://manuscripts.sac.or.th/article-download.php?id=42
+* **community_context:**
+    * **community_name:** Ongkarn Mahamagrood Paadkig (โองการมหามะกรูดแปดกิ่ง)
+    * **location:** -
+    * **ethnic_group:** -
+* **community_profile_summaries:**
+    * **community_highlight:** No herbal-related information found.
+    * **name_etymology:** No herbal-related information found.
+    * **community_environment:** No herbal-related information found.
+    * **local_wisdom:** No herbal-related information found.
+    * **community_organizations:** No herbal-related information found.
+* **specific_entities:**
+    * **local_names:**
+        * **Item 1:**
+            * **name:** -
+            * **context_quote:** -
+    * **traditional_uses:**
+        * **Item 1:**
+            * **use:** -
+            * **context_quote:** -
+    * **processing_methods:**
+        * **Item 1:**
+            * **method:** -
+            * **description_quote:** -
+
+### Finding 2
+* **source_url:** https://www.sac.or.th/portal/th/article/detail/402
+* **community_context:**
+    * **community_name:** Samnuan Phasa Chak Ya Mawng Yai EP.02 Ton Long Daeng (สำนวนภาษาจากยาหม้อใหญ่ EP.02 ตอน ลงแดง)
+    * **location:** -
+    * **ethnic_group:** -
+* **community_profile_summaries:**
+    * **community_highlight:** No herbal-related information found.
+    * **name_etymology:** No herbal-related information found.
+    * **community_environment:** No herbal-related information found.
+    * **local_wisdom:** The text mentions the use of Chaphlu (ชะพลู) as a medicinal herb to treat various ailments, including indigestion and bloating.
+    * **community_organizations:** No herbal-related information found.
+* **specific_entities:**
+    * **local_names:**
+        * **Item 1:**
+            * **name:** Chaphlu (ชะพลู)
+            * **context_quote:** "รากชะพลู ๑ บาท ๒ สลึง"
+    * **traditional_uses:**
+        * **Item 1:**
+            * **use:** Treating indigestion and bloating
+            * **context_quote:** "ยากินแก้ลมสารพัดทั้งปวง ปลุกไฟธาตุ เอาเจตมูลเพลิง ๔ ตําลึง ตะค้าน ๓ บาท ขิงแห้ง ๓ บาท ดีปลี ๒ ตําลึง รากชะพลู ๑ บาท ๒ สลึง"
+    * **processing_methods:**
+        * **Item 1:**
+            * **method:** Drying
+            * **description_quote:** "ทําเป็นผงลายน้ำผึ้งกินแก้ริดสีดวงลม"
+
+### Finding 3
+* **source_url:** https://southeastasia.sac.or.th/subject.php?c_id=9&sj_id=76
+* **community_context:**
+    * **community_name:** Thai - Food
+    * **location:** -
+    * **ethnic_group:** -
+* **community_profile_summaries:**
+    * **community_highlight:** No herbal-related information found.
+    * **name_etymology:** No herbal-related information found.
+    * **community_environment:** The text mentions the use of various plants, including Chaphlu (ชะพลู), as ingredients in traditional Thai cooking.
+    * **local_wisdom:** No herbal-related information found.
+    * **community_organizations:** No herbal-related information found.
+* **specific_entities:**
+    * **local_names:**
+        * **Item 1:**
+            * **name:** Chaphlu (ชะพลู)
+            * **context_quote:** "ใบชะพลู"
+    * **traditional_uses:**
+        * **Item 1:**
+            * **use:** Cooking ingredient
+            * **context_quote:** "กลุ่มชาติพันธุ์กะเหรี่ยงที่อาศัยอยู่ในภาคตะวันตกของประเทศไทย จะประกอบอาหารรับประทานจากวัตถุดิบที่มีอยู่ในพื้นที่ เช่น ชะอม แตง มะขาม ยอดกระถิน ผักบุ้ง เห็ดปลวก ใบชะพลู ตะไคร้ ชะอมป่า ยอดมะรุม มะเขือเหลือง ผักกูด ลูกสะเนียง หัวปลี พริก มะระ ดอกข่า ยอดตำลึง ตุ่น หอยตลับ หอยขม ปลาไหล ปลาช่อน"
+    * **processing_methods:**
+        * **Item 1:**
+            * **method:** -
+            * **description_quote:** -

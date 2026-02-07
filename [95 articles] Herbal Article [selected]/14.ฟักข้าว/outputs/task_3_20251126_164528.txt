@@ -1,0 +1,16 @@
+# ===RESEARCH_DATA===
+## Scientific Evidence for: Momordica cochinchinensis
+* **herb_name:** Momordica cochinchinensis
+* **herb_name_scientific:** Momordica cochinchinensis
+### Validated Compounds
+* **Compound 1:**
+    * **compound_name:** beta-Carotene
+    * **mechanism_name:** Antioxidant
+    * **supporting_studies:**
+        * **Study 1:** (Data from the first item in studies_data)
+            * **study_type:** Journal Article
+            * **abstract_raw:** beta-Carotene, a potent natural antioxidant, was recovered from the peel of Momordica cochinchinensis (gac) fruit peel using Soxhlet extraction. Experimental results indicated that both the sample mass and solvent flow rate exerted a positive influence on the yield of beta-carotene. The beta-carotene extraction achieved the highest yield with a solvent mixture of ethyl acetate and acetone in a 6 : 4 (v/v) ratio. Thermal stability assessments revealed that beta-carotene exhibited greater stability in acetone compared to ethyl acetate under oxygenated conditions. A kinetic model was developed to describe the beta-carotene extraction, facilitating the estimation of key parameters including the extraction rate constant, degradation rate constant, and the maximum extractable beta-carotene in the gac peel. The model demonstrated good correlation with experimental data, providing valuable insights for optimizing beta-carotene extraction protocols.
+            * **key_findings:** beta-Carotene, a potent natural antioxidant, was recovered from the peel of Momordica cochinchinensis (gac) fruit peel using Soxhlet extraction.
+            * **pmid:** 40027581
+            * **canonical_url:** https://doi.org/10.1039/d4ra08999e
+            * **citation_apa:** Tran, H. D., Tu Nguyen, N. T., Phuong, T. T., Nguyen, Q. H., & Dang, V. H. (2025). Soxhlet extraction of Momordica cochinchinensis fruit peel for beta-carotene recovery. RSC Advances, 15(9), 6764-6773. doi: 10.1039/d4ra08999e

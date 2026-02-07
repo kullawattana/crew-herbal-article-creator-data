@@ -1,0 +1,15 @@
+# ===TRENDS_DATA===
+### Finding 1
+* **herb_name:** Calendula
+* **wellness_context_summary:** Calendula is mentioned in the context of immune-boosting practices at hot springs destinations. It is also mentioned as a plant therapy that can be used in conjunction with hot springs bathing to boost immunity.
+* **source_url:** https://globalwellnessinstitute.org/wp-content/uploads/2020/04/Immune-Boosting-Practices-at-Hot-Springs-and-Related-Research.pdf
+
+### Finding 2
+* **herb_name:** Calendula
+* **wellness_context_summary:** Calendula is mentioned as a plant that can be used in aromatherapy to boost immunity. It is also mentioned as a plant that can be used in conjunction with hot springs bathing to boost immunity.
+* **source_url:** https://globalwellnessinstitute.org/wp-content/uploads/2020/04/Immune-Boosting-Aroma-Bathing-at-Hot-Springs-Theme-Rains-Synthesis.pdf
+
+### Finding 3
+* **herb_name:** Calendula
+* **wellness_context_summary:** Calendula is mentioned as a plant that can be used in plant therapy to boost immunity. It is also mentioned as a plant that can be used in conjunction with hot springs bathing to boost immunity.
+* **source_url:** https://globalwellnessinstitute.org/wp-content/uploads/2020/04/Immune-Boosting-with-Plant-Therapy-and-Hot-Springs-Bathing.pdf

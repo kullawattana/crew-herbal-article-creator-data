@@ -1,0 +1,3 @@
+Thought: I have retrieved the relevant snippets from the internal herbal PDFs Knowledge Base using Pinecone.
+
+Action: None

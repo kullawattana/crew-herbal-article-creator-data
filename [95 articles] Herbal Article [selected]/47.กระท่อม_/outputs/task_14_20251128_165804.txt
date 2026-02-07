@@ -1,0 +1,37 @@
+# ===AUDIT_DATA_INTEGRITY_REPORT===
+*   **Collaboration Robustness (Data Loss):** 65.75%
+*   **Explanation Clarity (Hallucination/Handling):** 90.91%
+*   **Dropped Entities (Facts in Fact Sheet but not Article):**
+    *   Compliance Fact (Food Registration 1): registration\_number=12-1-13657-5-0102
+    *   Compliance Fact (Food Registration 1): company\_name=บริษัท ไทยเอฟดี จำกัด
+    *   Compliance Fact (Food Registration 1): status=สถานะผลิตภัณฑ์(คงอยู่)\ สถานะสถานที่ (คงอยู่)
+    *   Compliance Fact (Food Registration 2): registration\_number=12-2-02856-2-0014
+    *   Compliance Fact (Food Registration 2): company\_name=บริษัท ยันฮี วิตามิน วอเตอร์ จำกัด
+    *   Compliance Fact (Food Registration 2): status=สถานะผลิตภัณฑ์(คงอยู่)\ สถานะสถานที่ (คงอยู่)
+    *   Compliance Fact (Food Registration 3): registration\_number=14-2-01458-2-0001
+    *   Compliance Fact (Food Registration 3): company\_name=กระท่อมปลายนา
+    *   Compliance Fact (Food Registration 3): status=สถานะผลิตภัณฑ์(คงอยู่)\ สถานะสถานที่ (คงอยู่)
+    *   Compliance Fact (Food Registration 4): registration\_number=73-1-15864-5-0036
+    *   Compliance Fact (Food Registration 4): company\_name=บริษัท แน็พ ไบโอเทค จำกัด
+    *   Compliance Fact (Food Registration 4): status=สถานะผลิตภัณฑ์(คงอยู่)\ สถานะสถานที่ (คงอยู่)
+    *   Compliance Fact (Food Registration 5): registration\_number=73-1-15864-5-0039
+    *   Compliance Fact (Food Registration 5): company\_name=บริษัท แน็พ ไบโอเทค จำกัด
+    *   Compliance Fact (Food Registration 5): status=สถานะผลิตภัณฑ์(คงอยู่)\ สถานะสถานที่ (คงอยู่)
+    *   Safety Fact (Active Ingredient): Adenosinum Triphosphoricum Dinatrum, Adrenal Cortex (Suis), Bacopa Speciosa, Chininum Sulphuricum, Cina, Dopamine Hydrochloride, Equol, Gambogia, Iodium, Lycopodium Clavatum, Morgan Gaertner, Oxytocin, Pantothenic Acid, Phosphorus, Rhodiola, Serotonin (Hydrochloride), Stomach (Suis), Thyroidinum (Suis)
+    *   Safety Fact (Ingredient Purpose): Excessive Appetite, Greed in Eating, Eating Ameliorates, Sugar Craving, Carbohydrate Craving, Fat Craving
+    *   Safety Fact (Uses): For the temporary relief of symptoms including: eating ameliorates, greed in eating, excessive appetite, sugar craving, carbohydrate craving, fat craving.
+    *   Safety Fact (Inactive Ingredients): Demineralized water, 25% ethanol
+    *   Safety Fact (Questions): Dist. By: Deseret Biologicals, Inc. 469 W. Parkland Drive Sandy, UT 84070 www.desbio.com 800-827-8204
+    *   Culture Fact (Community - Ta Khan Pom's Hut): Ta Khan Pom's Hut
+    *   Culture Fact (Local Name - Ta Khan Pom's Hut): Hut
+    *   Culture Fact (Use - Ta Khan Pom's Hut): Vegetable gardening
+    *   Culture Fact (Processing - Ta Khan Pom's Hut): Urine watering
+    *   Culture Fact (Source - Ta Khan Pom's Hut): https://folktales.sac.or.th/folktale-details.php?id=221
+*   **Hallucinated Entities (Facts in Article but not Fact Sheet):**
+    *   "The culture facts suggest that kratom has been used in traditional Thai medicine, with benefits and potential health effects." (Contradicts Internal RAG facts)
+    *   "This suggests that it is technically feasible to develop and manufacture kratom-based products." (An inference, not a direct fact from the Fact Sheet)
+    *   "Therefore, it is crucial to design products that address these safety concerns, such as providing clear dosage instructions and warnings." (A recommendation/conclusion, not a direct fact from the Fact Sheet)
+*   **Feedback:**
+    The audit reveals significant data loss, primarily concerning detailed compliance registration data (registration numbers, company names, and status for each product) and a substantial portion of the Safety Facts (active ingredients, ingredient purpose, uses, inactive ingredients, and contact information). Several specific culture facts, while mentioned contextually, were not transferred as distinct factual entities from the Fact Sheet. This results in a robustness score of 65.75%, indicating a notable failure in transferring all critical information with 100% accuracy.
+
+    Regarding clarity, the article generally handles "Not found" entries correctly, either by explicitly stating "not provided" or by omitting the information without invention. However, there are three instances of hallucination: one direct contradiction of the Internal RAG facts regarding kratom's mention in traditional Thai medicine, and two instances of making inferences or recommendations that are not explicitly stated as facts in the Master Fact Sheet. This leads to an explanation clarity score of 90.91%. To achieve zero-tolerance compliance, all inferences and recommendations must be explicitly sourced or clearly identified as analysis rather than facts.

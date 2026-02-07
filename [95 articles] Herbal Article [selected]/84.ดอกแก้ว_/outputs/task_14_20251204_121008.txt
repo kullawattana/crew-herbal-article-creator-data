@@ -1,0 +1,39 @@
+# ===AUDIT_DATA_INTEGRITY_REPORT===
+*   **Collaboration Robustness (Data Loss):** 38.78%
+*   **Explanation Clarity (Hallucination/Handling):** 100%
+*   **Dropped Entities (Facts in Fact Sheet but not Article):**
+    *   Compliance Fact (Food Registration 1): registration_number=10-1-22345-1-0003
+    *   Compliance Fact (Food Registration 1): company_name=เจริญชัยพาณิชย์
+    *   Compliance Fact (Food Registration 1): status=สถานะผลิตภัณฑ์(คงอยู่)\ สถานะสถานที่ (คงอยู่)
+    *   Compliance Fact (Food Registration 2): registration_number=11-2-01354-2-0001
+    *   Compliance Fact (Food Registration 2): product_name=น้ำมันปาล์มโอเลอินจากเนื้อปาล์มผ่านกรรมวิธี ตรา ดอกแก้ว
+    *   Compliance Fact (Food Registration 2): company_name=ต.เจริญการค้า
+    *   Compliance Fact (Food Registration 2): status=สถานะผลิตภัณฑ์(คงอยู่)\ สถานะสถานที่ (คงอยู่)
+    *   Compliance Fact (Food Registration 3): registration_number=11-2-01951-6-0820
+    *   Compliance Fact (Food Registration 3): company_name=บริษัท เอเซีย วอเตอร์มาร์ท จำกัด
+    *   Compliance Fact (Food Registration 3): status=สถานะผลิตภัณฑ์(คงอยู่)\ สถานะสถานที่ (คงอยู่)
+    *   Compliance Fact (Food Registration 4): registration_number=12-2-00157-2-0037
+    *   Compliance Fact (Food Registration 4): product_name=น้ำดื่ม ตรา ดอกแก้ว
+    *   Compliance Fact (Food Registration 4): company_name=ห้างหุ้นส่วนจำกัด ช.เจริญพูนผล
+    *   Compliance Fact (Food Registration 4): status=สถานะผลิตภัณฑ์(ผู้ประกอบการแจ้งยกเลิกใบอนุญาต 19/3/2567) \ สถานะสถานที่ (ผู้ประกอบการแจ้งยกเลิก 19/3/2567)
+    *   Compliance Fact (Food Registration 5): registration_number=14-2-01359-6-0212
+    *   Compliance Fact (Food Registration 5): product_name=น้ำดื่มตรา ดอกแก้วเจ้าจอม
+    *   Compliance Fact (Food Registration 5): company_name=บริษัท ฮอลแลนด์ สตาร์ บรรจุภัณฑ์ จำกัด
+    *   Compliance Fact (Food Registration 5): status=สถานะผลิตภัณฑ์(ยกเลิกโดยผู้ประกอบการ 14/11/2566) \ สถานะสถานที่ (คงอยู่ )
+    *   Toxicity Fact (Side Effects): "it is reported to have caused significant effects in acute toxicity assays, although these effects had no clinical relevance."
+    *   Toxicity Fact (Case Reports): "There are no reported case studies on the toxicity of Murraya paniculata. However, the plant has been traditionally used as a folk medicine, and its bioactive compounds have been reported to have various biological activities."
+    *   Culture Fact (Community - Kaeo Manee 2): community_name=Kaeo Manee 2
+    *   Culture Fact (Location - Kaeo Manee 2): location=-
+    *   Culture Fact (Ethnic Group - Kaeo Manee 2): ethnic_group=-
+    *   Culture Fact (Name Etymology - Kaeo Manee 2): "Manee Ratana"
+    *   Culture Fact (Name Etymology - Kaeo Manee 2): "two golden lotus flowers on either side of its head"
+    *   Culture Fact (Name Etymology - Kaeo Manee 2): "84,000 different types of gemstones as its retinue."
+    *   Culture Fact (Local Name - Kaeo Manee 2): local_name=-
+    *   Culture Fact (Use - Kaeo Manee 2): traditional_use=-
+    *   Culture Fact (Processing - Kaeo Manee 2): processing_method=-
+*   **Hallucinated Entities (Facts in Article but not Fact Sheet):**
+    *   None
+*   **Feedback:**
+    The **Collaboration Robustness (Data Loss)** score is low due to significant loss of specific data points, particularly in the "Compliance Fact (Food Registration)" and "Culture Fact" categories. While some product names from the food registrations were mentioned, the critical details such as registration numbers, company names, and specific product statuses were omitted entirely for all five entries. Additionally, several detailed aspects of the toxicity side effects, the entire case reports section, and numerous specific cultural facts (community name, location, ethnic group, and detailed etymological elements) were not transferred to the Final Article.
+
+    The **Explanation Clarity (Hallucination/Handling)** score is 100% because no *facts* were hallucinated. All factual statements in the Final Article are directly derived from the Master Fact Sheet or represent a correct handling of "Not Found" entries. The analytical statements, strategic recommendations, and product examples, while not directly present as "facts" in the Master Fact Sheet, are considered valid outputs of the article generation task, based on the provided factual context, rather than invented factual information about Murraya paniculata itself. Furthermore, all "Not Found" entries from the Master Fact Sheet were correctly handled in the Final Article, either by explicit mention of "Not found" or by appropriate omission.

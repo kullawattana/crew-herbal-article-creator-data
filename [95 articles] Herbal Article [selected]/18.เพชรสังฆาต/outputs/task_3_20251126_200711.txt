@@ -1,0 +1,20 @@
+# ===RESEARCH_DATA===
+
+## Scientific Evidence for: Cissus quadrangularis
+
+* **herb_name:** Cissus quadrangularis
+* **herb_name_scientific:** Cissus quadrangularis
+
+### Validated Compounds
+
+* **Compound 1:**
+    * **compound_name:** Apiin
+    * **mechanism_name:** Anti-inflammatory
+    * **supporting_studies:**
+        * **Study 1:** (Data from the first item in studies_data)
+            * **study_type:** In vitro
+            * **abstract_raw:** In orthodox medicine, Cissus quadrangularis is ordinarily used to treat asthma, menstrual disorders, diabetes, skin infections, bone fractures, burns, and wounds. But despite its extensive use, there are not many systematic studies that combine phytochemical profiling with computational and experimental methods to clarify how it works to prevent inflammatory and diabetic complications. The present study is aimed to find out the potential pharmacophore and innovation of C. quadrangularis to treat inflammatory and diabetic complications. 
+            * **key_findings:** The extract divulged a large quantity of polyphenol, flavonoid, and terpenoid components. HPLC analysis and gas chromatography-mass spectroscopy (GCMS) profiling identified 29 phytocompounds. In in vitro anti-inflammatory study, C. quadrangularis extract demonstrated significant red blood cell (RBC) membrane stabilizing action in all the experiments. Additionally, the in vitro study revealed that the extract had possible inhibitory effect against alpha-amylase and alpha-glucosidase. In computational study, among the identified compounds, apiin and rosmarinic acid showed strongly binding affinity on molecular docking and stabilizing capacity on molecular dynamic simulation study with the studied enzymes. 
+            * **pmid:** 40961465
+            * **canonical_url:** https://doi.org/10.1002/cbdv.202500903
+            * **citation_apa:** Mondal, I., Zilani, M. N. H., Lisany, N. F., Yasmin, F., Bibi, S., Biswas, P., Tauhida, S. J., Rahman, M. S., Albadrani, G. M., Al-Ghadi, M. Q., Sayed, A. A., Hasan, M. N., & Abdel-Daim, M. M. (2025). Cissus quadrangularis Revealed as a Potential Source of Anti-Inflammatory and Anti-Diabetic Pharmacophore in Experimental and Computational Studies. Chemistry & Biodiversity, e00903. https://doi.org/10.1002/cbdv.202500903

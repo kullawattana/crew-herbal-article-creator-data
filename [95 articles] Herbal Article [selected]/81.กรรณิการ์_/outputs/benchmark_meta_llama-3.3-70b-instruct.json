@@ -1,0 +1,11 @@
+{
+  "model": "meta/llama-3.3-70b-instruct",
+  "herbs": "Nyctanthes arbor-tristis",
+  "runtime_sec": 498.74,
+  "cpu_percent": -1.3,
+  "memory_mb_change": -222.03,
+  "total_tokens": 0,
+  "prompt_tokens": 0,
+  "completion_tokens": 0,
+  "total_cost": 0.0
+}

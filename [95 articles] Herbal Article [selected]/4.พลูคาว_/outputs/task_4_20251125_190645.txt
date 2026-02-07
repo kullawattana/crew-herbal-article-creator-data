@@ -1,0 +1,29 @@
+# ===COMPLIANCE_DATA===
+## Thai FDA Status for: Houttuynia cordata
+* **herb_name:** Houttuynia cordata
+### Food Registrations
+* **Food Registration 1:**
+    * **registration_number:** 10-1-01949-5-0084
+    * **product_name:** พลูคาว เบต้า ซี (ผลิตภัณฑ์เสริมอาหาร สารสกัดจากพลูคาว, ยีสต์ เบต้า กลูแคน, วิตามินซี) /  Plukaow Beta C (Houttuynia Cordata Extract, Yeast Beta Glucan, Ascorbic Acid Dietary Supplement Product)
+    * **company_name:** บริษัท โรงงานเภสัชอุตสาหกรรม เจเอสพี (ประเทศไทย) จำกัด (มหาชน)
+    * **status:** สถานะผลิตภัณฑ์(ผู้ประกอบการแจ้งยกเลิกใบอนุญาต 16/1/2567) \ สถานะสถานที่ (ยกเลิกโดยผู้ประกอบการ 16/1/2567)
+* **Food Registration 2:**
+    * **registration_number:** 10-1-07165-5-0023
+    * **product_name:** รฏา พลูคาวพลัส (ผลิตภัณฑ์เสริมอาหาร) / RA-TA Plu Kaow Plus (Dietary Supplement Product)
+    * **company_name:** บริษัท วิตต้าโปร กรุ๊ป จำกัด
+    * **status:** สถานะผลิตภัณฑ์(คงอยู่)\ สถานะสถานที่ (คงอยู่)
+* **Food Registration 3:**
+    * **registration_number:** 10-1-08758-5-0087
+    * **product_name:** ผลิตภัณฑ์เสริมอาหาร เฮอร์เบิล แล็ป โฟร์ พลัส พลูคาว / HERBAL LAB 4 PLUS FISH MINT DIETARY SUPPLEMENT PRODUCT
+    * **company_name:** บริษัท กรุงเทพทิพ จำกัด
+    * **status:** สถานะผลิตภัณฑ์(คงอยู่)\ สถานะสถานที่ (คงอยู่)
+* **Food Registration 4:**
+    * **registration_number:** 10-1-08860-5-0001
+    * **product_name:** พลูคาว ซี พลัส (ผลิตภัณฑ์เสริมอาหาร)(ตรา พีเอสที) / PLU KAOW C PLUS (DIETARY SUPPLEMENT PRODUCT)(PST BRAND)
+    * **company_name:** บริษัท ปราสาททองโอสถ จำกัด
+    * **status:** สถานะผลิตภัณฑ์(ยกเลิกเนื่องจากย้ายใบอนุญาต ) \ สถานะสถานที่ (คงอยู่ 1/1/2443)
+* **Food Registration 5:**
+    * **registration_number:** 10-1-13660-5-0096
+    * **product_name:** พลูคาว / Houttuynia cordata Thunb
+    * **company_name:** บริษัท โพธิ์ประดิษฐ์สมุนไพร จำกัด
+    * **status:** สถานะผลิตภัณฑ์(คงอยู่)\ สถานะสถานที่ (คงอยู่)

@@ -1,0 +1,1 @@
+Thought: I need to extract the registration numbers from the text content.

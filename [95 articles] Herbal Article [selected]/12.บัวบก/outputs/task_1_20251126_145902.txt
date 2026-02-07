@@ -1,0 +1,5 @@
+# ===TRENDS_DATA===
+### Finding 1
+* **herb_name:** Gotu Kola (Centella asiatica; 崩大碗)
+* **wellness_context_summary:** Gotu Kola is a herb that is high in immunity boosting properties and is also a powerful antioxidant. It is used as a brain tonic and general tonic in Chinese Medicine, and is known in the West as Gotu Kola, Pegaga in Malay and Indonesian medicine, and as Brahmi in Ayurveda. Research has found that Gotu Kola can help the immune system to distinguish more effectively between friend and foe, and has liver protective effects.
+* **source_url:** https://globalwellnessinstitute.org/wp-content/uploads/2020/04/SpaChina-MAY-2020-Mental-Wellness-Initiative-Column_Gerard-Bodeker-Vivienne.pdf

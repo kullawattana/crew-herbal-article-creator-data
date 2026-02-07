@@ -1,0 +1,75 @@
+# ===MASTER_FACT_SHEET=== 
+## Consolidated Facts for: Acanthus ebracteatus
+* **Trend Fact:** Sea Holly, also known as Acanthus species, is a prominent herb in traditional Thai medicine. It is used to treat diseases and heal wounds, and is also used in Asian recipes to improve the life quality of cancer patients and cure skin conditions such as wound healing.
+* **Trend Fact:** Sargassum species, commonly known as gulf-weed or sea holly, have been found to have therapeutic potential and health benefits. Studies have shown that Sargassum species have antioxidant, anti-inflammatory, and antimicrobial properties, making them a potential treatment for various diseases.
+* **Trend Fact:** Eryngium Planum, commonly called Sea Holly, is a hardy and drought-tolerant shrub that thrives in poor soil. It is used in traditional medicine to treat various health conditions, including wound healing and skin conditions.
+* **Trend Fact:** Sea Holly is one of the herbal ingredients listed on the company's website for Tapee Tea, which has been warned by the FDA for potential health risks. The tea's herbal ingredients, including wolfberry, sea holly, java tea, and cat's whiskers, may interact with certain medications or have adverse effects in certain individuals.
+* **Trend Fact:** Sea Holly is mentioned as one of the flowering shrubs that thrive in full sun, according to Gardenia. It is a fragrant summer border plant that can be used in gardening.
+* **Lab Fact (Experimental Method):** Not found
+* **Lab Fact (Extraction Method):** Not found
+* **Lab Fact (Compound Identified):** Not found
+* **Lab Fact (Chromatography - TLC):** Not found
+* **Lab Fact (Pharmacological Finding):** Not found
+* **Lab Fact (Cosmetic or Clinical Effect):** Not found
+* **Lab Fact (Quality Control):** Not found
+* **Science Fact (Herb):** Acanthus ebracteatus
+* **Science Fact (Compound):** Not found
+* **Science Fact (Abstracts):**
+  * **Study 1:**
+    * **abstract_raw:** Not found
+    * **citation_apa:** Not found
+* **Compliance Fact (Food Registration 1):** registration_number=10-1-13660-5-0080, product_name=เหงือกปลาหมอ / Sea Holly, company_name=บริษัท โพธิ์ประดิษฐ์สมุนไพร จำกัด, status=สถานะผลิตภัณฑ์(ยกเลิกโดยผู้ประกอบการ 26/10/2561) \ สถานะสถานที่ (คงอยู่ )
+* **Compliance Fact (Food Registration 2):** registration_number=10-1-13660-5-0081, product_name=เหงือกปลาหมอ (ผง) / Sea Holly (Powder), company_name=บริษัท โพธิ์ประดิษฐ์สมุนไพร จำกัด, status=สถานะผลิตภัณฑ์(ยกเลิกโดยผู้ประกอบการ 26/10/2561) \ สถานะสถานที่ (คงอยู่ )
+* **Compliance Fact (Food Registration 3):** registration_number=G413/64, product_name=ยาขี้ผึ้งผสมเหงือกปลาหมอ ตราศิลาทอง  / COMPOUND SEA HOLLY OINTMENT GOLDSTONE BRAND, company_name=ลิ้มเซ่งฮึง, status=คงอยู่
+* **Compliance Fact (Food Registration 4):** registration_number=G741/60, product_name=ยาแคปซูลผสมเหงือกปลาหมอ / -, company_name=บริษัท เดวา เฮิร์บ จำกัด, status=คงอยู่
+* **Compliance Fact (Food Registration 5):** registration_number=G596/49, product_name=ยาแคปซูลเหงือกปลาหมอ / -, company_name=กลุ่มสตรีในโครงการพระราชประสงค์ดอนขุนห้วย, status=คงอยู่
+* **Compliance Fact (Safety Dosage):** Not found
+* **Compliance Fact (Safety Warning):** None found
+* **Safety Fact (Active Ingredient):** Not found
+* **Safety Fact (Ingredient Purpose):** Not found
+* **Safety Fact (Uses):** Not found
+* **Safety Fact (Warnings):** Not found
+* **Safety Fact (Directions):** Not found
+* **Safety Fact (Other Info):** Not found
+* **Safety Fact (Inactive Ingredients):** Not found
+* **Safety Fact (Questions):** Not found
+* **Toxicity Fact (Summary):** Not found
+* **Toxicity Fact (Mechanism):** Not found
+* **Toxicity Fact (Side Effects):** Not found
+* **Toxicity Fact (Case Reports):** Not found
+* **Culture Fact (Community - Tha Chang Wittayakhom School Museum):** Tha Chang Wittayakhom School Museum
+* **Culture Fact (Location - Tha Chang Wittayakhom School Museum):** Nakhon Luang District, Phra Nakhon Si Ayutthaya Province
+* **Culture Fact (Ethnic Group - Tha Chang Wittayakhom School Museum):** Thai
+* **Culture Fact (Community Highlight - Tha Chang Wittayakhom School Museum):** The community of Tha Chang Wittayakhom School Museum is known for its traditional metalwork, particularly the production of knives and swords. The community has a long history of metalwork, dating back to the Ayutthaya period. The museum showcases various types of knives and swords, as well as other metalwork products.
+* **Culture Fact (Name Etymology - Tha Chang Wittayakhom School Museum):** The name "Tha Chang Wittayakhom" is derived from the Thai words "Tha Chang," meaning "elephant pier," and "Wittayakhom," meaning "school." The name reflects the community's history and its location near the old elephant pier.
+* **Culture Fact (Environment - Tha Chang Wittayakhom School Museum):** The community is situated near the old elephant pier and is surrounded by a network of canals and waterways. The area is known for its rich cultural heritage and traditional way of life.
+* **Culture Fact (Local Wisdom - Tha Chang Wittayakhom School Museum):** The community has a strong tradition of metalwork and craftsmanship. The museum showcases various types of metalwork products, including knives, swords, and other decorative items.
+* **Culture Fact (Organization - Tha Chang Wittayakhom School Museum):** The community is home to the Tha Chang Wittayakhom School Museum, which is dedicated to preserving and promoting the community's cultural heritage.
+* **Culture Fact (Local Name - Tha Chang Wittayakhom School Museum):** Khamin Chan
+* **Culture Fact (Use - Tha Chang Wittayakhom School Museum):** Relieve stomach pain
+* **Culture Fact (Processing - Tha Chang Wittayakhom School Museum):** Drying
+* **Culture Fact (Source - Tha Chang Wittayakhom School Museum):** https://db.sac.or.th/museum/museum-detail/274
+* **Culture Fact (Community - Ban Khao Yisar):** Ban Khao Yisar
+* **Culture Fact (Location - Ban Khao Yisar):** Yisar Subdistrict, Amphawa District, Samut Songkhram Province
+* **Culture Fact (Ethnic Group - Ban Khao Yisar):** Thai
+* **Culture Fact (Community Highlight - Ban Khao Yisar):** Ban Khao Yisar is a community with a rich cultural heritage and traditional way of life. The community is known for its traditional industries, such as the production of charcoal and the catching of fish.
+* **Culture Fact (Name Etymology - Ban Khao Yisar):** The name "Khao Yisar" is derived from the Thai words "Khao," meaning "mountain," and "Yisar," which is believed to be derived from the word "pasan," meaning "market."
+* **Culture Fact (Environment - Ban Khao Yisar):** The community is situated near a mountain and is surrounded by a network of canals and waterways. The area is known for its rich cultural heritage and traditional way of life.
+* **Culture Fact (Local Wisdom - Ban Khao Yisar):** The community has a strong tradition of craftsmanship and industry. The community is known for its traditional industries, such as the production of charcoal and the catching of fish.
+* **Culture Fact (Organization - Ban Khao Yisar):** The community is home to the Ban Khao Yisar Museum, which is dedicated to preserving and promoting the community's cultural heritage.
+* **Culture Fact (Local Name - Ban Khao Yisar):** Pho Pu Sri Racha
+* **Culture Fact (Use - Ban Khao Yisar):** Fishing
+* **Culture Fact (Processing - Ban Khao Yisar):** Smoking
+* **Culture Fact (Source - Ban Khao Yisar):** https://wikicommunity.sac.or.th/community/870
+* **Internal RAG Fact (Herbal):** Not found
+* **Internal RAG Fact (Cultural):** No relevant information about เหงือกปลาหมอ was found in the provided cultural context.
+* **Source URL (Trend):** https://www.news-medical.net/news/20240124/Could-this-traditional-Thai-medicine-have-wound-healing-abilities.aspx
+* **Source URL (Trend):** https://pmc.ncbi.nlm.nih.gov/articles/PMC3931196/
+* **Source URL (Trend):** https://samaritan.com/3-Bare-Roots-Longfield-Gardens-407924/
+* **Source URL (Trend):** https://www.consumerlab.com/recalls/14782/fda-warns-consumers-not-to-use-tapee-tea/
+* **Source URL (Trend):** https://www.gardenia.net/guide/flowering-shrubs-that-thrive-in-full-sun
+* **Source URL (Compliance):** https://www.fda.moph.go.th/
+* **Source URL (Safety):** None
+* **Source URL (Toxicity):** None
+* **Source URL (Culture):** https://db.sac.or.th/museum/museum-detail/274
+* **Source URL (Culture):** https://wikicommunity.sac.or.th/community/870

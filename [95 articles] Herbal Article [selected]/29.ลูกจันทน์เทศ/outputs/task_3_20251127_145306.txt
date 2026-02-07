@@ -1,0 +1,33 @@
+# ===RESEARCH_DATA===
+## Scientific Evidence for: Myristica fragrans
+* **herb_name:** Myristica fragrans
+* **herb_name_scientific:** Myristica fragrans
+### Validated Compounds
+* **Compound 1:**
+    * **compound_name:** β-sitosterol
+    * **mechanism_name:** Anti-inflammatory
+    * **supporting_studies:**
+        * **Study 1:** 
+            * **study_type:** Review
+            * **abstract_raw:** Myristica fragrans: A comprehensive review of its botanical characterization, traditional uses, phytochemistry, and pharmacological properties.
+            * **key_findings:** Myristica fragrans has been traditionally used in herbal medicine, but its potential anti-cancer effects remain largely unexplored. This study aimed to investigate the molecular mechanisms of nutmeg against bladder cancer through an integrated strategy combining network pharmacology, molecular docking, and in vitro validation.
+            * **pmid:** 41275940
+            * **canonical_url:** https://doi.org/10.1016/j.jep.2025.120916
+            * **citation_apa:** 
+        * **Study 2:** 
+            * **study_type:** Journal Article
+            * **abstract_raw:** Mechanism of active component β-sitosterol from Myristica fragrans inducing apoptosis in bladder cancer cells via regulating the BCL-2/BAX/caspase-3 pathway.
+            * **key_findings:** This study demonstrates that β-sitosterol, a major bioactive compound of nutmeg, suppresses bladder cancer progression by modulating the BCL-2/BAX/Caspase-3 axis and PI3K-Akt signaling pathway.
+            * **pmid:** 41256326
+            * **canonical_url:** https://doi.org/10.3389/fonc.2025.1698721
+            * **citation_apa:** 
+        * **Study 3:** 
+            * **study_type:** Review
+            * **abstract_raw:** Fructus Amomi Rotundus, Fructus Galangae, Semen Alpiniae Katsumadai and Semen Myristicae comparison of traditional medicinal uses, phytoconstituents, bioactivities.
+            * **key_findings:** This study aimed to investigate the molecular mechanisms of nutmeg against bladder cancer through an integrated strategy combining network pharmacology, molecular docking, and in vitro validation.
+            * **pmid:** 41176135
+            * **canonical_url:** https://doi.org/10.1016/j.jep.2025.120817
+            * **citation_apa:** 
+
+### Overall Summary
+* **summary:** Myristica fragrans has been traditionally used in herbal medicine, but its potential anti-cancer effects remain largely unexplored. This study aimed to investigate the molecular mechanisms of nutmeg against bladder cancer through an integrated strategy combining network pharmacology, molecular docking, and in vitro validation.

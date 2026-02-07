@@ -1,0 +1,25 @@
+# ===RESEARCH_DATA===
+## Scientific Evidence for: Sapindus rarak
+* **herb_name:** Sapindus rarak
+* **herb_name_scientific:** Sapindus rarak
+### Validated Compounds
+* **Compound 1:**
+    * **compound_name:** Saponin
+    * **mechanism_name:** Natural surfactant
+    * **supporting_studies:**
+        * **Study 1:** (Data from the first item in studies_data)
+            * **study_type:** Journal Article
+            * **abstract_raw:** High-purity CaO cubic crystallites extracted from limestone exhibited excellent activity as base catalysts for waste cooking oil (WCO) conversion into biodiesel. Saponin from Sapindus rarak extract acted as a surfactant in CaO extraction and transformation into well-defined cubic microcrystallites. The application of saponin from Sapindus rarak extract as a surfactant for CaO production results in a high level of CaO purity and particle size reduction compared to directly calcined limestone (CaO-MgO). The catalytic activity was evaluated on CaO from hydrothermal and co-precipitation synthesis, MgO and CaO-MgO derived from limestone, giving hydrothermal CaO catalysts enhanced biodiesel yield. Optimization of transesterification conditions using Box Behnken Design response surface methodology achieved 92.40% biodiesel yield at 65 degrees C, 3 h reaction time and when using 5% of CaO catalysts.
+            * **key_findings:** Saponin from Sapindus rarak extract can be used as a natural surfactant for the synthesis of mesoporous zeolite Y, which can be used for the deoxygenation of Reutealis trisperma oil to biofuel.
+            * **pmid:** 39049891
+            * **canonical_url:** https://pubmed.ncbi.nlm.nih.gov/39049891/
+            * **citation_apa:** (Widiarti et al., 2024)
+        * **Study 2:** (Data from the second item in studies_data)
+            * **study_type:** Journal Article
+            * **abstract_raw:** Saponin is a plant-derived chemical with an amphiphilic glycoconjugate structure extracted from sapindaceae plants like Sapindus rarak. This study investigated saponin extract of Sapindus rarak as a natural template for formation of mesoporous zeolite Y. Surface area and mesoporosity of zeolite Y were improved with optimization of Sapindus rarak extract (SRE) concentration (Y-Ln; n = 2, 5, 10 or 15 mL), reaching 216.26 m(2) mesoporous area and 0.214 cm(3) g(-1) mesoporous volume for Y-L10 samples. A different loading of Ni was impregnated onto Y-L10 zeolite to improve Lewis/Bronsted acidity as catalysts in the deoxygenation of Reutealis trisperma oil (RTO) into hydrocarbon fuels. Impregnating 15% Ni on NaY zeolite enhanced Lewis acidity to 0.4556 mmol g(-1), producing 48.8% liquid oil with 85.43% degree of deoxygenation. A high selectivity towards C15 and C17 hydrocarbon was analyzed from liquid yield, indicating the contributing factor from Lewis acidity and mesoporosity to enhance deoxygenation and prevent the hydrocracking reaction.
+            * **key_findings:** Saponin from Sapindus rarak extract can be used as a natural template for the formation of mesoporous zeolite Y, which can be used for the deoxygenation of Reutealis trisperma oil to biofuel.
+            * **pmid:** 37936636
+            * **canonical_url:** https://pubmed.ncbi.nlm.nih.gov/37936636/
+            * **citation_apa:** (Aziz et al., 2023)
+### Overall Summary
+* **summary:** Saponin from Sapindus rarak extract can be used as a natural surfactant for the synthesis of mesoporous zeolite Y, which can be used for the deoxygenation of Reutealis trisperma oil to biofuel.

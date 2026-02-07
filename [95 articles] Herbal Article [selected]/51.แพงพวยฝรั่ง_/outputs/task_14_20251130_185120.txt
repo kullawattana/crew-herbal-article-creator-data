@@ -1,0 +1,48 @@
+# ===AUDIT_DATA_INTEGRITY_REPORT===
+*   **Collaboration Robustness (Data Loss):** 65.75%
+*   **Explanation Clarity (Hallucination/Handling):** 58.54%
+*   **Dropped Entities (Facts in Fact Sheet but not Article):**
+    *   Lab Fact (Cosmetic or Clinical Effect): No cosmetic or clinical effects available
+    *   Compliance Fact (Food Registration 1): None found
+    *   Compliance Fact (Safety Warning): None found
+    *   Safety Fact (Ingredient Purpose): No ingredient purpose available
+    *   Safety Fact (Uses): No uses available
+    *   Safety Fact (Directions): No directions available
+    *   Safety Fact (Other Info): No other information available
+    *   Safety Fact (Inactive Ingredients): No inactive ingredients available
+    *   Safety Fact (Questions): No questions available
+    *   Toxicity Fact (Summary): Specific details about affected organ systems (peripheral and central nervous, cardiovascular, hematologic, renal, and pulmonary systems) and "Neurotoxicity is the most commonly reported adverse event."
+    *   Toxicity Fact (Mechanism): The microtubular apparatus plays a pivotal role in axonal transport and secretory function. Vinca alkaloids bind to specific sites on the β-subunit and prevent propagation of the microtubule.
+    *   Culture Fact (Community - Wat Nam Cham - location): Rong Wua Daeng Subdistrict, San Kamphaeng District, Chiang Mai Province
+    *   Culture Fact (Community - Wat Nam Cham - ethnic_group): Unspecified
+    *   Culture Fact (Community - Wat Nam Cham - traditional_use): Kam Matthan
+    *   Culture Fact (Community - Wat Nam Cham - processing_method): Kam Matthan 3 Heng
+    *   Culture Fact (Community - Thailand Cultural Encyclopedia - location): Southern Region
+    *   Culture Fact (Community - Thailand Cultural Encyclopedia - ethnic_group): Unspecified
+    *   Culture Fact (Community - Thailand Cultural Encyclopedia - local_name): Thailand Cultural Encyclopedia, Southern Region, Volume 1 (Ga - Ga, Proverbs - Islands, Boats)
+    *   Culture Fact (Community - Thailand Cultural Encyclopedia - traditional_use): Thailand Cultural Encyclopedia, Southern Region, Volume 2 (Islands: Ayat - Kao, Fish)
+    *   Culture Fact (Community - Thailand Cultural Encyclopedia - processing_method): Thailand Cultural Encyclopedia, Southern Region, Volume 3 (Elephant Enclosure: Wild Elephant Capture - Jit Dhammo)
+    *   Culture Fact (Community - Anthropological Archives Database - location): Unspecified
+    *   Culture Fact (Community - Anthropological Archives Database - ethnic_group): Unspecified
+    *   Culture Fact (Community - Anthropological Archives Database - local_name): Fieldwork (Jong) in Kwang Si
+    *   Culture Fact (Community - Anthropological Archives Database - traditional_use): Fieldwork (Jong) in Kwang Si
+    *   Culture Fact (Community - Anthropological Archives Database - processing_method): Fieldwork (Jong) in Kwang Si
+*   **Hallucinated Entities (Facts in Article but not Fact Sheet):**
+    *   "...indicating a potential gap in the market for products derived from this plant."
+    *   "...suggest a basis for developing herbal or traditional medicine products that could appeal to those interested in natural remedies or ethnobotanicals."
+    *   "...is a plant of significant scientific interest."
+    *   "...they are known for their potential medicinal properties."
+    *   "...highlights the need for thorough scientific investigation to ensure the efficacy and safety of any product derived from Catharanthus roseus."
+    *   "...underscores its significance in traditional medicine and ethnobotany."
+    *   "The safety and regulatory aspects of Catharanthus roseus are critical..."
+    *   "...necessitate careful consideration of dosage limits and safety warnings."
+    *   "Any product development must prioritize addressing these safety concerns through rigorous testing, appropriate dosing, and clear warning labels to mitigate risks to consumers."
+    *   "The strategic analysis for developing a product from Catharanthus roseus involves considering the market opportunity, technical feasibility, and critical constraints related to safety and toxicity."
+    *   "While there is potential interest in products derived from this plant due to its traditional use and scientific interest, the technical feasibility is influenced by the need for thorough research and development to ensure safety and efficacy."
+    *   "The primary constraints are the significant adverse effects associated with vinca alkaloids, necessitating a cautious approach to product development."
+    *   "The strategic recommendation includes conducting market research, investing in scientific investigation, performing comprehensive safety and efficacy testing, ensuring regulatory compliance, and developing educational materials that clearly communicate the potential benefits and risks of Catharanthus roseus-derived products."
+    *   "...presents a complex scenario for product development."
+    *   "The lack of specific trend data and the known toxicity of its vinca alkaloids are critical factors that must be addressed through rigorous research, testing, and regulatory compliance."
+    *   "By prioritizing safety, efficacy, and consumer education, it is possible to develop a product from Catharanthus roseus that meets consumer needs while minimizing risks."
+    *   "This approach not only respects the ancient wisdom surrounding this plant but also aligns with modern strategic interests in natural remedies and ethnobotanicals."
+*   **Feedback:** The Final Article demonstrates good transfer of core scientific facts (herb, compound, warnings, case reports) and correctly handles explicit "not found" entries for abstracts and citations. The internal RAG facts and source URLs are also accurately included. However, there is significant data loss, particularly concerning specific cultural details, several "no information available" safety/compliance facts, and the detailed toxicity mechanism and summary. The article also introduces a substantial number of interpretive, inferential, and strategic statements that are not explicit facts in the Master Fact Sheet, leading to a notable reduction in the clarity score due to hallucination under a zero-tolerance audit.

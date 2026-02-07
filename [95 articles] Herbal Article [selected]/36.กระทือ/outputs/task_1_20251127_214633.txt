@@ -1,0 +1,25 @@
+# ===TRENDS_DATA===
+### Finding 1
+* **herb_name:** Shampoo Ginger (Zingiber zerumbet)
+* **wellness_context_summary:** Shampoo Ginger is a wild ginger plant known for its medicinal properties. It has been traditionally employed in alternative medicine to aid digestion and reduce inflammation. The plant's sap can be used as a natural shampoo and conditioner, promoting hair health and hydration. Shampoo Ginger has also been used to treat various health conditions, including digestive and liver infections.
+* **source_url:** https://www.lemon8-app.com/@_yahsvitalherbs_/7564230371299131959?region=us
+
+### Finding 2
+* **herb_name:** Shampoo Ginger (Awapuhi)
+* **wellness_context_summary:** Shampoo Ginger, also known as Awapuhi, is a Hawaiian treasure that has been used for centuries for its remarkable benefits. The plant's sap can be used as a natural shampoo and conditioner, leaving hair soft, shiny, and free of impurities. Awapuhi Ginger has also been used to treat various health conditions, including inflammation and digestion issues.
+* **source_url:** https://awapuhiginger.com/discover-the-benefits-of-awapuhi-ginger-a-hawaiian-treasure/
+
+### Finding 3
+* **herb_name:** Shampoo Ginger (Zingiber zerumbet)
+* **wellness_context_summary:** Shampoo Ginger is a type of ginger plant that has been used in traditional medicine for its health benefits. The plant's sap can be used as a natural shampoo and conditioner, and it has been traditionally employed to aid digestion and reduce inflammation. Shampoo Ginger has also been used to treat various health conditions, including digestive and liver infections.
+* **source_url:** https://www.wisdomlib.org/concept/zingiber-zerumbet
+
+### Finding 4
+* **herb_name:** Shampoo Ginger
+* **wellness_context_summary:** Shampoo Ginger has amazing health benefits, including reducing inflammation and aiding digestion. The plant's sap can be used as a natural shampoo and conditioner, promoting hair health and hydration. Shampoo Ginger has also been used to treat various health conditions, including digestive and liver infections.
+* **source_url:** https://www.facebook.com/groups/2702522049803204/posts/6038985136156862/
+
+### Finding 5
+* **herb_name:** Shampoo Ginger
+* **wellness_context_summary:** Shampoo Ginger is a natural shampoo that gently cleanses the hair and scalp. The plant's sap can be used as a natural conditioner, leaving hair soft, shiny, and free of impurities. Shampoo Ginger has also been used to treat various health conditions, including inflammation and digestion issues.
+* **source_url:** https://www.facebook.com/Seed2Plant.in/posts/benefits-of-shampoo-ginger-natural-shampoogently-squeeze-the-red-cones-to-collec/1277885154346159/

@@ -1,0 +1,22 @@
+# ===TRENDS_DATA===
+## Wellness Trends for: Chili Pepper
+### Finding 1
+* **herb_name:** Chili Pepper
+* **wellness_context_summary:** There is no specific information about Chili Pepper on the Global Wellness Institute website. However, there is information about Ayurveda, a holistic system of medicine from India that uses a constitutional model. Its aim is to provide guidance regarding food and lifestyle so that healthy people can stay healthy and those with health challenges can improve their health.
+* **source_url:** https://globalwellnessinstitute.org/initiatives/wellness-evidence/alternative-therapies/ayurveda/
+### Finding 2
+* **herb_name:** Chili Pepper
+* **wellness_context_summary:** There is no specific information about Chili Pepper on the Global Wellness Institute website. However, there is information about Ayurveda, a holistic system of medicine from India that uses a constitutional model. Its aim is to provide guidance regarding food and lifestyle so that healthy people can stay healthy and those with health challenges can improve their health.
+* **source_url:** https://globalwellnessinstitute.org/initiatives/wellness-evidence/alternative-therapies/ayurveda/
+### Finding 3
+* **herb_name:** Chili Pepper
+* **wellness_context_summary:** There is no specific information about Chili Pepper on the Global Wellness Institute website. However, there is information about Ayurveda, a holistic system of medicine from India that uses a constitutional model. Its aim is to provide guidance regarding food and lifestyle so that healthy people can stay healthy and those with health challenges can improve their health.
+* **source_url:** https://globalwellnessinstitute.org/initiatives/wellness-evidence/alternative-therapies/ayurveda/
+### Finding 4
+* **herb_name:** Chili Pepper
+* **wellness_context_summary:** There is no specific information about Chili Pepper on the Global Wellness Institute website. However, there is information about Ayurveda, a holistic system of medicine from India that uses a constitutional model. Its aim is to provide guidance regarding food and lifestyle so that healthy people can stay healthy and those with health challenges can improve their health.
+* **source_url:** https://globalwellnessinstitute.org/initiatives/wellness-evidence/alternative-therapies/ayurveda/
+### Finding 5
+* **herb_name:** Chili Pepper
+* **wellness_context_summary:** There is no specific information about Chili Pepper on the Global Wellness Institute website. However, there is information about Ayurveda, a holistic system of medicine from India that uses a constitutional model. Its aim is to provide guidance regarding food and lifestyle so that healthy people can stay healthy and those with health challenges can improve their health.
+* **source_url:** https://globalwellnessinstitute.org/initiatives/wellness-evidence/alternative-therapies/ayurveda/

@@ -1,0 +1,29 @@
+# ===COMPLIANCE_DATA===
+## Thai FDA Status for: Musa paradisiaca
+* **herb_name:** Musa paradisiaca
+### Food Registrations
+* **Food Registration 1:**
+    * **registration_number:** 10-1-01452-1-0001
+    * **product_name:** กล้วยน้ำว้าอบ (ตรา บาบาเน่)
+    * **company_name:** บริษัท ควอลิตี้ มีท จำกัด
+    * **status:** สถานะผลิตภัณฑ์(คงอยู่)\ สถานะสถานที่ (คงอยู่)
+* **Food Registration 2:**
+    * **registration_number:** 10-1-01452-1-0002
+    * **product_name:** กล้วยน้ำว้าอบ (ตรา เรือนไทย)
+    * **company_name:** บริษัท ควอลิตี้ มีท จำกัด
+    * **status:** สถานะผลิตภัณฑ์(คงอยู่)\ สถานะสถานที่ (คงอยู่)
+* **Food Registration 3:**
+    * **registration_number:** 10-1-01452-1-0015
+    * **product_name:** กล้วยน้ำว้าอบ (ตราสุธีรา)
+    * **company_name:** บริษัท ควอลิตี้ มีท จำกัด
+    * **status:** สถานะผลิตภัณฑ์(คงอยู่)\ สถานะสถานที่ (คงอยู่)
+* **Food Registration 4:**
+    * **registration_number:** 10-1-01554-1-0022
+    * **product_name:** ซุปฟักทอง,กล้วยน้ำว้า,เนื้อไก่ผสมไข่สำเร็จรูป (สูตร 2) / PUMPKIN,BANANA,CHICKEN AND EGG SOUP (FORMULA II)
+    * **company_name:** บริษัท สหภัณฑ์ เซ็นจูรี่ จำกัด
+    * **status:** สถานะผลิตภัณฑ์(คงอยู่)\ สถานะสถานที่ (คงอยู่)
+* **Food Registration 5:**
+    * **registration_number:** 10-1-01554-1-0039
+    * **product_name:** ซุปเนื้อปลา, กล้วยน้ำว้า, ไข่ไก่, ฟักทอง, งา สำเร็จรูป / FISH, BANANA, EGG, PUMPKIN AND SESAME SOUP
+    * **company_name:** บริษัท สหภัณฑ์ เซ็นจูรี่ จำกัด
+    * **status:** สถานะผลิตภัณฑ์(คงอยู่)\ สถานะสถานที่ (คงอยู่)

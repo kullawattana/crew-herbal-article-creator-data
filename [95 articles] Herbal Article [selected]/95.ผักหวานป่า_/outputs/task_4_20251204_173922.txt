@@ -1,0 +1,29 @@
+# ===COMPLIANCE_DATA===
+## Thai FDA Status for: Melientha suavis
+* **herb_name:** Melientha suavis
+### Food Registrations
+* **Food Registration 1:**
+    * **registration_number:** 19-2-02157-2-0077
+    * **product_name:** ผักหวานป่าตัดแต่ง
+    * **company_name:** ร้านสมเกีรติ ผักอร่อย
+    * **status:** สถานะผลิตภัณฑ์(ยกเลิก 20/9/2560) \ สถานะสถานที่ (ยกเลิก 20/9/2560)
+* **Food Registration 2:**
+    * **registration_number:** 19-2-02759-6-0020
+    * **product_name:** ผักหวานป่า ตรารุ่งฟ้าฟาร์ม /  -
+    * **company_name:** รุ่งฟ้าฟาร์ม
+    * **status:** สถานะผลิตภัณฑ์(คงอยู่)\ สถานะสถานที่ (คงอยู่)
+* **Food Registration 3:**
+    * **registration_number:** 19-2-03460-6-0045
+    * **product_name:** ผักหวานป่าตัดแต่ง / trimmed wild sweet vegetable
+    * **company_name:** บริษัท ผักอร่อย ฟาร์ม จำกัด
+    * **status:** สถานะผลิตภัณฑ์(คงอยู่)\ สถานะสถานที่ (คงอยู่)
+* **Food Registration 4:**
+    * **registration_number:** 38-2-00865-6-0001
+    * **product_name:** เครื่องดื่มชนิดผงผักหวานป่า ตราสวนตองแคร์ / OPILIACARE BEVERAGE POWDER
+    * **company_name:** ผักหวานป่า สวนตองแคร์
+    * **status:** สถานะผลิตภัณฑ์(คงอยู่)\ สถานะสถานที่ (คงอยู่)
+* **Food Registration 5:**
+    * **registration_number:** 38-2-00865-6-0002
+    * **product_name:** ปังกรอบผักหวานน้ำตาลเนย
+    * **company_name:** ผักหวานป่า สวนตองแคร์
+    * **status:** สถานะผลิตภัณฑ์(คงอยู่)\ สถานะสถานที่ (คงอยู่)

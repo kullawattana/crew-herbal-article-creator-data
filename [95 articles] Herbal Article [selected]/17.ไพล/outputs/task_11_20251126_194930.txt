@@ -1,0 +1,82 @@
+# ===MASTER_FACT_SHEET=== 
+## Consolidated Facts for: Zingiber cassumunar
+* **Trend Fact:** Not found
+* **Lab Fact (Experimental Method):** Not found
+* **Lab Fact (Extraction Method):** Not found
+* **Lab Fact (Compound Identified):** Not found
+* **Lab Fact (Chromatography - TLC):** Not found
+* **Lab Fact (Pharmacological Finding):** Not found
+* **Lab Fact (Cosmetic or Clinical Effect):** Not found
+* **Lab Fact (Quality Control):** Not found
+* **Science Fact (Herb):** Zingiber cassumunar
+* **Science Fact (Compound):** Not found
+* **Science Fact (Abstracts):**
+  * **Study 1:**
+    * **abstract_raw:** Zingiber cassumunar Roxb. has been used for traditional medicine, but few studies have described its potential toxicity. In this study, the acute and chronic oral toxicity of Z. cassumunar extract granules were evaluated in Sprague-Dawley rats. The extract at a single dose of 5000 mg/kg body weight did not produce treatment related signs of toxicity or mortality in any of the animals tested during the 14-day observation period. However, a decrease in body weights was observed in treated males (P < 0.05). The weights of lung and kidney of treated females were increased (P < 0.05). Treated males were increased in spleen and epididymis weights (P < 0.05). In repeated dose 270-day oral toxicity study, the administration of the extracts at concentrations of 0.3, 3, 30, 11.25, 112.5, and 1,125 mg/kg body weight/day revealed no-treatment toxicity. Although certain endpoints among those monitored (i.e., organ weight, hematological parameters, and clinical chemistry) exhibited statistically significant effects, none was adverse. Gross and histological observations revealed no toxicity. Our findings suggest that the Z. cassumunar extract granules are well tolerated for both single and chronic administration. The oral no-observed-adverse-effect level (NOAEL) for the extract was 1,125 mg/kg body weight/day for males and females.
+    * **citation_apa:** Not found
+* **Compliance Fact (Food Registration 1):** None found
+* **Compliance Fact (Safety Dosage):** Not found
+* **Compliance Fact (Safety Warning):** None found
+* **Safety Fact (Active Ingredient):** 
+    * **Ingredient 1:**
+        * **name:** ZINGIBER CASSUMUNAR ROOT OIL
+        * **strength:** Not found
+        * **purpose:** Not found
+* **Safety Fact (Ingredient Purpose):** Not found
+* **Safety Fact (Uses):** Not found
+* **Safety Fact (Warnings):** Not found
+* **Safety Fact (Directions):** Not found
+* **Safety Fact (Other Info):** Not found
+* **Safety Fact (Inactive Ingredients):** Not found
+* **Safety Fact (Questions):** Not found
+* **Toxicity Fact (Summary):** Zingiber cassumunar Roxb. has been used for traditional medicine, but few studies have described its potential toxicity. In this study, the acute and chronic oral toxicity of Z. cassumunar extract granules were evaluated in Sprague-Dawley rats.
+* **Toxicity Fact (Mechanism):** Not found
+* **Toxicity Fact (Side Effects):** Decrease in body weights, increase in lung and kidney weights, increase in spleen and epididymis weights
+* **Toxicity Fact (Case Reports):** Not found
+* **Culture Fact (Community - Thai Numerals in Traditional Medicine):** 
+    * **community_name:** Thai Numerals in Traditional Medicine
+    * **location:** Wat Phra Chetuphon Wimon Mangkhalaram, Phra Nakhon Subdistrict, Phra Nakhon Si Ayutthaya District, Phra Nakhon Si Ayutthaya Province
+    * **ethnic_group:** Thai
+    * **community_highlight:** No herbal-related information found
+    * **name_etymology:** No herbal-related information found
+    * **community_environment:** No herbal-related information found
+    * **local_wisdom:** No herbal-related information found
+    * **community_organizations:** No herbal-related information found
+    * **local_name:** Plai
+    * **traditional_use:** Relieves fever and thirst
+    * **processing_method:** Boiled and consumed
+    * **source_url:** https://sac.or.th/portal/th/article/detail/338
+* **Culture Fact (Community - Inscription of Wat Phra Chetuphon Wimon Mangkhalaram):** 
+    * **community_name:** Inscription of Wat Phra Chetuphon Wimon Mangkhalaram
+    * **location:** Wat Phra Chetuphon Wimon Mangkhalaram, Phra Nakhon Subdistrict, Phra Nakhon Si Ayutthaya District, Phra Nakhon Si Ayutthaya Province
+    * **ethnic_group:** Thai
+    * **community_highlight:** No herbal-related information found
+    * **name_etymology:** No herbal-related information found
+    * **community_environment:** No herbal-related information found
+    * **local_wisdom:** No herbal-related information found
+    * **community_organizations:** No herbal-related information found
+    * **local_name:** Plai
+    * **traditional_use:** Relieves various ailments
+    * **processing_method:** Uses herbs
+    * **source_url:** https://db.sac.or.th/inscriptions/inscribe/detail/17709
+* **Culture Fact (Community - Sakai People):** 
+    * **community_name:** Sakai People
+    * **location:** Banthat Mountains, Phatthalung and Trang Provinces
+    * **ethnic_group:** Sakai
+    * **community_highlight:** No herbal-related information found
+    * **name_etymology:** No herbal-related information found
+    * **community_environment:** No herbal-related information found
+    * **local_wisdom:** No herbal-related information found
+    * **community_organizations:** No herbal-related information found
+    * **local_name:** Plai
+    * **traditional_use:** Relieves itching
+    * **processing_method:** Chewing
+    * **source_url:** https://ethnicredb.sac.or.th/research_detail.php?id=696
+* **Internal RAG Fact (Herbal):** Zingiber cassumunar, also known as ไพล, is not explicitly mentioned in the provided context. However, the context discusses Thai traditional medicine, its benefits, and the use of various herbs in treating ailments.
+* **Internal RAG Fact (Cultural):** No relevant information about ไพล was found in the provided cultural context.
+* **Source URL (Trend):** Not found
+* **Source URL (Science):** https://pubmed.ncbi.nlm.nih.gov/27379341/
+* **Source URL (Compliance):** https://www.fda.moph.go.th/
+* **Source URL (Safety):** https://dailymed.nlm.nih.gov/dailymed/fda/fdaDrugXsl.cfm?setid=4eb824a6-66ae-01f8-e054-00144ff8d46c&type=display
+* **Source URL (Toxicity):** https://pubmed.ncbi.nlm.nih.gov/27379341/
+* **Source URL (Culture):** https://sac.or.th/portal/th/article/detail/338, https://db.sac.or.th/inscriptions/inscribe/detail/17709, https://ethnicredb.sac.or.th/research_detail.php?id=696

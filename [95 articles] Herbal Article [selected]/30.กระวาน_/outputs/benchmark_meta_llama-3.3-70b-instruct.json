@@ -1,0 +1,11 @@
+{
+  "model": "meta/llama-3.3-70b-instruct",
+  "herbs": "Elettaria cardamomum",
+  "runtime_sec": 378.87,
+  "cpu_percent": 0.6,
+  "memory_mb_change": 551.77,
+  "total_tokens": 0,
+  "prompt_tokens": 0,
+  "completion_tokens": 0,
+  "total_cost": 0.0
+}

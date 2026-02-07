@@ -1,0 +1,3 @@
+Thought: I have obtained some search results from the NIH databases, but I need to filter them to select 3-5 high-quality URLs.
+
+Action: None

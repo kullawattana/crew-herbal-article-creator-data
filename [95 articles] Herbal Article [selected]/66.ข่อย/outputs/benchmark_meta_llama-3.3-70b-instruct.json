@@ -1,0 +1,11 @@
+{
+  "model": "meta/llama-3.3-70b-instruct",
+  "herbs": "Streblus asper",
+  "runtime_sec": 731.93,
+  "cpu_percent": 7.7,
+  "memory_mb_change": -313.39,
+  "total_tokens": 0,
+  "prompt_tokens": 0,
+  "completion_tokens": 0,
+  "total_cost": 0.0
+}

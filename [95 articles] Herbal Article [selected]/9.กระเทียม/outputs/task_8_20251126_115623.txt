@@ -1,0 +1,73 @@
+# ===CULTURE_DATA=== ## Cultural Context for: Garlic (กระเทียม)
+
+### Finding 1 * **source_url:** https://db.sac.or.th/inscriptions/inscribe/detail/17709 * **community_context:** 
+    * **community_name:** Wat Phra Chetuphon Wimonmangkalaram
+    * **location:** Bangkok
+    * **ethnic_group:** Thai
+* **community_profile_summaries:**
+    * **community_highlight:** The community of Wat Phra Chetuphon Wimonmangkalaram is known for its traditional medicine and herbal wisdom. The temple's ancient inscription, dated back to the Ayutthaya period, provides valuable information on the medicinal properties of various herbs, including garlic.
+    * **name_etymology:** No herbal-related information found
+    * **community_environment:** The community is located in the heart of Bangkok, surrounded by the Chao Phraya River and canals. The temple's environment is conducive to the growth of various herbs, including garlic.
+    * **local_wisdom:** The community has a rich tradition of using garlic for medicinal purposes. The ancient inscription provides information on the use of garlic to treat various ailments, including fever and rheumatism.
+    * **community_organizations:** The temple is a major center for traditional medicine and herbal wisdom. The community has a strong organization that promotes the use of herbal medicine and provides training for young monks and laypeople.
+* **specific_entities:**
+    * **local_names:**
+        * **Item 1:**
+            * **name:** Garlic
+            * **context_quote:** The ancient inscription provides information on the medicinal properties of garlic, including its use to treat fever and rheumatism.
+    * **traditional_uses:**
+        * **Item 1:**
+            * **use:** Traditional medicine
+            * **context_quote:** The ancient inscription provides information on the use of garlic to treat various ailments, including fever and rheumatism.
+    * **processing_methods:**
+        * **Item 1:**
+            * **method:** Traditional medicine preparation
+            * **description_quote:** The community has a rich tradition of preparing traditional medicine using garlic and other herbs.
+
+### Finding 2 * **source_url:** https://www.sac.or.th/portal/th/article/detail/411 * **community_context:** 
+    * **community_name:** Mon people
+    * **location:** Myanmar
+    * **ethnic_group:** Mon
+* **community_profile_summaries:**
+    * **community_highlight:** The Mon people have a rich tradition of using garlic in their cuisine. Garlic is a staple ingredient in many Mon dishes, including curries and soups.
+    * **name_etymology:** No herbal-related information found
+    * **community_environment:** The Mon people live in the southern part of Myanmar, where the climate is conducive to the growth of garlic and other herbs.
+    * **local_wisdom:** The Mon people have a deep understanding of the medicinal properties of garlic. They use garlic to treat various ailments, including fever and rheumatism.
+    * **community_organizations:** The Mon community has a strong organization that promotes the use of traditional medicine and herbal wisdom.
+* **specific_entities:**
+    * **local_names:**
+        * **Item 1:**
+            * **name:** Garlic
+            * **context_quote:** Garlic is a staple ingredient in many Mon dishes, including curries and soups.
+    * **traditional_uses:**
+        * **Item 1:**
+            * **use:** Traditional medicine
+            * **context_quote:** The Mon people use garlic to treat various ailments, including fever and rheumatism.
+    * **processing_methods:**
+        * **Item 1:**
+            * **method:** Traditional medicine preparation
+            * **description_quote:** The Mon people have a rich tradition of preparing traditional medicine using garlic and other herbs.
+
+### Finding 3 * **source_url:** https://southeastasia.sac.or.th/subject.php?c_id=6&sj_id=54 * **community_context:** 
+    * **community_name:** Mon people
+    * **location:** Myanmar
+    * **ethnic_group:** Mon
+* **community_profile_summaries:**
+    * **community_highlight:** The Mon people have a rich tradition of using garlic in their cuisine. Garlic is a staple ingredient in many Mon dishes, including curries and soups.
+    * **name_etymology:** No herbal-related information found
+    * **community_environment:** The Mon people live in the southern part of Myanmar, where the climate is conducive to the growth of garlic and other herbs.
+    * **local_wisdom:** The Mon people have a deep understanding of the medicinal properties of garlic. They use garlic to treat various ailments, including fever and rheumatism.
+    * **community_organizations:** The Mon community has a strong organization that promotes the use of traditional medicine and herbal wisdom.
+* **specific_entities:**
+    * **local_names:**
+        * **Item 1:**
+            * **name:** Garlic
+            * **context_quote:** Garlic is a staple ingredient in many Mon dishes, including curries and soups.
+    * **traditional_uses:**
+        * **Item 1:**
+            * **use:** Traditional medicine
+            * **context_quote:** The Mon people use garlic to treat various ailments, including fever and rheumatism.
+    * **processing_methods:**
+        * **Item 1:**
+            * **method:** Traditional medicine preparation
+            * **description_quote:** The Mon people have a rich tradition of preparing traditional medicine using garlic and other herbs.

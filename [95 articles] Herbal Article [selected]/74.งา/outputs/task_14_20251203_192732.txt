@@ -1,0 +1,73 @@
+# ===AUDIT_DATA_INTEGRITY_REPORT===
+*   **Collaboration Robustness (Data Loss):** 43.56%
+*   **Explanation Clarity (Hallucination/Handling):** 68.75%
+*   **Dropped Entities (Facts in Fact Sheet but not Article):**
+    -   Science Fact (Compound): Not found (absence not explicitly stated)
+    -   Science Fact (Abstracts): Study 1 abstract_raw: Not found (absence of specific study abstracts not stated)
+    -   Science Fact (Abstracts): Study 2 abstract_raw: Not found
+    -   Science Fact (Abstracts): Study 3 abstract_raw: Not found
+    -   Compliance Fact (Food Registration 1): registration_number=10-1-00252-5-0125 (Specific details of all 5 registrations are missing, only general mention of "registered food products")
+    -   Compliance Fact (Food Registration 1): product_name=มินิปังสามรส (ถั่วทอง,ถั่วแดง,งาดำ) (เครื่องหมายการค้าเลอแปง)
+    -   Compliance Fact (Food Registration 1): company_name=บริษัท ซีพีแรม จำกัด
+    -   Compliance Fact (Food Registration 1): status=สถานะผลิตภัณฑ์(คงอยู่)\ สถานะสถานที่ (คงอยู่)
+    -   Compliance Fact (Food Registration 2): registration_number=10-1-00337-1-0018
+    -   Compliance Fact (Food Registration 2): product_name=งาแผ่นผสมน้ำผึ้ง (ตราฟลาวเวอร์ฟูด) / Sesame Bars with Honey (Flower Food Brand)
+    -   Compliance Fact (Food Registration 2): company_name=ห้างหุ้นส่วนจำกัด ฟลาวเวอร์ ฟูด
+    -   Compliance Fact (Food Registration 2): status=สถานะผลิตภัณฑ์(คงอยู่)\ สถานะสถานที่ (คงอยู่)
+    -   Compliance Fact (Food Registration 3): registration_number=10-1-00337-1-0019
+    -   Compliance Fact (Food Registration 3): product_name=งาแผ่นผสมน้ำผึ้ง / Sesame Bars with Honey
+    -   Compliance Fact (Food Registration 3): company_name=ห้างหุ้นส่วนจำกัด ฟลาวเวอร์ ฟูด
+    -   Compliance Fact (Food Registration 3): status=สถานะผลิตภัณฑ์(คงอยู่)\ สถานะสถานที่ (คงอยู่)
+    -   Compliance Fact (Food Registration 4): registration_number=10-1-00337-1-0021
+    -   Compliance Fact (Food Registration 4): product_name=งาแผ่นผสมน้ำผึ้ง (ตราเคลม) / Sesame Bars with Honey (Clame Brand)
+    -   Compliance Fact (Food Registration 4): company_name=ห้างหุ้นส่วนจำกัด ฟลาวเวอร์ ฟูด
+    -   Compliance Fact (Food Registration 4): status=สถานะผลิตภัณฑ์(คงอยู่)\ สถานะสถานที่ (คงอยู่)
+    -   Compliance Fact (Food Registration 5): registration_number=10-1-00337-1-0030
+    -   Compliance Fact (Food Registration 5): product_name=งาแผ่นผสมน้ำผึ้ง (ตราฟลาวเวอร์ฟูด) / SESAME BARS WITH HONEY (FLOWER FOOD BRAND)
+    -   Compliance Fact (Food Registration 5): company_name=ห้างหุ้นส่วนจำกัด ฟลาวเวอร์ ฟูด
+    -   Compliance Fact (Food Registration 5): status=สถานะผลิตภัณฑ์(คงอยู่)\ สถานะสถานที่ (คงอยู่)
+    -   Compliance Fact (Safety Dosage): Not found (absence not explicitly stated)
+    -   Compliance Fact (Safety Warning): Not found (absence not explicitly stated)
+    -   Safety Fact (Uses): Softly apply cream along the skin texture and pat gently for better absorption. (All 4 detailed usage instructions are missing)
+    -   Safety Fact (Uses): After washing face or applying the pibubab gold grain pack in the evening and without applying the basic cosmetics, put a few of drops of energy ampule oil on your wet face, after while tap and rub lightly with your palm.
+    -   Safety Fact (Uses): For the face, apply outwards and top-down for the neck.
+    -   Safety Fact (Uses): It is also recommendable to apply after taking a shower.
+    -   Safety Fact (Warnings): Redness, swelling, itchiness, stimulation, or other symptoms (Specific examples of adverse symptoms are missing)
+    -   Safety Fact (Warnings): Occurrence of the above symptoms upon exposure to direct sunlight.
+    -   Safety Fact (Warnings): Do not store in areas with extreme heat or cold, or under direct sunlight.
+    -   Safety Fact (Warnings): Avoid the eye area
+    -   Safety Fact (Directions): Take an adequate amount of this product. (Specific directions are missing)
+    -   Safety Fact (Other Info): By applying small amount of highly condensed essential oil without adding perfumes or colorings from the chemical synthesis, the protection curtain is formed on your skin and it cares your skin effectively and also by making the moisture curtain on your dry skin, you will have wonderful experience that your skin is fully-recovered and vital. (Both descriptive points are missing)
+    -   Safety Fact (Other Info): Skin resilence, pore tighting and moisturizing effect.
+    -   Safety Fact (Inactive Ingredients): Sesamum Indicum (Sesame) Seed Extract (All 3 inactive ingredients are missing)
+    -   Safety Fact (Inactive Ingredients): Pinus Koraiensis Seed Oil
+    -   Safety Fact (Inactive Ingredients): Carthamus Tinctorius (Safflower) Seed Oil
+    -   Safety Fact (Questions): Not found (absence not explicitly stated)
+    -   Culture Fact (Ethnic Group - Ban Huai Yang Community): Thai (Missing)
+    -   Culture Fact (Community Highlight - Ban Huai Yang Community): The community's traditional knowledge and skills have been passed down through generations, and their equipment is highly regarded for its effectiveness and durability. (Second part of highlight missing)
+    -   Culture Fact (Name Etymology - Ban Huai Yang Community): The Nga is a crucial part of the community's hunting tradition, and its name reflects its importance in their cultural heritage. (Second part of etymology missing)
+    -   Culture Fact (Environment - Ban Huai Yang Community): an area known for its rich biodiversity and natural resources. (Specific environmental description missing)
+    -   Culture Fact (Environment - Ban Huai Yang Community): The community's traditional equipment, including the Nga, is designed to work in harmony with the environment and to promote sustainable hunting practices. (Missing)
+    -   Culture Fact (Local Wisdom - Ban Huai Yang Community): The Ban Huai Yang community has developed a deep understanding of the local ecosystem and the behavior of the animals they hunt. (Both local wisdom points missing)
+    -   Culture Fact (Local Wisdom - Ban Huai Yang Community): Their traditional knowledge and skills are essential to the effective use of the Nga and other hunting equipment.
+    -   Culture Fact (Organization - Ban Huai Yang Community): The Ban Huai Yang community has a strong sense of cooperation and mutual support. (Both organization points missing)
+    -   Culture Fact (Organization - Ban Huai Yang Community): Their traditional organizations and social structures play a crucial role in the preservation and transmission of their cultural heritage, including their traditional equipment and hunting practices.
+    -   Culture Fact (Local Name - Ban Huai Yang Community): Nga Dak Men (Hedgehog Hunting Tool) (Specific Thai name "Nga Dak Men" is missing)
+    -   Culture Fact (Processing - Ban Huai Yang Community): Weaving a cone-shaped basket (Missing)
+    -   Internal RAG Fact (Herbal): Additionally, it mentions the use of certain plants, such as ใบมะกรูด (Thai basil), in traditional Thai medicine. (Specific example missing)
+    -   Internal RAG Fact (Cultural): The use of sesame in Thai cuisine is believed to have originated from the ancient practice of using sesame oil as a form of medicine. (Origin of culinary use missing)
+    -   Source URL (Trend): Not found (absence not explicitly stated)
+    -   Source URL (Science): Not found (absence not explicitly stated)
+    -   Source URL (Toxicity): Not found (absence not explicitly stated)
+*   **Hallucinated Entities (Facts in Article but not Fact Sheet):**
+    -   "the presence of Sesamum indicum in various registered food products in Thailand suggests a growing interest in natural and traditional ingredients." (Inference/Interpretation of a trend, not a direct fact)
+    -   "This interest, combined with the cultural significance of sesame in Thai traditional medicine and cuisine, indicates a potential market opportunity for sesame-based wellness products." (Strategic analysis/inference)
+    -   "these precautions indicate potential skin irritation or allergic reactions as constraints." (Inference from warnings, not a direct toxicity fact)
+    -   "The market opportunity for Sesamum indicum-based products is supported by the presence of sesame in registered food products and its cultural significance in traditional Thai medicine and cuisine." (Strategic analysis/inference)
+    -   "Technical feasibility is demonstrated by existing product registrations and the use of sesame oil in skin care." (Strategic analysis/inference)
+    -   "the need for rigorous safety testing, must be addressed." (Action/recommendation, not a fact)
+    -   "A strategic recommendation is to develop a line of natural, sesame-based personal care products that prioritize safety, comply with regulatory standards, and resonate with local cultural preferences for traditional herbal remedies." (Recommendation/Strategy)
+    -   "Sesamum indicum, or sesame, presents a compelling opportunity for the development of natural, culturally relevant wellness products, particularly in the personal care sector." (Conclusion/strategic statement)
+    -   "By leveraging its moisturizing and nutritional benefits, while prioritizing safety and regulatory compliance, companies can tap into the growing demand for natural ingredients and traditional herbal remedies." (Conclusion/strategic statement)
+    -   "The cultural significance of sesame in Thai traditional medicine and cuisine further supports its potential as a key ingredient in wellness products that resonate with local consumers and potentially expand into other markets valuing traditional herbal remedies." (Conclusion/strategic statement)
+*   **Feedback:** The Collaboration Robustness score is low due to significant data loss. Critical specific details, particularly from food registrations, safety instructions (uses, directions, inactive ingredients, specific warnings), and numerous cultural facts, were omitted or overly summarized. Several "Not found" facts were also simply omitted without explicit mention, impacting completeness. The Explanation Clarity score is moderate. While the article correctly transferred many facts and handled several "Not found" entries appropriately (either explicitly stating absence or omitting without invention), it introduced a notable amount of hallucination in the form of inferences, strategic analyses, and recommendations that were not directly present in the Master Fact Sheet.

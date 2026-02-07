@@ -1,0 +1,20 @@
+# ===SAFETY_DATA=== 
+## International Safety Data for: Plumeria rubra
+* **herb_name:** Plumeria rubra
+* **source_browsed:** https://dailymed.nlm.nih.gov/dailymed/drugInfo.cfm?setid=fe101e58-b958-14ec-e053-6294a90a6118&audience=consumer
+### Drug Facts Label
+* **active_ingredients:**
+    * **Ingredient 1:**
+        * **name:** PLUMERIA RUBRA WHOLE
+        * **strength:** 6 [hp_C], 100 [hp_C], 1 [hp_M], 200 [hp_C], 500 [hp_C], 10 [hp_M], 30 [hp_C], 12 [hp_C]
+        * **purpose:** Not found
+    * (If empty: * None found.)
+* **uses:** Not found
+* **warnings:** Not found
+* **directions:** Not found
+* **other_information:** Not found
+* **inactive_ingredients:** 
+    * **Ingredient 1:**
+        * **name:** SUCROSE
+        * **strength:** Not found
+* **questions:** Not found

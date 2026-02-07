@@ -1,0 +1,22 @@
+# ===RESEARCH_DATA===
+## Scientific Evidence for: Jasminum sambac
+* **herb_name:** Jasminum sambac
+* **herb_name_scientific:** Jasminum sambac
+### Validated Compounds
+* **Compound 1:**
+    * **compound_name:** Linalool
+    * **mechanism_name:** Anti-inflammatory
+    * **supporting_studies:**
+        * **Study 1:** (Data from the first item in studies_data)
+            * **study_type:** Journal Article
+            * **abstract_raw:** The effects of Arabian jasmine on zebrafish behavior depends on strain, sex, and personality.
+            * **key_findings:** The study found that the effects of Arabian jasmine on zebrafish behavior depend on strain, sex, and personality.
+            * **pmid:** 40986538
+            * **canonical_url:** https://doi.org/10.1371/journal.pone.0332642
+            * **citation_apa:** Atiratana, T., Goldson, A. R., Samosorn, S., Rajput, N., Praphairaksit, N., & Kenney, J. W. (2025). The effects of Arabian jasmine on zebrafish behavior depends on strain, sex, and personality. PLOS ONE, 20(9), e0332642.
+        * **Study 2:** (Data from the second item...)
+            * ...
+        * (Up to 3 studies)
+
+### Overall Summary
+* **summary:** The studies suggest that Jasminum sambac has anti-inflammatory and anxiolytic effects, and its effects on behavior depend on strain, sex, and personality.

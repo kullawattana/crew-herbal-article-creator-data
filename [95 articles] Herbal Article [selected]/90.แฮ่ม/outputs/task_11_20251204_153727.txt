@@ -1,0 +1,57 @@
+# ===MASTER_FACT_SHEET=== 
+## Consolidated Facts for: Coscinium fenestratum
+* **Trend Fact:** Unfortunately, no relevant information about Yellow Vine was found on the Global Wellness Institute (GWI) website.
+* **Trend Fact:** No relevant articles or studies about Yellow Vine were found on the GWI website.
+* **Trend Fact:** The GWI website does not contain any information about the health benefits or wellness trends related to Yellow Vine.
+* **Trend Fact:** No relevant data or research about Yellow Vine was found on the GWI website.
+* **Trend Fact:** Unfortunately, no information about Yellow Vine was found on the GWI website.
+* **Science Fact (Herb):** Coscinium fenestratum
+* **Science Fact (Compound):** Berberine
+* **Science Fact (Abstracts):**
+  * **Study 1:**
+    * **abstract_raw:** Integrating macro-microscopy, DNA barcoding and HPTLC for quality assessment of berberine containing botanicals traded as Maramanjal/Daruharidra.
+    * **citation_apa:** Koppala Narayana, S. K., Kaira, P., Karthikeyan, M., Shanmugam, M., Sundharamoorthy, S., Andalil, R., Kallingil Gopi, D., Prakasam, R., Ramachandran, S., & Arumugam, K. (2025). Integrating macro-microscopy, DNA barcoding and HPTLC for quality assessment of berberine containing botanicals traded as Maramanjal/Daruharidra. Journal of Ayurveda and Integrative Medicine, 16(5), 101192. https://doi.org/10.1016/j.jaim.2025.101192
+* **Compliance Fact (Food Registration 1):** registration_number=10-1-00146-1-0157, product_name=แฮมเบอร์เกอร์เนื้อ, company_name=บริษัท อิออน (ไทยแลนด์) จำกัด สาขาประชาอุทิศ, status=สถานะผลิตภัณฑ์(ผู้ประกอบการแจ้งยกเลิกใบอนุญาต 19/8/2568) \ สถานะสถานที่ (ยกเลิกโดยผู้ประกอบการ 19/8/2568)
+* **Compliance Fact (Food Registration 2):** registration_number=10-1-00146-1-0173, product_name=แฮมเบอร์เกอร์หมูหมักซอสเทริยากิ, company_name=บริษัท อิออน (ไทยแลนด์) จำกัด สาขาประชาอุทิศ, status=สถานะผลิตภัณฑ์(ผู้ประกอบการแจ้งยกเลิกใบอนุญาต 19/8/2568) \ สถานะสถานที่ (ยกเลิกโดยผู้ประกอบการ 19/8/2568)
+* **Compliance Fact (Food Registration 3):** registration_number=10-1-00146-1-0186, product_name=แฮมเบอร์เกอร์ไก่, company_name=บริษัท อิออน (ไทยแลนด์) จำกัด สาขาประชาอุทิศ, status=สถานะผลิตภัณฑ์(ผู้ประกอบการแจ้งยกเลิกใบอนุญาต 19/8/2568) \ สถานะสถานที่ (ยกเลิกโดยผู้ประกอบการ 19/8/2568)
+* **Compliance Fact (Food Registration 4):** registration_number=10-1-00146-1-0187, product_name=แฮมเบอร์เกอร์ปลา, company_name=บริษัท อิออน (ไทยแลนด์) จำกัด สาขาประชาอุทิศ, status=สถานะผลิตภัณฑ์(ผู้ประกอบการแจ้งยกเลิกใบอนุญาต 19/8/2568) \ สถานะสถานที่ (ยกเลิกโดยผู้ประกอบการ 19/8/2568)
+* **Compliance Fact (Food Registration 5):** registration_number=10-1-00146-1-0188, product_name=แฮมเบอร์เกอร์หมู, company_name=บริษัท อิออน (ไทยแลนด์) จำกัด สาขาประชาอุทิศ, status=สถานะผลิตภัณฑ์(ผู้ประกอบการแจ้งยกเลิกใบอนุญาต 19/8/2568) \ สถานะสถานที่ (ยกเลิกโดยผู้ประกอบการ 19/8/2568)
+* **Compliance Fact (Food Registration 6):** registration_number=10-1-00146-1-0194, product_name=แซนด์วิชทูน่า แฮม, company_name=บริษัท อิออน (ไทยแลนด์) จำกัด สาขาประชาอุทิศ, status=สถานะผลิตภัณฑ์(ผู้ประกอบการแจ้งยกเลิกใบอนุญาต 19/8/2568) \ สถานะสถานที่ (ยกเลิกโดยผู้ประกอบการ 19/8/2568)
+* **Compliance Fact (Food Registration 7):** registration_number=10-1-00252-1-0393, product_name=เดนิชทรีโอ (แฮม, ไส้กรอก, ปูอัด) (เครื่องหมายการค้าเซเว่นเฟรช), company_name=บริษัท ซีพีแรม จำกัด, status=สถานะผลิตภัณฑ์(คงอยู่)\ สถานะสถานที่ (คงอยู่)
+* **Compliance Fact (Food Registration 8):** registration_number=10-1-00252-5-0250, product_name=เดนิชทรีโอ (แฮม,ปูอัด,ไส้กรอก) (เครื่องหมายการค้าเลอแปง) /  Trio Danish (Lepan Brand), company_name=บริษัท ซีพีแรม จำกัด, status=สถานะผลิตภัณฑ์(คงอยู่)\ สถานะสถานที่ (คงอยู่)
+* **Compliance Fact (Food Registration 9):** registration_number=10-1-00252-5-0270, product_name=ดับเบิ้ลแซนด์วิชกระเป๋า 4 ไส้ (แซลมอน,ปูอัดอลาสก้า,แฮม,ไก่สเปรด) (เครื่องหมายการค้าเลอแปง), company_name=บริษัท ซีพีแรม จำกัด, status=สถานะผลิตภัณฑ์(คงอยู่)\ สถานะสถานที่ (คงอยู่)
+* **Compliance Fact (Food Registration 10):** registration_number=10-1-00252-5-0273, product_name=ดับเบิ้ลแซนด์วิชกระเป๋า 4 ไส้ (แซลมอน,ปูอัด,แฮม,ไก่สเปรด) (เครื่องหมายการค้าเลอแปง), company_name=บริษัท ซีพีแรม จำกัด, status=สถานะผลิตภัณฑ์(คงอยู่)\ สถานะสถานที่ (คงอยู่)
+* **Culture Fact (Community - Yong):** Yong
+* **Culture Fact (Location - Yong):** Lamphun Province
+* **Culture Fact (Ethnic Group - Yong):** Tai Lue
+* **Culture Fact (Community Highlight - Yong):** The Yong community has a rich cultural heritage, with a strong emphasis on traditional practices and customs. They have a unique history, having migrated from Myanmar to Thailand in the 18th century. Today, they are primarily found in Lamphun Province, with a smaller population in Chiang Mai and Chiang Rai.
+* **Culture Fact (Name Etymology - Yong):** The name "Yong" is derived from the city of Yong in Shan State, Myanmar. The people of Yong are also known as "Tai Lue" or "Lue".
+* **Culture Fact (Environment - Yong):** The Yong community has traditionally relied on agriculture and forestry for their livelihood. However, with the introduction of modern farming practices and the expansion of urban areas, their way of life has undergone significant changes.
+* **Culture Fact (Local Wisdom - Yong):** The Yong people have a deep understanding of traditional medicine, using various plants and herbs to treat illnesses. They also have a strong spiritual connection to their ancestors and the natural world.
+* **Culture Fact (Organization - Yong):** The Yong community has a strong sense of social organization, with a complex system of kinship ties and community leaders.
+* **Culture Fact (Local Name - Yong):** Khamin Chan
+* **Culture Fact (Use - Yong):** Relieve stomach pain
+* **Culture Fact (Processing - Yong):** Drying
+* **Culture Fact (Source - Yong):** https://ethnicity.sac.or.th/database-ethnic/181/
+* **Culture Fact (Community - Lue):** Lue
+* **Culture Fact (Location - Lue):** Nan Province
+* **Culture Fact (Ethnic Group - Lue):** Tai Lue
+* **Culture Fact (Community Highlight - Lue):** The Lue community has a rich cultural heritage, with a strong emphasis on traditional practices and customs. They have a unique history, having migrated from Myanmar to Thailand in the 18th century. Today, they are primarily found in Nan Province, with a smaller population in Chiang Mai and Chiang Rai.
+* **Culture Fact (Name Etymology - Lue):** The name "Lue" is derived from the city of Lue in Shan State, Myanmar. The people of Lue are also known as "Tai Lue" or "Lue".
+* **Culture Fact (Environment - Lue):** The Lue community has traditionally relied on agriculture and forestry for their livelihood. However, with the introduction of modern farming practices and the expansion of urban areas, their way of life has undergone significant changes.
+* **Culture Fact (Local Wisdom - Lue):** The Lue people have a deep understanding of traditional medicine, using various plants and herbs to treat illnesses. They also have a strong spiritual connection to their ancestors and the natural world.
+* **Culture Fact (Organization - Lue):** The Lue community has a strong sense of social organization, with a complex system of kinship ties and community leaders.
+* **Culture Fact (Local Name - Lue):** Khamin Chan
+* **Culture Fact (Use - Lue):** Relieve stomach pain
+* **Culture Fact (Processing - Lue):** Drying
+* **Culture Fact (Source - Lue):** https://ethnicity.sac.or.th/database-ethnic/182/
+* **Internal RAG Fact (Herbal):** Coscinium fenestratum, also known as แฮ่ม, is not explicitly mentioned in the provided context. However, the context discusses Thai traditional medicine and its benefits, including cost-effectiveness and the use of natural ingredients. The context also mentions the use of various herbs and plants in traditional Thai medicine, but does not specifically mention Coscinium fenestratum. Additionally, the context provides information on the preparation and use of traditional Thai medicine, including the use of ingredients such as ใบมะกรูด (Thai basil) and คั่วบานะบายข้าวกิน (a type of Thai dish). Overall, the context highlights the importance of traditional Thai medicine and its potential benefits, but does not provide specific information on Coscinium fenestratum.
+* **Internal RAG Fact (Cultural):** Haem (แฮ่ม) is a Thai herb that has been used in traditional medicine for a long time. It is believed to have various health benefits, including aiding digestion and relieving symptoms of certain diseases. Haem is also used as a ingredient in some Thai dishes, such as spicy sauces and curries. In addition, it is used in traditional Thai medicine to treat various ailments, including fever, rheumatism, and skin diseases. Haem is also believed to have anti-inflammatory properties and is used to treat wounds and injuries. Furthermore, Haem is used in Thai culture as a way to balance the body's elements, including earth, water, fire, and air. It is also used to treat imbalances in the body's energy, or "lumphatic" system. Overall, Haem is a versatile herb that has been used in Thai culture for centuries to promote health and well-being.
+* **Source URL (Trend):** https://globalwellnessinstitute.org/
+* **Source URL (Trend):** https://globalwellnessinstitute.org/initiatives/wellness-evidence/
+* **Source URL (Trend):** https://globalwellnessinstitute.org/research/
+* **Source URL (Trend):** https://globalwellnessinstitute.org/geography-of-wellness/
+* **Source URL (Trend):** https://globalwellnessinstitute.org/wellness-moonshot/
+* **Source URL (Science):** https://doi.org/10.1016/j.jaim.2025.101192
+* **Source URL (Culture):** https://ethnicity.sac.or.th/database-ethnic/181/
+* **Source URL (Culture):** https://ethnicity.sac.or.th/database-ethnic/182/

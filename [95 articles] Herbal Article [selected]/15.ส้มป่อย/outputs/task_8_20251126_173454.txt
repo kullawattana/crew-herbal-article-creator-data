@@ -1,0 +1,81 @@
+# ===CULTURE_DATA=== 
+
+## Cultural Context for: Sompoy (ส้มป่อย)
+
+### Finding 1 
+* **source_url:** https://wikicommunity.sac.or.th/community/1643 
+* **community_context:**
+    * **community_name:** Ban Huai Sompoy (บ้านห้วยส้มป่อย)
+    * **location:** Chiang Mai Province
+    * **ethnic_group:** Pgakanyaw (ชาวปกาเกอะญอ)
+* **community_profile_summaries:**
+    * **community_highlight:** No herbal-related information found.
+    * **name_etymology:** The name "Sompoy" comes from the plant "Sompoy" (พืชยืนต้นขนาดเล็กหรือไม้พุ่ม), which is used in various rituals by the community, such as "Sadok Krai" and "Rong Nam Dam Hua". The community believes that Sompoy is a plant that helps to eliminate bad luck and misfortune from their lives.
+    * **community_environment:** The community is located in the upper part of the Mae Taeng River basin, in the Chom Thong district of Chiang Mai province. The area was previously inhabited by the Lua people, as evidenced by the discovery of ancient burial grounds and artifacts.
+    * **local_wisdom:** The community has a strong belief in the use of Sompoy in rituals to ward off bad luck and misfortune. They also believe in the importance of preserving their traditional way of life and cultural practices.
+    * **community_organizations:** No herbal-related information found.
+* **specific_entities:**
+    * **local_names:**
+        * **Item 1:**
+            * **name:** Sompoy (ส้มป่อย)
+            * **context_quote:** Sompoy is a plant used in various rituals by the community, such as "Sadok Krai" and "Rong Nam Dam Hua".
+    * **traditional_uses:**
+        * **Item 1:**
+            * **use:** Using Sompoy as a plant to help eliminate bad luck and misfortune from their lives.
+            * **context_quote:** The community uses Sompoy in rituals to ward off bad luck and misfortune, by using it to bathe, pour water, and clean their bodies.
+    * **processing_methods:**
+        * **Item 1:**
+            * **method:** Using Sompoy as a plant to help eliminate bad luck and misfortune from their lives.
+            * **description_quote:** The community uses Sompoy in rituals to ward off bad luck and misfortune, by using it to bathe, pour water, and clean their bodies.
+
+### Finding 2 
+* **source_url:** https://wikicommunity.sac.or.th/community/378 
+* **community_context:**
+    * **community_name:** Ban Had Sompoy (บ้านหาดส้มป่อย)
+    * **location:** Chiang Mai Province
+    * **ethnic_group:** Pgakanyaw (ชาวปกาเกอะญอ)
+* **community_profile_summaries:**
+    * **community_highlight:** No herbal-related information found.
+    * **name_etymology:** The name "Had Sompoy" comes from the location of the community, which is near a beach (หาด) where Sompoy plants are abundant.
+    * **community_environment:** The community is located in the Chom Thong district of Chiang Mai province.
+    * **local_wisdom:** The community has a strong belief in the use of Sompoy in rituals to ward off bad luck and misfortune. They also believe in the importance of preserving their traditional way of life and cultural practices.
+    * **community_organizations:** No herbal-related information found.
+* **specific_entities:**
+    * **local_names:**
+        * **Item 1:**
+            * **name:** Sompoy (ส้มป่อย)
+            * **context_quote:** Sompoy is a plant used in various rituals by the community, such as "Sadok Krai" and "Rong Nam Dam Hua".
+    * **traditional_uses:**
+        * **Item 1:**
+            * **use:** Using Sompoy as a plant to help eliminate bad luck and misfortune from their lives.
+            * **context_quote:** The community uses Sompoy in rituals to ward off bad luck and misfortune, by using it to bathe, pour water, and clean their bodies.
+    * **processing_methods:**
+        * **Item 1:**
+            * **method:** Using Sompoy as a plant to help eliminate bad luck and misfortune from their lives.
+            * **description_quote:** The community uses Sompoy in rituals to ward off bad luck and misfortune, by using it to bathe, pour water, and clean their bodies.
+
+### Finding 3 
+* **source_url:** https://ethnicredb.sac.or.th/research_detail.php?id=2012 
+* **community_context:**
+    * **community_name:** Ban Lahuh Sompoy (บ้านลาหู่ส้มป่อย)
+    * **location:** Tak Province
+    * **ethnic_group:** Lahuh (ชาวลาหู่)
+* **community_profile_summaries:**
+    * **community_highlight:** No herbal-related information found.
+    * **name_etymology:** The name "Lahuh Sompoy" comes from the location of the community, which was previously a farm area with an abundance of Sompoy plants.
+    * **community_environment:** The community is located in the Tak province.
+    * **local_wisdom:** The community has a strong belief in the use of Sompoy in rituals to ward off bad luck and misfortune. They also believe in the importance of preserving their traditional way of life and cultural practices.
+    * **community_organizations:** No herbal-related information found.
+* **specific_entities:**
+    * **local_names:**
+        * **Item 1:**
+            * **name:** Sompoy (ส้มป่อย)
+            * **context_quote:** Sompoy is a plant used in various rituals by the community, such as "Sadok Krai" and "Rong Nam Dam Hua".
+    * **traditional_uses:**
+        * **Item 1:**
+            * **use:** Using Sompoy as a plant to help eliminate bad luck and misfortune from their lives.
+            * **context_quote:** The community uses Sompoy in rituals to ward off bad luck and misfortune, by using it to bathe, pour water, and clean their bodies.
+    * **processing_methods:**
+        * **Item 1:**
+            * **method:** Using Sompoy as a plant to help eliminate bad luck and misfortune from their lives.
+            * **description_quote:** The community uses Sompoy in rituals to ward off bad luck and misfortune, by using it to bathe, pour water, and clean their bodies.

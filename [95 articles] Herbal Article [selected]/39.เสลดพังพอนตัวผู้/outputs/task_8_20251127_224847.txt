@@ -1,0 +1,28 @@
+# ===CULTURE_DATA===
+## Cultural Context for: Dong Bang Community (บ้านดงบัง)
+
+### Finding 1
+* **source_url:** https://db.sac.or.th/thailand-cultural-encyclopedia/region.php?region=6&g2_fromNavId=x53fdb13a&char=%E0%B8%AA&page=50
+* **community_context:**
+	+ **community_name:** Dong Bang Community
+	+ **location:** Dong Khilek Subdistrict, Mueang District, Prachinburi Province
+	+ **ethnic_group:** Thai
+* **community_profile_summaries:**
+	+ **community_highlight:** The Dong Bang Community is known for its rich natural resources, particularly its fertile soil, making it suitable for growing herbs and other crops. The community has a strong focus on agriculture, with many residents engaging in rice farming, fruit gardening, and ornamental plant cultivation. The area is also home to a variety of naturally occurring plants.
+	+ **name_etymology:** No herbal-related information found
+	+ **community_environment:** The community's environment is characterized by its rich soil and abundant natural resources, making it an ideal location for agricultural activities.
+	+ **local_wisdom:** The community has a strong tradition of using herbal medicine, with many residents using natural remedies to treat various health conditions.
+	+ **community_organizations:** The community has established a hospital that combines traditional herbal medicine with modern medical practices, highlighting the importance of self-sufficient healthcare.
+* **specific_entities:**
+	+ **local_names:**
+		- **Item 1:**
+			* **name:** Male Phang Pho (เสลดพังพอนตัวผู้)
+			* **context_quote:** Male Phang Pho: Southern region plant
+	+ **traditional_uses:**
+		- **Item 1:**
+			* **use:** Traditional Thai medicine
+			* **context_quote:** Chaophraya Abhaibhubejhr Hospital in Prachinburi Province recognizes the importance of self-sufficient healthcare by using herbal products in conjunction with modern medicine.
+	+ **processing_methods:**
+		- **Item 1:**
+			* **method:** Organic farming
+			* **description_quote:** Dong Bang is Thailand's first organic herb farming area, certified to ensure cleanliness and safety. The farm is inspected three times a year to maintain its organic standards.

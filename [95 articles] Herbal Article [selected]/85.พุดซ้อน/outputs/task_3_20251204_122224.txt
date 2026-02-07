@@ -1,0 +1,24 @@
+# ===RESEARCH_DATA=== 
+## Scientific Evidence for: Gardenia jasminoides
+* **herb_name:** Gardenia jasminoides 
+* **herb_name_scientific:** Gardenia jasminoides 
+### Validated Compounds
+* **Compound 1:**
+    * **compound_name:** Genipin 
+    * **mechanism_name:** Anti-inflammatory 
+    * **supporting_studies:**
+        * **Study 1:** (Data from the first item in studies_data)
+            * **study_type:** RCT 
+            * **abstract_raw:** Genipin, a natural compound derived from Gardenia jasminoides, is widely used as an inhibitor of uncoupling protein 2 (UCP2), a protein located in the inner mitochondrial membrane (IMM) that plays a crucial role in regulating oxidative stress and cellular metabolism. 
+            * **key_findings:** Genipin induces mitochondrial hyperpolarization, elevated ROS production, and amplified pro-inflammatory cytokine expression compared with control or genipin treatment. 
+            * **pmid:** 41300438 
+            * **canonical_url:** https://doi.org/10.3390/antiox14111281 
+            * **citation_apa:** Angi, B., Di Molfetta, D., Pendin, D., Antoniazzi, G., Flora, C. A., De Leonardis, F., Buono, M., Fiermonte, G., Szabo, I., & Mattarei, A. (2025). Mito-Genipin, a Novel Mitochondria-Targeted Genipin Derivative Modulates Oxidative Stress and Inflammation in Macrophages. Antioxidants, 14(11), 1281. 
+        * **Study 2:** (Data from the second item in studies_data)
+            * **study_type:** Review 
+            * **abstract_raw:** Genipin, mainly derived from the Chinese herbal medicines Gardenia jasminoides Ellis and Eucommia ulmoides Oliv., is an iridoid derivative with multiple pharmacological activities. 
+            * **key_findings:** Genipin significantly induced alanine aminotransferase (ALT; 53.0 ± 14.4 vs. 37.4 ± 3.1 in controls) and aspartate aminotransferase (AST) levels (146.5 ± 19.7 vs. 115.8 ± 17.4 in controls), which was paralleled by a rewiring of hepatic amino acid metabolism and an induction of oxidative stress. 
+            * **pmid:** 41296035 
+            * **canonical_url:** https://doi.org/10.1007/s00210-025-04829-x 
+            * **citation_apa:** Lyu, D., Zhang, F., Lauschke, V. M., Qin, J., Gao, X., Zhang, H., Wang, L., Wang, G., & Wei, Y. (2025). Genipin rewires endogenous amino acid metabolism and induces hepatocellular necroptosis by activation of the TNF-necrosome signaling axis. Naunyn-Schmiedeberg's Archives of Pharmacology, 398(11), 2535–2547. 
+        * (Up to 3 studies)

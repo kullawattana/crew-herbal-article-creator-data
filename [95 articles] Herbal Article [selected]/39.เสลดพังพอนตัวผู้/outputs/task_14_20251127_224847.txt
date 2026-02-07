@@ -1,0 +1,16 @@
+```markdown
+# ===AUDIT_DATA_INTEGRITY_REPORT===
+* **Collaboration Robustness (Data Loss):** 85%
+* **Explanation Clarity (Hallucination/Handling):** 100%
+* **Dropped Entities (Facts in Fact Sheet but not Article):**
+    - Compliance Fact (Herbal Product Registration 1): registration_number=G632/60, product_name=ยาน้ำมันสมุนไพรผสมเสลดพังพอนตัวผู้ ตราโพธิ์เงิน โพธิ์ทอง / -, company_name=บริษัท กุลนารถ แกรนด์ จำกัด, status=ยกเลิก(18 มีนาคม 2563)
+    - Compliance Fact (Herbal Product Registration 2): registration_number=G598/63, product_name=ยาน้ำมันผสมเสลดพังพอนตัวผู้ / COMPOUND SALET PHANG PHON TUA-PHU MEDICATED OIL, company_name=พรีราน่า เนเจอร์, status=คงอยู่
+    - Compliance Fact (Herbal Product Registration 3): registration_number=G477/60, product_name=ยาหม่องสมุนไพรผสมเสลดพังพอนตัวผู้ / -, company_name=บริษัท ไบโอโปร จำกัด, status=คงอยู่
+    - Compliance Fact (Herbal Product Registration 4): registration_number=G569/63, product_name=ยาขี้ผึ้งผสมเสลดพังพอนตัวผู้ / COMPOUND HOP HEADED BARLERIA OINTMENT, company_name=ลิ้มเซ่งฮึง, status=คงอยู่
+    - Compliance Fact (Herbal Product Registration 5): registration_number=G558/60, product_name=ยาหม่องสมุนไพรผสมเสลดพังพอนตัวผู้ / -, company_name=บริษัท ไบโอโปร จำกัด, status=คงอยู่
+    - Internal RAG Fact (Cultural): No relevant information about เสลดพังพอนตัวผู้ was found in the provided cultural context.
+* **Hallucinated Entities (Facts in Article but not Fact Sheet):**
+    - None
+* **Feedback:**
+The Collaboration Robustness score is 85% because several compliance facts related to herbal product registrations were dropped from the final article. The Explanation Clarity score is 100% because there were no hallucinated entities, and the "Not found" result for citation_apa was correctly handled by stating "[1] Not found" in the references. The article accurately reflects the information present in the fact sheet, except for the omissions mentioned above. The article sources consulted section accurately reflects the source URLs in the Master Fact Sheet.
+```

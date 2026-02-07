@@ -1,0 +1,10 @@
+# ===HERBAL_INTERNAL_SUMMARY=== 
+Senna alexandrina, also known as มะขามแขก, is not explicitly mentioned in the provided context. However, the context discusses Thai traditional medicine, its benefits, and its uses. According to the context, Thai traditional medicine is considered old-fashioned and not suitable for modern times **JSON: [Herbs_traditional_Thai_medicine_in_the_lives_of_Thai_people.json, p.N/A]**. However, it is also mentioned that using Thai traditional medicine can help reduce medical expenses by treating minor illnesses or initial symptoms **JSON: [Herbs_traditional_Thai_medicine_in_the_lives_of_Thai_people.json, p.N/A]**. Additionally, the context highlights the importance of using Thai traditional medicine wisely, as it can be more harmful than modern medicine if not used properly **JSON: [Herbs_traditional_Thai_medicine_in_the_lives_of_Thai_people.json, p.N/A]**.
+
+The context also touches on the topic of herbal processing, but it does not provide specific information about Senna alexandrina. However, it does mention the benefits of growing one's own herbs, such as safety from chemicals and cost-effectiveness **PDF: [Romprayom-2563.pdf, p.9]**.
+
+Furthermore, the context discusses the use of traditional Thai medicine in treating various ailments, such as digestive issues **PDF: [Romprayom-2563.pdf, p.32]**. However, it does not specifically mention Senna alexandrina as a treatment for any particular disease.
+
+In terms of traditional Thai wisdom regarding herbs, the context emphasizes the importance of using Thai traditional medicine as a way to reduce reliance on imported medicine **PDF: [Romprayom-2563.pdf, p.9]**. However, it also notes that Thai traditional medicine can be more harmful than modern medicine if not used properly **JSON: [Herbs_traditional_Thai_medicine_in_the_lives_of_Thai_people.json, p.N/A]**.
+
+Overall, while Senna alexandrina is not explicitly mentioned in the context, the discussion around Thai traditional medicine and herbal processing provides some insight into the potential benefits and risks associated with using traditional medicine.

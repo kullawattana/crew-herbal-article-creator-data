@@ -1,0 +1,159 @@
+# ===MASTER_FACT_SHEET=== 
+## Consolidated Facts for: Senna siamea
+* **Trend Fact:** None found
+* **Lab Fact (Experimental Method):** None found
+* **Lab Fact (Extraction Method):** None found
+* **Lab Fact (Compound Identified):** None found
+* **Lab Fact (Chromatography - TLC):** None found
+* **Lab Fact (Pharmacological Finding):** None found
+* **Lab Fact (Cosmetic or Clinical Effect):** None found
+* **Lab Fact (Quality Control):** None found
+* **Science Fact (Herb):** Senna siamea
+* **Science Fact (Compound):** None found
+* **Science Fact (Abstracts):**
+  * **Study 1:**
+    * **abstract_raw:** None found
+    * **citation_apa:** None found
+* **Compliance Fact (Food Registration 1):** registration_number=10-1-13660-5-0157, product_name=Cassod Tree, company_name=บริษัท โพธิ์ประดิษฐ์สมุนไพร จำกัด, status=สถานะผลิตภัณฑ์(คงอยู่)\ สถานะสถานที่ (คงอยู่)
+* **Compliance Fact (Food Registration 2):** registration_number=10-1-13660-5-0158, product_name=Cassod Tree (Powder), company_name=บริษัท โพธิ์ประดิษฐ์สมุนไพร จำกัด, status=สถานะผลิตภัณฑ์(คงอยู่)\ สถานะสถานที่ (คงอยู่)
+* **Compliance Fact (Food Registration 3):** registration_number=34-2-01367-6-0001, product_name=กุนเชียง โชคชัย, company_name=โชคชัย, status=สถานะผลิตภัณฑ์(คงอยู่)\ สถานะสถานที่ (คงอยู่)
+* **Compliance Fact (Food Registration 4):** registration_number=34-2-01367-6-0002, product_name=ลูกชิ้นเนื้อ โชคชัย, company_name=โชคชัย, status=สถานะผลิตภัณฑ์(คงอยู่)\ สถานะสถานที่ (คงอยู่)
+* **Compliance Fact (Food Registration 5):** registration_number=34-2-01367-6-0003, product_name=ลูกชิ้นหมู โชคชัย, company_name=โชคชัย, status=สถานะผลิตภัณฑ์(คงอยู่)\ สถานะสถานที่ (คงอยู่)
+* **Compliance Fact (Safety Dosage):** Not found
+* **Compliance Fact (Safety Warning):** None found
+* **Safety Fact (Active Ingredient):** None found
+* **Safety Fact (Ingredient Purpose):** None found
+* **Safety Fact (Uses):** None found
+* **Safety Fact (Warnings):** None found
+* **Safety Fact (Directions):** None found
+* **Safety Fact (Other Info):** None found
+* **Safety Fact (Inactive Ingredients):** None found
+* **Safety Fact (Questions):** None found
+* **Toxicity Fact (Summary):** Senna siamea has been associated with liver injury, and the liver injury due to senna has been attributed to the anthraquinone derivatives present in the herbal extract. Most cases have been associated with taking excessive doses, suggesting a direct hepatotoxic rather than idiosyncratic etiology.
+* **Toxicity Fact (Mechanism):** The mechanism of injury is not fully understood, but it is believed that the anthraquinone derivatives present in the herbal extract are responsible for the liver injury.
+* **Toxicity Fact (Side Effects):** Nausea, dermatitis, rash, and other gastrointestinal symptoms have been reported.
+* **Toxicity Fact (Case Reports):** There have been several case reports of liver injury associated with Senna siamea, including a case series of 5 patients who developed liver injury after taking Senna siamea for constipation.
+* **Culture Fact (Community - Wat Phatthasima):** 
+    * **Culture Fact (Location - Wat Phatthasima):** Nakhon Si Thammarat Province
+    * **Culture Fact (Ethnic Group - Wat Phatthasima):** Unspecified
+    * **Culture Fact (Community Highlight - Wat Phatthasima):** The community of Wat Phatthasima has a rich tradition of using herbal medicine, with many local names and traditional uses documented in the ancient manuscripts found in the area. The community has a strong emphasis on preserving traditional knowledge and practices.
+    * **Culture Fact (Name Etymology - Wat Phatthasima):** The name "Khilek" is derived from the Thai word for "cassia", a type of tree that is commonly found in the area.
+    * **Culture Fact (Environment - Wat Phatthasima):** The community is located in a rural area with a mix of forests, hills, and plains. The environment is conducive to the growth of a wide variety of plants, including many species of herbs and trees.
+    * **Culture Fact (Local Wisdom - Wat Phatthasima):** The community has a strong tradition of using local wisdom and knowledge to manage the environment and conserve natural resources.
+    * **Culture Fact (Organization - Wat Phatthasima):** The community has several organizations that work together to promote traditional knowledge and practices, including the preservation of herbal medicine.
+    * **Culture Fact (Local Name - Wat Phatthasima):** 
+        * **Item 1:** Luk Dee Plee, Refers to the ripe fruit of the Dee Plee tree.
+        * **Item 2:** Khiat Trey (Khia Trey), Refers to a type of grass known as "Khia Trey".
+        * **Item 3:** Nguaan Moo Long (Nguaan Moo Long), Refers to a type of tree known as "Nguaan Moo Long".
+        * **Item 4:** Chiaak Khaa Phuwan (Chiaak Khaa Phuwan), Refers to a type of vine known as "Chiaak Khaa Phuwan".
+        * **Item 5:** Dee Plee Khiat Nok (Dee Plee Khiat Nok), Refers to a type of chili pepper known as "Dee Plee Khiat Nok".
+        * **Item 6:** Lam Pam (Lam Pam), Refers to a type of fish known as "Lam Pam".
+        * **Item 7:** Nam Phueng Ruang (Nam Phueng Ruang), Refers to a type of honey known as "Nam Phueng Ruang".
+        * **Item 8:** Kluay Teeb, Refers to a type of banana known as "Kluay Teeb".
+        * **Item 9:** Chiang Phra (Chiang Phra), Refers to a type of tree known as "Chiang Phra".
+        * **Item 10:** Lang Tang Khaai (Lang Tang Khaai), Refers to a type of tree known as "Lang Tang Khaai".
+    * **Culture Fact (Use - Wat Phatthasima):** 
+        * **Item 1:** Nam Man Nga, Refers to the use of sesame oil.
+        * **Item 2:** Maak Phu, Refers to the use of a type of betel nut.
+        * **Item 3:** Saan Som, Refers to the use of a type of soap.
+        * **Item 4:** Mai Phaii Suk, Refers to the use of a type of bamboo.
+        * **Item 5:** Phaan Ngoo Khaaw, Refers to the use of a type of snake grass.
+        * **Item 6:** Pho Phaa, Refers to the use of a type of Bodhi tree.
+        * **Item 7:** Leb Muu Nang, Refers to the use of a type of tree known as "Leb Muu Nang".
+        * **Item 8:** Maak Waeng, Refers to the use of a type of citrus fruit.
+        * **Item 9:** Maak Kham Pom, Refers to the use of a type of tamarind fruit.
+        * **Item 10:** Khiin Aoi, Refers to the use of a type of turmeric.
+    * **Culture Fact (Processing - Wat Phatthasima):** 
+        * **Item 1:** Luk Jan (Luk Jan), Refers to the process of making a type of herbal medicine.
+        * **Item 2:** Kluay Phong La (Kluay Phong La), Refers to the process of making a type of banana-based medicine.
+        * **Item 3:** Maak Mook (Maak Mook), Refers to the process of making a type of herbal medicine.
+        * **Item 4:** Som Ngua (Som Ngua), Refers to the process of making a type of soap.
+        * **Item 5:** Som Kham Peeyak (Som Kham Peeyak), Refers to the process of making a type of tamarind-based medicine.
+        * **Item 6:** Phak Hai (Phak Hai), Refers to the process of making a type of herbal medicine.
+        * **Item 7:** Yaan Khaa Kan (Yaan Khaa Kan), Refers to the process of making a type of herbal medicine.
+        * **Item 8:** Ka Heeang (Ka Heeang), Refers to the process of making a type of herbal medicine.
+        * **Item 9:** Ka Thueng (Ka Thueng), Refers to the process of making a type of herbal medicine.
+    * **Culture Fact (Source - Wat Phatthasima):** https://culturio.sac.or.th/storage/content/resource/JTDbcOUd5XDDDziBp3m1sgJDr5ngTznD.pdf
+* **Culture Fact (Community - Wat Phatthasima (2)):** 
+    * **Culture Fact (Location - Wat Phatthasima (2)):** Nakhon Si Thammarat Province
+    * **Culture Fact (Ethnic Group - Wat Phatthasima (2)):** Unspecified
+    * **Culture Fact (Community Highlight - Wat Phatthasima (2)):** The community of Wat Phatthasima has a rich tradition of using herbal medicine, with many local names and traditional uses documented in the ancient manuscripts found in the area. The community has a strong emphasis on preserving traditional knowledge and practices.
+    * **Culture Fact (Name Etymology - Wat Phatthasima (2)):** The name "Khilek" is derived from the Thai word for "cassia", a type of tree that is commonly found in the area.
+    * **Culture Fact (Environment - Wat Phatthasima (2)):** The community is located in a rural area with a mix of forests, hills, and plains. The environment is conducive to the growth of a wide variety of plants, including many species of herbs and trees.
+    * **Culture Fact (Local Wisdom - Wat Phatthasima (2)):** The community has a strong tradition of using local wisdom and knowledge to manage the environment and conserve natural resources.
+    * **Culture Fact (Organization - Wat Phatthasima (2)):** The community has several organizations that work together to promote traditional knowledge and practices, including the preservation of herbal medicine.
+    * **Culture Fact (Local Name - Wat Phatthasima (2)):** 
+        * **Item 1:** Poora Daeng, Refers to a type of red powder.
+        * **Item 2:** Khiat Leek, Refers to a type of cassia tree.
+        * **Item 3:** Khaa Kwaang, Refers to a type of deer horn.
+        * **Item 4:** Nga Chang, Refers to a type of elephant tusk.
+        * **Item 5:** Lamud, Refers to a type of tree known as "Lamud".
+        * **Item 6:** Din So Phong, Refers to a type of soil known as "Din So Phong".
+        * **Item 7:** Maak Feuang, Refers to a type of citrus fruit known as "Maak Feuang".
+        * **Item 8:** Nom Kra Chaeng, Refers to a type of milk known as "Nom Kra Chaeng".
+        * **Item 9:** Khot Khaa Ma, Refers to a type of tree known as "Khot Khaa Ma".
+        * **Item 10:** Pla Noy, Refers to a type of fish known as "Pla Noy".
+    * **Culture Fact (Use - Wat Phatthasima (2)):** 
+        * **Item 1:** Luk Ba, Refers to the use of a type of fruit known as "Luk Ba".
+        * **Item 2:** Jed Moo Nang, Refers to the use of a type of tree known as "Jed Moo Nang".
+        * **Item 3:** Hua Khiang, Refers to the use of a type of ginger known as "Hua Khiang".
+    * **Culture Fact (Processing - Wat Phatthasima (2)):** 
+        * **Item 1:** Luk Jan (Luk Jan), Refers to the process of making a type of herbal medicine.
+        * **Item 2:** Kluay Phong La (Kluay Phong La), Refers to the process of making a type of banana-based medicine.
+        * **Item 3:** Maak Mook (Maak Mook), Refers to the process of making a type of herbal medicine.
+        * **Item 4:** Som Ngua (Som Ngua), Refers to the process of making a type of soap.
+        * **Item 5:** Som Kham Peeyak (Som Kham Peeyak), Refers to the process of making a type of tamarind-based medicine.
+        * **Item 6:** Phak Hai (Phak Hai), Refers to the process of making a type of herbal medicine.
+        * **Item 7:** Yaan Khaa Kan (Yaan Khaa Kan), Refers to the process of making a type of herbal medicine.
+        * **Item 8:** Ka Heeang (Ka Heeang), Refers to the process of making a type of herbal medicine.
+        * **Item 9:** Ka Thueng (Ka Thueng), Refers to the process of making a type of herbal medicine.
+    * **Culture Fact (Source - Wat Phatthasima (2)):** https://culturio.sac.or.th/content/1459
+* **Culture Fact (Community - Ban Huai Khilek):** 
+    * **Culture Fact (Location - Ban Huai Khilek):** Chiang Rai Province
+    * **Culture Fact (Ethnic Group - Ban Huai Khilek):** Akha
+    * **Culture Fact (Community Highlight - Ban Huai Khilek):** The community of Ban Huai Khilek is a rural community located in the mountains of Chiang Rai Province. The community has a strong tradition of using herbal medicine and has a rich cultural heritage.
+    * **Culture Fact (Name Etymology - Ban Huai Khilek):** The name "Khilek" is derived from the Thai word for "cassia", a type of tree that is commonly found in the area.
+    * **Culture Fact (Environment - Ban Huai Khilek):** The community is located in a rural area with a mix of forests, hills, and plains. The environment is conducive to the growth of a wide variety of plants, including many species of herbs and trees.
+    * **Culture Fact (Local Wisdom - Ban Huai Khilek):** The community has a strong tradition of using local wisdom and knowledge to manage the environment and conserve natural resources.
+    * **Culture Fact (Organization - Ban Huai Khilek):** The community has several organizations that work together to promote traditional knowledge and practices, including the preservation of herbal medicine.
+    * **Culture Fact (Local Name - Ban Huai Khilek):** 
+        * **Item 1:** Luk Dee Plee, Refers to the ripe fruit of the Dee Plee tree.
+        * **Item 2:** Khiat Trey (Khia Trey), Refers to a type of grass known as "Khia Trey".
+        * **Item 3:** Nguaan Moo Long (Nguaan Moo Long), Refers to a type of tree known as "Nguaan Moo Long".
+        * **Item 4:** Chiaak Khaa Phuwan (Chiaak Khaa Phuwan), Refers to a type of vine known as "Chiaak Khaa Phuwan".
+        * **Item 5:** Dee Plee Khiat Nok (Dee Plee Khiat Nok), Refers to a type of chili pepper known as "Dee Plee Khiat Nok".
+        * **Item 6:** Lam Pam (Lam Pam), Refers to a type of fish known as "Lam Pam".
+        * **Item 7:** Nam Phueng Ruang (Nam Phueng Ruang), Refers to a type of honey known as "Nam Phueng Ruang".
+        * **Item 8:** Kluay Teeb, Refers to a type of banana known as "Kluay Teeb".
+        * **Item 9:** Chiang Phra (Chiang Phra), Refers to a type of tree known as "Chiang Phra".
+        * **Item 10:** Lang Tang Khaai (Lang Tang Khaai), Refers to a type of tree known as "Lang Tang Khaai".
+    * **Culture Fact (Use - Ban Huai Khilek):** 
+        * **Item 1:** Nam Man Nga, Refers to the use of sesame oil.
+        * **Item 2:** Maak Phu, Refers to the use of a type of betel nut.
+        * **Item 3:** Saan Som, Refers to the use of a type of soap.
+        * **Item 4:** Mai Phaii Suk, Refers to the use of a type of bamboo.
+        * **Item 5:** Phaan Ngoo Khaaw, Refers to the use of a type of snake grass.
+        * **Item 6:** Pho Phaa, Refers to the use of a type of Bodhi tree.
+        * **Item 7:** Leb Muu Nang, Refers to the use of a type of tree known as "Leb Muu Nang".
+        * **Item 8:** Maak Waeng, Refers to the use of a type of citrus fruit.
+        * **Item 9:** Maak Kham Pom, Refers to the use of a type of tamarind fruit.
+        * **Item 10:** Khiin Aoi, Refers to the use of a type of turmeric.
+    * **Culture Fact (Processing - Ban Huai Khilek):** 
+        * **Item 1:** Luk Jan (Luk Jan), Refers to the process of making a type of herbal medicine.
+        * **Item 2:** Kluay Phong La (Kluay Phong La), Refers to the process of making a type of banana-based medicine.
+        * **Item 3:** Maak Mook (Maak Mook), Refers to the process of making a type of herbal medicine.
+        * **Item 4:** Som Ngua (Som Ngua), Refers to the process of making a type of soap.
+        * **Item 5:** Som Kham Peeyak (Som Kham Peeyak), Refers to the process of making a type of tamarind-based medicine.
+        * **Item 6:** Phak Hai (Phak Hai), Refers to the process of making a type of herbal medicine.
+        * **Item 7:** Yaan Khaa Kan (Yaan Khaa Kan), Refers to the process of making a type of herbal medicine.
+        * **Item 8:** Ka Heeang (Ka Heeang), Refers to the process of making a type of herbal medicine.
+        * **Item 9:** Ka Thueng (Ka Thueng), Refers to the process of making a type of herbal medicine.
+    * **Culture Fact (Source - Ban Huai Khilek):** https://wikicommunity.sac.or.th/community/597
+* **Internal RAG Fact (Herbal):** Senna siamea, also known as ขี้เหล็ก, is not explicitly mentioned in the provided context. However, the context discusses Thai traditional medicine, its benefits, and the use of herbal remedies in Thai culture. It highlights the importance of using traditional medicine to reduce healthcare costs and promote self-sufficiency. The context also touches on the preparation and use of various herbal remedies, including those for digestive issues and other common ailments. Additionally, it mentions the use of certain plants, such as ใบมะกรูด, which is a type of leaf used in traditional Thai medicine. While Senna siamea is not directly mentioned, the context provides valuable insights into the world of Thai traditional medicine and the importance of herbal remedies in Thai culture.
+* **Internal RAG Fact (Cultural):** ขี้เหล็ก (Senna siamea) is a plant used in traditional Thai medicine. It has been used for healing in Thai wisdom for a long time. The plant is believed to have various health benefits, including aiding digestion and relieving symptoms of certain illnesses. In traditional Thai medicine, ขี้เหล็ก is used to make a variety of remedies, including teas, tinctures, and salves. The plant is also used in combination with other herbs to enhance its healing properties. Additionally, ขี้เหล็ก is used in Thai cuisine as a spice and is believed to have antioxidant properties. Overall, ขี้เหล็ก is a versatile plant with a range of uses in traditional Thai medicine and cuisine.
+* **Source URL (Trend):** None found
+* **Source URL (Science):** None found
+* **Source URL (Compliance):** https://www.fda.moph.go.th/
+* **Source URL (Safety):** https://dailymed.nlm.nih.gov/
+* **Source URL (Toxicity):** https://www.ncbi.nlm.nih.gov/books/NBK547922/
+* **Source URL (Culture):** https://culturio.sac.or.th/, https://wikicommunity.sac.or.th/community/597

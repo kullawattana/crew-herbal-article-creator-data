@@ -1,0 +1,18 @@
+# ===RESEARCH_DATA===
+## Scientific Evidence for: Terminalia bellirica
+* **herb_name:** Terminalia bellirica
+* **herb_name_scientific:** Terminalia bellirica
+### Validated Compounds
+* **Compound 1:**
+    * **compound_name:** Gallic acid
+    * **mechanism_name:** Antioxidant
+    * **supporting_studies:**
+        * **Study 1:** (Data from the first item in studies_data)
+            * **study_type:** Journal Article
+            * **abstract_raw:** Triphala, a traditional Ayurvedic formulation comprising Terminalia chebula, Terminalia bellirica, and Phyllanthus emblica, is renowned for its rich phytochemical composition and numerous health benefits. This study developed and evaluated three triphala-based functional food products - beverages, gummies, and tablets - by measuring gallic acid content, nutritional composition, and microbiological safety. High-performance liquid chromatography analysis showed gallic acid levels of 5.35 +/- 0.14 mg per 200 mL in beverages, 248 +/- 4.38 mg per 25 g in gummies, and 783 +/- 2.69 mg per 12 g in tablets. Each product complied with microbial safety standards and was fortified with essential nutrients, confirming its suitability as a safe and functional food. These formulations advance plant-based functional foods, promoting health and disease prevention.
+            * **key_findings:** The study developed and evaluated three triphala-based functional food products, measuring gallic acid content, nutritional composition, and microbiological safety. The products complied with microbial safety standards and were fortified with essential nutrients.
+            * **pmid:** 41234351
+            * **canonical_url:** https://doi.org/10.4103/japtr.japtr_118_25
+            * **citation_apa:** Chaiprateep, E. O., Noysang, C., Amorndoljai, P., Jarmkom, K., & Khuanekkaphan, M. (2025). Formulation of triphala-based products: Focus on gallic acid content and health benefits. Journal of advanced pharmaceutical technology & research, 16(4), 213-218. doi: 10.4103/japtr.japtr_118_25
+### Overall Summary
+* **summary:** The study developed and evaluated three triphala-based functional food products, measuring gallic acid content, nutritional composition, and microbiological safety. The products complied with microbial safety standards and were fortified with essential nutrients.

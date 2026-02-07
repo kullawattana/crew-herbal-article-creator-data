@@ -1,0 +1,9 @@
+# ===HERBAL_INTERNAL_SUMMARY=== 
+
+The internal knowledge context does not explicitly mention หญ้าคา (Imperata cylindrica) in the provided queries. However, it discusses the use of traditional Thai medicine, its benefits, and the importance of using locally grown herbs to reduce reliance on imported medicines **JSON: [Herbs_traditional_Thai_medicine_in_the_lives_of_Thai_people.json, p.N/A] | PDF: [Romprayom-2563.pdf, p.9]**.
+
+The context highlights the advantages of using traditional Thai medicine, such as reduced medical expenses and the effectiveness of these remedies in treating minor ailments **JSON: [Herbs_traditional_Thai_medicine_in_the_lives_of_Thai_people.json, p.N/A] | PDF: [Romprayom-2563.pdf, p.32]**.
+
+Additionally, the context touches on the preparation and use of traditional Thai remedies, such as the use of locally grown herbs and the importance of self-sufficiency in food production **JSON: [Herbs_traditional_Thai_medicine_in_the_lives_of_Thai_people.json, p.N/A] | PDF: [Romprayom-2563.pdf, p.17]**.
+
+While the context does not specifically mention หญ้าคา (Imperata cylindrica), it emphasizes the significance of traditional Thai medicine and the benefits of using locally grown herbs, which may include หญ้าคา **JSON: [Herbs_traditional_Thai_medicine_in_the_lives_of_Thai_people.json, p.N/A] | PDF: [Romprayom-2563.pdf, p.9]**.

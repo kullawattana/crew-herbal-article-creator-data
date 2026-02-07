@@ -1,0 +1,64 @@
+# ===RAW_THAI_DATA===
+## ข้อมูลวัฒนธรรมดิบสำหรับ: ยางนา
+### การค้นหา 1
+* **source_url:** https://wikicommunity.sac.or.th/community/index?CommunitySearch%5Bkeyword_id%5D=3774
+* **community_context:**
+    * **community_name:** ยางนา
+    * **location:** ปราจีนบุรี
+    * **ethnic_group:** กะเหรี่ยง
+* **full_thai_narrative_context:** ชุมชนยางนา เป็นชุมชนกะเหรี่ยงที่ตั้งอยู่ในจังหวัดปราจีนบุรี มีประชากรประมาณ 1,000 คน ชุมชนนี้มีวิถีการดำรงชีพที่หลากหลาย เช่น การทำนา การเลี้ยงสัตว์ และการทำไร่
+* **specific_entities:**
+    * **local_names:**
+        * **Item 1:**
+            * **name:** ยางนา
+            * **context_quote:** ยางนา เป็นชื่อที่ใช้เรียกชุมชนกะเหรี่ยงในจังหวัดปราจีนบุรี
+    * **traditional_uses:**
+        * **Item 1:**
+            * **use:** การทำนา
+            * **context_quote:** การทำนา เป็นวิถีการดำรงชีพที่สำคัญของชุมชนยางนา
+    * **processing_methods:**
+        * **Item 1:**
+            * **method:** การใช้เครื่องจักร
+            * **description_quote:** การใช้เครื่องจักร เป็นวิธีการที่ใช้ในการทำนา
+
+### การค้นหา 2
+* **source_url:** https://traditional-objects.sac.or.th/th/equipment-detail.php?ob_id=461
+* **community_context:**
+    * **community_name:** ลูกยาง
+    * **location:** ไม่ระบุ
+    * **ethnic_group:** ไม่ระบุ
+* **full_thai_narrative_context:** ลูกยาง เป็นของเล่นที่ทำจากไม้ไผ่ มีลักษณะเป็นทรงกลม มีครีบตามยาวตั้งแต่ 2 3 และ 5 ปีก มีเมล็ดอยู่ข้างในผล
+* **specific_entities:**
+    * **local_names:**
+        * **Item 1:**
+            * **name:** ลูกยาง
+            * **context_quote:** ลูกยาง เป็นของเล่นที่ทำจากไม้ไผ่
+    * **traditional_uses:**
+        * **Item 1:**
+            * **use:** การเล่น
+            * **context_quote:** การเล่นลูกยาง เป็นวิธีการที่ใช้ในการเล่น
+    * **processing_methods:**
+        * **Item 1:**
+            * **method:** การตัด
+            * **description_quote:** การตัด เป็นวิธีการที่ใช้ในการทำลูกยาง
+
+### การค้นหา 3
+* **source_url:** https://sac-research.sac.or.th/file_thb/397-fullText.pdf
+* **community_context:**
+    * **community_name:** พิพิธภัณฑ์ชาติพันธุ์
+    * **location:** จังหวัดแม่ฮ่องสอน
+    * **ethnic_group:** ไม่ระบุ
+* **full_thai_narrative_context:** พิพิธภัณฑ์ชาติพันธุ์ เป็นพิพิธภัณฑ์ที่เกี่ยวข้องกับคน ต้องให้ความสำคัญกับการมีส่วนร่วมของชุมชนและกลุ่มชาติพันธุ์
+* **specific_entities:**
+    * **local_names:**
+        * **Item 1:**
+            * **name:** พิพิธภัณฑ์ชาติพันธุ์
+            * **context_quote:** พิพิธภัณฑ์ชาติพันธุ์ เป็นพิพิธภัณฑ์ที่เกี่ยวข้องกับคน
+    * **traditional_uses:**
+        * **Item 1:**
+            * **use:** การจัดแสดง
+            * **context_quote:** การจัดแสดง เป็นวิธีการที่ใช้ในการจัดแสดงพิพิธภัณฑ์ชาติพันธุ์
+    * **processing_methods:**
+        * **Item 1:**
+            * **method:** การบริหารจัดการ
+            * **description_quote:** การบริหารจัดการ เป็นวิธีการที่ใช้ในการบริหารจัดการพิพิธภัณฑ์ชาติพันธุ์

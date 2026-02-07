@@ -1,0 +1,33 @@
+# ===RESEARCH_DATA===
+## Scientific Evidence for: Mammea siamensis
+* **herb_name:** Mammea siamensis
+* **herb_name_scientific:** Mammea siamensis
+### Validated Compounds
+* **Compound 1:**
+    * **compound_name:** Kayeassamin A
+    * **mechanism_name:** Apoptosis
+    * **supporting_studies:**
+        * **Study 1:** (Data from the first item in studies_data)
+            * **study_type:** Journal Article
+            * **abstract_raw:** Thai Medicinal Flowers as Natural Antioxidants and Antibacterial Agents Against Pathogenic Enteric Bacteria: A Comparative Study of Mesua ferrea, Mammea siamensis, and Clitoria ternatea.
+            * **key_findings:** This study investigated the phytochemical composition and bioactivities of Thai medicinal flowers, with a particular focus on antioxidant and antibacterial properties.
+            * **pmid:** 41148731
+            * **canonical_url:** https://doi.org/10.3390/antibiotics14101038
+            * **citation_apa:** Suriyaprom, S., Cheepchirasuk, N., Ngamsaard, P., Intachaisri, V., Inta, A., & Tragoolpua, Y. (2025). Thai Medicinal Flowers as Natural Antioxidants and Antibacterial Agents Against Pathogenic Enteric Bacteria: A Comparative Study of Mesua ferrea, Mammea siamensis, and Clitoria ternatea. Antibiotics, 14(10), 1038. doi: 10.3390/antibiotics14101038
+        * **Study 2:** (Data from the second item in studies_data)
+            * **study_type:** Journal Article
+            * **abstract_raw:** Mammea siamensis Flower Extract-Induced Cell Death Apoptosis in HCT116 Colon Cancer Cells via Vacuolar-Type H+-ATPase Inhibition Associated with GSK-3β/β-Catenin, PI3K/Akt/NF-κB, and MAPK Signaling Pathway.
+            * **key_findings:** This study investigated the effects of Mammea siamensis flower extract on HCT116 colon cancer cells and found that it induced apoptosis via the activation of both intrinsic and extrinsic pathways associated with the key signaling pathways.
+            * **pmid:** 40283879
+            * **canonical_url:** https://doi.org/10.3390/ph18040441
+            * **citation_apa:** Sitthisuk, P., Poorahong, W., Innajak, S., Krajarng, A., Samosorn, S., & Watanapokasin, R. (2025). Mammea siamensis Flower Extract-Induced Cell Death Apoptosis in HCT116 Colon Cancer Cells via Vacuolar-Type H+-ATPase Inhibition Associated with GSK-3β/β-Catenin, PI3K/Akt/NF-κB, and MAPK Signaling Pathway. Pharmaceuticals, 18(4), 441. doi: 10.3390/ph18040441
+        * **Study 3:** (Data from the third item in studies_data)
+            * **study_type:** Journal Article
+            * **abstract_raw:** Prediction of Protein-Drug Interactions, Pharmacophore Modeling, and Toxicokinetics of Novel Leads for Type 2 Diabetes Treatment.
+            * **key_findings:** This study aimed to craft novel compounds, drawing inspiration from the inherent coumarin nucleus found in nature, to evoke the activity of the glucokinase enzyme, offering a tailored approach to mitigate the undesired side effects typically associated with conventional therapies employed in the treatment of type 2 diabetes.
+            * **pmid:** 39108115
+            * **canonical_url:** https://doi.org/10.2174/0113892002321919240801065905
+            * **citation_apa:** Mehra, A., Mittal, A., Vishwakarma, P. K. (2024). Prediction of Protein-Drug Interactions, Pharmacophore Modeling, and Toxicokinetics of Novel Leads for Type 2 Diabetes Treatment. Current Drug Metabolism, 25(5), 355-380. doi: 10.2174/0113892002321919240801065905
+
+### Overall Summary
+* **summary:** Mammea siamensis has been found to have antioxidant and antibacterial properties, and its flower extract has been shown to induce apoptosis in colon cancer cells via the activation of both intrinsic and extrinsic pathways associated with the key signaling pathways. Additionally, novel compounds inspired by the inherent coumarin nucleus found in nature have been crafted to evoke the activity of the glucokinase enzyme, offering a tailored approach to mitigate the undesired side effects typically associated with conventional therapies employed in the treatment of type 2 diabetes.

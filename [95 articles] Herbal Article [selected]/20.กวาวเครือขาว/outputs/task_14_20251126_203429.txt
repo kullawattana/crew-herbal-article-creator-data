@@ -1,0 +1,21 @@
+```markdown
+# ===AUDIT_DATA_INTEGRITY_REPORT===
+* **Collaboration Robustness (Data Loss):** 92%
+* **Explanation Clarity (Hallucination/Handling):** 100%
+* **Dropped Entities (Facts in Fact Sheet but not Article):**
+    - Compliance Fact (Food Registration 2): registration_number=10-1-13660-5-0114, product_name=กวาวเครือขาว (ผง) / Pueraria mirifica (Powder), company_name=บริษัท โพธิ์ประดิษฐ์สมุนไพร จำกัด, status=สถานะผลิตภัณฑ์(ยกเลิกโดยผู้ประกอบการ 26/10/2561) \ สถานะสถานที่ (คงอยู่ )
+    - Compliance Fact (Food Registration 3): registration_number=G347/46, product_name=ยาแคปซูลกวาวเครือขาว / COMPOUND PUERARIA MIRIFICA CAPSULES, company_name=ศูนย์พัฒนา สมุนไพรไทย, status=คงอยู่
+    - Compliance Fact (Food Registration 4): registration_number=G291/49, product_name=ยาเม็ดกวาวเครือขาว / COMPOUND PUERARIA MIRIFICA TABLET, company_name=None, status=ยกเลิก(23 เมษายน 2562)
+    - Compliance Fact (Food Registration 5): registration_number=G422/49, product_name=ยาแคปซูลกวาวเครือขาว /  -, company_name=บริษัท ไทย - ล้านนา เฮอร์บอล อินดัสตรี้ จำกัด, status=ทะเบียนคงอยู่ แต่ผู้ผลิตยกเลิกกิจการ ทำให้ไม่สามารถผลิตได้
+    - Safety Fact (Active Ingredient): Pyridoxine, Niacin, Cyanocobalamin, Vitamin A
+    - Safety Fact (Ingredient Purpose): Dietary Supplement
+    - Safety Fact (Uses): Intense Sexual Desire
+    - Safety Fact (Warnings): Consult with a physician to determine if this product is safe for you to use or not. This product contains herbs, powders and extracts that can have an effect on your health. Do not take this product if you are taking any drug, alcohol, caffeine or any ingredient that increases energy or affects blood pressure higher or lower. This product is not intended to cure any disease or condition. Do not take if you have any heart issues, high blood pressure, liver issues, or any condition you are being treated for. Consult with your physician before you take this product or any sexual enhancement product.
+    - Safety Fact (Directions): Take 1 capsule 60-180 minutes prior to sexual activity. Do not take with food, it works best when taken in between meals, or at least one hour after eating.
+    - Safety Fact (Other Info): Effects are normally active only when physically stimulated. NOT INTENDED FOR USE BY PERSONS UNDER THE AGE OF 18
+    - Safety Fact (Inactive Ingredients): Pueraria Candollei Var. Mirifica Root, Epimedium Wushanense Whole, Yohimbine, White Rice
+    - Safety Fact (Questions): None
+* **Hallucinated Entities (Facts in Article but not Fact Sheet):**
+    - None
+* **Feedback:** The article accurately reflects most of the information in the fact sheet. However, several compliance and safety facts were dropped, lowering the Collaboration Robustness score. The handling of "Not Found" results was perfect; there were no hallucinations.
+```

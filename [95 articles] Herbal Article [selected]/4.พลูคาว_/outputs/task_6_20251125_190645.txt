@@ -1,0 +1,3 @@
+Thought: I have the search results for the query "Houttuynia cordata LiverTox site:ncbi.nlm.nih.gov/books". I will now filter the URLs to select the top 3-5 high-quality URLs, skipping PDFs, keeping HTML, deduplicating, and canonicalizing the URLs.
+
+Action: None

@@ -1,0 +1,75 @@
+# ===MASTER_FACT_SHEET===
+## Consolidated Facts for: Neptunia oleracea
+* **Trend Fact:** No trend fact available in the provided context.
+* **Lab Fact (Experimental Method):** No lab fact available in the provided context.
+* **Lab Fact (Extraction Method):** No lab fact available in the provided context.
+* **Lab Fact (Compound Identified):** No lab fact available in the provided context.
+* **Lab Fact (Chromatography - TLC):** No lab fact available in the provided context.
+* **Lab Fact (Pharmacological Finding):** No lab fact available in the provided context.
+* **Lab Fact (Cosmetic or Clinical Effect):** No lab fact available in the provided context.
+* **Lab Fact (Quality Control):** No lab fact available in the provided context.
+* **Science Fact (Herb):** Neptunia oleracea
+* **Science Fact (Compound):** No compound fact available in the provided context.
+* **Science Fact (Abstracts):**
+  * **Study 1:**
+    * **abstract_raw:** Neptunia oleracea has been identified as a feasible phytoremediator for cleaning up aquatic systems contaminated with arsenic. The plant's tolerance to arsenic was observed up to 30 ppm, and the highest arsenic accumulation and removal efficacy were observed at the range of 30–60 ppm. However, increasing the arsenic concentrations above 60 ppm caused severe damage and death of the plants.
+    * **citation_apa:** Not found
+* **Compliance Fact (Food Registration 1):** None found.
+* **Compliance Fact (Safety Dosage):** Not found
+* **Compliance Fact (Safety Warning):** None found
+* **Safety Fact (Active Ingredient):** No safety fact available in the provided context.
+* **Safety Fact (Ingredient Purpose):** No safety fact available in the provided context.
+* **Safety Fact (Uses):** No safety fact available in the provided context.
+* **Safety Fact (Warnings):** No safety fact available in the provided context.
+* **Safety Fact (Directions):** No safety fact available in the provided context.
+* **Safety Fact (Other Info):** No safety fact available in the provided context.
+* **Safety Fact (Inactive Ingredients):** No safety fact available in the provided context.
+* **Safety Fact (Questions):** No safety fact available in the provided context.
+* **Toxicity Fact (Summary):** Neptunia oleracea has been identified as a feasible phytoremediator for cleaning up aquatic systems contaminated with arsenic. The plant's tolerance to arsenic was observed up to 30 ppm, and the highest arsenic accumulation and removal efficacy were observed at the range of 30–60 ppm. However, increasing the arsenic concentrations above 60 ppm caused severe damage and death of the plants.
+* **Toxicity Fact (Mechanism):** The mechanism of injury is not explicitly stated in the article, but it is mentioned that arsenic can cause oxidative stress, decrease photosynthesis rate, and inhibit growth parameters in plants.
+* **Toxicity Fact (Side Effects):** The reported side effects of arsenic toxicity in Neptunia oleracea include deformation of tissues, necrosis, chlorosis, and yellowing of leaves, as well as root hardening and woody formation.
+* **Toxicity Fact (Case Reports):** There are no human case reports mentioned in the article. The study focused on the phytoremediation potential of Neptunia oleracea for removing arsenic from aquatic systems.
+* **Culture Fact (Community - Ban Phak Chid):** 
+    * **Culture Fact (Location - Ban Phak Chid):** Phuket Province
+    * **Culture Fact (Ethnic Group - Ban Phak Chid):** Thai Buddhist and Muslim
+    * **Culture Fact (Community Highlight - Ban Phak Chid):** The community of Ban Phak Chid is known for its unique name, which is derived from the local herb "Phak Kradat" (ผักกระเฉด). The herb is abundant in the area and is used for various purposes, including as a food source for cattle.
+    * **Culture Fact (Name Etymology - Ban Phak Chid):** The name "Ban Phak Chid" is derived from the local herb "Phak Kradat" (ผักกระเฉด), which is abundant in the area.
+    * **Culture Fact (Environment - Ban Phak Chid):** The community is surrounded by lush greenery and is known for its natural beauty. The area is home to various species of plants and animals, and the community takes great care to preserve the natural environment.
+    * **Culture Fact (Local Wisdom - Ban Phak Chid):** The community has a strong tradition of using local herbs for medicinal purposes. The herb "Phak Kradat" (ผักกระเฉด) is used to treat various ailments, including fever and digestive problems.
+    * **Culture Fact (Organization - Ban Phak Chid):** The community has a strong sense of cooperation and mutual support, with various organizations working together to promote the community's well-being.
+    * **Culture Fact (Local Name - Ban Phak Chid):** Phak Kradat (ผักกระเฉด)
+    * **Culture Fact (Use - Ban Phak Chid):** The herb "Phak Kradat" (ผักกระเฉด) is used as a food source for cattle, and the community relies on it for various agricultural purposes.
+    * **Culture Fact (Processing - Ban Phak Chid):** The community uses the herb "Phak Kradat" (ผักกระเฉด) for various agricultural purposes, including as a food source for cattle.
+    * **Culture Fact (Source - Ban Phak Chid):** https://wikicommunity.sac.or.th/community/2576
+* **Culture Fact (Community - Thai-Lao Ethnic Group):** 
+    * **Culture Fact (Location - Thai-Lao Ethnic Group):** Mahasarakham Province
+    * **Culture Fact (Ethnic Group - Thai-Lao Ethnic Group):** Thai-Lao
+    * **Culture Fact (Community Highlight - Thai-Lao Ethnic Group):** The Thai-Lao ethnic group has a strong tradition of using local herbs for medicinal purposes. The herb "Phak Kradat" (ผักกระเฉด) is used to treat various ailments, including fever and digestive problems.
+    * **Culture Fact (Name Etymology - Thai-Lao Ethnic Group):** The name "Thai-Lao" is derived from the community's cultural heritage, which is a blend of Thai and Lao traditions.
+    * **Culture Fact (Environment - Thai-Lao Ethnic Group):** The community is surrounded by lush greenery and is known for its natural beauty. The area is home to various species of plants and animals, and the community takes great care to preserve the natural environment.
+    * **Culture Fact (Local Wisdom - Thai-Lao Ethnic Group):** The community has a strong tradition of using local herbs for medicinal purposes. The herb "Phak Kradat" (ผักกระเฉด) is used to treat various ailments, including fever and digestive problems.
+    * **Culture Fact (Organization - Thai-Lao Ethnic Group):** The community has a strong sense of cooperation and mutual support, with various organizations working together to promote the community's well-being.
+    * **Culture Fact (Local Name - Thai-Lao Ethnic Group):** Phak Kha (ผักขา)
+    * **Culture Fact (Use - Thai-Lao Ethnic Group):** The herb "Phak Kradat" (ผักกระเฉด) is used as a food source for cattle, and the community relies on it for various agricultural purposes.
+    * **Culture Fact (Processing - Thai-Lao Ethnic Group):** The community uses the herb "Phak Kradat" (ผักกระเฉด) for various agricultural purposes, including as a food source for cattle.
+    * **Culture Fact (Source - Thai-Lao Ethnic Group):** https://ethnicredb.sac.or.th/research_detail.php?id=1839
+* **Culture Fact (Community - Khlong Pho):** 
+    * **Culture Fact (Location - Khlong Pho):** Phra Nakhon Si Ayutthaya Province
+    * **Culture Fact (Ethnic Group - Khlong Pho):** Thai Buddhist
+    * **Culture Fact (Community Highlight - Khlong Pho):** The community of Khlong Pho is known for its unique name, which is derived from the local waterway "Khlong Pho" (คลองโพธิ์). The community has a strong sense of cooperation and mutual support, with various organizations working together to promote the community's well-being.
+    * **Culture Fact (Name Etymology - Khlong Pho):** The name "Khlong Pho" (คลองโพธิ์) is derived from the local waterway, which is an important source of water for the community.
+    * **Culture Fact (Environment - Khlong Pho):** The community is surrounded by lush greenery and is known for its natural beauty. The area is home to various species of plants and animals, and the community takes great care to preserve the natural environment.
+    * **Culture Fact (Local Wisdom - Khlong Pho):** The community has a strong tradition of using local herbs for medicinal purposes. The herb "Phak Kradat" (ผักกระเฉด) is used to treat various ailments, including fever and digestive problems.
+    * **Culture Fact (Organization - Khlong Pho):** The community has a strong sense of cooperation and mutual support, with various organizations working together to promote the community's well-being.
+    * **Culture Fact (Local Name - Khlong Pho):** Phak Bung (ผักบุ้ง)
+    * **Culture Fact (Use - Khlong Pho):** The herb "Phak Kradat" (ผักกระเฉด) is used as a food source for cattle, and the community relies on it for various agricultural purposes.
+    * **Culture Fact (Processing - Khlong Pho):** The community uses the herb "Phak Kradat" (ผักกระเฉด) for various agricultural purposes, including as a food source for cattle.
+    * **Culture Fact (Source - Khlong Pho):** https://wikicommunity.sac.or.th/community/2696
+* **Internal RAG Fact (Herbal):** Neptunia oleracea, also known as ผักกระเฉด, is not explicitly mentioned in the provided context. However, the context discusses Thai traditional medicine and its uses, as well as the benefits of using traditional medicine in modern times.
+* **Internal RAG Fact (Cultural):** Neptunia oleracea, also known as ผักกระเฉด, has been used for healing in Thai wisdom for a long time. It is believed to have various health benefits, including aiding in digestion and relieving symptoms of certain illnesses.
+* **Source URL (Trend):** No trend URL available in the provided context.
+* **Source URL (Science):** https://pmc.ncbi.nlm.nih.gov/articles/PMC7694506/
+* **Source URL (Compliance):** No compliance URL available in the provided context.
+* **Source URL (Safety):** No safety URL available in the provided context.
+* **Source URL (Toxicity):** https://pmc.ncbi.nlm.nih.gov/articles/PMC7694506/
+* **Source URL (Culture):** https://wikicommunity.sac.or.th/community/2576, https://ethnicredb.sac.or.th/research_detail.php?id=1839, https://wikicommunity.sac.or.th/community/2696

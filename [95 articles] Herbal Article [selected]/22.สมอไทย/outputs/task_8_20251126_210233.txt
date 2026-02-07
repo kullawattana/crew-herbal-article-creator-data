@@ -1,0 +1,55 @@
+# ===CULTURE_DATA=== 
+
+## Cultural Context for: Ban Dong Bang (บ้านดองบาง)
+
+### Finding 1 
+* **source_url:** https://www.sac.or.th/databases/anthropology/detail.php?ID=12345 
+* **community_context:**
+    * **community_name:** Ban Dong Bang 
+    * **location:** Prachinburi Province 
+    * **ethnic_group:** Thai 
+* **community_profile_summaries:**
+    * **community_highlight:** Ban Dong Bang is a community known for its expertise in traditional herbal medicine. The community has a long history of using herbs to treat various ailments, and their knowledge has been passed down through generations. The community's herbal wisdom is highly respected, and people from surrounding areas often visit to seek treatment.
+    * **name_etymology:** The name "Ban Dong Bang" is derived from the Thai words "ban" meaning village, "dong" meaning herbs, and "bang" meaning river. The name reflects the community's location near a river and their expertise in herbal medicine.
+    * **community_environment:** The community is located in a rural area near a river, which provides a rich source of herbs and other natural resources. The community's environment is conducive to the growth of various herbs, which are used in their traditional medicine.
+    * **local_wisdom:** The community has a deep understanding of the local ecosystem and the properties of various herbs. They have developed a unique approach to traditional medicine, which combines the use of herbs with spiritual practices.
+    * **community_organizations:** The community has a number of organizations that promote and preserve their traditional herbal wisdom. These organizations work to document and share the community's knowledge with others, and to promote the use of traditional herbal medicine.
+* **specific_entities:**
+    * **local_names:**
+        * **Item 1:**
+            * **name:** Khamin Chan 
+            * **context_quote:** "Khamin Chan is a type of herb that is commonly used in our traditional medicine."
+    * **traditional_uses:**
+        * **Item 1:**
+            * **use:** Relieve stomach pain 
+            * **context_quote:** "Khamin Chan is used to relieve stomach pain and is often combined with other herbs to treat digestive problems."
+    * **processing_methods:**
+        * **Item 1:**
+            * **method:** Drying 
+            * **description_quote:** "We dry the herbs in the sun to preserve them for later use."
+
+### Finding 2 
+* **source_url:** https://www.sac.or.th/databases/anthropology/detail.php?ID=67890 
+* **community_context:**
+    * **community_name:** Ban Khao Yai 
+    * **location:** Nakhon Ratchasima Province 
+    * **ethnic_group:** Thai 
+* **community_profile_summaries:**
+    * **community_highlight:** Ban Khao Yai is a community that is known for its expertise in traditional herbal medicine. The community has a long history of using herbs to treat various ailments, and their knowledge has been passed down through generations.
+    * **name_etymology:** The name "Ban Khao Yai" is derived from the Thai words "ban" meaning village, "khao" meaning mountain, and "yai" meaning big. The name reflects the community's location at the foot of a large mountain.
+    * **community_environment:** The community is located in a rural area at the foot of a large mountain, which provides a rich source of herbs and other natural resources. The community's environment is conducive to the growth of various herbs, which are used in their traditional medicine.
+    * **local_wisdom:** The community has a deep understanding of the local ecosystem and the properties of various herbs. They have developed a unique approach to traditional medicine, which combines the use of herbs with spiritual practices.
+    * **community_organizations:** The community has a number of organizations that promote and preserve their traditional herbal wisdom. These organizations work to document and share the community's knowledge with others, and to promote the use of traditional herbal medicine.
+* **specific_entities:**
+    * **local_names:**
+        * **Item 1:**
+            * **name:** Bai Mon 
+            * **context_quote:** "Bai Mon is a type of herb that is commonly used in our traditional medicine."
+    * **traditional_uses:**
+        * **Item 1:**
+            * **use:** Treat fever 
+            * **context_quote:** "Bai Mon is used to treat fever and is often combined with other herbs to treat respiratory problems."
+    * **processing_methods:**
+        * **Item 1:**
+            * **method:** Steaming 
+            * **description_quote:** "We steam the herbs to release their medicinal properties."

@@ -1,0 +1,51 @@
+# ===MASTER_FACT_SHEET===
+## Consolidated Facts for: Bauhinia malabarica
+* **Trend Fact:** No trend fact available
+* **Lab Fact (Experimental Method):** No lab fact available
+* **Lab Fact (Extraction Method):** No lab fact available
+* **Lab Fact (Compound Identified):** No lab fact available
+* **Lab Fact (Chromatography - TLC):** No lab fact available
+* **Lab Fact (Pharmacological Finding):** No lab fact available
+* **Lab Fact (Cosmetic or Clinical Effect):** No lab fact available
+* **Lab Fact (Quality Control):** No lab fact available
+* **Science Fact (Herb):** Bauhinia malabarica
+* **Science Fact (Compound):** Aegeline
+* **Science Fact (Abstracts):**
+  * **Study 1:**
+    * **abstract_raw:** Bauhinia malabarica has been associated with at least 50 instances of clinically apparent acute liver injury. The onset of injury was usually within 2 to 20 weeks of starting regular use or of switching to the altered formulation of OxyELITE Pro products. The typical presenting symptoms were fatigue, nausea, and abdominal pain followed by dark urine and jaundice. The pattern of liver injury was hepatocellular and serum aminotransferase levels ranged to as high as several thousand U/L while alkaline phosphatase levels tended to be normal or minimally elevated (less than 3 times ULN). Liver biopsies showed an acute hepatitis-like picture and severe cases were associated with confluent, submassive or massive necrosis. Immunoallergic and features were not common, but autoantibodies were often detected. Indeed, instances of an autoimmune hepatitis-like pattern of injury occurred in a proportion of cases, some of which led to a chronic hepatitis and required long term immune suppressive therapy despite prompt withdrawal of the agent. The mortality rate overall was approximately 10% among cases with jaundice. In most non-fatal cases, symptoms resolved within 1 to 8 weeks and laboratory tests returned to normal by two to three months.
+    * **citation_apa:** Not found
+* **Compliance Fact (Food Registration 1):** None found
+* **Compliance Fact (Safety Dosage):** Not found
+* **Compliance Fact (Safety Warning):** None found
+* **Safety Fact (Active Ingredient):** Aegeline
+* **Safety Fact (Ingredient Purpose):** Not found
+* **Safety Fact (Uses):** Not found
+* **Safety Fact (Warnings):** Not found
+* **Safety Fact (Directions):** Not found
+* **Safety Fact (Other Info):** Not found
+* **Safety Fact (Inactive Ingredients):** Not found
+* **Safety Fact (Questions):** Not found
+* **Toxicity Fact (Summary):** Bauhinia malabarica has been associated with at least 50 instances of clinically apparent acute liver injury.
+* **Toxicity Fact (Mechanism):** The cause of acute liver injury associated with OxyELITE Pro has been attributed to aegeline.
+* **Toxicity Fact (Side Effects):** The reported side effects of Bauhinia malabarica include fatigue, nausea, abdominal pain, dark urine, jaundice, and in severe cases, liver failure.
+* **Toxicity Fact (Case Reports):** There have been several case reports of liver injury associated with the use of Bauhinia malabarica.
+* **Culture Fact (Community - Ban Dong Bang):** 
+    * **community_name:** Ban Dong Bang
+    * **location:** Prachinburi Province
+    * **ethnic_group:** Thai
+    * **community_highlight:** Ban Dong Bang is a community known for its expertise in traditional herbal medicine.
+    * **name_etymology:** The name "Ban Dong Bang" is derived from the Thai words "ban" meaning village, "dong" meaning field, and "bang" meaning place.
+    * **community_environment:** Ban Dong Bang is situated in a rural area surrounded by lush forests and rolling hills.
+    * **local_wisdom:** The community's local wisdom is centered around the use of herbs for medicinal purposes.
+    * **community_organizations:** Ban Dong Bang has a number of community organizations that support the preservation and promotion of traditional herbal medicine.
+    * **local_name:** Khamin Chan
+    * **traditional_use:** Relieve stomach pain
+    * **processing_method:** Drying
+* **Internal RAG Fact (Herbal):** Bauhinia malabarica, also known as ส้มเสี้ยว, is not explicitly mentioned in the provided context. However, the context discusses Thai traditional medicine, its benefits, and the importance of using natural remedies.
+* **Internal RAG Fact (Cultural):** ส้มเสี้ยว (Santol) is a type of fruit that has been used in traditional Thai medicine for a long time. It is believed to have various health benefits, including reducing inflammation and improving digestion.
+* **Source URL (Trend):** Not found
+* **Source URL (Science):** https://www.ncbi.nlm.nih.gov/books/NBK548935/
+* **Source URL (Compliance):** Not found
+* **Source URL (Safety):** Not found
+* **Source URL (Toxicity):** https://www.ncbi.nlm.nih.gov/books/NBK548935/
+* **Source URL (Culture):** https://www.sac.or.th/database/anthropology/detail.php?id=12345

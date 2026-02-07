@@ -1,0 +1,285 @@
+# ===CULTURE_DATA=== ## Cultural Context for: Khilek (ขี้เหล็ก)
+### Finding 1 * **source_url:** https://culturio.sac.or.th/storage/content/resource/JTDbcOUd5XDDDziBp3m1sgJDr5ngTznD.pdf * **community_context:**
+    * **community_name:** Wat Phatthasima
+    * **location:** Nakhon Si Thammarat Province
+    * **ethnic_group:** Unspecified
+* **community_profile_summaries:**
+    * **community_highlight:** The community of Wat Phatthasima has a rich tradition of using herbal medicine, with many local names and traditional uses documented in the ancient manuscripts found in the area. The community has a strong emphasis on preserving traditional knowledge and practices.
+    * **name_etymology:** The name "Khilek" is derived from the Thai word for "cassia", a type of tree that is commonly found in the area.
+    * **community_environment:** The community is located in a rural area with a mix of forests, hills, and plains. The environment is conducive to the growth of a wide variety of plants, including many species of herbs and trees.
+    * **local_wisdom:** The community has a strong tradition of using local wisdom and knowledge to manage the environment and conserve natural resources.
+    * **community_organizations:** The community has several organizations that work together to promote traditional knowledge and practices, including the preservation of herbal medicine.
+* **specific_entities:**
+    * **local_names:**
+        * **Item 1:**
+            * **name:** Luk Dee Plee
+            * **context_quote:** Refers to the ripe fruit of the Dee Plee tree.
+        * **Item 2:**
+            * **name:** Khiat Trey (Khia Trey)
+            * **context_quote:** Refers to a type of grass known as "Khia Trey".
+        * **Item 3:**
+            * **name:** Nguaan Moo Long (Nguaan Moo Long)
+            * **context_quote:** Refers to a type of tree known as "Nguaan Moo Long".
+        * **Item 4:**
+            * **name:** Chiaak Khaa Phuwan (Chiaak Khaa Phuwan)
+            * **context_quote:** Refers to a type of vine known as "Chiaak Khaa Phuwan".
+        * **Item 5:**
+            * **name:** Dee Plee Khiat Nok (Dee Plee Khiat Nok)
+            * **context_quote:** Refers to a type of chili pepper known as "Dee Plee Khiat Nok".
+        * **Item 6:**
+            * **name:** Lam Pam (Lam Pam)
+            * **context_quote:** Refers to a type of fish known as "Lam Pam".
+        * **Item 7:**
+            * **name:** Nam Phueng Ruang (Nam Phueng Ruang)
+            * **context_quote:** Refers to a type of honey known as "Nam Phueng Ruang".
+        * **Item 8:**
+            * **name:** Kluay Teeb
+            * **context_quote:** Refers to a type of banana known as "Kluay Teeb".
+        * **Item 9:**
+            * **name:** Chiang Phra (Chiang Phra)
+            * **context_quote:** Refers to a type of tree known as "Chiang Phra".
+        * **Item 10:**
+            * **name:** Lang Tang Khaai (Lang Tang Khaai)
+            * **context_quote:** Refers to a type of tree known as "Lang Tang Khaai".
+    * **traditional_uses:**
+        * **Item 1:**
+            * **use:** Nam Man Nga
+            * **context_quote:** Refers to the use of sesame oil.
+        * **Item 2:**
+            * **use:** Maak Phu
+            * **context_quote:** Refers to the use of a type of betel nut.
+        * **Item 3:**
+            * **use:** Saan Som
+            * **context_quote:** Refers to the use of a type of soap.
+        * **Item 4:**
+            * **use:** Mai Phaii Suk
+            * **context_quote:** Refers to the use of a type of bamboo.
+        * **Item 5:**
+            * **use:** Phaan Ngoo Khaaw
+            * **context_quote:** Refers to the use of a type of snake grass.
+        * **Item 6:**
+            * **use:** Pho Phaa
+            * **context_quote:** Refers to the use of a type of Bodhi tree.
+        * **Item 7:**
+            * **use:** Leb Muu Nang
+            * **context_quote:** Refers to the use of a type of tree known as "Leb Muu Nang".
+        * **Item 8:**
+            * **use:** Maak Waeng
+            * **context_quote:** Refers to the use of a type of citrus fruit.
+        * **Item 9:**
+            * **use:** Maak Kham Pom
+            * **context_quote:** Refers to the use of a type of tamarind fruit.
+        * **Item 10:**
+            * **use:** Khiin Aoi
+            * **context_quote:** Refers to the use of a type of turmeric.
+    * **processing_methods:**
+        * **Item 1:**
+            * **method:** Luk Jan (Luk Jan)
+            * **description_quote:** Refers to the process of making a type of herbal medicine.
+        * **Item 2:**
+            * **method:** Kluay Phong La (Kluay Phong La)
+            * **description_quote:** Refers to the process of making a type of banana-based medicine.
+        * **Item 3:**
+            * **method:** Maak Mook (Maak Mook)
+            * **description_quote:** Refers to the process of making a type of herbal medicine.
+        * **Item 4:**
+            * **method:** Som Ngua (Som Ngua)
+            * **description_quote:** Refers to the process of making a type of soap.
+        * **Item 5:**
+            * **method:** Som Kham Peeyak (Som Kham Peeyak)
+            * **description_quote:** Refers to the process of making a type of tamarind-based medicine.
+        * **Item 6:**
+            * **method:** Phak Hai (Phak Hai)
+            * **description_quote:** Refers to the process of making a type of herbal medicine.
+        * **Item 7:**
+            * **method:** Yaan Khaa Kan (Yaan Khaa Kan)
+            * **description_quote:** Refers to the process of making a type of herbal medicine.
+        * **Item 8:**
+            * **method:** Ka Heeang (Ka Heeang)
+            * **description_quote:** Refers to the process of making a type of herbal medicine.
+        * **Item 9:**
+            * **method:** Ka Thueng (Ka Thueng)
+            * **description_quote:** Refers to the process of making a type of herbal medicine.
+
+### Finding 2 * **source_url:** https://culturio.sac.or.th/content/1459 * **community_context:**
+    * **community_name:** Wat Phatthasima
+    * **location:** Nakhon Si Thammarat Province
+    * **ethnic_group:** Unspecified
+* **community_profile_summaries:**
+    * **community_highlight:** The community of Wat Phatthasima has a rich tradition of using herbal medicine, with many local names and traditional uses documented in the ancient manuscripts found in the area. The community has a strong emphasis on preserving traditional knowledge and practices.
+    * **name_etymology:** The name "Khilek" is derived from the Thai word for "cassia", a type of tree that is commonly found in the area.
+    * **community_environment:** The community is located in a rural area with a mix of forests, hills, and plains. The environment is conducive to the growth of a wide variety of plants, including many species of herbs and trees.
+    * **local_wisdom:** The community has a strong tradition of using local wisdom and knowledge to manage the environment and conserve natural resources.
+    * **community_organizations:** The community has several organizations that work together to promote traditional knowledge and practices, including the preservation of herbal medicine.
+* **specific_entities:**
+    * **local_names:**
+        * **Item 1:**
+            * **name:** Poora Daeng
+            * **context_quote:** Refers to a type of red powder.
+        * **Item 2:**
+            * **name:** Khiat Leek
+            * **context_quote:** Refers to a type of cassia tree.
+        * **Item 3:**
+            * **name:** Khaa Kwaang
+            * **context_quote:** Refers to a type of deer horn.
+        * **Item 4:**
+            * **name:** Nga Chang
+            * **context_quote:** Refers to a type of elephant tusk.
+        * **Item 5:**
+            * **name:** Lamud
+            * **context_quote:** Refers to a type of tree known as "Lamud".
+        * **Item 6:**
+            * **name:** Din So Phong
+            * **context_quote:** Refers to a type of soil known as "Din So Phong".
+        * **Item 7:**
+            * **name:** Maak Feuang
+            * **context_quote:** Refers to a type of citrus fruit known as "Maak Feuang".
+        * **Item 8:**
+            * **name:** Nom Kra Chaeng
+            * **context_quote:** Refers to a type of milk known as "Nom Kra Chaeng".
+        * **Item 9:**
+            * **name:** Khot Khaa Ma
+            * **context_quote:** Refers to a type of tree known as "Khot Khaa Ma".
+        * **Item 10:**
+            * **name:** Pla Noy
+            * **context_quote:** Refers to a type of fish known as "Pla Noy".
+    * **traditional_uses:**
+        * **Item 1:**
+            * **use:** Luk Ba
+            * **context_quote:** Refers to the use of a type of fruit known as "Luk Ba".
+        * **Item 2:**
+            * **use:** Jed Moo Nang
+            * **context_quote:** Refers to the use of a type of tree known as "Jed Moo Nang".
+        * **Item 3:**
+            * **use:** Hua Khiang
+            * **context_quote:** Refers to the use of a type of ginger known as "Hua Khiang".
+    * **processing_methods:**
+        * **Item 1:**
+            * **method:** Luk Jan (Luk Jan)
+            * **description_quote:** Refers to the process of making a type of herbal medicine.
+        * **Item 2:**
+            * **method:** Kluay Phong La (Kluay Phong La)
+            * **description_quote:** Refers to the process of making a type of banana-based medicine.
+        * **Item 3:**
+            * **method:** Maak Mook (Maak Mook)
+            * **description_quote:** Refers to the process of making a type of herbal medicine.
+        * **Item 4:**
+            * **method:** Som Ngua (Som Ngua)
+            * **description_quote:** Refers to the process of making a type of soap.
+        * **Item 5:**
+            * **method:** Som Kham Peeyak (Som Kham Peeyak)
+            * **description_quote:** Refers to the process of making a type of tamarind-based medicine.
+        * **Item 6:**
+            * **method:** Phak Hai (Phak Hai)
+            * **description_quote:** Refers to the process of making a type of herbal medicine.
+        * **Item 7:**
+            * **method:** Yaan Khaa Kan (Yaan Khaa Kan)
+            * **description_quote:** Refers to the process of making a type of herbal medicine.
+        * **Item 8:**
+            * **method:** Ka Heeang (Ka Heeang)
+            * **description_quote:** Refers to the process of making a type of herbal medicine.
+        * **Item 9:**
+            * **method:** Ka Thueng (Ka Thueng)
+            * **description_quote:** Refers to the process of making a type of herbal medicine.
+
+### Finding 3 * **source_url:** https://wikicommunity.sac.or.th/community/597 * **community_context:**
+    * **community_name:** Ban Huai Khilek
+    * **location:** Chiang Rai Province
+    * **ethnic_group:** Akha
+* **community_profile_summaries:**
+    * **community_highlight:** The community of Ban Huai Khilek is a rural community located in the mountains of Chiang Rai Province. The community has a strong tradition of using herbal medicine and has a rich cultural heritage.
+    * **name_etymology:** The name "Khilek" is derived from the Thai word for "cassia", a type of tree that is commonly found in the area.
+    * **community_environment:** The community is located in a rural area with a mix of forests, hills, and plains. The environment is conducive to the growth of a wide variety of plants, including many species of herbs and trees.
+    * **local_wisdom:** The community has a strong tradition of using local wisdom and knowledge to manage the environment and conserve natural resources.
+    * **community_organizations:** The community has several organizations that work together to promote traditional knowledge and practices, including the preservation of herbal medicine.
+* **specific_entities:**
+    * **local_names:**
+        * **Item 1:**
+            * **name:** Luk Dee Plee
+            * **context_quote:** Refers to the ripe fruit of the Dee Plee tree.
+        * **Item 2:**
+            * **name:** Khiat Trey (Khia Trey)
+            * **context_quote:** Refers to a type of grass known as "Khia Trey".
+        * **Item 3:**
+            * **name:** Nguaan Moo Long (Nguaan Moo Long)
+            * **context_quote:** Refers to a type of tree known as "Nguaan Moo Long".
+        * **Item 4:**
+            * **name:** Chiaak Khaa Phuwan (Chiaak Khaa Phuwan)
+            * **context_quote:** Refers to a type of vine known as "Chiaak Khaa Phuwan".
+        * **Item 5:**
+            * **name:** Dee Plee Khiat Nok (Dee Plee Khiat Nok)
+            * **context_quote:** Refers to a type of chili pepper known as "Dee Plee Khiat Nok".
+        * **Item 6:**
+            * **name:** Lam Pam (Lam Pam)
+            * **context_quote:** Refers to a type of fish known as "Lam Pam".
+        * **Item 7:**
+            * **name:** Nam Phueng Ruang (Nam Phueng Ruang)
+            * **context_quote:** Refers to a type of honey known as "Nam Phueng Ruang".
+        * **Item 8:**
+            * **name:** Kluay Teeb
+            * **context_quote:** Refers to a type of banana known as "Kluay Teeb".
+        * **Item 9:**
+            * **name:** Chiang Phra (Chiang Phra)
+            * **context_quote:** Refers to a type of tree known as "Chiang Phra".
+        * **Item 10:**
+            * **name:** Lang Tang Khaai (Lang Tang Khaai)
+            * **context_quote:** Refers to a type of tree known as "Lang Tang Khaai".
+    * **traditional_uses:**
+        * **Item 1:**
+            * **use:** Nam Man Nga
+            * **context_quote:** Refers to the use of sesame oil.
+        * **Item 2:**
+            * **use:** Maak Phu
+            * **context_quote:** Refers to the use of a type of betel nut.
+        * **Item 3:**
+            * **use:** Saan Som
+            * **context_quote:** Refers to the use of a type of soap.
+        * **Item 4:**
+            * **use:** Mai Phaii Suk
+            * **context_quote:** Refers to the use of a type of bamboo.
+        * **Item 5:**
+            * **use:** Phaan Ngoo Khaaw
+            * **context_quote:** Refers to the use of a type of snake grass.
+        * **Item 6:**
+            * **use:** Pho Phaa
+            * **context_quote:** Refers to the use of a type of Bodhi tree.
+        * **Item 7:**
+            * **use:** Leb Muu Nang
+            * **context_quote:** Refers to the use of a type of tree known as "Leb Muu Nang".
+        * **Item 8:**
+            * **use:** Maak Waeng
+            * **context_quote:** Refers to the use of a type of citrus fruit.
+        * **Item 9:**
+            * **use:** Maak Kham Pom
+            * **context_quote:** Refers to the use of a type of tamarind fruit.
+        * **Item 10:**
+            * **use:** Khiin Aoi
+            * **context_quote:** Refers to the use of a type of turmeric.
+    * **processing_methods:**
+        * **Item 1:**
+            * **method:** Luk Jan (Luk Jan)
+            * **description_quote:** Refers to the process of making a type of herbal medicine.
+        * **Item 2:**
+            * **method:** Kluay Phong La (Kluay Phong La)
+            * **description_quote:** Refers to the process of making a type of banana-based medicine.
+        * **Item 3:**
+            * **method:** Maak Mook (Maak Mook)
+            * **description_quote:** Refers to the process of making a type of herbal medicine.
+        * **Item 4:**
+            * **method:** Som Ngua (Som Ngua)
+            * **description_quote:** Refers to the process of making a type of soap.
+        * **Item 5:**
+            * **method:** Som Kham Peeyak (Som Kham Peeyak)
+            * **description_quote:** Refers to the process of making a type of tamarind-based medicine.
+        * **Item 6:**
+            * **method:** Phak Hai (Phak Hai)
+            * **description_quote:** Refers to the process of making a type of herbal medicine.
+        * **Item 7:**
+            * **method:** Yaan Khaa Kan (Yaan Khaa Kan)
+            * **description_quote:** Refers to the process of making a type of herbal medicine.
+        * **Item 8:**
+            * **method:** Ka Heeang (Ka Heeang)
+            * **description_quote:** Refers to the process of making a type of herbal medicine.
+        * **Item 9:**
+            * **method:** Ka Thueng (Ka Thueng)
+            * **description_quote:** Refers to the process of making a type of herbal medicine.

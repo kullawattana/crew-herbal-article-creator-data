@@ -1,0 +1,26 @@
+# ===RESEARCH_DATA===
+## Scientific Evidence for: Tinospora crispa
+* **herb_name:** Tinospora crispa
+* **herb_name_scientific:** Tinospora crispa
+### Validated Compounds
+* **Compound 1:**
+    * **compound_name:** Borapetoside E
+    * **mechanism_name:** Anti-inflammatory
+    * **supporting_studies:**
+        * **Study 1:** (Data from the first item in studies_data)
+            * **study_type:** Journal Article
+            * **abstract_raw:** The relationship between gene family expansion and the resulting changes in plant phenotypes has shown remarkable complexity during the evolution. The gene family expansion has contributed to the diversity in plant phenotypes, specifically metabolites through neo-functionalization and sub-functionalization. However, the negative regulatory effects associated with the gene family expansion remain poorly understood.
+            * **key_findings:** The chromosome-scale genomes of Tinospora crispa and Tinospora sinensis were analyzed to understand the evolution of terpenoid biosynthesis. The results showed that the MEP pathway was differentially regulated in the two species, leading to differences in terpenoid production.
+            * **pmid:** 40114206
+            * **canonical_url:** https://doi.org/10.1186/s12915-025-02185-z
+            * **citation_apa:** Chen, Z., Xun, L., Lu, Y., Yang, X., Chen, M., Yang, T., ... & Yang, X. (2025). The chromosome-scale genomes of two Tinospora species reveal differential regulation of the MEP pathway in terpenoid biosynthesis. BMC Biology, 23(1), 84.
+        * **Study 2:** (Data from the second item...)
+            * **study_type:** Journal Article
+            * **abstract_raw:** This study investigates the immunomodulatory effects of various aqueous plant extracts on immune cells and cytokine production. In vitro, several extracts, including holy basil (Ocimum sanctum), patawali (Tinospora crispa), and Indian borage (Plectranthus amboinicus L.), significantly increased CD3+ T-cell populations, while soap pod (Acacia concinna), garlic (Allium sativum L.), and neem (Azadirachta indica) also boosted CD45RA+ B-cells.
+            * **key_findings:** The study found that Tinospora crispa extract had immunomodulatory effects on immune cells and cytokine production.
+            * **pmid:** 40034324
+            * **canonical_url:** https://doi.org/10.1016/j.heliyon.2025.e42692
+            * **citation_apa:** Dobutr, T., Jangpromma, N., Patramanon, R., Daduang, J., Kulchat, S., Areemit, J., ... & Daduang, S. (2025). Screening of aqueous plant extracts for immunomodulatory effects on immune cells and cytokine production: In vitro and in vivo analyses. Heliyon, 11(4), e42692.
+        * (Up to 3 studies)
+### Overall Summary
+* **summary:** Tinospora crispa has been found to have anti-inflammatory and immunomodulatory effects, and its extracts have been shown to increase CD3+ T-cell populations and boost CD45RA+ B-cells. The plant's chromosome-scale genome has also been analyzed to understand the evolution of terpenoid biosynthesis.

@@ -1,0 +1,63 @@
+# ===MASTER_FACT_SHEET=== 
+## Consolidated Facts for: Kratom (Mitragyna speciosa)
+* **Trend Fact:** Kratom is a tropical tree native to Southeast Asia, and its leaves have been used for centuries to treat pain, fever, and cough, as well as to increase energy and enhance mood. The herb contains alkaloids that affect the brain and nervous system, providing stimulant effects and interacting with opioid receptors to provide pain relief, mood enhancement, and relaxation. Kratom has been reported to have potential benefits for stress relief, anxiety, and sleep quality, but its use also carries risks, including addiction, dependency, and adverse effects.
+* **Trend Fact:** A cross-sectional survey of 11,545 respondents found that 1,049 reported current kratom use, indicating a 9.1% prevalence. The most common kratom products used in the past 30 days were pills, gummies, and powder formulations. Pain relief, relaxation/stress relief, and boost energy were the most common conditions for using kratom. The reported benefits were increased energy from tea bags and improved sleep with leaf or extract powders.
+* **Trend Fact:** Kratom has been reported to have beneficial and adverse health effects. A critical review of the literature found that kratom may have beneficial effects on pain relief, anxiety, and sleep quality, but its use also carries risks, including addiction, dependency, and adverse effects. The neuropharmacology of kratom is complex, and more research is needed to establish reliable safety guidelines for dosage recommendations.
+* **Lab Fact (Experimental Method):** Not found
+* **Lab Fact (Extraction Method):** Not found
+* **Lab Fact (Compound Identified):** Not found
+* **Lab Fact (Chromatography - TLC):** Not found
+* **Lab Fact (Pharmacological Finding):** Not found
+* **Lab Fact (Cosmetic or Clinical Effect):** Not found
+* **Lab Fact (Quality Control):** Not found
+* **Science Fact (Herb):** Mitragyna speciosa
+* **Science Fact (Compound):** Not found
+* **Science Fact (Abstracts):**
+  * **Study 1:**
+    * **abstract_raw:** Not found
+    * **citation_apa:** Not found
+  * **Study 2:**
+    * **abstract_raw:** Not found
+    * **citation_apa:** Not found
+  * **Study 3:**
+    * **abstract_raw:** Not found
+    * **citation_apa:** Not found
+* **Compliance Fact (Food Registration 1):** registration_number=12-1-13657-5-0102, product_name=ผลิตภัณฑ์เสริมอาหาร กระท่อมแคปซูล ตรามัลดีฟส์ / Kratom Capsule Maldives (TM) Dietary Supplement Product, company_name=บริษัท ไทยเอฟดี จำกัด, status=สถานะผลิตภัณฑ์(คงอยู่)\ สถานะสถานที่ (คงอยู่)
+* **Compliance Fact (Food Registration 2):** registration_number=12-2-02856-2-0014, product_name=เครื่องดื่มชาเขียว ตรา กระท่อม / GREEN TEA BEVERAGE KRATHOM BRAND, company_name=บริษัท ยันฮี วิตามิน วอเตอร์ จำกัด, status=สถานะผลิตภัณฑ์(คงอยู่)\ สถานะสถานที่ (คงอยู่)
+* **Compliance Fact (Food Registration 3):** registration_number=14-2-01458-2-0001, product_name=น้ำดื่มตรา ฮีโร่ / HERO DRINKING WATER, company_name=กระท่อมปลายนา, status=สถานะผลิตภัณฑ์(คงอยู่)\ สถานะสถานที่ (คงอยู่)
+* **Compliance Fact (Food Registration 4):** registration_number=73-1-15864-5-0036, product_name=ผลิตภัณฑ์เสริมอาหาร กระท่อมยัม สารสกัดจากใบกระท่อม / KRATOM YUM  KRATOM LEAF EXTRACT DIETARY SUPPLEMENT PRODUCT, company_name=บริษัท แน็พ ไบโอเทค จำกัด, status=สถานะผลิตภัณฑ์(คงอยู่)\ สถานะสถานที่ (คงอยู่)
+* **Compliance Fact (Food Registration 5):** registration_number=73-1-15864-5-0039, product_name=ผลิตภัณฑ์เสริมอาหาร กระท่อมแคป สารสกัดจากใบกระท่อม / KRATOM CAP KRATOM LEAF EXTRACT DIETARY SUPPLEMENT PRODUCT, company_name=บริษัท แน็พ ไบโอเทค จำกัด, status=สถานะผลิตภัณฑ์(คงอยู่)\ สถานะสถานที่ (คงอยู่)
+* **Compliance Fact (Safety Dosage):** Not found
+* **Compliance Fact (Safety Warning):** Not found
+* **Safety Fact (Active Ingredient):** Adenosinum Triphosphoricum Dinatrum, Adrenal Cortex (Suis), Bacopa Speciosa, Chininum Sulphuricum, Cina, Dopamine Hydrochloride, Equol, Gambogia, Iodium, Lycopodium Clavatum, Morgan Gaertner, Oxytocin, Pantothenic Acid, Phosphorus, Rhodiola, Serotonin (Hydrochloride), Stomach (Suis), Thyroidinum (Suis)
+* **Safety Fact (Ingredient Purpose):** Excessive Appetite, Greed in Eating, Eating Ameliorates, Sugar Craving, Carbohydrate Craving, Fat Craving
+* **Safety Fact (Uses):** For the temporary relief of symptoms including: eating ameliorates, greed in eating, excessive appetite, sugar craving, carbohydrate craving, fat craving.
+* **Safety Fact (Warnings):** If pregnant or breast-feeding, ask a health professional before use. Keep out of reach of children. In case of overdose, contact a physician or Poison Control Center right away. Tamper Evident: Sealed for Your Protection. Do not use if seal is broken or missing.
+* **Safety Fact (Directions):** 3-10 drops under the tongue, 3 times a day or as directed by a health professional. Consult a physician for use in children under 12 years of age.
+* **Safety Fact (Other Info):** Not found
+* **Safety Fact (Inactive Ingredients):** Demineralized water, 25% ethanol
+* **Safety Fact (Questions):** Dist. By: Deseret Biologicals, Inc. 469 W. Parkland Drive Sandy, UT 84070 www.desbio.com 800-827-8204
+* **Toxicity Fact (Summary):** Not found
+* **Toxicity Fact (Mechanism):** Not found
+* **Toxicity Fact (Side Effects):** Not found
+* **Toxicity Fact (Case Reports):** Not found
+* **Culture Fact (Community - Ta Khan Pom's Hut):** Ta Khan Pom's Hut
+* **Culture Fact (Location - Ta Khan Pom's Hut):** Forest
+* **Culture Fact (Ethnic Group - Ta Khan Pom's Hut):** No information
+* **Culture Fact (Community Highlight - Ta Khan Pom's Hut):** No herbal-related information found
+* **Culture Fact (Name Etymology - Ta Khan Pom's Hut):** The name "Ta Khan Pom" is derived from the main character's name in the folktale, which is a story about a old man who lives in a hut in the forest.
+* **Culture Fact (Environment - Ta Khan Pom's Hut):** The community is located in a forest, where the main character, Ta Khan Pom, plants a vegetable garden as his occupation.
+* **Culture Fact (Local Wisdom - Ta Khan Pom's Hut):** Ta Khan Pom uses his urine to water his vegetable garden, which helps his eggplant to survive and thrive during the hot season.
+* **Culture Fact (Organization - Ta Khan Pom's Hut):** No information found
+* **Culture Fact (Local Name - Ta Khan Pom's Hut):** Hut
+* **Culture Fact (Use - Ta Khan Pom's Hut):** Vegetable gardening
+* **Culture Fact (Processing - Ta Khan Pom's Hut):** Urine watering
+* **Culture Fact (Source - Ta Khan Pom's Hut):** https://folktales.sac.or.th/folktale-details.php?id=221
+* **Internal RAG Fact (Herbal):** The provided internal knowledge context does not explicitly mention กระท่อม (Mitragyna speciosa). However, it discusses the use of traditional Thai medicine, its benefits, and the importance of using natural herbs in everyday life. The context highlights the advantages of using Thai traditional medicine, such as reducing medical expenses and promoting self-sufficiency. It also mentions the use of various herbs, including ใบมะกรูด (lemon basil), in traditional Thai recipes and their potential health benefits. Additionally, the context touches on the topic of food preparation and the importance of using natural ingredients to maintain good health.
+* **Internal RAG Fact (Cultural):** No relevant information about กระท่อม was found in the provided cultural context.
+* **Source URL (Trend):** https://occursnaturally.com/blog/kratom-vs-cortisol, https://pubmed.ncbi.nlm.nih.gov/40022554/, https://www.wsj.com/health/wellness/kratom-supplement-safety-b63d0573
+* **Source URL (Science):** Not found
+* **Source URL (Compliance):** Not found
+* **Source URL (Safety):** https://dailymed.nlm.nih.gov/dailymed/fda/fdaDrugXsl.cfm?setid=7668cca1-9f37-470e-998b-23353c023a5c
+* **Source URL (Toxicity):** Not found
+* **Source URL (Culture):** https://folktales.sac.or.th/folktale-details.php?id=221

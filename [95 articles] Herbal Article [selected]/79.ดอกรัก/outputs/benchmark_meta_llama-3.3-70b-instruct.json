@@ -1,0 +1,11 @@
+{
+  "model": "meta/llama-3.3-70b-instruct",
+  "herbs": "Calotropis gigantea",
+  "runtime_sec": 480.63,
+  "cpu_percent": -8.5,
+  "memory_mb_change": -157.61,
+  "total_tokens": 0,
+  "prompt_tokens": 0,
+  "completion_tokens": 0,
+  "total_cost": 0.0
+}

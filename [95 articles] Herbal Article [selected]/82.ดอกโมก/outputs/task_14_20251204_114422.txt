@@ -1,0 +1,41 @@
+# ===AUDIT_DATA_INTEGRITY_REPORT===
+*   **Collaboration Robustness (Data Loss):** 46.55%
+*   **Explanation Clarity (Hallucination/Handling):** 86.67%
+*   **Dropped Entities (Facts in Fact Sheet but not Article):**
+    *   Compliance Fact (Food Registration 1): registration_number=13-2-06660-6-0035
+    *   Compliance Fact (Food Registration 1): product_name=Sang Yod Rice Chips (Shrimp Flavour)
+    *   Compliance Fact (Food Registration 1): company_name=บริษัท บ้านขนมไทย อินเตอร์เนชั่นแนล จำกัด
+    *   Compliance Fact (Food Registration 1): status=สถานะผลิตภัณฑ์(คงอยู่)\ สถานะสถานที่ (คงอยู่)
+    *   Compliance Fact (Food Registration 2): registration_number=93-2-01461-6-0001
+    *   Compliance Fact (Food Registration 2): product_name=ข้าวสังข์หยดเมืองพัทลุง (ข้าวกล้อง)
+    *   Compliance Fact (Food Registration 2): company_name=วิสาหกิจชุมชนกลุ่มแม่บ้านนาท่อมร่วมใจ
+    *   Compliance Fact (Food Registration 2): status=สถานะผลิตภัณฑ์(คงอยู่)\ สถานะสถานที่ (คงอยู่)
+    *   Compliance Fact (Herbal Product 1): registration_number=G185/68
+    *   Compliance Fact (Herbal Product 1): product_name=ยาหม่องน้ำสุภาพโอสถ กลิ่นดอกโมก
+    *   Compliance Fact (Herbal Product 1): company_name=โรงงานเภสัชอุตสาหกรรม เจเอสพี (ประเทศไทย) (มหาชน)
+    *   Compliance Fact (Herbal Product 1): status=คงอยู่
+    *   Compliance Fact (Cosmetic Product 1): registration_number=10-1-5844046
+    *   Compliance Fact (Cosmetic Product 1): product_name=ศรีธนา อโรมา ออย ดอกโมก
+    *   Compliance Fact (Cosmetic Product 1): company_name=บริษัท แวนน์ คอสเมติกส์ แอนด์ แลบอราทอรี่ จำกัด
+    *   Compliance Fact (Cosmetic Product 1): status=คงอยู่
+    *   Culture Fact (Ethnic Group - Ban Tha Lap): ethnic_group=Rural Community
+    *   Culture Fact (Community Highlight - Ban Tha Lap): "Ban Tha Lap is an old community located in the eastern part of the Chao Phraya River basin."
+    *   Culture Fact (Name Etymology - Ban Tha Lap): name_etymology=The name "Ban Tha Lap" is derived from the Thai words "ban" meaning "village" and "tha lap" meaning "landing place".
+    *   Culture Fact (Environment - Ban Tha Lap): community_environment=The community is situated in a fertile area, making it suitable for agriculture.
+    *   Culture Fact (Organization - Ban Tha Lap): community_organizations=The community has established organizations to promote and preserve their cultural heritage, such as the "Ban Tha Lap Cultural Preservation Group".
+    *   Culture Fact (Local Name - Ban Tha Lap): local_name=Kluay Nam Wa
+    *   Culture Fact (Use - Ban Tha Lap): traditional_use=Banana processing
+    *   Culture Fact (Processing - Ban Tha Lap): processing_method=Boiling
+    *   Culture Fact (Ethnic Group - Phu Thai): ethnic_group=Phu Thai
+    *   Culture Fact (Community Highlight - Phu Thai): "The Phu Thai community is an ethnic group that migrated to Thailand from Laos. They originally believed in spirits but later converted to Buddhism."
+    *   Culture Fact (Name Etymology - Phu Thai): name_etymology=The name "Phu Thai" is derived from the Thai words "phu" meaning "people" and "Thai" meaning "free".
+    *   Culture Fact (Environment - Phu Thai): community_environment=The community is situated in a rural area, with a strong emphasis on agriculture.
+    *   Culture Fact (Organization - Phu Thai): community_organizations=The community has established organizations to promote and preserve their cultural heritage, such as the "Phu Thai Cultural Preservation Group".
+    *   Culture Fact (Local Name - Phu Thai): local_name=Phu Thai
+    *   Culture Fact (Processing - Phu Thai): processing_method=Boiling
+*   **Hallucinated Entities (Facts in Article but not Fact Sheet):**
+    *   "The wellness industry has seen a significant surge in interest in traditional herbs, with many consumers seeking natural solutions for their health needs."
+    *   "...targeting tuberculosis or related respiratory issues." (specifically "related respiratory issues")
+    *   "Registered herbal and cosmetic products containing Wrightia religiosa or related compounds indicate an existing regulatory framework for such products." (specifically the inference about an "existing regulatory framework")
+    *   "This would require collaboration with researchers to fill in the gaps in knowledge regarding extraction methods..." (specifically "extraction methods" as a known gap for collaboration)
+*   **Feedback:** The article demonstrated significant data loss, particularly by omitting all specific compliance registration details and many granular cultural facts, opting instead for general summaries or complete omission. This significantly reduced the robustness of the data transfer. While the article generally avoided inventing entirely new scientific or compliance data, it did introduce several generalized market trends, extended scientific findings with unverified implications ("related respiratory issues"), and made inferences about regulatory frameworks and knowledge gaps ("extraction methods") that were not explicitly stated as facts in the Master Fact Sheet. However, it correctly handled instances where information was "Not provided" in the fact sheet by acknowledging the absence of data rather than fabricating it.

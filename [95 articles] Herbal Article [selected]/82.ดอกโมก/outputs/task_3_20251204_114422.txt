@@ -1,0 +1,33 @@
+# ===RESEARCH_DATA===
+## Scientific Evidence for: Wrightia religiosa
+* **herb_name:** Wrightia religiosa
+* **herb_name_scientific:** Wrightia religiosa
+### Validated Compounds
+* **Compound 1:**
+    * **compound_name:** Tryptanthrin
+    * **mechanism_name:** Antitubercular
+    * **supporting_studies:**
+        * **Study 1:** (Data from the first item in studies_data)
+            * **study_type:** Journal Article
+            * **abstract_raw:** A series of Wrightia hanleyi extracts was screened for activity against Mycobacterium tuberculosis H37Rv. One active fraction contained a compound that initially appeared to be either the isoflavonoid wrightiadione or the alkaloid tryptanthrin, both of which have been previously reported in other Wrightia species. Characterization by NMR and MS, as well as evaluation of the literature describing these compounds, led to the conclusion that wrightiadione (1) was misidentified in the first report of its isolation from W. tomentosa in 1992 and again in 2015 when reported in W. pubescens and W. religiosa. Instead, the molecule described in these reports and in the present work is almost certainly the isobaric (same nominal mass) and isosteric (same number of atoms, valency, and shape) tryptanthrin (2), a well-known quinazolinone alkaloid found in a variety of plants including Wrightia species. Tryptanthrin (2) is also accessible synthetically via several routes and has been thoroughly characterized. Wrightiadione (1) has been synthesized and characterized and may have useful biological activity; however, this compound can no longer be said to be known to exist in Nature. To our knowledge, this misidentification of wrightiadione (1) has heretofore been unrecognized.
+            * **key_findings:** A series of Wrightia hanleyi extracts was screened for activity against Mycobacterium tuberculosis H37Rv. One active fraction contained a compound that initially appeared to be either the isoflavonoid wrightiadione or the alkaloid tryptanthrin, both of which have been previously reported in other Wrightia species.
+            * **pmid:** 30295480
+            * **canonical_url:** https://pubmed.ncbi.nlm.nih.gov/30295480/
+            * **citation_apa:** (Garcellano et al., 2019)
+        * **Study 2:** (Data from the second item in studies_data)
+            * **study_type:** Journal Article
+            * **abstract_raw:** Particulate matter and volatile organic compound phytoremediation by perennial plants: Affecting factors and plant stress response.
+            * **key_findings:** Wrightia religiosa removed PM and VOCs. In addition, the relative water content in the plant and ethanol soluble wax showed positive relationships with PM and VOC phytoremediation, with a high correlation coefficient.
+            * **pmid:** 34225152
+            * **canonical_url:** https://pubmed.ncbi.nlm.nih.gov/34225152/
+            * **citation_apa:** (Treesubsuntorn et al., 2021)
+        * **Study 3:** (Data from the third item in studies_data)
+            * **study_type:** Journal Article
+            * **abstract_raw:** Application of Acinetobacter indicus to promote cigarette smoke particulate matter phytoremediation: removal efficiency and plant-microbe interactions.
+            * **key_findings:** Wrightia religiosa was inoculated with Acinetobacter indicus PS1, and high biosurfactant-producing strains clearly showed a higher PM removal efficiency than non-inoculated plants (9.48, 9.5 and 12.6% for PM1.0, PM2.5 and PM10, respectively).
+            * **pmid:** 39145908
+            * **canonical_url:** https://pubmed.ncbi.nlm.nih.gov/39145908/
+            * **citation_apa:** (Nookongbut et al., 2024)
+
+### Overall Summary
+* **summary:** Wrightia religiosa has been found to have antitubercular activity, and its compounds have been isolated and characterized. The plant has also been found to have phytoremediation potential for particulate matter and volatile organic compounds.

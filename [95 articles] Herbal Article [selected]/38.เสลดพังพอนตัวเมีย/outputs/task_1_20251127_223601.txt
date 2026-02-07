@@ -1,0 +1,21 @@
+# ===TRENDS_DATA===
+
+### Finding 1
+* **herb_name:** Snake Jasmine (Rhinacanthus nasutus)
+* **wellness_context_summary:** Snake Jasmine has been used to help with skin allergies and diseases like Psorosis and ring worm infections. It has anti diabetes and anti hypertension properties. It is also considered anti-inflammatory, antipyretic, and detoxicant. The plant is used to treat snake venom and has numerous uses as an antioxidant powerhouse.
+* **source_url:** https://letstalkgardens.com/sweet-snake-jasmine/
+
+### Finding 2
+* **herb_name:** Snake Jasmine (Rhinacanthus nasutus)
+* **wellness_context_summary:** The leaves of Snake Jasmine are widely used in Ayurveda for easing arthritis, joint stiffness, and back pain. The plant is also used to treat snake venom and has numerous uses as an antioxidant powerhouse.
+* **source_url:** https://www.facebook.com/groups/gardenflowersandplants/posts/1431713543520459/
+
+### Finding 3
+* **herb_name:** Snake Jasmine (Rhinacanthus nasutus)
+* **wellness_context_summary:** Rhinacanthus nasutus, commonly referred to as Snake Jasmine, is a native of Southeast Asia. The plant is used to treat various diseases, including cancer, diabetes, infectious diseases, and neurodegenerative diseases. It has phytochemicals that have medicinal benefits.
+* **source_url:** https://pubmed.ncbi.nlm.nih.gov/33317106/
+
+### Finding 4
+* **herb_name:** Snake Jasmine (Rhinacanthus nasutus)
+* **wellness_context_summary:** Snake Jasmine has various uses, including treating skin allergies and diseases, diabetes, and hypertension. It is also used to treat snake venom and has antioxidant properties.
+* **source_url:** https://herbpathy.com/Uses-and-Benefits-of-Snake-Jasmine-Cid1897

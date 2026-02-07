@@ -1,0 +1,33 @@
+# ===RESEARCH_DATA===
+## Scientific Evidence for: Mallotus repandus
+* **herb_name:** Mallotus repandus
+* **herb_name_scientific:** Mallotus repandus
+### Validated Compounds
+* **Compound 1:**
+    * **compound_name:** not_found
+    * **mechanism_name:** not_found
+    * **supporting_studies:**
+        * **Study 1:** (Data from the first item in studies_data)
+            * **study_type:** not_found
+            * **abstract_raw:** Potential of Ko-Klan Traditional Thai Remedy for Evaluation of Antioxidant and RT-PCR Anti-Inflammatory Activities.
+            * **key_findings:** not_found
+            * **pmid:** 41332458
+            * **canonical_url:** https://pubmed.ncbi.nlm.nih.gov/41332458/
+            * **citation_apa:** not_found
+        * **Study 2:** (Data from the second item...)
+            * **study_type:** not_found
+            * **abstract_raw:** Aqueous distillate of mature leaves of Vernonia zeylanica (L.) Less. and Mallotus repandus (Rottler) Müll. Arg. cued from traditional medicine exhibits rapid wound healing properties.
+            * **key_findings:** not_found
+            * **pmid:** 38253274
+            * **canonical_url:** https://pubmed.ncbi.nlm.nih.gov/38253274/
+            * **citation_apa:** not_found
+        * **Study 3:** (Data from the third item...)
+            * **study_type:** not_found
+            * **abstract_raw:** Preliminary Study on the Antibacterial Activities and Antibacterial Guided Fractionation of Some Common Medicinal Plants Practices in Itum Bahal, Kathmandu Valley of Nepal.
+            * **key_findings:** not_found
+            * **pmid:** 37780640
+            * **canonical_url:** https://pubmed.ncbi.nlm.nih.gov/37780640/
+            * **citation_apa:** not_found
+
+### Overall Summary
+* **summary:** not_found

@@ -1,0 +1,18 @@
+# ===TRENDS_DATA===
+## Wellness Trends for: White Kwao Krua (Pueraria mirifica)
+### Finding 1
+* **herb_name:** White Kwao Krua (Pueraria mirifica)
+* **wellness_context_summary:** Unfortunately, no specific mentions of White Kwao Krua were found in the articles from the Global Wellness Institute website. However, the website provides information on various wellness modalities, including herbal medicine, and their medical evidence.
+* **source_url:** https://globalwellnessinstitute.org/wellnessevidence/
+
+### Finding 2
+* **herb_name:** White Kwao Krua (Pueraria mirifica)
+* **wellness_context_summary:** The Global Wellness Institute website mentions various herbs and plants used in traditional medicine, but no specific information on White Kwao Krua was found.
+* **source_url:** https://globalwellnessinstitute.org/what-is-wellness/
+
+### Finding 3
+* **herb_name:** White Kwao Krua (Pueraria mirifica)
+* **wellness_context_summary:** The website provides information on the global wellness economy and its growth, but no specific mentions of White Kwao Krua were found.
+* **source_url:** https://globalwellnessinstitute.org/press-room/press-releases/the-global-wellness-economy-hits-a-record-6-8-trillion-and-is-forecast-to-reach-9-8-trillion-by-2029/
+
+Note: The findings are limited due to the lack of specific information on White Kwao Krua in the articles from the Global Wellness Institute website.

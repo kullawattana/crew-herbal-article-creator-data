@@ -1,0 +1,29 @@
+# ===COMPLIANCE_DATA===
+## Thai FDA Status for: Derris scandens
+* **herb_name:** Derris scandens
+### Food Registrations
+* **Food Registration 1:**
+    * **registration_number:** 10-1-00450-1-0016
+    * **product_name:** ชาสมุนไพร เถาวัลย์เปรียง (ตราเอ็นทู ที) / JEWEL VINE HERBAL TEA (N2 TEA BRAND)
+    * **company_name:** บริษัท คัลเลอร์-พลาส จำกัด
+    * **status:** สถานะผลิตภัณฑ์(คงอยู่)\ สถานะสถานที่ (คงอยู่)
+* **Food Registration 2:**
+    * **registration_number:** 10-1-00450-1-0028
+    * **product_name:** ชาสมุนไพร เถาวัลย์เปรียง (ตรา จีอีโอ) / JEWEL VINE HERAL TEA (GEO BRAND)
+    * **company_name:** บริษัท คัลเลอร์-พลาส จำกัด
+    * **status:** สถานะผลิตภัณฑ์(คงอยู่)\ สถานะสถานที่ (คงอยู่)
+* **Food Registration 3:**
+    * **registration_number:** 10-1-01949-1-0194
+    * **product_name:** ชาสมุนไพร เถาวัลย์เปรียง / JEWEL VINE HERBAL TEA
+    * **company_name:** บริษัท โรงงานเภสัชอุตสาหกรรม เจเอสพี (ประเทศไทย) จำกัด (มหาชน)
+    * **status:** สถานะผลิตภัณฑ์(ผู้ประกอบการแจ้งยกเลิกใบอนุญาต 16/1/2567) \ สถานะสถานที่ (ยกเลิกโดยผู้ประกอบการ 16/1/2567)
+* **Food Registration 4:**
+    * **registration_number:** 10-1-01949-1-0206
+    * **product_name:** ชาสมุนไพร เถาวัลย์เปรียงผสมใบหญ้าหวาน / JEWEL VINE AND STEVIA HERBAL TEA
+    * **company_name:** บริษัท โรงงานเภสัชอุตสาหกรรม เจเอสพี (ประเทศไทย) จำกัด (มหาชน)
+    * **status:** สถานะผลิตภัณฑ์(ผู้ประกอบการแจ้งยกเลิกใบอนุญาต 16/1/2567) \ สถานะสถานที่ (ยกเลิกโดยผู้ประกอบการ 16/1/2567)
+* **Food Registration 5:**
+    * **registration_number:** 10-1-09148-1-0013
+    * **product_name:** ชาสมุนไพร เถาวัลย์เปรียง (ตราภูต้นน้ำ)
+    * **company_name:** บริษัท ภูต้นน้ำ จำกัด
+    * **status:** สถานะผลิตภัณฑ์(ยกเลิก 8/6/2560) \ สถานะสถานที่ (ยกเลิก 8/6/2560)

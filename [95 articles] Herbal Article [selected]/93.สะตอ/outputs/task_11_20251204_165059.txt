@@ -1,0 +1,72 @@
+# ===MASTER_FACT_SHEET=== 
+## Consolidated Facts for: Parkia speciosa
+* **Trend Fact:** Bitter Bean is mentioned in the context of Asian traditions of wellness, where it is used as a food ingredient. The plant has strip-like pods and the beans must be peeled from the pods prior to consumption. It can be eaten raw or cooked in sambal with chilies and garlic.
+* **Trend Fact:** Bitter Bean is not explicitly mentioned in the context of wellness policies that help older populations stay active. However, the article discusses the importance of physical activity for older adults and highlights the need for accessible and safe exercising spaces.
+* **Trend Fact:** Bitter Bean is not explicitly mentioned in the context of geothermal hot springs sanitation practices. However, the article discusses the importance of proper sanitation practices in geothermal hot springs to prevent the spread of waterborne illnesses.
+* **Lab Fact (Experimental Method):** Not found
+* **Lab Fact (Extraction Method):** Not found
+* **Lab Fact (Compound Identified):** 1,2,4-Trithiolane
+* **Lab Fact (Chromatography - TLC):** Not found
+* **Lab Fact (Pharmacological Finding):** The study investigated the cardioprotective potential of hydrogen sulfide (H2S) released by oil extracted from Parkia speciosa Hassk. seeds (PsH).
+* **Lab Fact (Cosmetic or Clinical Effect):** Not found
+* **Lab Fact (Quality Control):** Not found
+* **Science Fact (Herb):** Parkia speciosa Hassk
+* **Science Fact (Compound):** 1,2,4-Trithiolane
+* **Science Fact (Abstracts):**
+  * **Study 1:**
+    * **abstract_raw:** The Polysulfide Containing Medicinal Plant Parkia speciosa Hassk. has Both Antioxidant and Cardioprotective Activity.
+    * **citation_apa:** Asif, A., Ahmad, F.-U.-D., Mothana, R. A., Al-Yousef, H. M., & Sewell, R. D. E. (2025). The Polysulfide Containing Medicinal Plant Parkia speciosa Hassk. has Both Antioxidant and Cardioprotective Activity. Chemistry & Biodiversity, 22(11), e00094.
+  * **Study 2:**
+    * **abstract_raw:** Effect of Boiling, Steaming and Microwaving on the Antioxidant and Antibacterial Properties of Parkia speciosa Seeds.
+    * **citation_apa:** Limas, L. F., Jeyaraj, E. J., Ng, K. Y., & Choo, W. S. (2025). Effect of Boiling, Steaming and Microwaving on the Antioxidant and Antibacterial Properties of Parkia speciosa Seeds. Plant Foods for Human Nutrition, 80(2), 110.
+  * **Study 3:**
+    * **abstract_raw:** Antibacterial potency of mid-polar extracts obtained from Malaysian plant Parkia speciosa against human pathogenic bacteria.
+    * **citation_apa:** Goh, S. M., Dassanayake, M. K., Foan, C. C., Wiart, C., Symonds, R., Khoo, T.-J., ... & Elfar, O. A. (2024). Antibacterial potency of mid-polar extracts obtained from Malaysian plant Parkia speciosa against human pathogenic bacteria. Microbial Pathogenesis, 198, 107134.
+* **Compliance Fact (Food Registration 1):** registration_number=10-1-02358-1-0437, product_name=สะตอแกะ ตัดแต่ง, company_name=บริษัท ซีพี แอ็กซ์ตร้า จำกัด (มหาชน) สาขา กัลปพฤกษ์, status=สถานะผลิตภัณฑ์(คงอยู่)\ สถานะสถานที่ (คงอยู่)
+* **Compliance Fact (Food Registration 2):** registration_number=10-1-26640-1-0862, product_name=สะตอผัดเห็ด / -, company_name=บริษัท เดอะมอลล์ กรุ๊ป จำกัด, status=สถานะผลิตภัณฑ์(คงอยู่)\ สถานะสถานที่ (คงอยู่)
+* **Compliance Fact (Food Registration 3):** registration_number=10-1-45840-1-0139, product_name=สะตอผัดเนื้อปู / -, company_name=ร้าน วรนาถ, status=สถานะผลิตภัณฑ์(คงอยู่)\ สถานะสถานที่ (คงอยู่)
+* **Compliance Fact (Food Registration 4):** registration_number=10-1-45840-1-0140, product_name=สะตอผัดกุ้ง / -, company_name=ร้าน วรนาถ, status=สถานะผลิตภัณฑ์(คงอยู่)\ สถานะสถานที่ (คงอยู่)
+* **Compliance Fact (Food Registration 5):** registration_number=10-1-45840-1-0141, product_name=สะตอผัดหมู / -, company_name=ร้าน วรนาถ, status=สถานะผลิตภัณฑ์(คงอยู่)\ สถานะสถานที่ (คงอยู่)
+* **Compliance Fact (Food Registration 6):** registration_number=11-2-02657-6-0317, product_name=สะตอแกะ /  Stink bean, company_name=บริษัท เอ็มเค เรสโตรองต์ กรุ๊ป จำกัด (มหาชน), status=สถานะผลิตภัณฑ์(คงอยู่)\ สถานะสถานที่ (คงอยู่)
+* **Compliance Fact (Food Registration 7):** registration_number=12-2-03157-2-0014, product_name=สะตอแกะเม็ด, company_name=บริษัท เจริญ ออแกนนิค ฟาร์ม จำกัด, status=สถานะผลิตภัณฑ์(คงอยู่)\ สถานะสถานที่ (คงอยู่)
+* **Compliance Fact (Food Registration 8):** registration_number=13-2-01458-2-0005, product_name=สะตอแกะ, company_name=วนิดา, status=สถานะผลิตภัณฑ์(คงอยู่)\ สถานะสถานที่ (คงอยู่)
+* **Compliance Fact (Food Registration 9):** registration_number=13-2-05866-6-0005, product_name=สะตอสดแกะเม็ด / Sataw Bean (Fresh Cut), company_name=บริษัท ไชน์โฟร์ท อินเตอร์ จำกัด, status=สถานะผลิตภัณฑ์(คงอยู่)\ สถานะสถานที่ (คงอยู่)
+* **Compliance Fact (Food Registration 10):** registration_number=13-2-08564-6-0005, product_name=สะตอ(แกะ)แพ็คละ, company_name=บริษัท ไทย แอ็กโกร เฟรช จำกัด, status=สถานะผลิตภัณฑ์(คงอยู่)\ สถานะสถานที่ (คงอยู่)
+* **Compliance Fact (Safety Dosage):** Not found
+* **Compliance Fact (Safety Warning):** Not found
+* **Safety Fact (Active Ingredient):** Not found
+* **Safety Fact (Ingredient Purpose):** Not found
+* **Safety Fact (Uses):** Not found
+* **Safety Fact (Warnings):** Not found
+* **Safety Fact (Directions):** Not found
+* **Safety Fact (Other Info):** Not found
+* **Safety Fact (Inactive Ingredients):** Not found
+* **Safety Fact (Questions):** Not found
+* **Toxicity Fact (Summary):** Parkia speciosa has been found to have antioxidant and cardioprotective activities, as well as antibacterial properties against human pathogenic bacteria. However, its toxicity study is also lacking, and no in vivo toxicity study has been carried out.
+* **Toxicity Fact (Mechanism):** The cause of liver injury due to Parkia speciosa is unknown.
+* **Toxicity Fact (Side Effects):** Nausea, dermatitis, rash, diarrhea, dysentery, hypertension, cough, chronic piles, conjunctivitis, and measles.
+* **Toxicity Fact (Case Reports):** Case reports of liver injury in patients taking Parkia speciosa have been reported, with symptoms including fever, fatigue, and jaundice.
+* **Culture Fact (Community - Thai Community):** Thai Community
+* **Culture Fact (Location - Thai Community):** Northern Region
+* **Culture Fact (Ethnic Group - Thai Community):** No information
+* **Culture Fact (Community Highlight - Thai Community):** No herbal-related information found.
+* **Culture Fact (Name Etymology - Thai Community):** No herbal-related information found.
+* **Culture Fact (Environment - Thai Community):** No herbal-related information found.
+* **Culture Fact (Local Wisdom - Thai Community):** No herbal-related information found.
+* **Culture Fact (Organization - Thai Community):** No herbal-related information found.
+* **Culture Fact (Local Name - Thai Community):** Sato is mentioned in the context of Malaysian cuisine.
+* **Culture Fact (Use - Thai Community):** Sato is used in traditional Malaysian cooking.
+* **Culture Fact (Processing - Thai Community):** Sato is used in cooking methods such as grilling and stewing.
+* **Culture Fact (Source - Thai Community):** https://southeastasia.sac.or.th/subject.php?c_id=9&sj_id=76
+* **Internal RAG Fact (Herbal):** The provided internal knowledge context does not explicitly mention สะตอ (Parkia speciosa). However, it discusses the use of traditional Thai medicine and herbs in the lives of Thai people.
+* **Internal RAG Fact (Cultural):** สะตอ (Parkia speciosa) is a plant that has been used in Thai traditional medicine for a long time. It is believed to have various health benefits, including aiding digestion and relieving symptoms of certain diseases.
+* **Source URL (Trend):** https://www.adb.org/sites/default/files/institutional-document/633886/adou2020bp-asian-traditions-wellness.pdf
+* **Source URL (Trend):** https://globalwellnessinstitute.org/global-wellness-institute-blog/2025/09/23/wellness-policies-that-help-older-populations-stay-active/
+* **Source URL (Trend):** https://globalwellnessinstitute.org/wp-content/uploads/2018/10/Kenneth-Schular-Hot-Springs-Sanitation-Practices.pdf
+* **Source URL (Science):** https://doi.org/10.1002/cbdv.202500094
+* **Source URL (Science):** https://doi.org/10.1007/s11130-025-01351-6
+* **Source URL (Science):** https://doi.org/10.1016/j.micpath.2024.107134
+* **Source URL (Compliance):** https://www.fda.moph.go.th/
+* **Source URL (Safety):** https://dailymed.nlm.nih.gov/
+* **Source URL (Toxicity):** https://www.ncbi.nlm.nih.gov/books/NBK548231/
+* **Source URL (Culture):** https://southeastasia.sac.or.th/subject.php?c_id=9&sj_id=76

@@ -1,0 +1,19 @@
+# ===RESEARCH_DATA===
+## Scientific Evidence for: Cleidion spiciflorum
+* **herb_name:** Cleidion spiciflorum
+* **herb_name_scientific:** Cleidion spiciflorum
+### Validated Compounds
+* **Compound 1:**
+    * **compound_name:** spiciflorin
+    * **mechanism_name:** not_found
+    * **supporting_studies:**
+        * **Study 1:**
+            * **study_type:** not_found
+            * **abstract_raw:** not_found
+            * **key_findings:** Clerodanes and other constituents of Cleidion spiciflorum.
+            * **pmid:** 16716368
+            * **canonical_url:** https://pubmed.ncbi.nlm.nih.gov/16716368/
+            * **citation_apa:** not_found
+
+### Overall Summary
+* **summary:** not_found

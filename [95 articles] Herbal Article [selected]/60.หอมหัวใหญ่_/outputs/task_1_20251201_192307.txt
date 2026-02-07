@@ -1,0 +1,14 @@
+# ===TRENDS_DATA=== 
+## Wellness Trends for: Onion
+### Finding 1 
+* **herb_name:** Onion 
+* **wellness_context_summary:** Onion is mentioned in the context of a healthy diet for the beginning of Spring. It is recommended to eat mild food, such as green onions, coriander, peanuts, leeks, shrimps, etc., and eat less spicy food. Onion is also mentioned as an ingredient in a recipe for Fried Leek Dumpling.
+* **source_url:** https://globalwellnessinstitute.org/global-wellness-institute-blog/2021/02/24/february-2021-revive-china/
+### Finding 2 
+* **herb_name:** Onion 
+* **wellness_context_summary:** Onion is mentioned as a vegetable that can be eaten during the beginning of Spring. It is recommended to eat seasonal vegetables, such as leeks, white radish, wild rice shoots, green bamboo shoots, Spring bamboo shoots, etc., and use coriander as a side dish.
+* **source_url:** https://globalwellnessinstitute.org/global-wellness-institute-blog/2021/02/24/february-2021-revive-china/
+### Finding 3 
+* **herb_name:** Onion 
+* **wellness_context_summary:** Onion is mentioned as an ingredient in a recipe for Fried Leek Dumpling. The recipe is recommended for the beginning of Spring, and it is suggested to eat mild food, such as green onions, coriander, peanuts, leeks, shrimps, etc., and eat less spicy food.
+* **source_url:** https://globalwellnessinstitute.org/global-wellness-institute-blog/2021/02/24/february-2021-revive-china/

@@ -1,0 +1,58 @@
+# ===MASTER_FACT_SHEET=== 
+## Consolidated Facts for: Plumeria rubra
+* **Trend Fact:** Not found
+* **Lab Fact (Experimental Method):** Not found
+* **Lab Fact (Extraction Method):** Not found
+* **Lab Fact (Compound Identified):** Not found
+* **Lab Fact (Chromatography - TLC):** Not found
+* **Lab Fact (Pharmacological Finding):** Not found
+* **Lab Fact (Cosmetic or Clinical Effect):** Not found
+* **Lab Fact (Quality Control):** Not found
+* **Science Fact (Herb):** Plumeria rubra
+* **Science Fact (Compound):** Not found
+* **Science Fact (Abstracts):**
+  * **Study 1:**
+    * **abstract_raw:** Not found
+    * **citation_apa:** Not found
+* **Compliance Fact (Food Registration 1):** None found
+* **Compliance Fact (Safety Dosage):** Not found
+* **Compliance Fact (Safety Warning):** None found
+* **Safety Fact (Active Ingredient):** 
+    * **Ingredient 1:**
+        * **name:** PLUMERIA RUBRA WHOLE
+        * **strength:** 6 [hp_C], 100 [hp_C], 1 [hp_M], 200 [hp_C], 500 [hp_C], 10 [hp_M], 30 [hp_C], 12 [hp_C]
+        * **purpose:** Not found
+* **Safety Fact (Ingredient Purpose):** Not found
+* **Safety Fact (Uses):** Not found
+* **Safety Fact (Warnings):** Not found
+* **Safety Fact (Directions):** Not found
+* **Safety Fact (Other Info):** Not found
+* **Safety Fact (Inactive Ingredients):** 
+    * **Ingredient 1:**
+        * **name:** SUCROSE
+        * **strength:** Not found
+* **Safety Fact (Questions):** Not found
+* **Toxicity Fact (Summary):** Plumeria rubra nanoparticles showed antimicrobial activity reached 7.8 μg/mL with entrapment and loading efficiencies %, zeta size, zeta potential, and PDI were 89.0 %, 40.0 %, 18.5 nm, −1.65 mV, and 0.29, respectively. The cytotoxic effect (IC50) of Plumeria rubra nanoparticles reached 503.2 μg/mL. Plumeria rubra nanoparticles showed low antiviral activity against 229E (low-pathogenic coronavirus), with selectivity index 2.90. Moreover, the synthesized Plumeria rubra nanoparticles' anti-inflammatory effect showed effective and selective COX-2 inhibition (IC50 = 4.2 μM, SI = 15.57). On top of that, the synthesized nanoparticles reduced the parasitic tachyzoites’ count by 37, 43, and 49 % in the spleen, brain, and liver, respectively.
+* **Toxicity Fact (Mechanism):** The mechanism of injury is not explicitly stated in the text. However, it can be inferred that the antimicrobial and anti-inflammatory effects of Plumeria rubra nanoparticles may be related to the presence of phytochemical compounds such as palmitic acid, linoleic acid, N-(O-Nitrophenylthio)-l-leucine, plumieridin B, lupeol, and rutin.
+* **Toxicity Fact (Side Effects):** No side effects are reported in the text.
+* **Toxicity Fact (Case Reports):** No case reports are mentioned in the text.
+* **Culture Fact (Community - Ban Tha Makharm):** Ban Tha Makharm
+* **Culture Fact (Location - Ban Tha Makharm):** Tambon Tanawsri, Amphoe Suan Phueng, Ratchaburi Province
+* **Culture Fact (Ethnic Group - Ban Tha Makharm):** Thai people of Karen ethnicity
+* **Culture Fact (Community Highlight - Ban Tha Makharm):** Ban Tha Makharm is a community of Thai people of Karen ethnicity with a long history of cultural identity. The area has a river, mountains, community forests, and abundant natural resources, making it a potential tourist destination for cultural and natural tourism. The community has developed itself into a major tourist destination in Amphoe Suan Phueng, with a Saturday-Sunday morning market called "Oo Poi Market" that generates income for the community and improves their quality of life.
+* **Culture Fact (Name Etymology - Ban Tha Makharm):** The name "Tha Makharm" comes from the first village head, Pu Khiao Khot, who planted a large makharm tree in the area. The tree has since died, but a nearby jamapa tree, also planted by Pu Khiao's second wife, remains. The jamapa tree is considered sacred and is used for worship and to fragrance the air.
+* **Culture Fact (Environment - Ban Tha Makharm):** The community has a strong connection to nature, with a river, mountains, and community forests providing abundant natural resources. The area is also home to a variety of flora and fauna, including the sacred jamapa tree.
+* **Culture Fact (Local Wisdom - Ban Tha Makharm):** The community has a deep understanding of the natural world and has developed traditional practices and beliefs surrounding the use of plants and natural resources. For example, the jamapa tree is considered sacred and is used for worship and to fragrance the air.
+* **Culture Fact (Organization - Ban Tha Makharm):** The community has developed a number of organizations and initiatives aimed at promoting cultural and natural tourism, including the Oo Poi Market and a number of community-based tourism projects.
+* **Culture Fact (Local Name - Ban Tha Makharm):** Thuenyamangklong
+* **Culture Fact (Use - Ban Tha Makharm):** Planting jamapa trees for worship and to fragrance the air
+* **Culture Fact (Processing - Ban Tha Makharm):** Planting jamapa trees for worship and to fragrance the air
+* **Culture Fact (Source - Ban Tha Makharm):** https://wikicommunity.sac.or.th/community/1835
+* **Internal RAG Fact (Herbal):** Unfortunately, the provided internal knowledge context does not specifically mention ลีลาวดี (Plumeria rubra) in relation to its properties, uses, or benefits. The context primarily discusses the general use of traditional Thai medicine, its benefits, and the importance of using local herbs for health purposes. It highlights the cost-effectiveness and safety of using traditional Thai medicine for minor ailments. However, without specific information on ลีลาวดี (Plumeria rubra), a detailed summary about this herb cannot be provided based on the given context.
+* **Internal RAG Fact (Cultural):** No relevant information about ลีลาวดี was found in the provided cultural context.
+* **Source URL (Trend):** Not found
+* **Source URL (Science):** Not found
+* **Source URL (Compliance):** https://www.fda.moph.go.th/
+* **Source URL (Safety):** https://dailymed.nlm.nih.gov/dailymed/drugInfo.cfm?setid=fe101e58-b958-14ec-e053-6294a90a6118&audience=consumer
+* **Source URL (Toxicity):** https://pmc.ncbi.nlm.nih.gov/articles/PMC11786825/
+* **Source URL (Culture):** https://wikicommunity.sac.or.th/community/1835

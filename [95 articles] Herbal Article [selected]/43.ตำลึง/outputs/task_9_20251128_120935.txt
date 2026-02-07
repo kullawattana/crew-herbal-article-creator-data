@@ -1,0 +1,9 @@
+# ===HERBAL_INTERNAL_SUMMARY===
+
+The provided internal knowledge context does not explicitly mention "ตำลึง" or "Coccinia grandis". However, the context discusses Thai traditional medicine, its benefits, and its uses in treating various ailments. It highlights the importance of using traditional Thai medicine in reducing healthcare costs and promoting self-sufficiency in healthcare.
+
+The context also touches on the process of cultivating and preparing traditional Thai medicine, including the use of various herbs and plants. However, it does not provide specific information on "ตำลึง" or "Coccinia grandis".
+
+In terms of traditional Thai wisdom related to herbs, the context mentions the use of herbs in traditional Thai medicine and their benefits in promoting health and well-being. However, it does not provide specific information on "ตำลึง" or "Coccinia grandis".
+
+Overall, the context provides general information on traditional Thai medicine and its uses, but does not provide specific information on "ตำลึง" or "Coccinia grandis". **JSON: [Herbs_traditional_Thai_medicine_in_the_lives_of_Thai_people.json, p.N/A] | PDF: [Romprayom-2563.pdf, p.9]**

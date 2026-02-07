@@ -1,0 +1,24 @@
+Thought: I have meticulously audited the Master Fact Sheet against the Final Article, identifying all critical facts, "Not Found" statements, and how they are represented or omitted. I have categorized discrepancies into Data Loss (Robustness) and Hallucination/Handling (Clarity). I have calculated the scores based on the identified discrepancies and confirmed that "Not Found" results are correctly handled as findings, not failures, where they are present in the article. I am now ready to present the final report.# ===AUDIT_DATA_INTEGRITY_REPORT===
+*   **Collaboration Robustness (Data Loss):** 76.27%
+*   **Explanation Clarity (Hallucination/Handling):** 100%
+*   **Dropped Entities (Facts in Fact Sheet but not Article):**
+    *   Compliance Fact (Food Registration 1): `registration_number=25-2-01159-6-0001`, `company_name=น้ำดื่มดอกปีป`, `status=สถานะผลิตภัณฑ์(คงอยู่)\ สถานะสถานที่ (คงอยู่)` (Only `product_name` was retained, other details dropped)
+    *   Culture Fact (Community - Sakein Village - Gunpowder Etymology): "The name 'Sakein' is derived from the Thai word for 'bat guano,' which was a valuable resource for the production of gunpowder. The village's original name, 'Suekuen,' was changed to Sakein due to the abundance of bat guano in the area."
+    *   Culture Fact (Community - Sakein Village - Gunpowder Local Name): (อึมปี้) (Part of the local name was dropped)
+    *   Culture Fact (Community - Sakein Village 2 - Metalworking Etymology): "The name 'Kuay' is derived from the Thai word for 'bronze,' which is a significant resource for the Kuay people."
+    *   Culture Fact (Community - Sakein Village 3 - Textile Etymology): "The name 'Kuay' is derived from the Thai word for 'textile,' which is a significant resource for the Kuay people."
+    *   Culture Fact (Community - Sakein Village 3 - Textile Local Name): Hijab
+    *   Lab Fact (Experimental Method): No lab fact provided. (The finding of absence was not stated or implied)
+    *   Lab Fact (Chromatography - TLC): No lab fact provided. (The finding of absence was not stated or implied)
+    *   Lab Fact (Cosmetic or Clinical Effect): No lab fact provided. (The finding of absence was not stated or implied)
+    *   Lab Fact (Quality Control): No lab fact provided. (The finding of absence was not stated or implied)
+    *   Source URL (Trend): Not found. (The finding of absence was not stated or implied)
+    *   Source URL (Compliance): Not found. (The finding of absence was not stated or implied)
+    *   Source URL (Safety): Not found. (The finding of absence was not stated or implied)
+    *   Source URL (Toxicity): Not found. (The finding of absence was not stated or implied)
+*   **Hallucinated Entities (Facts in Article but not Fact Sheet):**
+    *   None
+*   **Feedback:**
+    The **Collaboration Robustness** score reflects that 14 out of 59 critical facts or findings from the Master Fact Sheet were either completely omitted or only partially transferred to the Final Article. This indicates a notable degree of data loss, particularly concerning specific details of the food registration, cultural etymologies, specific local names, and several "not found" lab and source URL facts.
+
+    The **Explanation Clarity** score is perfect because the Final Article does not introduce any facts that are not present in the Master Fact Sheet (no hallucination). Furthermore, for all "Not Found" results that the article *does* address (e.g., "lack of specific trend facts," "absence of specific toxicity facts," "internal knowledge context does not explicitly mention"), it handles them correctly by acknowledging the absence of information rather than inventing data or citations. The act of *omitting* certain "Not Found" findings is counted under "Data Loss" (Robustness) rather than "Clarity" of the existing content.

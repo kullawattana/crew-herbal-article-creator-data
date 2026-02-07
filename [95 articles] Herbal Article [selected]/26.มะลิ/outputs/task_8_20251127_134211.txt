@@ -1,0 +1,28 @@
+# ===CULTURE_DATA===
+## Cultural Context for: Jasminum sambac (มะลิ)
+
+### Finding 1
+* **source_url:** https://wikicommunity.sac.or.th/community/703
+* **community_context:**
+    * **community_name:** Malisamphan Community
+    * **location:** Yala Province
+    * **ethnic_group:** Malay
+* **community_profile_summaries:**
+    * **community_highlight:** The Malisamphan Community is known for its strong cultural heritage, particularly in the preservation of traditional Malay customs and practices. The community's name is derived from the jasmine flower, which was once abundant in the area. Today, the community continues to thrive, with many of its members actively involved in promoting and preserving their cultural identity.
+    * **name_etymology:** The name "Malisamphan" is derived from the Thai word "มะลิ" (jasmine) and "สัมพันธ์" (relation or connection). The name reflects the community's historical connection to the jasmine flower, which was once a significant part of the area's landscape.
+    * **community_environment:** The Malisamphan Community is located in the heart of Yala Province, surrounded by lush green forests and rolling hills. The community's proximity to nature has played a significant role in shaping its cultural practices and traditions.
+    * **local_wisdom:** The community places great emphasis on preserving traditional Malay customs and practices, particularly during special occasions such as the Songkran water festival. During this time, community members come together to participate in traditional activities, such as pouring water on elders and seeking blessings.
+    * **community_organizations:** The community has several organizations that work together to promote and preserve its cultural heritage. These organizations include cultural groups, traditional dance troupes, and community centers that offer classes and workshops on traditional Malay arts and crafts.
+* **specific_entities:**
+    * **local_names:**
+        * **Item 1:**
+            * **name:** Malisamphan
+            * **context_quote:** The original area of the community was once a jasmine garden, which is why it is commonly known as the "jasmine community."
+    * **traditional_uses:**
+        * **Item 1:**
+            * **use:** Songkran water festival
+            * **context_quote:** The Songkran water festival is a significant cultural event that is deeply rooted in Thai tradition. During this time, community members participate in traditional activities, such as pouring water on elders and seeking blessings.
+    * **processing_methods:**
+        * **Item 1:**
+            * **method:** Azurao preparation
+            * **description_quote:** Azurao is a traditional Malay dessert that is prepared by mixing together various ingredients, including flour, sugar, and coconut milk. The dessert is then steamed and served during special occasions, such as the Songkran water festival.

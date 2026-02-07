@@ -1,0 +1,29 @@
+# ===AUDIT_DATA_INTEGRITY_REPORT===
+*   **Collaboration Robustness (Data Loss):** 60.71%
+*   **Explanation Clarity (Hallucination/Handling):** 100%
+*   **Dropped Entities (Facts in Fact Sheet but not Article):**
+    -   Lab Fact (Cosmetic or Clinical Effect): No cosmetic or clinical effect information available for Terminalia catappa.
+    -   Lab Fact (Quality Control): The study used a control group to compare the results.
+    -   Science Fact (Compound): No specific compound mentioned in the context.
+    -   Compliance Fact (Food Registration 1): None found.
+    -   Compliance Fact (Safety Dosage): Not found.
+    -   Compliance Fact (Safety Warning): None found.
+    -   Safety Fact (Active Ingredient): Avobenzone, Octinoxate, Octocrylene, Oxybenzone.
+    -   Safety Fact (Uses): Helps prevent sunburn, if used as directed with other sun protection measures (see Directions), decreases the risk of skin cancer and early skin aging caused by the sun.
+    -   Safety Fact (Warnings): Rinse with water to remove (part of "When using this product keep out of eyes. Rinse with water to remove.").
+    -   Safety Fact (Warnings): Keep out of reach of children.
+    -   Safety Fact (Directions): use a water resistant sunscreen if swimming or sweating.
+    -   Safety Fact (Other Info): Protect the product in this container from excessive heat and direct sun.
+    -   Safety Fact (Inactive Ingredients): Water, Helianthus Annuus (Sunflower) Seed Oil, Butylene Glycol, Cetearyl Alcohol, Squalane, Isocetyl Stearate, Potassium Cetyl Phosphate, PPG-2 Myristyl Ether Propionate, Sorbitan Stearate, Methylsilanol Hydroxyproline Aspartate, Tocopheryl Acetate, sh-Oligopeptide-1, sh-Polypeptide-1, Phenoxyethanol, Terminalia Catappa Leaf Extract, Bisabolol, Dimethicone, Polysorbate 60, Magnesium Aluminum Silicate, Carbomer, Aminomethyl Propanol, Sodium PCA, Allantoin, Caprylyl Glycol, Chlorphenesin, Aloe Barbadensis Leaf Juice, Sambucus Nigra Flower Extract, Disodium EDTA, Fragrance, Glycolipids, PVP, Tannic Acid, Hydrolyzed Soy Flour, Sodium Hyaluronate, Geraniol, Citronellol. May Contain (+/-): Red 33.
+    -   Safety Fact (Questions): Call 1-866-986-7083, M – F 8am – 5pm CST.
+    -   Culture Fact (Community Highlight - Bang Pu Village): The community has several natural and cultural tourist attractions, including Bang Pu Beach, Laem Sala Beach, Kaeo Cave, and Phraya Nakhon Cave, which is home to the Kuha Karuhas Palace, a pavilion built by King Chulalongkorn (Rama V) during his visit to the Malay Peninsula.
+    -   Culture Fact (Name Etymology - Bang Pu Village): No herbal-related information found.
+    -   Culture Fact (Environment - Bang Pu Village): The community is surrounded by natural attractions, including beaches and caves, which are popular tourist destinations.
+    -   Culture Fact (Organization - Bang Pu Village): No herbal-related information found.
+    -   Internal RAG Fact (Cultural): No relevant information about หูกวาง was found in the provided cultural context.
+    -   Source URL (Trend): No trend URL available for Terminalia catappa.
+    -   Source URL (Science): No science URL available for Terminalia catappa.
+    -   Source URL (Toxicity): No toxicity URL available for Terminalia catappa.
+*   **Hallucinated Entities (Facts in Article but not Fact Sheet):**
+    -   None
+*   **Feedback:** The Final Article demonstrates excellent clarity by not introducing any new or invented facts (0% hallucination) and correctly handling "Not available" or "No information available" statements when they are included in the narrative or references (e.g., for scientific research abstracts/citations and toxicity information). However, the article exhibits significant data loss (60.71% robustness). A substantial number of critical facts, including specific compliance data, detailed safety warnings, inactive ingredients, contact information, and specific cultural highlights, were omitted from the final article. Furthermore, several "No information available" facts from the Master Fact Sheet were not transferred, leading to a less comprehensive representation of the source of truth. To achieve a "perfect reflection," all facts, including negative findings, must be accurately represented.

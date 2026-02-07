@@ -1,0 +1,63 @@
+# ===MASTER_FACT_SHEET===
+## Consolidated Facts for: Torch Ginger (Etlingera elatior)
+* **Trend Fact:** Torch Ginger, also known as Etlingera elatior, is a species of wild ginger that is native to Borneo. It has been traditionally used in medicine and as a food ingredient. The plant contains compounds that have been shown to have anticancer, antidiabetic, antibacterial, antioxidant, and anti-inflammatory properties. Torch Ginger has been used to treat various health conditions, including fever, rheumatism, and digestive problems. It is also used as a natural remedy for skin and hair care.
+* **Trend Fact:** Torch Ginger is a type of wild ginger that is commonly found in Borneo. It has been traditionally used in medicine and as a food ingredient. The plant contains compounds that have been shown to have anticancer, antidiabetic, antibacterial, antioxidant, and anti-inflammatory properties. Torch Ginger has been used to treat various health conditions, including fever, rheumatism, and digestive problems. It is also used as a natural remedy for skin and hair care.
+* **Trend Fact:** Torch Ginger is a type of wild ginger that is native to Borneo. It has been traditionally used in medicine and as a food ingredient. The plant contains compounds that have been shown to have anticancer, antidiabetic, antibacterial, antioxidant, and anti-inflammatory properties. Torch Ginger has been used to treat various health conditions, including fever, rheumatism, and digestive problems. It is also used as a natural remedy for skin and hair care.
+* **Lab Fact (Experimental Method):** No experimental method information found.
+* **Lab Fact (Extraction Method):** No extraction method information found.
+* **Lab Fact (Compound Identified):** No compound identification information found.
+* **Lab Fact (Chromatography - TLC):** No chromatography information found.
+* **Lab Fact (Pharmacological Finding):** No pharmacological finding information found.
+* **Lab Fact (Cosmetic or Clinical Effect):** No cosmetic or clinical effect information found.
+* **Lab Fact (Quality Control):** No quality control information found.
+* **Science Fact (Herb):** Etlingera elatior
+* **Science Fact (Compound):** Quercetin
+* **Science Fact (Abstracts):**
+  * **Study 1:**
+    * **abstract_raw:** No abstract information found.
+    * **citation_apa:** No citation information found.
+  * **Study 2:**
+    * **abstract_raw:** No abstract information found.
+    * **citation_apa:** No citation information found.
+  * **Study 3:**
+    * **abstract_raw:** No abstract information found.
+    * **citation_apa:** No citation information found.
+* **Compliance Fact (Food Registration 1):** registration_number=11-2-01844-6-0008, product_name=น้ำดื่ม ตรา ดาหลา (Drinking Water Dalha Brand), company_name=บริษัท จุลสิน จำกัด (Jul Sin Co., Ltd.), status=สถานะผลิตภัณฑ์(คงอยู่)\ สถานะสถานที่ (คงอยู่) (Product status: Existing, Location status: Existing)
+* **Compliance Fact (Food Registration 2):** registration_number=13-1-23064-5-0212, product_name=กรีน คอฟฟี่ บีน พลัส (ผลิตภัณฑ์เสริมอาหาร) (ตรา ดาหลา) / Green Coffee Bean Plus (Dietary Supplement Product) (Dalha Brand), company_name=บริษัท มาร์วาลิค เฮลท์ จำกัด (Marvalic Health Co., Ltd.), status=สถานะผลิตภัณฑ์(คงอยู่)\ สถานะสถานที่ (คงอยู่) (Product status: Existing, Location status: Existing)
+* **Compliance Fact (Food Registration 3):** registration_number=21-2-00465-6-0001, product_name=กิมจิ อาม่า / A-ma Kimchi, company_name=กิมจิอาม่า (A-ma Kimchi), status=สถานะผลิตภัณฑ์(คงอยู่)\ สถานะสถานที่ (คงอยู่) (Product status: Existing, Location status: Existing)
+* **Compliance Fact (Food Registration 4):** registration_number=21-2-00465-6-0002, product_name=ไชเท้าดอง (กิมจิ อาม่า) / Pickled Radish (A-ma Kimchi), company_name=กิมจิอาม่า (A-ma Kimchi), status=สถานะผลิตภัณฑ์(คงอยู่)\ สถานะสถานที่ (คงอยู่) (Product status: Existing, Location status: Existing)
+* **Compliance Fact (Food Registration 5):** registration_number=21-2-02467-6-0004, product_name=น้ำดื่มตรา ดาหลา / Darla Brand Drinking Water, company_name=สาม ยู (Sam Yu), status=สถานะผลิตภัณฑ์(คงอยู่)\ สถานะสถานที่ (คงอยู่) (Product status: Existing, Location status: Existing)
+* **Compliance Fact (Safety Dosage):** No safety dosage information found.
+* **Compliance Fact (Safety Warning):** No safety warning information found.
+* **Safety Fact (Active Ingredient):** No active ingredient information found.
+* **Safety Fact (Ingredient Purpose):** No ingredient purpose information found.
+* **Safety Fact (Uses):** No uses information found.
+* **Safety Fact (Warnings):** No warnings information found.
+* **Safety Fact (Directions):** No directions information found.
+* **Safety Fact (Other Info):** No other information found.
+* **Safety Fact (Inactive Ingredients):** No inactive ingredients information found.
+* **Safety Fact (Questions):** No questions information found.
+* **Toxicity Fact (Summary):** No toxicity summary information found.
+* **Toxicity Fact (Mechanism):** No mechanism of toxicity information found.
+* **Toxicity Fact (Side Effects):** No side effects information found.
+* **Toxicity Fact (Case Reports):** No case reports information found.
+* **Culture Fact (Community - Khok Yueng):** Khok Yueng community is notable for its conservation of natural resources and self-sufficiency through local wisdom, particularly in utilizing indigenous plants.
+* **Culture Fact (Location - Khok Yueng):** Trang Province (จังหวัดตรัง)
+* **Culture Fact (Ethnic Group - Khok Yueng):** Thai (ไทย)
+* **Culture Fact (Community Highlight - Khok Yueng):** Khok Yueng community is notable for its conservation of natural resources and self-sufficiency through local wisdom, particularly in utilizing indigenous plants.
+* **Culture Fact (Name Etymology - Khok Yueng):** No name etymology information found.
+* **Culture Fact (Environment - Khok Yueng):** The community has a rich biodiversity with 57 species of indigenous plants from 35 families, with Fabaceae (legume family) being the most common, followed by Zingiberaceae (ginger family) and Cucurbitaceae (gourd family).
+* **Culture Fact (Local Wisdom - Khok Yueng):** The community utilizes indigenous plants in different forms, such as using young leaves in cooking or eating them raw as a snack.
+* **Culture Fact (Organization - Khok Yueng):** No organization information found.
+* **Culture Fact (Local Name - Khok Yueng):** Dala (ดาหลา)
+* **Culture Fact (Use - Khok Yueng):** Utilizing indigenous plants
+* **Culture Fact (Processing - Khok Yueng):** Planting indigenous plants
+* **Culture Fact (Source - Khok Yueng):** https://wikicommunity.sac.or.th/community/2543
+* **Internal RAG Fact (Herbal):** Traditional Thai medicine is considered old-fashioned and not suitable for modern times, but it can be effective in treating minor illnesses and reducing medical expenses.
+* **Internal RAG Fact (Cultural):** ดาหลา (Etlingera elatior) is a type of herb used in Thai traditional medicine. It has been used for a long time to treat various health conditions.
+* **Source URL (Trend):** https://link.springer.com/article/10.1007/s11101-025-10166-x
+* **Source URL (Trend):** https://www.asiabevco.com/aya
+* **Source URL (Trend):** https://www.organicfacts.net/health-benefits/herbs-and-spices/ginger.html
+* **Source URL (Science):** https://doi.org/10.1002/cbdv.202403261
+* **Source URL (Compliance):** https://www.fda.moph.go.th/
+* **Source URL (Culture):** https://wikicommunity.sac.or.th/community/2543

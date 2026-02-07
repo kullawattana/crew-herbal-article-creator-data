@@ -1,0 +1,14 @@
+# ===TRENDS_DATA===
+## Wellness Trends for: Galangal (Thai name)
+### Finding 1
+* **herb_name:** Galangal (Thai name)
+* **wellness_context_summary:** Galangal is a spice native to Southern Asia, closely related to ginger and turmeric. It has been used in Ayurvedic and traditional Chinese medicine for centuries to treat various ailments, including infections, inflammation, and cancer. Galangal root is rich in antioxidants and may boost male fertility, reduce inflammation and pain, and protect against infections and certain types of cancer.
+* **source_url:** https://healthyfocus.org/health-benefits-of-galangal/
+### Finding 2
+* **herb_name:** Galangal (Thai name)
+* **wellness_context_summary:** Galangal root is a spice closely related to ginger and turmeric, and a popularly employed remedy in Ayurvedic and traditional Chinese medicine. It can add flavor, antioxidants, and anti-inflammatory compounds to dishes and may provide a slew of health benefits, including boosting male fertility and protecting against infections and potentially even certain forms of cancer.
+* **source_url:** https://draxe.com/nutrition/galangal/
+### Finding 3
+* **herb_name:** Galangal (Thai name)
+* **wellness_context_summary:** Galangal root is a rich source of antioxidants, which are beneficial plant compounds that help fight disease and protect cells from damaging free radicals. It may also protect against certain cancers, boost male fertility, and reduce inflammation and pain. Galangal root is likely safe when consumed in the amounts typically found in foods, but there's limited information regarding a safe dosage or potential side effects of consuming it in larger amounts.
+* **source_url:** https://www.healthline.com/nutrition/galangal-root

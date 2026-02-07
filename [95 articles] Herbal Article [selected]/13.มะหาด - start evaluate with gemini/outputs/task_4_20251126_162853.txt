@@ -1,0 +1,1 @@
+Thought: I have the content of the webpage, now I need to filter out the paragraphs that explicitly mention "มะหาด" and write a summary based on those paragraphs.

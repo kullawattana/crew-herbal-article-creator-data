@@ -1,0 +1,5 @@
+# ===SAFETY_DATA=== ## International Safety Data for: Parkia speciosa
+* **herb_name:** Parkia speciosa * **source_browsed:** None
+### Drug Facts Label
+* **active_ingredients:** Not found
+* **uses:** Not found * **warnings:** Not found * **directions:** Not found * **other_information:** Not found * **inactive_ingredients:** Not found * **questions:** Not found

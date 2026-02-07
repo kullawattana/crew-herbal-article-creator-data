@@ -1,0 +1,68 @@
+# ===AUDIT_DATA_INTEGRITY_REPORT===
+*   **Collaboration Robustness (Data Loss):** 29.07%
+*   **Explanation Clarity (Hallucination/Handling):** 95.65%
+*   **Dropped Entities (Facts in Fact Sheet but not Article):**
+    - Lab Fact (Chromatography - TLC): Not found
+    - Lab Fact (Cosmetic or Clinical Effect): Not found
+    - Lab Fact (Quality Control): Not found
+    - Science Fact (Compound): Not found
+    - Compliance Fact (Food Registration 1): registration_number=10-1-01165-5-0002
+    - Compliance Fact (Food Registration 1): product_name=เครื่องดื่มถั่ว 5 ชนิด (ถั่วเหลือง,ถั่วแดง,ถั่วเขียว,ถั่วดำ,ถั่วขาว) (ตรา โซย่า โซยัม) / 5 BEANS DRINK (SOY BEAN, RED BEAN, GREEN BEAN, BLACK BEAN,WHITE KIDNEY BEAN) (SOYA SOYUM BRAND)
+    - Compliance Fact (Food Registration 1): company_name=บริษัท เลิฟลี่ ดิลิเชียส จำกัด
+    - Compliance Fact (Food Registration 1): status=สถานะผลิตภัณฑ์(คงอยู่)\ สถานะสถานที่ (คงอยู่)
+    - Compliance Fact (Food Registration 2): registration_number=10-1-01562-5-0034
+    - Compliance Fact (Food Registration 2): product_name=ถั่วเหลืองทอด
+    - Compliance Fact (Food Registration 2): company_name=รุ่งเจริญ
+    - Compliance Fact (Food Registration 2): status=สถานะผลิตภัณฑ์(คงอยู่)\ สถานะสถานที่ (คงอยู่)
+    - Compliance Fact (Food Registration 3): registration_number=10-1-02564-5-0017
+    - Compliance Fact (Food Registration 3): product_name=ผงถั่วเขียว,ถั่วแดง,ถั่วเหลือง,ถั่วดำ,ถั่วขาว / GREEN BEAN,RED BEAN,SOY BEAN,BLACK BEAN,WHITE KIDNEY BEAN POWDER
+    - Compliance Fact (Food Registration 3): company_name=บริษัท ฮัซซาน กรุ๊ป จำกัด
+    - Compliance Fact (Food Registration 3): status=สถานะผลิตภัณฑ์(คงอยู่)\ สถานะสถานที่ (คงอยู่)
+    - Compliance Fact (Food Registration 4): registration_number=10-1-02639-1-0092
+    - Compliance Fact (Food Registration 4): product_name=โซย่า สแน๊ค รสดั้งเดิม (ธัญพืช ข้าวหอมมะลิ ถั่วเหลือง อบกรอบ รสดั้งเดิม) (ตรา วีอาร์ บาย คิงเพาเวอร์) / SOYA SNACK ORIGINAL flavoured (JASMINE RICE SOYA BEAN ORIGINAL flavoured) (VR BY KING POWER'BRAND)
+    - Compliance Fact (Food Registration 4): company_name=บริษัท เคลอินเตอร์เทรด จำกัด
+    - Compliance Fact (Food Registration 4): status=สถานะผลิตภัณฑ์(ยกเลิก 5/9/2556) \ สถานะสถานที่ (ยกเลิก 5/9/2556)
+    - Compliance Fact (Food Registration 5): registration_number=10-1-02745-1-0079
+    - Compliance Fact (Food Registration 5): product_name=ถั่วเหลือง(ตราด็อกเตอร์กรีน) / (DR.GREEN BRAND)SOY BEANS
+    - Compliance Fact (Food Registration 5): company_name=ด็อกเตอร์กรีน
+    - Compliance Fact (Food Registration 5): status=สถานะผลิตภัณฑ์(คงอยู่)\ สถานะสถานที่ (คงอยู่)
+    - Compliance Fact (Safety Dosage): Not found
+    - Compliance Fact (Safety Warning): Not found
+    - Safety Fact (Active Ingredient): Houttuynia Cordata Extract
+    - Safety Fact (Active Ingredient): Perilla Frutescens Leaf Extract
+    - Safety Fact (Ingredient Purpose): Not found
+    - Safety Fact (Uses): Clean the skin before use, spray an appropriate amount, and massage it to absorb enough. It can be used in all skin areas including the face and scalp.
+    - Safety Fact (Warnings): Do not use in the following cases(Eczema and scalp wounds)
+    - Safety Fact (Warnings): General Precautions (If in contact with the eyes, wash out thoroughty with water If the symptoms are servere, seek medical advice immediately)
+    - Safety Fact (Warnings): Storage and handling precautions (If possible, avoid direct sunlight and store in cool and area of low humidity)
+    - Safety Fact (Warnings): Storage and handling precautions (In order to maintain the quality of the product and avoid misuse)
+    - Safety Fact (Warnings): Storage and handling precautions (Avoid placing the product near fire and store out in reach of children)
+    - Safety Fact (Other Info): Not found
+    - Safety Fact (Inactive Ingredients): Butylene Glycol
+    - Safety Fact (Inactive Ingredients): Allantoin
+    - Safety Fact (Inactive Ingredients): Panthenol
+    - Safety Fact (Questions): Not found
+    - Toxicity Fact (Mechanism): Not found
+    - Toxicity Fact (Side Effects): Not found
+    - Toxicity Fact (Case Reports): Not found
+    - Culture Fact (Location - Ban Dong Bang): Prachinburi Province
+    - Culture Fact (Ethnic Group - Ban Dong Bang): Thai
+    - Culture Fact (Use - Ban Dong Bang): Relieve stomach pain (specific use for Khamin Chan)
+    - Culture Fact (Use - Ban Dong Bang): Relieve fever (specific use for Bai Mon, as per Ban Sai Thong highlight, but grouped generally in article)
+    - Culture Fact (Name Etymology - Ban Dong Bang): The name "Ban Dong Bang" is derived from the Thai words "ban" meaning village, "dong" meaning field, and "bang" meaning place. The name refers to the community's location in a fertile field near a river. No herbal-related information found regarding the name's etymology.
+    - Culture Fact (Environment - Ban Dong Bang): Ban Dong Bang is situated in a rural area of Prachinburi Province, surrounded by lush forests and fertile fields. The community's environment is conducive to the growth of various herbs, which are used in traditional medicine. The community has a strong connection with nature, and many residents still practice sustainable farming and forestry methods.
+    - Culture Fact (Local Wisdom - Ban Dong Bang): The community has a rich tradition of passing down local wisdom and knowledge from generation to generation. Elders in the community are respected for their expertise in herbal medicine, and many residents still seek their advice on health matters. The community's local wisdom is also reflected in their traditional practices, such as the use of herbal medicine to treat illnesses.
+    - Culture Fact (Organization - Ban Dong Bang): Ban Dong Bang has several community organizations that promote the use of herbal medicine and traditional practices. The community has a herbal medicine cooperative that provides training and support to residents who want to learn about herbal medicine. The cooperative also sells herbal products made from locally sourced herbs.
+    - Culture Fact (Processing - Ban Dong Bang): Drying
+    - Culture Fact (Location - Ban Sai Thong): Chachoengsao Province
+    - Culture Fact (Ethnic Group - Ban Sai Thong): Thai
+    - Culture Fact (Use - Ban Sai Thong): Relieve fever (specific use for Bai Mon)
+    - Culture Fact (Use - Ban Sai Thong): Relieve stomach pain (specific use for Khamin Chan, as per Ban Dong Bang highlight, but grouped generally in article)
+    - Culture Fact (Name Etymology - Ban Sai Thong): The name "Ban Sai Thong" is derived from the Thai words "ban" meaning village, "sai" meaning sand, and "thong" meaning gold. The name refers to the community's location on a sandy beach near a river. No herbal-related information found regarding the name's etymology.
+    - Culture Fact (Environment - Ban Sai Thong): Ban Sai Thong is situated in a rural area of Chachoengsao Province, surrounded by lush forests and fertile fields. The community's environment is conducive to the growth of various herbs, which are used in traditional medicine. The community has a strong connection with nature, and many residents still practice sustainable farming and forestry methods.
+    - Culture Fact (Local Wisdom - Ban Sai Thong): The community has a rich tradition of passing down local wisdom and knowledge from generation to generation. Elders in the community are respected for their expertise in herbal medicine, and many residents still seek their advice on health matters. The community's local wisdom is also reflected in their traditional practices, such as the use of herbal medicine to treat illnesses.
+    - Culture Fact (Organization - Ban Sai Thong): Ban Sai Thong has several community organizations that promote the use of herbal medicine and traditional practices. The community has a herbal medicine cooperative that provides training and support to residents who want to learn about herbal medicine. The cooperative also sells herbal products made from locally sourced herbs.
+    - Culture Fact (Processing - Ban Sai Thong): Boiling
+*   **Hallucinated Entities (Facts in Article but not Fact Sheet):**
+    - Adding "(Turmeric)" as an equivalent for Khamin Chan.
+*   **Feedback:** The article demonstrates significant data loss, particularly regarding specific compliance data (registration numbers, product names, company names, statuses) and detailed safety information (active/inactive ingredients, specific uses, detailed warnings). Many cultural facts, including locations, ethnic groups, detailed etymologies, environments, local wisdom specifics, and organizational details, were also omitted. While the article correctly handles explicit "Not Found" statements by acknowledging them or omitting them without invention, the overall transfer of granular facts is low. There was only one minor hallucination, which was the addition of a common name for Khamin Chan, not present in the original fact sheet. The clarity score is relatively high because the factual statements that *are* present are generally accurate and the article avoids inventing entirely new information, focusing instead on summarization and strategic interpretation.

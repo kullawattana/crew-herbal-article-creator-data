@@ -1,0 +1,29 @@
+# ===COMPLIANCE_DATA=== 
+## Thai FDA Status for: Calotropis gigantea
+* **herb_name:** Calotropis gigantea
+### Food Registrations 
+* **Food Registration 1:**
+    * **registration_number:** 10-1-04060-5-0009
+    * **product_name:** น้ำมะขามเข้มข้น ใช้สำหรับปรุงอาหาร ดอกรัก (Concentrated tamarind water for cooking Dokrak)
+    * **company_name:** โอเชี่ยนฟูดส์ (Ocean Foods)
+    * **status:** สถานะผลิตภัณฑ์(คงอยู่)\ สถานะสถานที่ (คงอยู่) (Product status: exists, Location status: exists)
+* **Food Registration 2:**
+    * **registration_number:** 10-1-04060-5-0011
+    * **product_name:** น้ำเกลือปรุงอาหาร ตรา ดอกรัก (Seasoning sauce Dokrak brand)
+    * **company_name:** โอเชี่ยนฟูดส์ (Ocean Foods)
+    * **status:** สถานะผลิตภัณฑ์(คงอยู่)\ สถานะสถานที่ (คงอยู่) (Product status: exists, Location status: exists)
+* **Food Registration 3:**
+    * **registration_number:** 11-2-03048-6-0004
+    * **product_name:** น้ำปลาผสม (ยี่ห้อ ดอกรัก) /  Fish Sauce (dokrak brand)
+    * **company_name:** บริษัท บี.บี.ฟู้ด โปรดิวซ์ จำกัด (B.B. Food Produce Co., Ltd.)
+    * **status:** สถานะผลิตภัณฑ์(คงอยู่)\ สถานะสถานที่ (คงอยู่) (Product status: exists, Location status: exists)
+* **Food Registration 4:**
+    * **registration_number:** 11-2-03048-6-0006
+    * **product_name:** น้ำจิ้มไก่ (ยี่ห้อ ดอกรัก)  /  Sweet Chili Sauce (Dokrak Brand)
+    * **company_name:** บริษัท บี.บี.ฟู้ด โปรดิวซ์ จำกัด (B.B. Food Produce Co., Ltd.)
+    * **status:** สถานะผลิตภัณฑ์(คงอยู่)\ สถานะสถานที่ (คงอยู่) (Product status: exists, Location status: exists)
+* **Food Registration 5:**
+    * **registration_number:** 11-2-03048-6-0007
+    * **product_name:** ซอสพริกไทยดำ (ยี่ห้อ ดอกรัก) /  Black Pepper Sauce (Dokrak Brand)
+    * **company_name:** บริษัท บี.บี.ฟู้ด โปรดิวซ์ จำกัด (B.B. Food Produce Co., Ltd.)
+    * **status:** สถานะผลิตภัณฑ์(คงอยู่)\ สถานะสถานที่ (คงอยู่) (Product status: exists, Location status: exists)

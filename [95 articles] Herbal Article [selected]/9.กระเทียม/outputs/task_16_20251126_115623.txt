@@ -1,0 +1,1 @@
+The Markdown article has been successfully converted to a Word document (.docx) and saved as outputs/research_paper.docx.

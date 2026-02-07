@@ -1,0 +1,10 @@
+# ===AUDIT_DATA_INTEGRITY_REPORT===
+*   **Collaboration Robustness (Data Loss):** 90%
+*   **Explanation Clarity (Hallucination/Handling):** 100%
+*   **Dropped Entities (Facts in Fact Sheet but not Article):**
+    *   Toxicity Fact (Mechanism): Specific details regarding CBD's low affinity for cannabinoid receptors CB1 and CB2, its activity as an agonist or antagonist at these receptors, and its inverse agonist activity at the CB2 receptor explaining anti-inflammatory effects.
+    *   Toxicity Fact (Side Effects): The findings from a meta-analysis linking CBD treatment to somnolence, diarrhea, and transaminitis. Also, the association of CBD with worsening respiratory depression in patients taking other respiratory-depressing drugs (e.g., opioids and benzodiazepines).
+    *   Culture Fact (Processing - Hmong): The explicit statement "The Hmong people process kanchong into fiber." (While implied by "natural fiber production," the specific processing action is not stated).
+*   **Hallucinated Entities (Facts in Article but not Fact Sheet):**
+    *   None
+*   **Feedback:** The Final Article demonstrates excellent data integrity regarding hallucination prevention and the correct handling of "Not Found" information, achieving a 100% clarity score. All factual statements presented in the article are traceable to the Master Fact Sheet, and the article appropriately acknowledges where specific trend, lab, compliance, or safety facts were unavailable. However, there was a minor loss of specific details from three facts in the Master Fact Sheet: precise mechanistic actions and additional side effects from the Toxicity Facts, and an explicit processing detail from the Culture Facts. Addressing these minor omissions would further enhance the robustness and completeness of the article, bringing the data loss score to 100%.

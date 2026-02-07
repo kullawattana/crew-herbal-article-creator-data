@@ -1,0 +1,88 @@
+Thought: I have meticulously reviewed the Master Fact Sheet and the Final Article, identifying all critical facts and their presence, absence, or transformation. I have specifically looked for data loss (facts from the Fact Sheet missing in the Article) and hallucination (facts in the Article not found in the Fact Sheet). I have also verified the correct handling of "Not Found" results.
+
+I will now compile the lists of dropped and hallucinated entities and calculate the scores based on the detailed audit.
+
+**Audit Process:**
+
+1.  **Fact Extraction from Master Fact Sheet:** I've gone through each item in the Master Fact Sheet and identified distinct, verifiable facts. This includes specific values, statuses, names, descriptions, and source URLs. "Not found" entries are also treated as facts about the absence of information.
+
+2.  **Robustness Check (Data Loss):**
+    *   **Science Facts (Herb, Compound, Abstracts & Citations):** All 8 specific facts were accurately transferred.
+    *   **Compliance Facts (Food Registrations 1-10):** The Fact Sheet provided 10 distinct food registrations, each with a registration number, product name, company name, and status (4 data points per registration, totaling 40 specific data points). The Final Article only provided a general statement: "Compliance facts related to food registration are available, indicating that several products containing electrolytes have been registered." This is a significant loss of specific, granular data. None of the 40 specific data points were transferred.
+    *   **Compliance Fact (Safety Dosage):** "Not found" was correctly reflected.
+    *   **Compliance Fact (Safety Warning):** "None found" was correctly reflected.
+    *   **Safety Facts (8 "Not found" entries):** These were correctly summarized as "specific safety facts... are not found."
+    *   **Toxicity Facts (4 "Not found" entries):** These were correctly summarized as "toxicity information... are not found."
+    *   **Culture Facts (3 Communities):** Each community fact had 12 distinct data points (name, location, ethnic group, highlight, etymology, environment, local wisdom, organizations, local name, traditional use, processing method, source URL).
+        *   The article mentioned the community names, generalized "traditional wisdom related to agriculture and the use of plants for medicinal purposes," and included the source URLs.
+        *   Dropped for each community: location, ethnic group, community highlight, name etymology, detailed community environment, community organizations, and processing method. This amounts to 7 specific data points dropped per community, totaling 21 dropped facts.
+    *   **Internal RAG Fact (Herbal):** Correctly reflected the absence of detailed information.
+    *   **Internal RAG Fact (Cultural):** All aspects were accurately transferred.
+    *   **Source URLs (Trend, Compliance, Safety, Toxicity):** "Not found" was correctly handled by omission.
+    *   **Source URLs (Science, Culture):** All 6 specific URLs were accurately transferred to the "Sources Consulted" section.
+
+3.  **Clarity Check (Hallucination & Handling):**
+    *   **Hallucination:** No facts were identified in the Final Article that did not originate from the Master Fact Sheet or were not reasonable inferences/summaries based on the provided facts or their absence.
+    *   **"Not Found" Handling:** All instances where the Fact Sheet stated "Not found" or "None found" were handled correctly in the Final Article, either by explicitly stating the absence of information or by omitting the topic without inventing details.
+
+**Scoring Calculation:**
+
+*   **Total Auditable Facts:**
+    *   Science (Herb, Compound, 3 Abstracts with 2 parts each): 1 + 1 + (3 * 2) = 8 facts
+    *   Food Registrations (10 registrations * 4 details each): 40 facts
+    *   Compliance (Safety Dosage, Safety Warning): 2 facts
+    *   Safety Facts (8 "Not found"): 8 facts
+    *   Toxicity Facts (4 "Not found"): 4 facts
+    *   Culture Facts (3 communities * 12 details each): 36 facts
+    *   Internal RAG (Herbal, Cultural): 2 facts
+    *   Source URLs (Trend, Compliance, Safety, Toxicity): 4 facts
+    *   Source URLs (Science, Culture): 6 facts
+    *   **Total = 8 + 40 + 2 + 8 + 4 + 36 + 2 + 4 + 6 = 110 facts**
+
+*   **Facts Dropped (Data Loss):**
+    *   Specific details of 10 Food Registrations: 40 facts
+    *   Specific details from Culture Facts (7 per community * 3 communities): 21 facts
+    *   **Total Dropped = 40 + 21 = 61 facts**
+
+*   **Collaboration Robustness (Data Loss) Score:**
+    *   (Total Auditable Facts - Dropped Facts) / Total Auditable Facts * 100
+    *   (110 - 61) / 110 * 100 = 49 / 110 * 100 = **44.55%**
+
+*   **Explanation Clarity (Hallucination/Handling) Score:**
+    *   No hallucinations. All "Not found" entries were handled correctly.
+    *   **Score = 100%**
+
+**Final Report Generation.**# ===AUDIT_DATA_INTEGRITY_REPORT===
+*   **Collaboration Robustness (Data Loss):** 45%
+*   **Explanation Clarity (Hallucination/Handling):** 100%
+*   **Dropped Entities (Facts in Fact Sheet but not Article):**
+    *   **Compliance Fact (Food Registration 1-10) - Specific Details:** The article failed to transfer the 40 specific data points for the 10 food registrations, including:
+        *   registration_number=10-1-27427-1-0002, product_name=เครื่องดื่มเกลือแร่ (ตรา เอ็ม-16) / ELECTROLYTE BEVERAGE (M-16 BRAND), company_name=ห้างหุ้นส่วนจำกัด ยู เอส พี 1984, status=สถานะผลิตภัณฑ์(คงอยู่)\ สถานะสถานที่ (คงอยู่)
+        *   (And the corresponding 4 data points for each of the subsequent 9 food registrations)
+    *   **Culture Fact (Community - Ban Saraphi):**
+        *   location: Chiang Mai
+        *   ethnic_group: Thai Yuan
+        *   community_highlight: No herbal-related information found.
+        *   name_etymology: The name "Ban Saraphi" is derived from the Thai word "saraphi," which refers to a type of tree. According to local legend, the village was named after the tree that was planted at the entrance of the village.
+        *   community_environment: The village is situated in a rural area surrounded by forests and farmland. The villagers engage in agriculture, growing crops such as rice and vegetables.
+        *   community_organizations: The village has a community center that serves as a gathering place for villagers to discuss local issues and plan community events.
+        *   processing_method: Planting trees
+    *   **Culture Fact (Community - Ban Saraphi-Ban Rai (Phatthana)):**
+        *   location: Chiang Mai
+        *   ethnic_group: Thai Yuan
+        *   community_highlight: No herbal-related information found.
+        *   name_etymology: The name "Ban Saraphi-Ban Rai" is derived from the Thai words "saraphi" and "rai," which refer to a type of tree and a field, respectively.
+        *   community_environment: The village is situated in a rural area surrounded by forests and farmland. The villagers engage in agriculture, growing crops such as rice and vegetables.
+        *   community_organizations: The village has a community center that serves as a gathering place for villagers to discuss local issues and plan community events.
+        *   processing_method: Planting trees
+    *   **Culture Fact (Community - Ban Chang Kham):**
+        *   location: Chiang Mai
+        *   ethnic_group: Thai Yuan
+        *   community_highlight: No herbal-related information found.
+        *   name_etymology: The name "Ban Chang Kham" is derived from the Thai words "chang" and "kham," which refer to an elephant and a fence, respectively.
+        *   community_environment: The village is situated in a rural area surrounded by forests and farmland. The villagers engage in agriculture, growing crops such as rice and vegetables.
+        *   community_organizations: The village has a community center that serves as a gathering place for villagers to discuss local issues and plan community events.
+        *   processing_method: Planting trees
+*   **Hallucinated Entities (Facts in Article but not Fact Sheet):**
+    *   None
+*   **Feedback:** The Collaboration Robustness score is significantly impacted by the failure to transfer specific, granular details from the Master Fact Sheet, particularly concerning the 10 Food Registrations and the detailed cultural facts for the three communities. While the article generally acknowledged the existence of these facts (e.g., "several products containing electrolytes have been registered" or "Communities like Ban Saraphi... have traditional wisdom"), it omitted the precise data points required for 100% accuracy under a zero-tolerance audit. The article exhibited excellent Explanation Clarity, successfully avoiding any hallucinated information and correctly handling all "Not Found" or "None found" entries by either explicitly stating the absence of data or by judicious omission without invention.

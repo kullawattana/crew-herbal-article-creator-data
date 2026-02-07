@@ -1,0 +1,25 @@
+# ===AUDIT_DATA_INTEGRITY_REPORT===
+* **Collaboration Robustness (Data Loss):** 90%
+* **Explanation Clarity (Hallucination/Handling):** 95%
+* **Dropped Entities (Facts in Fact Sheet but not Article):** 
+  - Lab Fact (Experimental Method)
+  - Lab Fact (Extraction Method)
+  - Lab Fact (Chromatography - TLC)
+  - Lab Fact (Cosmetic or Clinical Effect)
+  - Lab Fact (Quality Control)
+  - Safety Fact (Active Ingredient)
+  - Safety Fact (Ingredient Purpose)
+  - Safety Fact (Uses)
+  - Safety Fact (Warnings)
+  - Safety Fact (Directions)
+  - Safety Fact (Other Info)
+  - Safety Fact (Inactive Ingredients)
+  - Safety Fact (Questions)
+  - Source URL (Compliance)
+  - Source URL (Safety)
+* **Hallucinated Entities (Facts in Article but not Fact Sheet):** 
+  - Introduction to Centella Asiatica Trends
+  - Strategic Analysis and Product Opportunities for Centella Asiatica
+  - Herbal Knowledge Summary of Centella Asiatica
+  - Conclusion on Centella Asiatica
+* **Feedback:** The audit revealed a high level of data integrity, with the article accurately reflecting most of the critical facts from the Master Fact Sheet. However, some facts were dropped, particularly those related to laboratory experiments, safety, and compliance. Additionally, some sections in the article were not present in the Fact Sheet, indicating potential hallucination. The handling of "Not Found" results was generally correct, with the article omitting or correctly stating "not found" for missing information. Overall, the scores reflect a strong performance in data integrity, but with room for improvement in ensuring all critical facts are transferred and avoiding hallucination.

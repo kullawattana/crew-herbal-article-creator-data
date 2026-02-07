@@ -1,0 +1,44 @@
+# ===COMPLIANCE_DATA===
+## Thai FDA Status for: Turmeric
+* **herb_name:** Turmeric
+### Food Registrations
+* **Food Registration 1:**
+    * **registration_number:** 10-1-01454-1-0004
+    * **product_name:** ขมิ้นชัน แคปซูล (ผลิตภัณฑ์เสริมอาหาร) / TURMERIC CAPSULE (DIETARY SUPPLEMENT PRODUCT)
+    * **company_name:** บริษัท หมอนพพร กรุ๊ป จำกัด
+    * **status:** สถานะผลิตภัณฑ์(คงอยู่)\ สถานะสถานที่ (คงอยู่)
+* **Food Registration 2:**
+    * **registration_number:** 10-1-04651-1-0012
+    * **product_name:** ขมิ้นชัน บาย เอ ไรนา (ผลิตภัณฑ์เสริมอาหาร) / CURCUMA BY A RAINA (DIETARY SUPPLEMENT PRODUCT)
+    * **company_name:** บริษัท เอ มิราเคิล จำกัด
+    * **status:** สถานะผลิตภัณฑ์(คงอยู่)\ สถานะสถานที่ (คงอยู่)
+* **Food Registration 3:**
+    * **registration_number:** 10-1-05457-5-0241
+    * **product_name:** เอวา ขมิ้นชัน (ผลิตภัณฑ์เสริมอาหาร) / Ava Turmeric (DIETARY SUPPLEMENT PRODUCT)
+    * **company_name:** บริษัท เซนจูเรีย จำกัด
+    * **status:** สถานะผลิตภัณฑ์(คงอยู่)\ สถานะสถานที่ (คงอยู่)
+* **Food Registration 4:**
+    * **registration_number:** 10-1-07153-1-0018
+    * **product_name:** ขมิ้นชันแคปซูล (ผลิตภัณฑ์เสริมอาหาร)(เครื่องหมายการค้าเฮิร์บเมท) / TERMERIC CAPSULE (DIETARY SUPPLEMENT PRODUCT)(HERBMATE (TM))
+    * **company_name:** บริษัท โอ เอส เค ทราเวล แอนด์ เฮลท์ จำกัด
+    * **status:** สถานะผลิตภัณฑ์(ผู้ประกอบการแจ้งยกเลิกใบอนุญาต 14/6/2567) \ สถานะสถานที่ (ผู้ประกอบการแจ้งยกเลิก 14/6/2567)
+* **Food Registration 5:**
+    * **registration_number:** 10-1-07960-5-0057
+    * **product_name:** ขมิ้นชันแคปซูล (ตราตุ๊กตุ๊กสแนก) / Turmeric Capsule (TUKTUK Snack Brand)
+    * **company_name:** บริษัท ธรียา ดีไซน์ จำกัด
+    * **status:** สถานะผลิตภัณฑ์(ยกเลิกโดยผู้ประกอบการ 29/6/2564) \ สถานะสถานที่ (คงอยู่ )
+* **Food Registration 6:**
+    * **registration_number:** 10-1-08758-1-0007
+    * **product_name:** ซาเช่ ทรี ฟรุ๊ตส์ พลัส ผลิตภัณฑ์เสริมอาหาร (ตรีผลา,ส้มแขก,กระเจี๊ยบแดง,พริกไทยดำ,ขมิ้นชัน,ดอกคำฝอย,ถั่วขาว.ไวเลี่ยมฮัสก์,พุทราจีน) / SASHAY THREE FRUITS PLUS DIETARY SUPPLEMENT PRODUCT(TRIPHALA,GARCINIA,ROSELLE,BLACK PEPPER,TURMERIC,SAFFLOWER,WHITE KIDNEY BEAN,PSYLLIUM HUSK,JUJUBE)
+    * **company_name:** บริษัท กรุงเทพทิพ จำกัด
+    * **status:** สถานะผลิตภัณฑ์(คงอยู่)\ สถานะสถานที่ (คงอยู่)
+* **Food Registration 7:**
+    * **registration_number:** 10-1-08758-5-0006
+    * **product_name:** ผลิตภัณฑ์เสริมอาหาร ตังถั่งเฉ้า เห็ดหลินจือ ขมิ้นชัน และ ตรีผลา พลัส ตรา ไอริเซีย ยังเฮิร์บ  /  Cordyceps Lingzhi Curcumin and Triphala Plus Dietary Supplement Product Irisia Youngherb Brand
+    * **company_name:** บริษัท กรุงเทพทิพ จำกัด
+    * **status:** สถานะผลิตภัณฑ์(คงอยู่)\ สถานะสถานที่ (คงอยู่)
+* **Food Registration 8:**
+    * **registration_number:** 10-1-11652-5-0025
+    * **product_name:** ขมิ้นชันผง (ตราอิ่มเอิบ) / Turmeric Powder (Im-Erb Brand)
+    * **company_name:** บริษัท ชีวารมณ์ จำกัด
+    * **status:** สถานะผลิตภัณฑ์(คงอยู่)\ สถานะสถานที่ (คงอยู่)

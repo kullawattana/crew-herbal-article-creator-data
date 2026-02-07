@@ -1,0 +1,14 @@
+# ===TRENDS_DATA===
+Wellness Trends for: Torch Ginger (Torch Ginger)
+### Finding 1
+* **herb_name:** Torch Ginger
+* **wellness_context_summary:** Torch Ginger, also known as Etlingera elatior, is a species of wild ginger that is native to Borneo. It has been traditionally used in medicine and as a food ingredient. The plant contains compounds that have been shown to have anticancer, antidiabetic, antibacterial, antioxidant, and anti-inflammatory properties. Torch Ginger has been used to treat various health conditions, including fever, rheumatism, and digestive problems. It is also used as a natural remedy for skin and hair care.
+* **source_url:** https://link.springer.com/article/10.1007/s11101-025-10166-x
+### Finding 2
+* **herb_name:** Torch Ginger
+* **wellness_context_summary:** Torch Ginger is a type of wild ginger that is commonly found in Borneo. It has been traditionally used in medicine and as a food ingredient. The plant contains compounds that have been shown to have anticancer, antidiabetic, antibacterial, antioxidant, and anti-inflammatory properties. Torch Ginger has been used to treat various health conditions, including fever, rheumatism, and digestive problems. It is also used as a natural remedy for skin and hair care.
+* **source_url:** https://www.asiabevco.com/aya
+### Finding 3
+* **herb_name:** Torch Ginger
+* **wellness_context_summary:** Torch Ginger is a type of wild ginger that is native to Borneo. It has been traditionally used in medicine and as a food ingredient. The plant contains compounds that have been shown to have anticancer, antidiabetic, antibacterial, antioxidant, and anti-inflammatory properties. Torch Ginger has been used to treat various health conditions, including fever, rheumatism, and digestive problems. It is also used as a natural remedy for skin and hair care.
+* **source_url:** https://www.organicfacts.net/health-benefits/herbs-and-spices/ginger.html

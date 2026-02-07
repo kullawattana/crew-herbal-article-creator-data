@@ -1,0 +1,29 @@
+# ===COMPLIANCE_DATA===
+## Thai FDA Status for: Archidendron pauciflorum
+* **herb_name:** Archidendron pauciflorum
+### Food Registrations
+* **Food Registration 1:**
+    * **registration_number:** 13-2-05460-6-0012
+    * **product_name:** ลูกเนียงดอง / PICKLED LUK NIENG
+    * **company_name:** บริษัท มากาดู คอร์ปอเรชั่น จำกัด
+    * **status:** สถานะผลิตภัณฑ์(คงอยู่)\ สถานะสถานที่ (คงอยู่)
+* **Food Registration 2:**
+    * **registration_number:** 50-2-01656-2-0019
+    * **product_name:** ลูกเนียงดอง (ตราพอลฟู้ดส์)
+    * **company_name:** ห้างหุ้นส่วนจำกัด พีเอยูแอล เทรดดิ้ง
+    * **status:** สถานะผลิตภัณฑ์(ยกเลิก 3/7/2557) \ สถานะสถานที่ (ยกเลิก 3/7/2557)
+* **Food Registration 3:**
+    * **registration_number:** 50-2-05257-2-0019
+    * **product_name:** ลูกเนียงดอง (ตราพอลฟุ้ดส์)
+    * **company_name:** บริษัท พีเอยูแอล เทรดดิ้ง จำกัด
+    * **status:** สถานะผลิตภัณฑ์(คงอยู่)\ สถานะสถานที่ (คงอยู่)
+* **Food Registration 4:**
+    * **registration_number:** 50-2-05952-2-0003
+    * **product_name:** ลูกเนียงดอง
+    * **company_name:** ห้างหุ้นส่วนจำกัด ฟู๊ดส์ ฟอร์ เฮลธ์
+    * **status:** สถานะผลิตภัณฑ์(ยกเลิก 31/1/2556) \ สถานะสถานที่ (ยกเลิก 31/1/2556)
+* **Food Registration 5:**
+    * **registration_number:** 73-2-02956-4-0005
+    * **product_name:** ลูกเนียงดอง (ตรา ทู เมื่อย ทีเอ็ม)  /  Pickled Luk Nieng (Thoo Mweh TM Brand)
+    * **company_name:** บริษัท สยาม พีเจ ฟูดส์ จำกัด
+    * **status:** สถานะผลิตภัณฑ์(คงอยู่)\ สถานะสถานที่ (คงอยู่)

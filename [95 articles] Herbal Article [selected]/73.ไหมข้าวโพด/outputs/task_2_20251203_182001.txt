@@ -1,0 +1,1 @@
+Thought: I have retrieved the relevant snippets from the Pinecone database using both the Thai name "ไหมข้าวโพด" and the English/Scientific name "Zea mays". Now, I will filter the snippets to ensure they are explicitly about ไหมข้าวโพด or Zea mays.

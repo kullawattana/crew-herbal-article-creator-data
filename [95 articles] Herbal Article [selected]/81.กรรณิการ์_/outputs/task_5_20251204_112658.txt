@@ -1,0 +1,20 @@
+# ===SAFETY_DATA===
+## International Safety Data for: Nyctanthes arbor-tristis
+* **herb_name:** Nyctanthes arbor-tristis
+* **source_browsed:** https://dailymed.nlm.nih.gov/dailymed/fda/fdaDrugXsl.cfm?setid=08aee3eb-513f-9899-e063-6294a90a106c&type=display
+### Drug Facts Label
+* **active_ingredients:**
+    * **Ingredient 1:**
+        * **name:** Ketoconazole
+        * **strength:** 0.5%
+        * **purpose:** Antifungal
+    * **Ingredient 2:**
+        * **name:** Miconazole
+        * **strength:** 0.15%
+        * **purpose:** Antifungal
+* **uses:** Relieves and helps prevent recurrence of skin and/or scalp: itching, flaking, scaling, redness, and irritation associated with psoriasis and seborrheic dermatitis.
+* **warnings:** For external use only
+* **directions:** Apply a small amount to the problem areas with circular motions for 3 minutes till the skin absorbs the cream. Apply it 2-3 times a day for the best result. Continue to use for 3-5 days after symptoms resolve to prevent a recurrence. Do not use it on children under 2 years of age unless directed by a doctor.
+* **other_information:** Store at room temperature and out of direct sunlight
+* **inactive_ingredients:** Water, BORNEOL, SOPHORA FLAVESCENS ROOT, CNIDIUM MONNIERI FRUIT, KOCHIA SCOPARIA POLLEN, DICTAMNUS DASYCARPUS ROOT, SMILAX GLABRA WHOLE
+* **questions:** Visit www.roycederm.com

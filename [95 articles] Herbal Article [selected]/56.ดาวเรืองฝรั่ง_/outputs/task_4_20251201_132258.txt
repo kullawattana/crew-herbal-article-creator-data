@@ -1,0 +1,5 @@
+# ===COMPLIANCE_DATA=== 
+## Thai FDA Status for: Calendula officinalis
+* **herb_name:** Calendula officinalis
+### Food Registrations 
+* None found.

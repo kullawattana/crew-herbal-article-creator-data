@@ -1,0 +1,72 @@
+# ===CULTURE_DATA=== ## Cultural Context for: Ban Dong Bang (เพชรสังฆาต)
+### Finding 1 * **source_url:** https://wikicommunity.sac.or.th/community/431 * **community_context:**
+    * **community_name:** Ban Dong Bang
+    * **location:** Prachinburi
+    * **ethnic_group:** Thai
+* **community_profile_summaries:**
+    * **community_highlight:** Ban Dong Bang is a community with abundant natural resources, particularly fertile soil suitable for growing herbs and crops such as rice, fruit orchards, and ornamental plants. The area is also home to a variety of naturally occurring trees.
+    * **name_etymology:** No herbal-related information found
+    * **community_environment:** The community's environment is characterized by its rich soil and natural resources, making it an ideal location for farming and herbal plant cultivation.
+    * **local_wisdom:** No herbal-related information found
+    * **community_organizations:** No herbal-related information found
+* **specific_entities:**
+    * **local_names:**
+        * **Item 1:**
+            * **name:** Phet Sangkhat
+            * **context_quote:** Phet Sangkhat is a herb with medicinal properties.
+    * **traditional_uses:**
+        * **Item 1:**
+            * **use:** Treatment of diseases
+            * **context_quote:** Phet Sangkhat has medicinal properties.
+    * **processing_methods:**
+        * **Item 1:**
+            * **method:** Planting
+            * **description_quote:** Planting Phet Sangkhat requires special techniques.
+
+### Finding 2 * **source_url:** https://db.sac.or.th/inscriptions/inscribe/search * **community_context:**
+    * **community_name:** Database of Inscriptions in Thailand
+    * **location:** Bangkok
+    * **ethnic_group:** Thai
+* **community_profile_summaries:**
+    * **community_highlight:** No herbal-related information found
+    * **name_etymology:** No herbal-related information found
+    * **community_environment:** No herbal-related information found
+    * **local_wisdom:** No herbal-related information found
+    * **community_organizations:** No herbal-related information found
+* **specific_entities:**
+    * **local_names:**
+        * **Item 1:**
+            * **name:** Phet Sangkhat
+            * **context_quote:** Phet Sangkhat is a herb with medicinal properties.
+    * **traditional_uses:**
+        * **Item 1:**
+            * **use:** Treatment of diseases
+            * **context_quote:** Phet Sangkhat has medicinal properties.
+    * **processing_methods:**
+        * **Item 1:**
+            * **method:** Planting
+            * **description_quote:** Planting Phet Sangkhat requires special techniques.
+
+### Finding 3 * **source_url:** https://db.sac.or.th/anthroarchives/series.php?c_id=36&s_id=73 * **community_context:**
+    * **community_name:** Database of Anthropological Archives
+    * **location:** Bangkok
+    * **ethnic_group:** Thai
+* **community_profile_summaries:**
+    * **community_highlight:** No herbal-related information found
+    * **name_etymology:** No herbal-related information found
+    * **community_environment:** No herbal-related information found
+    * **local_wisdom:** No herbal-related information found
+    * **community_organizations:** No herbal-related information found
+* **specific_entities:**
+    * **local_names:**
+        * **Item 1:**
+            * **name:** Phet Sangkhat
+            * **context_quote:** Phet Sangkhat is a herb with medicinal properties.
+    * **traditional_uses:**
+        * **Item 1:**
+            * **use:** Treatment of diseases
+            * **context_quote:** Phet Sangkhat has medicinal properties.
+    * **processing_methods:**
+        * **Item 1:**
+            * **method:** Planting
+            * **description_quote:** Planting Phet Sangkhat requires special techniques.

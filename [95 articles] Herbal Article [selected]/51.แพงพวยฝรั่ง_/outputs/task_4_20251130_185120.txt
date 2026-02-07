@@ -1,0 +1,1 @@
+Thought: I have browsed the Thai FDA website and found some information about แพงพวยฝรั่ง. Now, I need to extract the relevant registration numbers.

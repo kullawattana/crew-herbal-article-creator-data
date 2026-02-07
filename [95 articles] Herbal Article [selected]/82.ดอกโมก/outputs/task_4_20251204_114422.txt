@@ -1,0 +1,56 @@
+# ===COMPLIANCE_DATA===
+## Thai FDA Status for: Wrightia religiosa
+* **herb_name:** Wrightia religiosa
+### Food Registrations
+* **Food Registration 1:**
+    * **registration_number:** 13-2-06660-6-0035
+    * **product_name:** Sang Yod Rice Chips (Shrimp Flavour)
+    * **company_name:** บริษัท บ้านขนมไทย อินเตอร์เนชั่นแนล จำกัด
+    * **status:** สถานะผลิตภัณฑ์(คงอยู่)\ สถานะสถานที่ (คงอยู่)
+* **Food Registration 2:**
+    * **registration_number:** 93-2-01461-6-0001
+    * **product_name:** ข้าวสังข์หยดเมืองพัทลุง (ข้าวกล้อง)
+    * **company_name:** วิสาหกิจชุมชนกลุ่มแม่บ้านนาท่อมร่วมใจ
+    * **status:** สถานะผลิตภัณฑ์(คงอยู่)\ สถานะสถานที่ (คงอยู่)
+* **Food Registration 3:**
+    * **registration_number:** 93-2-01461-6-0002
+    * **product_name:** ข้าวสังข์หยดเมืองพัทลุง (ข้าวซ้อมมือ)
+    * **company_name:** วิสาหกิจชุมชนกลุ่มแม่บ้านนาท่อมร่วมใจ
+    * **status:** สถานะผลิตภัณฑ์(คงอยู่)\ สถานะสถานที่ (คงอยู่)
+* **Food Registration 4:**
+    * **registration_number:** 93-2-01461-6-0003
+    * **product_name:** ข้าวกล้องสามสี
+    * **company_name:** วิสาหกิจชุมชนกลุ่มแม่บ้านนาท่อมร่วมใจ
+    * **status:** สถานะผลิตภัณฑ์(คงอยู่)\ สถานะสถานที่ (คงอยู่)
+* **Food Registration 5:**
+    * **registration_number:** 93-2-01461-6-0004
+    * **product_name:** ข้าวไรซ์เบอร์รี่
+    * **company_name:** วิสาหกิจชุมชนกลุ่มแม่บ้านนาท่อมร่วมใจ
+    * **status:** สถานะผลิตภัณฑ์(คงอยู่)\ สถานะสถานที่ (คงอยู่)
+### Herbal Products
+* **Herbal Product 1:**
+    * **registration_number:** G185/68
+    * **product_name:** ยาหม่องน้ำสุภาพโอสถ กลิ่นดอกโมก
+    * **company_name:** โรงงานเภสัชอุตสาหกรรม เจเอสพี (ประเทศไทย)  (มหาชน)
+    * **status:** คงอยู่
+* **Herbal Product 2:**
+    * **registration_number:** G481/65
+    * **product_name:** ยาดมสมุนไพรกลิ่นดอกโมก
+    * **company_name:** ทิพยพงษ์โอสถ
+    * **status:** คงอยู่
+* **Herbal Product 3:**
+    * **registration_number:** G327/64
+    * **product_name:** ยาหม่องสมุนไพรกลิ่นดอกโมก
+    * **company_name:** สมุนไพรวังพรม
+    * **status:** คงอยู่
+### Cosmetic Products
+* **Cosmetic Product 1:**
+    * **registration_number:** 10-1-5844046
+    * **product_name:** ศรีธนา อโรมา ออย ดอกโมก
+    * **company_name:** บริษัท แวนน์ คอสเมติกส์ แอนด์ แลบอราทอรี่ จำกัด
+    * **status:** คงอยู่
+* **Cosmetic Product 2:**
+    * **registration_number:** 10-1-5886114
+    * **product_name:** สบาย โฮม สปา อโรมาติก มาสสาจ บาล์ม เหลือง ส้ม ดอกโมก
+    * **company_name:** บริษัท สบายเฮิร์บ (2550) จำกัด
+    * **status:** คงอยู่

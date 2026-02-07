@@ -1,0 +1,51 @@
+# ===COMPLIANCE_DATA===
+## Thai FDA Status for: Acacia concinna
+* **herb_name:** Acacia concinna
+### Food Registrations
+* **Food Registration 1:**
+    * **registration_number:** 10-1-13660-5-0242
+    * **product_name:** ส้มป่อย / Acacia concinna
+    * **company_name:** บริษัท โพธิ์ประดิษฐ์สมุนไพร จำกัด
+    * **status:** สถานะผลิตภัณฑ์(ยกเลิกโดยผู้ประกอบการ 26/10/2561) \ สถานะสถานที่ (คงอยู่ )
+* **Food Registration 2:**
+    * **registration_number:** 10-1-13660-5-0243
+    * **product_name:** ส้มป่อย (ผง) / Acacia concinna (Powder)
+    * **company_name:** บริษัท โพธิ์ประดิษฐ์สมุนไพร จำกัด
+    * **status:** สถานะผลิตภัณฑ์(ยกเลิกโดยผู้ประกอบการ 26/10/2561) \ สถานะสถานที่ (คงอยู่ )
+* **Food Registration 3:**
+    * **registration_number:** 11-2-00342-6-0472
+    * **product_name:** น้ำปลาร้าปรุงรส สูตรโบราณ ตรา ส้มป่อย
+    * **company_name:** บริษัท พี.วาย.ฟู้ด จำกัด
+    * **status:** สถานะผลิตภัณฑ์(คงอยู่)\ สถานะสถานที่ (คงอยู่)
+* **Food Registration 4:**
+    * **registration_number:** 33-2-00868-6-0001
+    * **product_name:** หอมแดงอบแห้ง ตรา นาคาลักษมี
+    * **company_name:** วิสาหกิจชุมชนกลุ่มหอมแดงราษีไศล
+    * **status:** สถานะผลิตภัณฑ์(คงอยู่)\ สถานะสถานที่ (คงอยู่)
+* **Food Registration 5:**
+    * **registration_number:** 33-2-00868-6-0002
+    * **product_name:** ชาหอมแดง ตรา นาคาลักษมี
+    * **company_name:** วิสาหกิจชุมชนกลุ่มหอมแดงราษีไศล
+    * **status:** สถานะผลิตภัณฑ์(คงอยู่)\ สถานะสถานที่ (คงอยู่)
+### Herbal Product Registrations
+* **Herbal Product Registration 1:**
+    * **registration_number:** G347/57
+    * **product_name:** ยาระบายผสมส้มป่อย / COMPOUND SOMPOI LAXATIVE
+    * **company_name:** บริษัท สิทธิพรสมุนไพร จำกัด
+    * **status:** คงอยู่
+* **Herbal Product Registration 2:**
+    * **registration_number:** G33/59
+    * **product_name:** ยาเม็ดสมุนไพรผสมส้มป่อย / COMPOUND SOM POY HERBAL TABLET
+    * **company_name:** บริษัท สิทธิพรสมุนไพร จำกัด
+    * **status:** คงอยู่
+### Cosmetic Registrations
+* **Cosmetic Registration 1:**
+    * **registration_number:** 10-1-6010022379
+    * **product_name:** แม่อุไร แชมพูสมุนไพร มะกรูด&ส้มป่อย&ว่านหาวจระเข้ / MAE AURAI HERBAL SHAMPOO BERGAMOT&SOMPOI&ALOE VERA
+    * **company_name:** ห้างหุ้นส่วนจำกัด สมุนไพรไทยแม่อุไร
+    * **status:** คงอยู่
+* **Cosmetic Registration 2:**
+    * **registration_number:** 10-1-6100008946
+    * **product_name:** นารดา แชมพู ส้มป่อย ใบหมี่ เฮนน่า / NARDA SHAMPOO ACACIA CONCINNA, LITSEA & HENNA
+    * **company_name:** บริษัท ลีเอ็นเตอร์เทนเม้นท์ จำกัด
+    * **status:** คงอยู่

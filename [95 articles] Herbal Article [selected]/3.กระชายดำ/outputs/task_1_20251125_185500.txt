@@ -1,0 +1,3 @@
+Thought: I have the content of the webpage, but it doesn't mention Black Ginger.
+
+Action: None

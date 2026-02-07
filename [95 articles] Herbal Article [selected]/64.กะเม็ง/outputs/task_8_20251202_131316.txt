@@ -1,0 +1,27 @@
+# ===CULTURE_DATA=== 
+## Cultural Context for: Kameng (กะเม็ง)
+### Finding 1 
+* **source_url:** https://sac-research.sac.or.th/uploads/article//2020_20200731100408-1.pdf
+* **community_context:**
+    * **community_name:** Chunchon Takhiantong
+    * **location:** Chanthaburi Province
+    * **ethnic_group:** Chong
+* **community_profile_summaries:**
+    * **community_highlight:** Chunchon Takhiantong is a community with a dense population of Chong people, particularly in Village 4, Takhiantong Subdistrict, and Village 5, Pachak Subdistrict. The community has a rich cultural heritage, with a strong emphasis on traditional medicine and herbal remedies.
+    * **name_etymology:** The name "Takhiantong" is derived from the abundance of Takhian trees in the area. The community was previously known as "Ban Tayod" but was later renamed to "Ban Takhiantong".
+    * **community_environment:** The community is situated in a rural area with a diverse range of flora and fauna. The villagers have a deep understanding of the local ecosystem and have developed traditional practices to conserve and utilize the natural resources.
+    * **local_wisdom:** The community has a rich tradition of herbal medicine, with a wide range of plants used for various ailments. The villagers have developed unique processing methods and recipes to prepare the herbs for consumption.
+    * **community_organizations:** The community has a strong social structure, with various organizations and groups working together to promote cultural heritage and traditional practices.
+* **specific_entities:**
+    * **local_names:**
+        * **Item 1:**
+            * **name:** Kameng
+            * **context_quote:** Kameng, male, Tongteng, Fansaenha, Tintakhap, female, Phayap Mob, Chumhetthes, Katangbai, Wai Khom, Henguek Pla Moh, Khaytay Mae Yay Chak Pok, Khmin Krua, Thao Krua Ho, Fa Thalay Jor, Phak Krat Huawan, Plu Chin, Thong Phan Chang, Krathung Maba, Thong Lang Bai Mon, Akkhi Thawar, Mak Phu Pa, Muek Khao, Khom Khang Rao, Klum-Klao, Kaglan Ka, Mak Kleua, Plabplung, Nom Maeo, Thao Ean On (Tin Ped Thao), Kram Pa, Khon Da, Kang Pla.
+    * **traditional_uses:**
+        * **Item 1:**
+            * **use:** Used to prepare medicine
+            * **context_quote:** Both annual and perennial plants are used to prepare medicine, including Kameng, Tongteng, Fansaenha, Tintakhap, Phayap Mob, Chumhetthes, Katangbai, Wai Khom, Henguek Pla Moh, Khaytay Mae Yay Chak Pok, Khmin Krua, Thao Krua Ho, Fa Thalay Jor, Phak Krat Huawan, Plu Chin, Thong Phan Chang, Krathung Maba, Thong Lang Bai Mon, Akkhi Thawar, Mak Phu Pa, Muek Khao, Khom Khang Rao, Klum-Klao, Kaglan Ka, Mak Kleua, Plabplung, Nom Maeo, Thao Ean On (Tin Ped Thao), Kram Pa, Khon Da, Kang Pla.
+    * **processing_methods:**
+        * **Item 1:**
+            * **method:** Ground into a powder and consumed with Kanom Jeen (fermented rice noodles)
+            * **description_quote:** Ground into a powder and consumed with Kanom Jeen, effective in relieving gas.

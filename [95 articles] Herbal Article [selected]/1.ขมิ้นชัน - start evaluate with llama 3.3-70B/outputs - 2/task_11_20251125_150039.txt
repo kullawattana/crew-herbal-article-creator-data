@@ -1,0 +1,58 @@
+# ===MASTER_FACT_SHEET=== 
+## Consolidated Facts for: Turmeric
+* **Trend Fact:** Not provided in the given context.
+* **Lab Fact (Experimental Method):** Not provided in the given context.
+* **Lab Fact (Extraction Method):** Not provided in the given context.
+* **Lab Fact (Compound Identified):** Not provided in the given context.
+* **Lab Fact (Chromatography - TLC):** Not provided in the given context.
+* **Lab Fact (Pharmacological Finding):** Not provided in the given context.
+* **Lab Fact (Cosmetic or Clinical Effect):** Not provided in the given context.
+* **Lab Fact (Quality Control):** Not provided in the given context.
+* **Science Fact (Herb):** Turmeric
+* **Science Fact (Compound):** Curcumin
+* **Science Fact (Abstracts):**
+  * **Study 1:**
+    * **abstract_raw:** Curcumin (Cur) is a bioactive compound with neuroprotective and anti-inflammatory effects, though its clinical application is limited by poor bioavailability. This study assessed the impact of nanocapsulated curcumin (NcCur), formulated Eudragit (EUD) polymer, in a sporadic Alzheimer's disease (AD) mouse model induced by intracerebroventricular streptozotocin (STZ), with attention to sex-specific differences. Mice received STZ (3 nmol/3 μL) or 0.9% saline on days 1 and 3, followed by intragastric treatment with Cur or NcCur (10 mg/kg, on alternate days) from day 22 until euthanasia - a dose previously shown to be effective in behavioral and biochemical modulation in rodent models of neurodegeneration. Behavioral assessments included open field, elevated plus maze (EPM), tail suspension (TST), object recognition, Y-maze, and step-down avoidance tasks (SDAT), performed before and after treatment. After euthanasia, thymus, spleen and adrenal glands were weighed; biochemical assays evaluated oxidative stress, monoaminergic and cholinergic enzymes, and Na(+ )K(+)-ATPase activity. NcCur improved short- and long-term memory in both sexes, with greater effects in females (42% and 35%) than males (28% and 25%). In the EPM, NcCur increased open arm time more prominently in females (40%) than males (25%), while TST immobility time was reduced similarly in both. Spatial and aversive memory improved in both sexes, but females showed greater performance in the SDAT. Biochemical analyses showed reductions in reactive species in males (45%) and females (55%) with NcCur; Na(+ )K(+)-ATPase activity increased in females (60%) and males (50%). AChE activity was restored in both sexes. NcCur reduced MAO-A/B activities more in females (65%/55%) than in males (45%/35%). Thymus and spleen weights were normalized in both sexes, with stronger effects in females. NcCur also mitigated alterations in thymus and spleen relative weights, suggesting immunomodulatory effects. Some biochemical and behavioral responses were more prominent in females, both sexes benefited from treatments. These findings suggest that NcCur enhances Cur therapeutic potential through multimodal actions linked involving modulation of oxidative stress, cholinergic and monoaminergic systems, and immune-related parameters. NcCur emerges as a promising candidate for AD-like intervention in both sexes.
+    * **citation_apa:** Rodrigues, K. D. C., Oliveira, M. D. C., de Souza, I. C., Igansi, A. W., Lopes, A. V. B., de Oliveira Pacheco, C., ... & Luchese, C. (2025). Sex-dependent therapeutic effects of nano-curcumin on Alzheimer's disease: Enhanced cognitive and physiological restoration in female mice. Psychopharmacology, 242(11), 41284069.
+* **Compliance Fact (Food Registration 1):** registration_number=10-1-01454-1-0004, product_name=ขมิ้นชัน แคปซูล (ผลิตภัณฑ์เสริมอาหาร) / TURMERIC CAPSULE (DIETARY SUPPLEMENT PRODUCT), company_name=บริษัท หมอนพพร กรุ๊ป จำกัด, status=สถานะผลิตภัณฑ์(คงอยู่)\ สถานะสถานที่ (คงอยู่)
+* **Compliance Fact (Food Registration 2):** registration_number=10-1-04651-1-0012, product_name=ขมิ้นชัน บาย เอ ไรนา (ผลิตภัณฑ์เสริมอาหาร) / CURCUMA BY A RAINA (DIETARY SUPPLEMENT PRODUCT), company_name=บริษัท เอ มิราเคิล จำกัด, status=สถานะผลิตภัณฑ์(คงอยู่)\ สถานะสถานที่ (คงอยู่)
+* **Compliance Fact (Food Registration 3):** registration_number=10-1-05457-5-0241, product_name=เอวา ขมิ้นชัน (ผลิตภัณฑ์เสริมอาหาร) / Ava Turmeric (DIETARY SUPPLEMENT PRODUCT), company_name=บริษัท เซนจูเรีย จำกัด, status=สถานะผลิตภัณฑ์(คงอยู่)\ สถานะสถานที่ (คงอยู่)
+* **Compliance Fact (Food Registration 4):** registration_number=10-1-07153-1-0018, product_name=ขมิ้นชันแคปซูล (ผลิตภัณฑ์เสริมอาหาร)(เครื่องหมายการค้าเฮิร์บเมท) / TERMERIC CAPSULE (DIETARY SUPPLEMENT PRODUCT)(HERBMATE (TM)), company_name=บริษัท โอ เอส เค ทราเวล แอนด์ เฮลท์ จำกัด, status=สถานะผลิตภัณฑ์(ผู้ประกอบการแจ้งยกเลิกใบอนุญาต 14/6/2567) \ สถานะสถานที่ (ผู้ประกอบการแจ้งยกเลิก 14/6/2567)
+* **Compliance Fact (Food Registration 5):** registration_number=10-1-07960-5-0057, product_name=ขมิ้นชันแคปซูล (ตราตุ๊กตุ๊กสแนก) / Turmeric Capsule (TUKTUK Snack Brand), company_name=บริษัท ธรียา ดีไซน์ จำกัด, status=สถานะผลิตภัณฑ์(ยกเลิกโดยผู้ประกอบการ 29/6/2564) \ สถานะสถานที่ (คงอยู่ )
+* **Compliance Fact (Food Registration 6):** registration_number=10-1-08758-1-0007, product_name=ซาเช่ ทรี ฟรุ๊ตส์ พลัส ผลิตภัณฑ์เสริมอาหาร (ตรีผลา,ส้มแขก,กระเจี๊ยบแดง,พริกไทยดำ,ขมิ้นชัน,ดอกคำฝอย,ถั่วขาว.ไวเลี่ยมฮัสก์,พุทราจีน) / SASHAY THREE FRUITS PLUS DIETARY SUPPLEMENT PRODUCT(TRIPHALA,GARCINIA,ROSELLE,BLACK PEPPER,TURMERIC,SAFFLOWER,WHITE KIDNEY BEAN,PSYLLIUM HUSK,JUJUBE), company_name=บริษัท กรุงเทพทิพ จำกัด, status=สถานะผลิตภัณฑ์(คงอยู่)\ สถานะสถานที่ (คงอยู่)
+* **Compliance Fact (Food Registration 7):** registration_number=10-1-08758-5-0006, product_name=ผลิตภัณฑ์เสริมอาหาร ตังถั่งเฉ้า เห็ดหลินจือ ขมิ้นชัน และ ตรีผลา พลัส ตรา ไอริเซีย ยังเฮิร์บ  /  Cordyceps Lingzhi Curcumin and Triphala Plus Dietary Supplement Product Irisia Youngherb Brand, company_name=บริษัท กรุงเทพทิพ จำกัด, status=สถานะผลิตภัณฑ์(คงอยู่)\ สถานะสถานที่ (คงอยู่)
+* **Compliance Fact (Food Registration 8):** registration_number=10-1-11652-5-0025, product_name=ขมิ้นชันผง (ตราอิ่มเอิบ) / Turmeric Powder (Im-Erb Brand), company_name=บริษัท ชีวารมณ์ จำกัด, status=สถานะผลิตภัณฑ์(คงอยู่)\ สถานะสถานที่ (คงอยู่)
+* **Compliance Fact (Safety Dosage):** Not found.
+* **Compliance Fact (Safety Warning):** Not found.
+* **Safety Fact (Active Ingredient):** Not provided in the given context.
+* **Safety Fact (Ingredient Purpose):** Not provided in the given context.
+* **Safety Fact (Uses):** Not provided in the given context.
+* **Safety Fact (Warnings):** Not provided in the given context.
+* **Safety Fact (Directions):** Not provided in the given context.
+* **Safety Fact (Other Info):** Not provided in the given context.
+* **Safety Fact (Inactive Ingredients):** Not provided in the given context.
+* **Safety Fact (Questions):** Not provided in the given context.
+* **Toxicity Fact (Summary):** Turmeric, a spice and popular botanical product, has been associated with a low rate of transient serum enzyme elevations during therapy. However, recent reports have linked turmeric to several cases of liver injury, including acute hepatitis with jaundice.
+* **Toxicity Fact (Mechanism):** The acute hepatotoxicity caused by turmeric appears to be due to an idiosyncratic injury, perhaps immunologically mediated.
+* **Toxicity Fact (Side Effects):** Fatigue, nausea, abdominal pain, anorexia, itching, dark urine, jaundice, and liver enzyme elevations.
+* **Toxicity Fact (Case Reports):** Several case reports have been published, including a 57-year-old woman who developed acute hepatitis with jaundice after taking turmeric for 2-3 weeks, and a 35-year-old man who developed acute hepatitis with jaundice after taking curcumin for 2 months.
+* **Culture Fact (Community - The Museum of Thai Traditional Medicine Abhai Bhubejhr):** The Museum of Thai Traditional Medicine Abhai Bhubejhr is a cultural and historical landmark in Prachinburi Province, showcasing the history of traditional Thai medicine and the life of Chaophraya Abhai Bhubejhr.
+* **Culture Fact (Location - The Museum of Thai Traditional Medicine Abhai Bhubejhr):** Prachinburi Province
+* **Culture Fact (Ethnic Group - The Museum of Thai Traditional Medicine Abhai Bhubejhr):** Thai
+* **Culture Fact (Community Highlight - The Museum of Thai Traditional Medicine Abhai Bhubejhr):** The museum is housed in a beautiful Victorian-style building, which was originally constructed as a residence for Chaophraya Abhai Bhubejhr in 1908.
+* **Culture Fact (Name Etymology - The Museum of Thai Traditional Medicine Abhai Bhubejhr):** The name "Abhai Bhubejhr" is derived from the title of Chaophraya Abhai Bhubejhr, a high-ranking official in the Thai government during the reign of King Chulalongkorn (Rama V).
+* **Culture Fact (Environment - The Museum of Thai Traditional Medicine Abhai Bhubejhr):** The museum is located in a beautiful and historic building, which is surrounded by a peaceful garden.
+* **Culture Fact (Local Wisdom - The Museum of Thai Traditional Medicine Abhai Bhubejhr):** The museum showcases the local wisdom and knowledge of traditional Thai medicine, which has been passed down through generations of Thai people.
+* **Culture Fact (Organization - The Museum of Thai Traditional Medicine Abhai Bhubejhr):** The museum is managed by the Abhai Bhubejhr Hospital, which is a public hospital that provides medical services to the local community.
+* **Culture Fact (Local Name - The Museum of Thai Traditional Medicine Abhai Bhubejhr):** Chaophraya Abhai Bhubejhr was a high-ranking official in the Thai government during the reign of King Chulalongkorn (Rama V).
+* **Culture Fact (Use - The Museum of Thai Traditional Medicine Abhai Bhubejhr):** Traditional Thai medicine has been used for centuries to treat a wide range of ailments, from fever and rheumatism to skin conditions and digestive problems.
+* **Culture Fact (Processing - The Museum of Thai Traditional Medicine Abhai Bhubejhr):** Drying is a common method used to preserve traditional Thai herbs.
+* **Culture Fact (Source - The Museum of Thai Traditional Medicine Abhai Bhubejhr):** https://db.sac.or.th/museum/museum-detail/873
+* **Internal RAG Fact (Herbal):** Turmeric, also known as ขมิ้นชัน in Thai, is not explicitly mentioned in the provided context. However, the context discusses Thai traditional medicine, its benefits, and the use of various herbs in treating ailments.
+* **Internal RAG Fact (Cultural):** Turmeric, or ขมิ้นชัน in Thai, has been used for healing in Thai wisdom for a long time. The innovation of 'Nam Prik' (chili paste) is used as a dip, as it helps with digestion.
+* **Source URL (Trend):** Not provided in the given context.
+* **Source URL (Science):** https://doi.org/10.1007/s00213-025-06967-9
+* **Source URL (Compliance):** Not provided in the given context.
+* **Source URL (Safety):** Not provided in the given context.
+* **Source URL (Toxicity):** https://www.ncbi.nlm.nih.gov/books/NBK548561/
+* **Source URL (Culture):** https://db.sac.or.th/museum/museum-detail/873

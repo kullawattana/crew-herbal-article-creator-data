@@ -1,0 +1,30 @@
+# ===COMPLIANCE_DATA===
+## Thai FDA Status for: Piper sarmentosum
+* **herb_name:** Piper sarmentosum
+### Food Registrations
+* **Food Registration 1:**
+    * **registration_number:** 10-1-13660-5-0220
+    * **product_name:** ชะพลู / Wildbetal leafbush
+    * **company_name:** บริษัท โพธิ์ประดิษฐ์สมุนไพร จำกัด
+    * **status:** สถานะผลิตภัณฑ์(คงอยู่)\ สถานะสถานที่ (คงอยู่)
+* **Food Registration 2:**
+    * **registration_number:** 10-1-13660-5-0221
+    * **product_name:** ชะพลู (ผง) / Wildbetal leafbush (Powder)
+    * **company_name:** บริษัท โพธิ์ประดิษฐ์สมุนไพร จำกัด
+    * **status:** สถานะผลิตภัณฑ์(คงอยู่)\ สถานะสถานที่ (คงอยู่)
+* **Food Registration 3:**
+    * **registration_number:** 11-1-19160-5-0006
+    * **product_name:** 5 จากูล เฮิร์บ (ผลิตภัณฑ์เสริมอาหารสารสกัดจากขิง, สารสกัดจากขมิ้น, ชะพลูชนิดผง, สารสกัดจากกระเทียม, สารสกัดจากพริกไทยดำ) / 5 Jagool Herbs (Dietary Supplement Product Ginger Extract, Turmeric Extract, Wild betle leaf bush Powder, Garlic Extract, Black Pepper Extract)
+    * **company_name:** บริษัท คลินิกบ้านยาสมุนไพร จำกัด
+    * **status:** สถานะผลิตภัณฑ์(คงอยู่)\ สถานะสถานที่ (คงอยู่)
+* **Food Registration 4:**
+    * **registration_number:** 14-2-00367-6-0013
+    * **product_name:** น้ำผักรวม 100% (บัวบก,ชะพลู,ย่านาง,เตยหอม,ใบหม่อน) / 100%VEGETABLE  JUICE (PENNYWORT, CHAPLU, BAMBOO GRASS, PANDAN ,  MULBERRY LEAF )
+    * **company_name:** บริษัท เวล ดี โปรดักส์ จำกัด (มหาชน)(สำนักงานใหญ่)
+    * **status:** สถานะผลิตภัณฑ์(คงอยู่)\ สถานะสถานที่ (คงอยู่)
+### Cosmetic Registrations
+* **Cosmetic Registration 1:**
+    * **registration_number:** 61-1-5300005
+    * **product_name:** วิสาหกิจชุมชนแปรรูปสมุนไพรตรารจนา วิสาหกิจชุมชนแปรรูปสมุนไพรตรารจนา  สบู่เหลวผสมสมุนไพร ชะพลู /  วิสาหกิจชุมชนแปรรูปสมุนไพรตรารจนา  สบู่เหลวผสมสมุนไพร ชะพลู
+    * **company_name:** นายวรายุ  ลี้ประเสริฐ (วิสาหกิจชุมชนแปรรูปผลิตภัณฑ์สมุนไพรตรารจนา)
+    * **status:** ยกเลิก 10/9/2561

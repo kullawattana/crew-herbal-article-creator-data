@@ -1,0 +1,17 @@
+# ===AUDIT_DATA_INTEGRITY_REPORT===
+* **Collaboration Robustness (Data Loss):** 92%
+* **Explanation Clarity (Hallucination/Handling):** 100%
+* **Dropped Entities (Facts in Fact Sheet but not Article):**
+    - Compliance Fact (Food Registration 1): None found
+    - Compliance Fact (Safety Dosage): Not found
+    - Compliance Fact (Safety Warning): None found
+    - Safety Fact (Ingredient Purpose): Not found
+    - Safety Fact (Other Info): Not found
+    - Safety Fact (Questions): Not found
+    - Toxicity Fact (Summary): Not found
+    - Toxicity Fact (Mechanism): Not found
+    - Toxicity Fact (Side Effects): Not found
+    - Toxicity Fact (Case Reports): Not found
+* **Hallucinated Entities (Facts in Article but not Fact Sheet):**
+    - None
+* **Feedback:** The article is a good representation of the fact sheet. All facts in the article are present in the fact sheet. The handling of "Not Found" results is correct. The article omits information when it is not available in the fact sheet. Several "Not Found" compliance, safety, and toxicity facts were not included in the final article, resulting in a small data loss. However, all present facts are accurate.

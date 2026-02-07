@@ -1,0 +1,32 @@
+# ===RESEARCH_DATA===
+## Scientific Evidence for: Eurycoma longifolia
+* **herb_name:** Eurycoma longifolia
+* **herb_name_scientific:** Eurycoma longifolia or 'not_found'
+### Validated Compounds
+* **Compound 1:**
+    * **compound_name:** 'not_found'
+    * **mechanism_name:** 'not_found'
+    * **supporting_studies:**
+        * **Study 1:** (Data from the first item in studies_data)
+            * **study_type:** 'not_found'
+            * **abstract_raw:** 'not_found'
+            * **key_findings:** 'not_found'
+            * **pmid:** '41283187'
+            * **canonical_url:** 'not_found'
+            * **citation_apa:** 'not_found'
+        * **Study 2:** (Data from the second item in studies_data)
+            * **study_type:** 'not_found'
+            * **abstract_raw:** 'not_found'
+            * **key_findings:** 'not_found'
+            * **pmid:** '41244238'
+            * **canonical_url:** 'not_found'
+            * **citation_apa:** 'not_found'
+        * **Study 3:** (Data from the third item in studies_data)
+            * **study_type:** 'Case Reports'
+            * **abstract_raw:** 'We present the case of a 71-year-old gentleman who developed new-onset atrial flutter following the initiation of Tongkat Ali (Eurycoma longifolia) supplementation. He presented with a four-day history of palpitations and dizziness. Initial workup revealed normal laboratory values, including thyroid function and electrolytes. An electrocardiogram showed supraventricular tachycardia with a heart rate of 130 bpm, which, after adenosine administration, a clear atrial flutter. Secondary causes for atrial flutter were ruled out. Given the temporal association and the absence of other predisposing factors, his atrial flutter is presumed to be Tongkat Ali-induced, representing the first documented case in the literature. This case highlights the importance of considering herbal supplements as potential triggers for cardiac arrhythmias and underscores the need for increased awareness and further research into their cardiovascular safety profiles.'
+            * **key_findings:** 'not_found'
+            * **pmid:** '41080360'
+            * **canonical_url:** 'https://doi.org/10.7759/cureus.92024'
+            * **citation_apa:** 'not_found'
+### Overall Summary
+* **summary:** 'not_found'

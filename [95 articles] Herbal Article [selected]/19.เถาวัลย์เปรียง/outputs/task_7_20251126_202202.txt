@@ -1,0 +1,64 @@
+# ===RAW_THAI_DATA===
+## ข้อมูลวัฒนธรรมดิบสำหรับ: เถาวัลย์เปรียง
+### การค้นหา 1
+* **source_url:** https://db.sac.or.th/anthroarchives/search_grid.php?s_page=1945
+* **community_context:**
+    * **community_name:** บ้านโคก, บ้านนาลาว อำเภออู่ทอง จังหวัดสุพรรณบุรี
+    * **location:** อำเภออู่ทอง จังหวัดสุพรรณบุรี
+    * **ethnic_group:** ชาวบ้าน
+* **full_thai_narrative_context:** เถาวัลย์เปรียง วัชพืชเจริญเติบโตด้วยการเลี้อย ใช้เปลือกในการทำเชือก
+* **specific_entities:**
+    * **local_names:**
+        * **Item 1:**
+            * **name:** เถาวัลย์เปรียง
+            * **context_quote:** เถาวัลย์เปรียง วัชพืชเจริญเติบโตด้วยการเลี้อย ใช้เปลือกในการทำเชือก
+    * **traditional_uses:**
+        * **Item 1:**
+            * **use:** ใช้เปลือกในการทำเชือก
+            * **context_quote:** เถาวัลย์เปรียง วัชพืชเจริญเติบโตด้วยการเลี้อย ใช้เปลือกในการทำเชือก
+    * **processing_methods:**
+        * **Item 1:**
+            * **method:** ใช้เปลือกในการทำเชือก
+            * **description_quote:** เถาวัลย์เปรียง วัชพืชเจริญเติบโตด้วยการเลี้อย ใช้เปลือกในการทำเชือก
+
+### การค้นหา 2
+* **source_url:** https://db.sac.or.th/anthroarchives/personal-archive-list-detail.php?s_page=147&c_id=96
+* **community_context:**
+    * **community_name:** บ้านโคก, บ้านนาลาว อำเภออู่ทอง จังหวัดสุพรรณบุรี
+    * **location:** อำเภออู่ทอง จังหวัดสุพรรณบุรี
+    * **ethnic_group:** ชาวบ้าน
+* **full_thai_narrative_context:** นิสิต จุฬาลงกรณ์มหาวิทยาลัย เรียนหัตถกรรมจากชาวบ้าน บ้านโคก
+* **specific_entities:**
+    * **local_names:**
+        * **Item 1:**
+            * **name:** เถาวัลย์เปรียง
+            * **context_quote:** เถาวัลย์เปรียง วัชพืชเจริญเติบโตด้วยการเลี้อย ใช้เปลือกในการทำเชือก
+    * **traditional_uses:**
+        * **Item 1:**
+            * **use:** ใช้เปลือกในการทำเชือก
+            * **context_quote:** เถาวัลย์เปรียง วัชพืชเจริญเติบโตด้วยการเลี้อย ใช้เปลือกในการทำเชือก
+    * **processing_methods:**
+        * **Item 1:**
+            * **method:** ใช้เปลือกในการทำเชือก
+            * **description_quote:** เถาวัลย์เปรียง วัชพืชเจริญเติบโตด้วยการเลี้อย ใช้เปลือกในการทำเชือก
+
+### การค้นหา 3
+* **source_url:** https://manuscripts.sac.or.th/article-download.php?id=80
+* **community_context:**
+    * **community_name:** บ้านโคก, บ้านนาลาว อำเภออู่ทอง จังหวัดสุพรรณบุรี
+    * **location:** อำเภออู่ทอง จังหวัดสุพรรณบุรี
+    * **ethnic_group:** ชาวบ้าน
+* **full_thai_narrative_context:** เถาวัลย์เปรียง วัชพืชเจริญเติบโตด้วยการเลี้อย ใช้เปลือกในการทำเชือก
+* **specific_entities:**
+    * **local_names:**
+        * **Item 1:**
+            * **name:** เถาวัลย์เปรียง
+            * **context_quote:** เถาวัลย์เปรียง วัชพืชเจริญเติบโตด้วยการเลี้อย ใช้เปลือกในการทำเชือก
+    * **traditional_uses:**
+        * **Item 1:**
+            * **use:** ใช้เปลือกในการทำเชือก
+            * **context_quote:** เถาวัลย์เปรียง วัชพืชเจริญเติบโตด้วยการเลี้อย ใช้เปลือกในการทำเชือก
+    * **processing_methods:**
+        * **Item 1:**
+            * **method:** ใช้เปลือกในการทำเชือก
+            * **description_quote:** เถาวัลย์เปรียง วัชพืชเจริญเติบโตด้วยการเลี้อย ใช้เปลือกในการทำเชือก

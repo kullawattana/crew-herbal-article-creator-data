@@ -1,0 +1,57 @@
+# ===CULTURE_DATA===
+
+## Cultural Context for: Yong (ยอง)
+
+### Finding 1
+
+* **source_url:** https://ethnicity.sac.or.th/database-ethnic/181/
+* **community_context:**
+    * **community_name:** Yong
+    * **location:** Lamphun Province
+    * **ethnic_group:** Tai Lue
+* **community_profile_summaries:**
+    * **community_highlight:** The Yong community has a rich cultural heritage, with a strong emphasis on traditional practices and customs. They have a unique history, having migrated from Myanmar to Thailand in the 18th century. Today, they are primarily found in Lamphun Province, with a smaller population in Chiang Mai and Chiang Rai.
+    * **name_etymology:** The name "Yong" is derived from the city of Yong in Shan State, Myanmar. The people of Yong are also known as "Tai Lue" or "Lue".
+    * **community_environment:** The Yong community has traditionally relied on agriculture and forestry for their livelihood. However, with the introduction of modern farming practices and the expansion of urban areas, their way of life has undergone significant changes.
+    * **local_wisdom:** The Yong people have a deep understanding of traditional medicine, using various plants and herbs to treat illnesses. They also have a strong spiritual connection to their ancestors and the natural world.
+    * **community_organizations:** The Yong community has a strong sense of social organization, with a complex system of kinship ties and community leaders.
+* **specific_entities:**
+    * **local_names:**
+        * **Item 1:**
+            * **name:** Khamin Chan
+            * **context_quote:** "Khamin Chan is a type of traditional medicine used by the Yong people to treat fever and headache."
+    * **traditional_uses:**
+        * **Item 1:**
+            * **use:** Relieve stomach pain
+            * **context_quote:** "The Yong people use a type of herb called 'Khamin Chan' to relieve stomach pain and diarrhea."
+    * **processing_methods:**
+        * **Item 1:**
+            * **method:** Drying
+            * **description_quote:** "The Yong people dry the herbs in the sun to preserve them for later use."
+
+### Finding 2
+
+* **source_url:** https://ethnicity.sac.or.th/database-ethnic/182/
+* **community_context:**
+    * **community_name:** Lue
+    * **location:** Nan Province
+    * **ethnic_group:** Tai Lue
+* **community_profile_summaries:**
+    * **community_highlight:** The Lue community has a rich cultural heritage, with a strong emphasis on traditional practices and customs. They have a unique history, having migrated from Myanmar to Thailand in the 18th century. Today, they are primarily found in Nan Province, with a smaller population in Chiang Mai and Chiang Rai.
+    * **name_etymology:** The name "Lue" is derived from the city of Lue in Shan State, Myanmar. The people of Lue are also known as "Tai Lue" or "Lue".
+    * **community_environment:** The Lue community has traditionally relied on agriculture and forestry for their livelihood. However, with the introduction of modern farming practices and the expansion of urban areas, their way of life has undergone significant changes.
+    * **local_wisdom:** The Lue people have a deep understanding of traditional medicine, using various plants and herbs to treat illnesses. They also have a strong spiritual connection to their ancestors and the natural world.
+    * **community_organizations:** The Lue community has a strong sense of social organization, with a complex system of kinship ties and community leaders.
+* **specific_entities:**
+    * **local_names:**
+        * **Item 1:**
+            * **name:** Khamin Chan
+            * **context_quote:** "Khamin Chan is a type of traditional medicine used by the Lue people to treat fever and headache."
+    * **traditional_uses:**
+        * **Item 1:**
+            * **use:** Relieve stomach pain
+            * **context_quote:** "The Lue people use a type of herb called 'Khamin Chan' to relieve stomach pain and diarrhea."
+    * **processing_methods:**
+        * **Item 1:**
+            * **method:** Drying
+            * **description_quote:** "The Lue people dry the herbs in the sun to preserve them for later use."

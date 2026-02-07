@@ -1,0 +1,55 @@
+# ===CULTURE_DATA===
+
+## Cultural Context for: Dok Kaeo (แก้วมณี)
+
+### Finding 1
+* **source_url:** https://thailitdir.sac.or.th/character-detail.php?n_id=230
+* **community_context:**
+    * **community_name:** Kaeo Manee 2
+    * **location:** -
+    * **ethnic_group:** -
+* **community_profile_summaries:**
+    * **community_highlight:** No herbal-related information found.
+    * **name_etymology:** Dok Kaeo, also known as Manee Ratana, is a term from the Trai Phum Khatha story. It refers to a type of gemstone with a length of 4 cubits and a size comparable to a cartwheel. The gemstone has two golden lotus flowers on either side of its head. Dok Kaeo is accompanied by 84,000 different types of gemstones as its retinue.
+    * **community_environment:** No herbal-related information found.
+    * **local_wisdom:** No herbal-related information found.
+    * **community_organizations:** No herbal-related information found.
+* **specific_entities:**
+    * **local_names:**
+        * **Item 1:**
+            * **name:** -
+            * **context_quote:** -
+    * **traditional_uses:**
+        * **Item 1:**
+            * **use:** -
+            * **context_quote:** -
+    * **processing_methods:**
+        * **Item 1:**
+            * **method:** -
+            * **description_quote:** -
+
+### Finding 2
+* **source_url:** 
+* **community_context:**
+    * **community_name:** 
+    * **location:** 
+    * **ethnic_group:** 
+* **community_profile_summaries:**
+    * **community_highlight:** 
+    * **name_etymology:** 
+    * **community_environment:** 
+    * **local_wisdom:** 
+    * **community_organizations:** 
+* **specific_entities:**
+    * **local_names:**
+        * **Item 1:**
+            * **name:** 
+            * **context_quote:** 
+    * **traditional_uses:**
+        * **Item 1:**
+            * **use:** 
+            * **context_quote:** 
+    * **processing_methods:**
+        * **Item 1:**
+            * **method:** 
+            * **description_quote:**

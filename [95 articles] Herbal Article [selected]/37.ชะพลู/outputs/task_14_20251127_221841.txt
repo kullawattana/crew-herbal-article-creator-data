@@ -1,0 +1,32 @@
+```markdown
+# ===AUDIT_DATA_INTEGRITY_REPORT===
+* **Collaboration Robustness (Data Loss):** 90%
+* **Explanation Clarity (Hallucination/Handling):** 100%
+* **Dropped Entities (Facts in Fact Sheet but not Article):**
+- Compliance Fact (Food Registration 1): registration_number=10-1-13660-5-0220, product_name=ชะพลู / Wildbetal leafbush, company_name=บริษัท โพธิ์ประดิษฐ์สมุนไพร จำกัด, status=สถานะผลิตภัณฑ์(คงอยู่)\ สถานะสถานที่ (คงอยู่)
+- Compliance Fact (Food Registration 2): registration_number=10-1-13660-5-0221, product_name=ชะพลู (ผง) / Wildbetal leafbush (Powder), company_name=บริษัท โพธิ์ประดิษฐ์สมุนไพร จำกัด, status=สถานะผลิตภัณฑ์(คงอยู่)\ สถานะสถานที่ (คงอยู่)
+- Compliance Fact (Food Registration 3): registration_number=11-1-19160-5-0006, product_name=5 จากูล เฮิร์บ (ผลิตภัณฑ์เสริมอาหารสารสกัดจากขิง, สารสกัดจากขมิ้น, ชะพลูชนิดผง, สารสกัดจากกระเทียม, สารสกัดจากพริกไทยดำ) / 5 Jagool Herbs (Dietary Supplement Product Ginger Extract, Turmeric Extract, Wild betle leaf bush Powder, Garlic Extract, Black Pepper Extract), company_name=บริษัท คลินิกบ้านยาสมุนไพร จำกัด, status=สถานะผลิตภัณฑ์(คงอยู่)\ สถานะสถานที่ (คงอยู่)
+- Compliance Fact (Food Registration 4): registration_number=14-2-00367-6-0013, product_name=น้ำผักรวม 100% (บัวบก,ชะพลู,ย่านาง,เตยหอม,ใบหม่อน) / 100%VEGETABLE  JUICE (PENNYWORT, CHAPLU, BAMBOO GRASS, PANDAN ,  MULBERRY LEAF ), company_name=บริษัท เวล ดี โปรดักส์ จำกัด (มหาชน)(สำนักงานใหญ่), status=สถานะผลิตภัณฑ์(คงอยู่)\ สถานะสถานที่ (คงอยู่)
+- Compliance Fact (Cosmetic Registration 1): registration_number=61-1-5300005, product_name=วิสาหกิจชุมชนแปรรูปสมุนไพรตรารจนา วิสาหกิจชุมชนแปรรูปสมุนไพรตรารจนา  สบู่เหลวผสมสมุนไพร ชะพลู /  วิสาหกิจชุมชนแปรรูปสมุนไพรตรารจนา  สบู่เหลวผสมสมุนไพร ชะพลู, company_name=นายวรายุ  ลี้ประเสริฐ (วิสาหกิจชุมชนแปรรูปผลิตภัณฑ์สมุนไพรตรารจนา), status=ยกเลิก 10/9/2561
+- Culture Fact (Community - Ongkarn Mahamagrood Paadkig): community_name=Ongkarn Mahamagrood Paadkig (โองการมหามะกรูดแปดกิ่ง), location=-, ethnic_group=-, community_highlight=No herbal-related information found, name_etymology=No herbal-related information found, community_environment=No herbal-related information found, local_wisdom=No herbal-related information found, community_organizations=No herbal-related information found, local_name=-, use=-, processing_method=-, source_url=https://manuscripts.sac.or.th/article-download.php?id=42
+- Culture Fact (Community - Samnuan Phasa Chak Ya Mawng Yai EP.02 Ton Long Daeng): community_name=Samnuan Phasa Chak Ya Mawng Yai EP.02 Ton Long Daeng (สำนวนภาษาจากยาหม้อใหญ่ EP.02 ตอน ลงแดง), location=-, ethnic_group=-, community_highlight=No herbal-related information found, name_etymology=No herbal-related information found, community_environment=No herbal-related information found, local_wisdom=The text mentions the use of Chaphlu (ชะพลู) as a medicinal herb to treat various ailments, including indigestion and bloating, community_organizations=No herbal-related information found, local_name=Chaphlu (ชะพลู), use=Treating indigestion and bloating, processing_method=Drying, source_url=https://www.sac.or.th/portal/th/article/detail/402
+- Culture Fact (Community - Thai - Food): community_name=Thai - Food, location=-, ethnic_group=-, community_highlight=No herbal-related information found, name_etymology=No herbal-related information found, community_environment=The text mentions the use of various plants, including Chaphlu (ชะพลู), as ingredients in traditional Thai cooking, local_wisdom=No herbal-related information found, community_organizations=No herbal-related information found, local_name=Chaphlu (ชะพลู), use=Cooking ingredient, processing_method=-, source_url=https://southeastasia.sac.or.th/subject.php?c_id=9&sj_id=76
+- Safety Fact (Active Ingredient): Not found
+- Safety Fact (Ingredient Purpose): Not found
+- Safety Fact (Uses): Not found
+- Safety Fact (Warnings): Not found
+- Safety Fact (Directions): Not found
+- Safety Fact (Other Info): Not found
+- Safety Fact (Inactive Ingredients): Not found
+- Safety Fact (Questions): Not found
+- Toxicity Fact (Mechanism): Not found
+- Toxicity Fact (Side Effects): Not found
+- Toxicity Fact (Case Reports): Not found
+- Source URL (Safety): Not found
+
+* **Hallucinated Entities (Facts in Article but not Fact Sheet):**
+- None
+
+* **Feedback:**
+The Collaboration Robustness score is 90% because some compliance and culture facts from the Master Fact Sheet were not included in the Final Article. All "Not Found" safety and toxicity facts were correctly handled by stating a lack of comprehensive safety data and noting that specific safety warnings were not found. No hallucinated entities were detected, resulting in a 100% Explanation Clarity score.
+```

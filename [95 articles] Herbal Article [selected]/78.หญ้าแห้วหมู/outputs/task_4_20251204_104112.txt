@@ -1,0 +1,1 @@
+Thought: I have browsed the Thai FDA website using the Thai name หญ้าแห้วหมู. Now, I need to extract the relevant registration numbers from the page content.

@@ -1,0 +1,16 @@
+# ===TRENDS_DATA===
+
+### Finding 1
+* **herb_name:** Curcuma Comosa
+* **wellness_context_summary:** Curcuma Comosa is a powerful herb known for its ability to repair vaginal wall prolapse and tighten vaginal muscles. It has an estrogenic effect which helps to lift sagging muscles and promote circulation, resulting in smoother skin and a glowing complexion. This herb is used in some products to prevent yeast infection and promote overall vaginal health.
+* **source_url:** https://www.socialmoms.com/featured/best-soap-for-yeast-infection-on-skin/
+
+### Finding 2
+* **herb_name:** Curcuma Comosa
+* **wellness_context_summary:** Curcuma Comosa is a plant in the genus Curcuma that has medicinal properties. Its properties are consistent with the Thai traditional and medicinal uses of Zingiber officinale Roscoe. The rhizome of Curcuma comosa contains phytoestrogen, which has a structure similar to sex hormones.
+* **source_url:** https://www.facebook.com/61564488571799/
+
+### Finding 3
+* **herb_name:** Curcuma Comosa
+* **wellness_context_summary:** Curcuma Comosa is a herb that is traditionally used to treat different illnesses. It is one of the three medicinal plants, along with Garcinia mangostana and Acanthus ebracteatus, that are traditionally used to treat different illnesses.
+* **source_url:** https://www.msn.com/en-xl/health/diseases-and-conditions/experts-validate-medicinal-leaves-that-cure-pimples/ar-AA1LmXYa

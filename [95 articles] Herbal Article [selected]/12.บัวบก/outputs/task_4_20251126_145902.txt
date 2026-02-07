@@ -1,0 +1,29 @@
+# ===COMPLIANCE_DATA===
+## Thai FDA Status for: Centella asiatica
+* **herb_name:** Centella asiatica
+### Food Registrations
+* **Food Registration 1:**
+    * **registration_number:** 10-1-00357-5-0045
+    * **product_name:** ข้าวกล้องเพาะงอกเคลือบดอกอัญชัน ,บัวบก, ขมิ้น ,เมี่ยง (ตราดิ อินดี้ 888) / Germinated brown  Rice coated with Butterfly pea, Asiatic , turmeric , Miang ( The INDY 888 Brand)
+    * **company_name:** บริษัท บางกอกตลาดข้าวไทย จำกัด
+    * **status:** สถานะผลิตภัณฑ์(คงอยู่)\ สถานะสถานที่ (คงอยู่)
+* **Food Registration 2:**
+    * **registration_number:** 10-1-00450-1-0048
+    * **product_name:** เซ็นเทลล่า-บัวบก แคปซูล (ผลิตภัณฑ์เสริมอาหาร) / CENTELLA - BAOBOK CAPSULE (DIETARY SUPPLEMENT PRODUCT)
+    * **company_name:** บริษัท คัลเลอร์-พลาส จำกัด
+    * **status:** สถานะผลิตภัณฑ์(คงอยู่)\ สถานะสถานที่ (คงอยู่)
+* **Food Registration 3:**
+    * **registration_number:** 10-1-13660-5-0094
+    * **product_name:** บัวบก / Asiatic Pennywort
+    * **company_name:** บริษัท โพธิ์ประดิษฐ์สมุนไพร จำกัด
+    * **status:** สถานะผลิตภัณฑ์(คงอยู่)\ สถานะสถานที่ (คงอยู่)
+* **Food Registration 4:**
+    * **registration_number:** 10-1-13660-5-0095
+    * **product_name:** บัวบก (ผง) / Asiatic Pennywort (Powder)
+    * **company_name:** บริษัท โพธิ์ประดิษฐ์สมุนไพร จำกัด
+    * **status:** สถานะผลิตภัณฑ์(คงอยู่)\ สถานะสถานที่ (คงอยู่)
+* **Food Registration 5:**
+    * **registration_number:** 10-1-22862-5-0006
+    * **product_name:** เครื่องดื่มชาสมุนไพร บัวบก มะตูม  และ ชะเอมเทศ (ตรา เรือนไม้ใบชา) / PENNYWORT BAEL FRUIT AND LICORICE HERBAL TEA DRIINK (RUENMAIBAICHA BRAND)
+    * **company_name:** เรือนไม้ใบชา (RUENMAIBAICHA)
+    * **status:** สถานะผลิตภัณฑ์(คงอยู่)\ สถานะสถานที่ (คงอยู่)

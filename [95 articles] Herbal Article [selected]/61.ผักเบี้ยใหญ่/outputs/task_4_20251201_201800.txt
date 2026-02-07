@@ -1,0 +1,26 @@
+# ===COMPLIANCE_DATA===
+## Thai FDA Status for: Portulaca oleracea
+* **herb_name:** Portulaca oleracea
+### Food Registrations 
+* None found.
+### Cosmetics Registrations
+* **Cosmetic Registration 1:**
+    * **registration_number:** 10-1-6200004631
+    * **product_name:** อภัยภูเบศร ผักเบี้ยใหญ่ ฟิสิคอล ซีซี ครีม เอสพีเอฟ 50 พีเอ+++ เบอร์ 30 / ABHAIBHUBEJHR PHAK BIA YAI PHYSICAL CC CREAM SPF50 PA+++ NO.30
+    * **company_name:** บริษัท คอมเพล็กชั่น ซายน์ จำกัด
+    * **status:** คงอยู่
+* **Cosmetic Registration 2:**
+    * **registration_number:** 10-1-6200005994
+    * **product_name:** อภัยภูเบศร ผักเบี้ยใหญ่ เซนซิทีฟ คลีนซิ่ง วอเตอร์ / ABHAIBHUBEJHR PHAK BIA YAI SENSITIVE CLEANSING WATER
+    * **company_name:** บริษัท คอมเพล็กชั่น ซายน์ จำกัด
+    * **status:** คงอยู่
+* **Cosmetic Registration 3:**
+    * **registration_number:** 10-1-6200033680
+    * **product_name:** อภัยภูเบศร ผักเบี้ยใหญ่ เซนซิทีฟ บอดี้ โลชั่น / ABHAIBHUBEJHR PHAK BIA YAI SENSITIVE BODY LOTION
+    * **company_name:** บริษัท คอมเพล็กชั่น ซายน์ จำกัด
+    * **status:** คงอยู่
+* **Cosmetic Registration 4:**
+    * **registration_number:** 10-1-6400026282
+    * **product_name:** อภัยภูเบศร ผักเบี้ยใหญ่ เดอร์ม่า ฟิลเลอร์ / ABHAIBHUBEJHR PHAK BIA YAI DERMA FILLER
+    * **company_name:** บริษัท คอมเพล็กชั่น ซายน์ จำกัด
+    * **status:** คงอยู่

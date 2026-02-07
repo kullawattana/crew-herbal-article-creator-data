@@ -1,0 +1,34 @@
+# ===CULTURE_DATA===
+
+## Cultural Context for: Dala (ดาหลา)
+
+### Finding 1
+
+* **source_url:** https://wikicommunity.sac.or.th/community/2543
+* **community_context:**
+    * **community_name:** Khok Yueng (โคกยูง)
+    * **location:** Trang Province (จังหวัดตรัง)
+    * **ethnic_group:** Thai (ไทย)
+* **community_profile_summaries:**
+    * **community_highlight:** Khok Yueng community is notable for its conservation of natural resources and self-sufficiency through local wisdom, particularly in utilizing indigenous plants. These plants are not only used for household consumption but also play a significant role in the community's health and economy.
+    * **name_etymology:** No herbal-related information found.
+    * **community_environment:** The community has a rich biodiversity with 57 species of indigenous plants from 35 families, with Fabaceae (legume family) being the most common, followed by Zingiberaceae (ginger family) and Cucurbitaceae (gourd family). These plants are used in various ways in daily life.
+    * **local_wisdom:** The community utilizes indigenous plants in different forms, such as using young leaves in cooking or eating them raw as a snack. The plants also have a variety of flavors, from bland to bitter to spicy, which complements the flavors in local dishes.
+    * **community_organizations:** No herbal-related information found.
+* **specific_entities:**
+    * **local_names:**
+        * **Item 1:**
+            * **name:** Dala (ดาหลา)
+            * **context_quote:** Indigenous plants that grow naturally in the area, totaling 57 species from 35 families, including Fabaceae, Zingiberaceae, and Cucurbitaceae, which are used in various ways in daily life.
+    * **traditional_uses:**
+        * **Item 1:**
+            * **use:** Utilizing indigenous plants
+            * **context_quote:** These indigenous plants are used in various forms, such as using young leaves in cooking or eating them raw as a snack, and have a variety of flavors that complement local dishes.
+    * **processing_methods:**
+        * **Item 1:**
+            * **method:** Planting indigenous plants
+            * **description_quote:** Community members plant vegetables around their homes, using family labor, reducing costs, and promoting food security for their families. In some seasons, some plants with high yields are sold, generating additional income without high investment, making it a suitable economic approach for the area.
+
+### Finding 2
+
+*No additional findings*

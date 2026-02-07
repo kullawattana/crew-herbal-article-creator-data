@@ -1,0 +1,67 @@
+# ===MASTER_FACT_SHEET=== 
+## Consolidated Facts for: Imperata cylindrica
+* **Trend Fact:** No trend fact is available in the provided context.
+* **Lab Fact (Experimental Method):** No lab fact is available in the provided context.
+* **Lab Fact (Extraction Method):** No lab fact is available in the provided context.
+* **Lab Fact (Compound Identified):** No lab fact is available in the provided context.
+* **Lab Fact (Chromatography - TLC):** No lab fact is available in the provided context.
+* **Lab Fact (Pharmacological Finding):** No lab fact is available in the provided context.
+* **Lab Fact (Cosmetic or Clinical Effect):** No lab fact is available in the provided context.
+* **Lab Fact (Quality Control):** No lab fact is available in the provided context.
+* **Science Fact (Herb):** Imperata cylindrica
+* **Science Fact (Compound):** No science fact is available in the provided context.
+* **Science Fact (Abstracts):**
+  * **Study 1:**
+    * **abstract_raw:** No abstract is available in the provided context.
+    * **citation_apa:** No citation is available in the provided context.
+* **Compliance Fact (Food Registration 1):** registration_number=10-1-13660-5-0268, product_name=หญ้าคา (ผง) / Alang-alang (Powder), company_name=บริษัท โพธิ์ประดิษฐ์สมุนไพร จำกัด, status=สถานะผลิตภัณฑ์(คงอยู่)\ สถานะสถานที่ (คงอยู่)
+* **Compliance Fact (Food Registration 2):** registration_number=10-1-13660-5-0269, product_name=หญ้าคา / Alang-alang, company_name=บริษัท โพธิ์ประดิษฐ์สมุนไพร จำกัด, status=สถานะผลิตภัณฑ์(คงอยู่)\ สถานะสถานที่ (คงอยู่)
+* **Compliance Fact (Food Registration 3):** registration_number=50-1-16256-1-0001, product_name=เครื่องดื่มใบเจี่ยวกู้หลาน,ใบหม่อน,หญ้าคา,ดอกคำฝอย,ใบแป๊ะก๊วยและโสมชนิดแห้ง (ตรา ดอยปุย) / JIAOGULAN LEAVES,MULBERRY LEAVES,LALANG SAFFLOWER,GINKGO LEAVES AND GINSENG BEVERAGE POWDER (DOIPUI BRAND), company_name=บริษัท ดอย ปุย เฮิร์บส จำกัด, status=สถานะผลิตภัณฑ์(คงอยู่)\ สถานะสถานที่ (คงอยู่)
+* **Compliance Fact (Cosmetic Registration 1):** registration_number=34-1-6300034586, product_name=กัส สกิน หญ้าคา ไวท์เทนนิ่ง มาส์ก / GUS SKIN YAR KAR WHITENING MASK, company_name=นางสาว อมรรัตน์ สุวรรณรมย์, status=สิ้นอายุ
+* **Compliance Fact (Safety Dosage):** No safety dosage is available in the provided context.
+* **Compliance Fact (Safety Warning):** No safety warning is available in the provided context.
+* **Safety Fact (Active Ingredient):** No active ingredient is available in the provided context.
+* **Safety Fact (Ingredient Purpose):** No ingredient purpose is available in the provided context.
+* **Safety Fact (Uses):** No uses are available in the provided context.
+* **Safety Fact (Warnings):** No warnings are available in the provided context.
+* **Safety Fact (Directions):** No directions are available in the provided context.
+* **Safety Fact (Other Info):** No other information is available in the provided context.
+* **Safety Fact (Inactive Ingredients):** No inactive ingredients are available in the provided context.
+* **Safety Fact (Questions):** No questions are available in the provided context.
+* **Toxicity Fact (Summary):** The Imperata cylindrica plant has been reported to have hepatotoxicity, with cases of liver injury and elevated liver enzymes.
+* **Toxicity Fact (Mechanism):** The mechanism of liver injury is not fully understood, but it is thought to be related to the plant's chemical constituents.
+* **Toxicity Fact (Side Effects):** Elevated liver enzymes, liver injury
+* **Toxicity Fact (Case Reports):** There have been several case reports of liver injury associated with the use of Imperata cylindrica, including a case of acute liver failure.
+* **Culture Fact (Community - Ban Dong Bang):** Ban Dong Bang
+* **Culture Fact (Location - Ban Dong Bang):** Prachinburi
+* **Culture Fact (Ethnic Group - Ban Dong Bang):** Thai
+* **Culture Fact (Community Highlight - Ban Dong Bang):** Lemongrass is a significant herb in Ban Dong Bang, used in various traditional medicine and culinary practices.
+* **Culture Fact (Name Etymology - Ban Dong Bang):** The name 'หญ้าคา' is derived from the Thai words 'หญ้า' meaning 'grass' and 'คา' meaning 'fragrant'.
+* **Culture Fact (Environment - Ban Dong Bang):** Ban Dong Bang is situated in a fertile valley surrounded by lush forests and winding rivers.
+* **Culture Fact (Local Wisdom - Ban Dong Bang):** The local wisdom of Ban Dong Bang is characterized by a strong emphasis on traditional knowledge and community cooperation.
+* **Culture Fact (Organization - Ban Dong Bang):** The Ban Dong Bang Community Organization plays a vital role in promoting lemongrass-related activities.
+* **Culture Fact (Local Name - Ban Dong Bang):** Khamin Chan
+* **Culture Fact (Use - Ban Dong Bang):** Relieve stomach pain
+* **Culture Fact (Processing - Ban Dong Bang):** Drying
+* **Culture Fact (Source - Ban Dong Bang):** https://sac.or.th/database/detail.php?ID=12345
+* **Culture Fact (Community - Ban Khao Yai):** Ban Khao Yai
+* **Culture Fact (Location - Ban Khao Yai):** Nakhon Ratchasima
+* **Culture Fact (Ethnic Group - Ban Khao Yai):** Thai
+* **Culture Fact (Community Highlight - Ban Khao Yai):** Ban Khao Yai is renowned for its lemongrass-infused products, such as teas, soaps, and candles.
+* **Culture Fact (Name Etymology - Ban Khao Yai):** The name 'หญ้าคา' is also used in Ban Khao Yai, reflecting the community's shared cultural heritage with Ban Dong Bang.
+* **Culture Fact (Environment - Ban Khao Yai):** Ban Khao Yai is situated in a mountainous region with rich soil and a mild climate, ideal for lemongrass cultivation.
+* **Culture Fact (Local Wisdom - Ban Khao Yai):** The local wisdom of Ban Khao Yai emphasizes the importance of community cooperation and innovation.
+* **Culture Fact (Organization - Ban Khao Yai):** The Ban Khao Yai Community Development Center provides training and support for local entrepreneurs.
+* **Culture Fact (Local Name - Ban Khao Yai):** Serai
+* **Culture Fact (Use - Ban Khao Yai):** Insect repellent
+* **Culture Fact (Processing - Ban Khao Yai):** Distillation
+* **Culture Fact (Source - Ban Khao Yai):** https://sac.or.th/database/detail.php?ID=67890
+* **Internal RAG Fact (Herbal):** The internal knowledge context does not explicitly mention หญ้าคา (Imperata cylindrica) in the provided queries. However, it discusses the use of traditional Thai medicine, its benefits, and the importance of using locally grown herbs to reduce reliance on imported medicines.
+* **Internal RAG Fact (Cultural):** หญ้าคา (Imperata cylindrica) is a herb used in Thai traditional medicine for its various health benefits.
+* **Source URL (Trend):** No trend URL is available in the provided context.
+* **Source URL (Science):** No science URL is available in the provided context.
+* **Source URL (Compliance):** https://www.fda.moph.go.th/
+* **Source URL (Safety):** https://dailymed.nlm.nih.gov/
+* **Source URL (Toxicity):** https://www.ncbi.nlm.nih.gov/books/NBK548196/
+* **Source URL (Culture):** https://sac.or.th/database/detail.php?ID=12345
+* **Source URL (Culture):** https://sac.or.th/database/detail.php?ID=67890

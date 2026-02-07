@@ -1,0 +1,51 @@
+# ===MASTER_FACT_SHEET=== 
+## Consolidated Facts for: Hibiscus rosa-sinensis
+* **Trend Fact:** No trend fact available
+* **Lab Fact (Experimental Method):** No lab fact available
+* **Lab Fact (Extraction Method):** No lab fact available
+* **Lab Fact (Compound Identified):** No lab fact available
+* **Lab Fact (Chromatography - TLC):** No lab fact available
+* **Lab Fact (Pharmacological Finding):** No lab fact available
+* **Lab Fact (Cosmetic or Clinical Effect):** No lab fact available
+* **Lab Fact (Quality Control):** No lab fact available
+* **Science Fact (Herb):** Hibiscus rosa-sinensis
+* **Science Fact (Compound):** No compound fact available
+* **Science Fact (Abstracts):**
+  * **Study 1:**
+    * **abstract_raw:** The available evidence from RCTs does not support the efficacy of Hibiscus sabdariffa L. in lowering serum lipids. Further rigorously designed trials with larger sample sizes are warranted to confirm the effects of HS on serum lipids.
+    * **citation_apa:** Not found
+* **Compliance Fact (Food Registration 1):** None found
+* **Compliance Fact (Safety Dosage):** Not found
+* **Compliance Fact (Safety Warning):** None found
+* **Safety Fact (Active Ingredient):** No safety fact available
+* **Safety Fact (Ingredient Purpose):** No safety fact available
+* **Safety Fact (Uses):** No safety fact available
+* **Safety Fact (Warnings):** No safety fact available
+* **Safety Fact (Directions):** No safety fact available
+* **Safety Fact (Other Info):** No safety fact available
+* **Safety Fact (Inactive Ingredients):** No safety fact available
+* **Safety Fact (Questions):** No safety fact available
+* **Toxicity Fact (Summary):** The available evidence from RCTs does not support the efficacy of Hibiscus sabdariffa L. in lowering serum lipids. Further rigorously designed trials with larger sample sizes are warranted to confirm the effects of HS on serum lipids.
+* **Toxicity Fact (Mechanism):** Not found
+* **Toxicity Fact (Side Effects):** With short-term use it is well tolerated.
+* **Toxicity Fact (Case Reports):** Not found
+* **Culture Fact (Community - Southern Community):** Southern Community
+* **Culture Fact (Location - Southern Community):** Southern Thailand
+* **Culture Fact (Ethnic Group - Southern Community):** Unspecified
+* **Culture Fact (Community Highlight - Southern Community):** No herbal-related information found.
+* **Culture Fact (Name Etymology - Southern Community):** No herbal-related information found.
+* **Culture Fact (Environment - Southern Community):** No herbal-related information found.
+* **Culture Fact (Local Wisdom - Southern Community):** No herbal-related information found.
+* **Culture Fact (Organization - Southern Community):** No herbal-related information found.
+* **Culture Fact (Local Name - Southern Community):** Chaba
+* **Culture Fact (Use - Southern Community):** Unspecified
+* **Culture Fact (Processing - Southern Community):** Unspecified
+* **Culture Fact (Source - Southern Community):** https://db.sac.or.th/thailand-cultural-encyclopedia/region.php?region=6&page=170, https://db.sac.or.th/thailand-cultural-encyclopedia/list.php?char=%E0%B8%8A&page=3, https://www.sac.or.th/portal/th/article/detail/485
+* **Internal RAG Fact (Herbal):** ชบา, also known as Hibiscus rosa-sinensis, is not explicitly mentioned in the provided context. However, the context discusses Thai traditional medicine, its benefits, and the use of various herbs in treating ailments.
+* **Internal RAG Fact (Cultural):** ชบา (Hibiscus rosa-sinensis) has been used in Thai traditional medicine for a long time. It is believed to have various health benefits, including aiding digestion and relieving symptoms of certain illnesses.
+* **Source URL (Trend):** No trend URL available
+* **Source URL (Science):** https://www.ncbi.nlm.nih.gov/books/NBK169074/
+* **Source URL (Compliance):** No compliance URL available
+* **Source URL (Safety):** No safety URL available
+* **Source URL (Toxicity):** https://www.ncbi.nlm.nih.gov/books/NBK169074/
+* **Source URL (Culture):** https://db.sac.or.th/thailand-cultural-encyclopedia/region.php?region=6&page=170, https://db.sac.or.th/thailand-cultural-encyclopedia/list.php?char=%E0%B8%8A&page=3, https://www.sac.or.th/portal/th/article/detail/485

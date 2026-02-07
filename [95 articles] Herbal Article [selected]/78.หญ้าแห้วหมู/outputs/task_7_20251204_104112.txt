@@ -1,0 +1,64 @@
+# ===RAW_THAI_DATA===
+## ข้อมูลวัฒนธรรมดิบสำหรับ: หญ้าแห้วหมู
+### การค้นหา 1
+* **source_url:** https://manuscripts.sac.or.th/manuscript-filter.php?page=10&text=4
+* **community_context:**
+    * **community_name:** ชุมชนบ้านบ่อล้อ
+    * **location:** จังหวัดนครศรีธรรมราช
+    * **ethnic_group:** ชาวไทย
+* **full_thai_narrative_context:** ชาวบ้านบ่อล้อเชื่อว่า หญ้าแห้วหมู เป็นพืชที่มีคุณค่าทางธรรมชาติ และมีประโยชน์ในการใช้เป็นยา
+* **specific_entities:**
+    * **local_names:**
+        * **Item 1:**
+            * **name:** หญ้าแห้วหมู
+            * **context_quote:** หญ้าแห้วหมู เป็นพืชที่มีคุณค่าทางธรรมชาติ และมีประโยชน์ในการใช้เป็นยา
+    * **traditional_uses:**
+        * **Item 1:**
+            * **use:** ใช้เป็นยา
+            * **context_quote:** หญ้าแห้วหมู เป็นพืชที่มีคุณค่าทางธรรมชาติ และมีประโยชน์ในการใช้เป็นยา
+    * **processing_methods:**
+        * **Item 1:**
+            * **method:** การใช้เป็นยา
+            * **description_quote:** หญ้าแห้วหมู เป็นพืชที่มีคุณค่าทางธรรมชาติ และมีประโยชน์ในการใช้เป็นยา
+
+### การค้นหา 2
+* **source_url:** https://traditional-objects.sac.or.th/th/equipment-detail.php?ob_id=431
+* **community_context:**
+    * **community_name:** ชุมชนบ้านบ่อล้อ
+    * **location:** จังหวัดนครศรีธรรมราช
+    * **ethnic_group:** ชาวไทย
+* **full_thai_narrative_context:** ชาวบ้านบ่อล้อเชื่อว่า หญ้าแห้วหมู เป็นพืชที่มีคุณค่าทางธรรมชาติ และมีประโยชน์ในการใช้เป็นยา
+* **specific_entities:**
+    * **local_names:**
+        * **Item 1:**
+            * **name:** หญ้าแห้วหมู
+            * **context_quote:** หญ้าแห้วหมู เป็นพืชที่มีคุณค่าทางธรรมชาติ และมีประโยชน์ในการใช้เป็นยา
+    * **traditional_uses:**
+        * **Item 1:**
+            * **use:** ใช้เป็นยา
+            * **context_quote:** หญ้าแห้วหมู เป็นพืชที่มีคุณค่าทางธรรมชาติ และมีประโยชน์ในการใช้เป็นยา
+    * **processing_methods:**
+        * **Item 1:**
+            * **method:** การใช้เป็นยา
+            * **description_quote:** หญ้าแห้วหมู เป็นพืชที่มีคุณค่าทางธรรมชาติ และมีประโยชน์ในการใช้เป็นยา
+
+### การค้นหา 3
+* **source_url:** https://wikicommunity.sac.or.th/community/190
+* **community_context:**
+    * **community_name:** ชุมชนบ้านบ่อล้อ
+    * **location:** จังหวัดนครศรีธรรมราช
+    * **ethnic_group:** ชาวไทย
+* **full_thai_narrative_context:** ชาวบ้านบ่อล้อเชื่อว่า หญ้าแห้วหมู เป็นพืชที่มีคุณค่าทางธรรมชาติ และมีประโยชน์ในการใช้เป็นยา
+* **specific_entities:**
+    * **local_names:**
+        * **Item 1:**
+            * **name:** หญ้าแห้วหมู
+            * **context_quote:** หญ้าแห้วหมู เป็นพืชที่มีคุณค่าทางธรรมชาติ และมีประโยชน์ในการใช้เป็นยา
+    * **traditional_uses:**
+        * **Item 1:**
+            * **use:** ใช้เป็นยา
+            * **context_quote:** หญ้าแห้วหมู เป็นพืชที่มีคุณค่าทางธรรมชาติ และมีประโยชน์ในการใช้เป็นยา
+    * **processing_methods:**
+        * **Item 1:**
+            * **method:** การใช้เป็นยา
+            * **description_quote:** หญ้าแห้วหมู เป็นพืชที่มีคุณค่าทางธรรมชาติ และมีประโยชน์ในการใช้เป็นยา

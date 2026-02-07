@@ -1,0 +1,29 @@
+# ===COMPLIANCE_DATA=== 
+## Thai FDA Status for: Kratom (Mitragyna speciosa)
+* **herb_name:** Kratom (Mitragyna speciosa)
+### Food Registrations 
+* **Food Registration 1:**
+    * **registration_number:** 12-1-13657-5-0102
+    * **product_name:** ผลิตภัณฑ์เสริมอาหาร กระท่อมแคปซูล ตรามัลดีฟส์ / Kratom Capsule Maldives (TM) Dietary Supplement Product
+    * **company_name:** บริษัท ไทยเอฟดี จำกัด
+    * **status:** สถานะผลิตภัณฑ์(คงอยู่)\ สถานะสถานที่ (คงอยู่)
+* **Food Registration 2:**
+    * **registration_number:** 12-2-02856-2-0014
+    * **product_name:** เครื่องดื่มชาเขียว ตรา กระท่อม / GREEN TEA BEVERAGE KRATHOM BRAND
+    * **company_name:** บริษัท ยันฮี วิตามิน วอเตอร์ จำกัด
+    * **status:** สถานะผลิตภัณฑ์(คงอยู่)\ สถานะสถานที่ (คงอยู่)
+* **Food Registration 3:**
+    * **registration_number:** 14-2-01458-2-0001
+    * **product_name:** น้ำดื่มตรา ฮีโร่ / HERO DRINKING WATER
+    * **company_name:** กระท่อมปลายนา
+    * **status:** สถานะผลิตภัณฑ์(คงอยู่)\ สถานะสถานที่ (คงอยู่)
+* **Food Registration 4:**
+    * **registration_number:** 73-1-15864-5-0036
+    * **product_name:** ผลิตภัณฑ์เสริมอาหาร กระท่อมยัม สารสกัดจากใบกระท่อม / KRATOM YUM  KRATOM LEAF EXTRACT DIETARY SUPPLEMENT PRODUCT
+    * **company_name:** บริษัท แน็พ ไบโอเทค จำกัด
+    * **status:** สถานะผลิตภัณฑ์(คงอยู่)\ สถานะสถานที่ (คงอยู่)
+* **Food Registration 5:**
+    * **registration_number:** 73-1-15864-5-0039
+    * **product_name:** ผลิตภัณฑ์เสริมอาหาร กระท่อมแคป สารสกัดจากใบกระท่อม / KRATOM CAP KRATOM LEAF EXTRACT DIETARY SUPPLEMENT PRODUCT
+    * **company_name:** บริษัท แน็พ ไบโอเทค จำกัด
+    * **status:** สถานะผลิตภัณฑ์(คงอยู่)\ สถานะสถานที่ (คงอยู่)

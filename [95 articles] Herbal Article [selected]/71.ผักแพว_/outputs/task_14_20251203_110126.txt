@@ -1,0 +1,30 @@
+# ===AUDIT_DATA_INTEGRITY_REPORT===
+*   **Collaboration Robustness (Data Loss):** 56.86%
+*   **Explanation Clarity (Hallucination/Handling):** 97.22%
+*   **Dropped Entities (Facts in Fact Sheet but not Article):**
+    *   Lab Fact (Experimental Method): Not found
+    *   Lab Fact (Extraction Method): Not found (Note: The article hallucinated its existence, but the "not found" status from the fact sheet was dropped)
+    *   Lab Fact (Chromatography - TLC): Not found
+    *   Lab Fact (Cosmetic or Clinical Effect): Not found
+    *   Lab Fact (Quality Control): Not found
+    *   Compliance Fact (Food Registration 1): registration_number=10-1-02358-1-0524, company_name=บริษัท ซีพี แอ็กซ์ตร้า จำกัด (มหาชน) สาขา กัลปพฤกษ์, status=สถานะผลิตภัณฑ์(คงอยู่)\ สถานะสถานที่ (คงอยู่) (Missing specific registration number, company, and full status details)
+    *   Compliance Fact (Food Registration 2): registration_number=14-1-06936-6-0387, product_name=กลิ่น ผักแพว (วัตถุแต่งกลิ่นรสธรรมชาติ) / PHAK PHAEO FLAVOUR (NATURAL FLAVOUR), company_name=บริษัท อุตสาหกรรมเครื่องหอมไทย-จีน จำกัด, status=สถานะผลิตภัณฑ์(คงอยู่)\ สถานะสถานที่ (คงอยู่) (Entire entry missing)
+    *   Compliance Fact (Food Registration 3): registration_number=26-2-00258-2-0587, company_name=บริษัท ซีพี แอ็กซ์ตร้า จำกัด (มหาชน) สาขา นครนายก, status=สถานะผลิตภัณฑ์(คงอยู่)\ สถานะสถานที่ (คงอยู่) (Missing specific registration number, company, and full status details)
+    *   Compliance Fact (Food Registration 4): registration_number=30-2-04957-2-0573, company_name=บริษัท ซีพี แอ็กซ์ตร้า จำกัด (มหาชน) สาขาปากช่อง, status=สถานะผลิตภัณฑ์(คงอยู่)\ สถานะสถานที่ (คงอยู่) (Missing specific registration number, company, and full status details)
+    *   Compliance Fact (Food Registration 5): registration_number=30-2-07060-6-0042, company_name=สตางค์ฟาร์ม, status=สถานะผลิตภัณฑ์(คงอยู่)\ สถานะสถานที่ (คงอยู่) (Missing specific registration number, company, and full status details)
+    *   Safety Fact (Warnings): "Replace the cap after use." and "Keep out of reach of children." (Specific warnings from the block)
+    *   Safety Fact (Directions): After facial wash, apply an adequate amount on face and neck. Apply twice a day on normal skin, morning and night, at the last stage of skin care. Tap gently for max absorption
+    *   Safety Fact (Other Info): Not found
+    *   Safety Fact (Inactive Ingredients): Water, Dimethicone, Glycerin, ... (full list of 40 ingredients)
+    *   Safety Fact (Questions): TEL,+82-539-3450, www.ultravcosmetic.com
+    *   Culture Fact (Location - Singaporean Chinese): Singapore (สิงคโปร์)
+    *   Culture Fact (Ethnic Group - Singaporean Chinese): Chinese, Hokkien (จีน ฮกเกี้ยน)
+    *   Culture Fact (Community Highlight - Singaporean Chinese): Specific details like "In the 1950s" and "The community's ability to adapt to change and innovate has contributed to the success of their culinary traditions."
+    *   Culture Fact (Name Etymology - Singaporean Chinese): Specific details like "derived from the Thai language and refers to a type of leafy green vegetable commonly used in Singaporean cuisine. The name is also associated with the dish "Laksa," a popular spicy noodle soup that originated in Singapore."
+    *   Source URL (Trend): Not found
+    *   Source URL (Science): Not found
+    *   Source URL (Toxicity): Not found
+*   **Hallucinated Entities (Facts in Article but not Fact Sheet):**
+    *   "existence of extraction methods" (Contradicts `Lab Fact (Extraction Method): Not found` in the Master Fact Sheet)
+*   **Feedback:** The robustness score is moderate due to significant data loss. Critical compliance data (full food registration details), specific safety warnings, directions, inactive ingredients, and contact information were either entirely omitted or only partially transferred. Several "Not found" statuses for lab facts and source URLs were also dropped. The clarity score is high, with only one instance of hallucination where the article asserted the "existence of extraction methods," directly contradicting the "Not found" status in the Master Fact Sheet. All other "Not found" entries were handled correctly by either explicitly stating "Not found" or by acceptable omission.
+

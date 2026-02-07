@@ -1,0 +1,49 @@
+# ===AUDIT_DATA_INTEGRITY_REPORT===
+*   **Collaboration Robustness (Data Loss):** 49.33%
+*   **Explanation Clarity (Hallucination/Handling):** 100%
+*   **Dropped Entities (Facts in Fact Sheet but not Article):**
+    *   Compliance Fact (Food Registration 1): registration_number=10-1-13660-5-0242, product_name=ส้มป่อย / Acacia concinna, company_name=บริษัท โพธิ์ประดิษฐ์สมุนไพร จำกัด, status=สถานะผลิตภัณฑ์(ยกเลิกโดยผู้ประกอบการ 26/10/2561) \ สถานะสถานที่ (คงอยู่ )
+    *   Compliance Fact (Food Registration 2): registration_number=10-1-13660-5-0243, product_name=ส้มป่อย (ผง) / Acacia concinna (Powder), company_name=บริษัท โพธิ์ประดิษฐ์สมุนไพร จำกัด, status=สถานะผลิตภัณฑ์(ยกเลิกโดยผู้ประกอบการ 26/10/2561) \ สถานะสถานที่ (คงอยู่ )
+    *   Compliance Fact (Food Registration 3): registration_number=11-2-00342-6-0472, product_name=น้ำปลาร้าปรุงรส สูตรโบราณ ตรา ส้มป่อย, company_name=บริษัท พี.วาย.ฟู้ด จำกัด, status=สถานะผลิตภัณฑ์(คงอยู่)\ สถานะสถานที่ (คงอยู่)
+    *   Compliance Fact (Food Registration 4): registration_number=33-2-00868-6-0001, product_name=หอมแดงอบแห้ง ตรา นาคาลักษมี, company_name=วิสาหกิจชุมชนกลุ่มหอมแดงราษีไศล, status=สถานะผลิตภัณฑ์(คงอยู่)\ สถานะสถานที่ (คงอยู่)
+    *   Compliance Fact (Food Registration 5): registration_number=33-2-00868-6-0002, product_name=ชาหอมแดง ตรา นาคาลักษมี, company_name=วิสาหกิจชุมชนกลุ่มหอมแดงราษีไศล, status=สถานะผลิตภัณฑ์(คงอยู่)\ สถานะสถานที่ (คงอยู่)
+    *   Compliance Fact (Herbal Product Registration 1): registration_number=G347/57, product_name=ยาระบายผสมส้มป่อย / COMPOUND SOMPOI LAXATIVE, company_name=บริษัท สิทธิพรสมุนไพร จำกัด, status=คงอยู่
+    *   Compliance Fact (Herbal Product Registration 2): registration_number=G33/59, product_name=ยาเม็ดสมุนไพรผสมส้มป่อย / COMPOUND SOM POY HERBAL TABLET, company_name=บริษัท สิทธิพรสมุนไพร จำกัด, status=คงอยู่
+    *   Compliance Fact (Cosmetic Registration 1): registration_number=10-1-6010022379, product_name=แม่อุไร แชมพูสมุนไพร มะกรูด&ส้มป่อย&ว่านหาวจระเข้ / MAE AURAI HERBAL SHAMPOO BERGAMOT&SOMPOI&ALOE VERA, company_name=ห้างหุ้นส่วนจำกัด สมุนไพรไทยแม่อุไร, status=คงอยู่
+    *   Compliance Fact (Cosmetic Registration 2): registration_number=10-1-6100008946, product_name=นารดา แชมพู ส้มป่อย ใบหมี่ เฮนน่า / NARDA SHAMPOO ACACIA CONCINNA, LITSEA & HENNA, company_name=บริษัท ลีเอ็นเตอร์เทนเม้นท์ จำกัด, status=คงอยู่
+    *   Safety Fact (Active Ingredient): Not found
+    *   Safety Fact (Ingredient Purpose): Not found
+    *   Safety Fact (Uses): Not found
+    *   Safety Fact (Warnings): Not found
+    *   Safety Fact (Directions): Not found
+    *   Safety Fact (Other Info): Not found
+    *   Safety Fact (Inactive Ingredients): Not found
+    *   Safety Fact (Questions): Not found
+    *   Toxicity Fact (Case Reports): Case reports of liver injury in 5 patients taking Acacia concinna have been published. The patients presented with jaundice, fatigue, and abdominal pain, and had elevated liver enzymes and bilirubin levels. The liver injury was attributed to the use of Acacia concinna, and the patients recovered after discontinuing the use of the plant.
+    *   Culture Fact (Community - Ban Huai Sompoy): Ban Huai Sompoy (บ้านห้วยส้มป่อย)
+    *   Culture Fact (Location - Ban Huai Sompoy): Chiang Mai Province
+    *   Culture Fact (Community Highlight - Ban Huai Sompoy): No herbal-related information found.
+    *   Culture Fact (Name Etymology - Ban Huai Sompoy): The name "Sompoy" comes from the plant "Sompoy" (พืชยืนต้นขนาดเล็กหรือไม้พุ่ม), which is used in various rituals by the community, such as "Sadok Krai" and "Rong Nam Dam Hua". The community believes that Sompoy is a plant that helps to eliminate bad luck and misfortune from their lives.
+    *   Culture Fact (Environment - Ban Huai Sompoy): The community is located in the upper part of the Mae Taeng River basin, in the Chom Thong district of Chiang Mai province. The area was previously inhabited by the Lua people, as evidenced by the discovery of ancient burial grounds and artifacts.
+    *   Culture Fact (Organization - Ban Huai Sompoy): No herbal-related information found.
+    *   Culture Fact (Local Name - Ban Huai Sompoy): Sompoy (ส้มป่อย)
+    *   Culture Fact (Source - Ban Huai Sompoy): https://wikicommunity.sac.or.th/community/1643
+    *   Culture Fact (Community - Ban Had Sompoy): Ban Had Sompoy (บ้านหาดส้มป่อย)
+    *   Culture Fact (Location - Ban Had Sompoy): Chiang Mai Province
+    *   Culture Fact (Community Highlight - Ban Had Sompoy): No herbal-related information found.
+    *   Culture Fact (Name Etymology - Ban Had Sompoy): The name "Had Sompoy" comes from the location of the community, which is near a beach (หาด) where Sompoy plants are abundant.
+    *   Culture Fact (Environment - Ban Had Sompoy): The community is located in the Chom Thong district of Chiang Mai province.
+    *   Culture Fact (Organization - Ban Had Sompoy): No herbal-related information found.
+    *   Culture Fact (Local Name - Ban Had Sompoy): Sompoy (ส้มป่อย)
+    *   Culture Fact (Source - Ban Had Sompoy): https://wikicommunity.sac.or.th/community/378
+    *   Culture Fact (Community - Ban Lahuh Sompoy): Ban Lahuh Sompoy (บ้านลาหู่ส้มป่อย)
+    *   Culture Fact (Location - Ban Lahuh Sompoy): Tak Province
+    *   Culture Fact (Community Highlight - Ban Lahuh Sompoy): No herbal-related information found.
+    *   Culture Fact (Name Etymology - Ban Lahuh Sompoy): The name "Lahuh Sompoy" comes from the location of the community, which was previously a farm area with an abundance of Sompoy plants.
+    *   Culture Fact (Environment - Ban Lahuh Sompoy): The community is located in the Tak province.
+    *   Culture Fact (Organization - Ban Lahuh Sompoy): No herbal-related information found.
+    *   Culture Fact (Local Name - Ban Lahuh Sompoy): Sompoy (ส้มป่อย)
+    *   Culture Fact (Source - Ban Lahuh Sompoy): https://ethnicredb.sac.or.th/research_detail.php?id=2012
+*   **Hallucinated Entities (Facts in Article but not Fact Sheet):**
+    *   None
+*   **Feedback:** The article successfully avoided hallucination, with all presented facts traceable back to the Master Fact Sheet. "Not Found" safety facts were correctly handled by omission, demonstrating good clarity. However, the article suffered from significant data loss, particularly in compliance data (all 9 registrations were omitted), specific toxicity case reports, and detailed cultural information for the three communities. While some general cultural themes were retained, the specific names, locations, etymologies, environments, highlights, organizations, local names (in specific context), and sources for each community were dropped. This resulted in a low robustness score, indicating a need to improve the transfer of critical and specific data points.

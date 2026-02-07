@@ -1,0 +1,11 @@
+# ===HERBAL_INTERNAL_SUMMARY=== 
+
+โหระพา (Ocimum basilicum) is not explicitly mentioned in the provided internal knowledge context. However, the context discusses Thai traditional medicine, its benefits, and the use of herbs in traditional Thai medicine. According to the context, traditional Thai medicine is considered old-fashioned and not suitable for modern times, but it can be effective in treating minor ailments and reducing medical expenses. The context also mentions the use of herbs in traditional Thai cooking and the benefits of growing one's own herbs to ensure safety and freshness. 
+
+In terms of specific uses, the context mentions the use of "คั่วบานะบายข้าวกิน" (a type of Thai dish) to improve appetite and alleviate symptoms of illness. However, it does not provide information on the specific use of โหระพา (Ocimum basilicum) in traditional Thai medicine.
+
+The context also touches on the topic of Thai wisdom and the use of traditional medicine, highlighting the importance of self-reliance and using natural remedies to maintain health. 
+
+Overall, while the context does not provide explicit information on โหระพา (Ocimum basilicum), it offers insights into the use of traditional Thai medicine and the importance of natural remedies in maintaining health. 
+
+**JSON: [Herbs_traditional_Thai_medicine_in_the_lives_of_Thai_people.json, p.N/A] | PDF: [Romprayom-2563.pdf, p.9, 17, 32]**

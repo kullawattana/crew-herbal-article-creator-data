@@ -1,0 +1,31 @@
+# ===COMPLIANCE_DATA===
+## Thai FDA Status for: Clinacanthus nutans
+* **herb_name:** Clinacanthus nutans
+### Food Registrations
+* None found.
+### Herbal Product Registrations
+* **Herbal Product Registration 1:**
+    * **registration_number:** G465/41
+    * **product_name:** ยาผงพญายอ (เสลดพังพอนตัวเมีย) ตราโกร่งทอง / CLINACANTHUS POWDER
+    * **company_name:** ห้าง โกร่งทองเภสัชกรรม
+    * **status:** ยกเลิก(20 ตุลาคม 2559)
+* **Herbal Product Registration 2:**
+    * **registration_number:** G4/66(E)
+    * **product_name:** ยาหม่องสมุนไพรผสมเสลดพังพอนตัวเมีย ตราแม่โชคดี / COMPOUND CLINACANTHUS NUTANS HERBAL BALM MAE CHOKDEE BRAND
+    * **company_name:** หยดทิพย์ชื่นจิตต์
+    * **status:** คงอยู่
+* **Herbal Product Registration 3:**
+    * **registration_number:** G259/62
+    * **product_name:** ยาน้ำมันผสมเสลดพังพอนตัวเมีย / COMPOUND SALET PHANG PHON TUA-MIA MEDICATED OIL
+    * **company_name:** ห้างหุ้นส่วนจำกัดสมุนไพรธิดาพร
+    * **status:** คงอยู่
+* **Herbal Product Registration 4:**
+    * **registration_number:** G274/65
+    * **product_name:** ยาหม่องผสมเสลดพังพอนตัวเมีย ตราเฌอเอม สูตร 2 / CHERAIM BRAND COMPOUND CLINACANTHUS NUTANS BALM FORMULA 2
+    * **company_name:** ห้างหุ้นส่วน จิสประพัจน์
+    * **status:** คงอยู่
+* **Herbal Product Registration 5:**
+    * **registration_number:** G470/65
+    * **product_name:** ยาครีมผสมเสลดพังพอนตัวเมีย ตรา บางกอก บาล์ม / -
+    * **company_name:** โกลเด้นลีฟ
+    * **status:** ทะเบียนคงอยู่ แต่ผู้ผลิตยกเลิกกิจการ ทำให้ไม่สามารถผลิตได้

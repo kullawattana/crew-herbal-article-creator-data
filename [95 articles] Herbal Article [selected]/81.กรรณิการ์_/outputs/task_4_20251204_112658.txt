@@ -1,0 +1,29 @@
+# ===COMPLIANCE_DATA===
+## Thai FDA Status for: Nyctanthes arbor-tristis
+* **herb_name:** Nyctanthes arbor-tristis
+### Food Registrations
+* **Food Registration 1:**
+    * **registration_number:** 10-1-45847-1-0001
+    * **product_name:** น้ำแข็งหลอด(น้ำแข็งใช้รับประทานได้) (ตรา เค เค)
+    * **company_name:** ห้างหุ้นส่วนจำกัด กรรณิการ์ (2004)
+    * **status:** สถานะผลิตภัณฑ์(ยกเลิก 9/6/2560) \ สถานะสถานที่ (ยกเลิก 9/6/2560)
+* **Food Registration 2:**
+    * **registration_number:** 13-1-07458-5-0072
+    * **product_name:** กรรณิการ์ น้ำมันมะพร้าว 500 มก. ผลิตภัณฑ์เสริมอาหาร /  Kannika Coconut Oil 500 mg. Dietary supplement product
+    * **company_name:** บริษัท เซอร์วิส แพค แมนูแฟคเจอริ่ง จำกัด
+    * **status:** สถานะผลิตภัณฑ์(คงอยู่)\ สถานะสถานที่ (คงอยู่)
+* **Food Registration 3:**
+    * **registration_number:** 47-2-01556-2-0001
+    * **product_name:** น้ำดื่ม กรรณิการร์
+    * **company_name:** น้ำดื่ม กรรณิการ์
+    * **status:** สถานะผลิตภัณฑ์(คงอยู่)\ สถานะสถานที่ (คงอยู่)
+* **Food Registration 4:**
+    * **registration_number:** 50-2-04567-6-0084
+    * **product_name:** น้ำดื่มตรา กรรณิการ์ รีไซเคิล
+    * **company_name:** บริษัท น้ำบ่อหลวง จำกัด
+    * **status:** สถานะผลิตภัณฑ์(คงอยู่)\ สถานะสถานที่ (คงอยู่)
+* **Food Registration 5:**
+    * **registration_number:** 54-2-01660-6-0055
+    * **product_name:** น้ำพริกน้ำย้อย ตรา กรรณิการ์
+    * **company_name:** ซันฟลาวเวอร์
+    * **status:** สถานะผลิตภัณฑ์(ผู้ประกอบการแจ้งยกเลิกใบอนุญาต 21/11/2562) \ สถานะสถานที่ (ผู้ประกอบการแจ้งยกเลิก 21/11/2562)

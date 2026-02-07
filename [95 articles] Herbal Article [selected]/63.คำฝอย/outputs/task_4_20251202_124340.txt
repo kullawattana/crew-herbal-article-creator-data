@@ -1,0 +1,54 @@
+# ===COMPLIANCE_DATA===
+## Thai FDA Status for: Safflower (Carthamus tinctorius)
+* **herb_name:** Safflower (Carthamus tinctorius)
+### Food Registrations
+* **Food Registration 1:**
+    * **registration_number:** 10-1-01657-5-0025
+    * **product_name:** เฮอร์โมนี่ ที (หม่อน, โรมันคาโมมายล์, บัวหลวง, กุหลาบ, มะตูม, คำฝอยและหญ้าหวาน) (ชาจากพืช) / Hermony Tea (Mulberry, Roman chamomile,  Sacred Lotus, Rose, Bael fruit, Safflower and Stevia)
+    * **company_name:** บริษัท จงไท้เจี้ยนหมิงเอี้ยวเอี้ย (กรุ๊ป) จำกัด
+    * **status:** สถานะผลิตภัณฑ์(คงอยู่)\ สถานะสถานที่ (คงอยู่)
+* **Food Registration 2:**
+    * **registration_number:** 10-1-12063-5-0009
+    * **product_name:** แอลดับบลิว เฮอร์เบิล ที (ชาจากพืช) (ชาสมุนไพร ขิง มะขามป้อม กระเจี๊ยบแดง คำฝอย และหญ้าหวาน) /  LW Herbal Tea
+    * **company_name:** บริษัท โชคชัย เฮิร์บ จำกัด
+    * **status:** สถานะผลิตภัณฑ์(คงอยู่)\ สถานะสถานที่ (คงอยู่)
+* **Food Registration 3:**
+    * **registration_number:** 10-1-19337-1-0046
+    * **product_name:** คำฝอยสกัด(ผลิตภัณฑ์เสริมอาหาร)(ตรา แซนด์-เอ็ม แฮนดี้เฮิร์บ) / SAFFLOWER EXTACT (DIETARY SUPPLEMENT PRODUCT)(SAND-M HANDYHERB  BRAND)
+    * **company_name:** บริษัท แซนด์ เอ็ม  อินเตอร์เนชั่นแนล  จำกัด
+    * **status:** สถานะผลิตภัณฑ์(ผู้ประกอบการแจ้งยกเลิกใบอนุญาต 2/6/2563) \ สถานะสถานที่ (ผู้ประกอบการแจ้งยกเลิก 2/6/2563)
+* **Food Registration 4:**
+    * **registration_number:** 10-1-19337-1-0052
+    * **product_name:** ชาเขียวสกัด คำฝอยสกัด ส้มแขกสกัด (ผลิตภัณฑ์เสริมอาหาร) / GREE TEA EXTRACT,SAFFLOWER EXTRACT,GARCINIA CAMBOGIA EXTRACT (DIETARY SUPPLEMENT PRODUCT)
+    * **company_name:** บริษัท แซนด์ เอ็ม  อินเตอร์เนชั่นแนล  จำกัด
+    * **status:** สถานะผลิตภัณฑ์(ผู้ประกอบการแจ้งยกเลิกใบอนุญาต 2/6/2563) \ สถานะสถานที่ (ผู้ประกอบการแจ้งยกเลิก 2/6/2563)
+* **Food Registration 5:**
+    * **registration_number:** 10-1-22862-5-0004
+    * **product_name:** เครื่องดื่ม ส้มแขก พริกไทยดำ และ คำฝอย ชนิดแห้ง (ตรา เรือนไม้ใบชา) / DRIED ASAM GELUGUR BLACK PEPPER AND SAFFLOWER DRINK (RUENMAIBAICHA BRAND)
+    * **company_name:** เรือนไม้ใบชา (RUENMAIBAICHA)
+    * **status:** สถานะผลิตภัณฑ์(คงอยู่)\ สถานะสถานที่ (คงอยู่)
+* **Food Registration 6:**
+    * **registration_number:** 10-1-24946-5-0021
+    * **product_name:** คำฝอย พลัส (ผลิตภัณฑ์เสริมอาหาร ชนิดแคปซูล)(ตรา ดุสิตตา) / Safflower Plus (Capsule Dietary Supplement Product )(Dusitta Brand)
+    * **company_name:** บริษัท ชาเขียว จำกัด
+    * **status:** สถานะผลิตภัณฑ์(ยกเลิกโดยผู้ประกอบการ 15/7/2564) \ สถานะสถานที่ (คงอยู่ )
+* **Food Registration 7:**
+    * **registration_number:** 10-1-24946-5-0072
+    * **product_name:** คำฝอย พลัส (ผลิตภัณฑ์เสริมอาหารอาหาร ชนิดแคปซูล)(ตรา เรนอง) /  Safflower Plus (Capsule Dietary Supplement Product)(Ranong Brand)
+    * **company_name:** บริษัท ชาเขียว จำกัด
+    * **status:** สถานะผลิตภัณฑ์(คงอยู่)\ สถานะสถานที่ (คงอยู่)
+* **Food Registration 8:**
+    * **registration_number:** 11-1-08646-5-0016
+    * **product_name:** คำฝอยแคปซูล ตราธันยพรสมุนไพร ผลิตภัณฑ์เสริมอาหาร / SAFFLOWER CAPSULE THANYAPORN HERBS BRAND DIETARY SUPPLEMENT PRODUCT
+    * **company_name:** บริษัท ธันยพรสมุนไพร จำกัด
+    * **status:** สถานะผลิตภัณฑ์(คงอยู่)\ สถานะสถานที่ (คงอยู่)
+* **Food Registration 9:**
+    * **registration_number:** 11-1-13958-6-0007
+    * **product_name:** ชาอัสสัม, กระเจี๊ยบแดง, คำฝอย, ฟักข้าว เเละ หญ้าหวาน /  Assam tea, Roselle , Safflower, Gac and Stevia
+    * **company_name:** บริษัท สเปเชียลตี้ อินโนเวชั่น จำกัด
+    * **status:** สถานะผลิตภัณฑ์(คงอยู่)\ สถานะสถานที่ (คงอยู่)
+* **Food Registration 10:**
+    * **registration_number:** 11-2-00765-6-0010
+    * **product_name:** เครื่องดื่มสมุนไพรรวม (เห็ดหลินจือ ลำไย กระชายดำ พุทราจีน โสม ตังเซียม เง็กเต็ก โป๊ยกั๊ก อบเชยเทศ คำฝอย ถั่งเช่า)
+    * **company_name:** บริษัท หนั่งฮั้ว เฮอร์เบิล อินดัสทรี จำกัด
+    * **status:** สถานะผลิตภัณฑ์(คงอยู่)\ สถานะสถานที่ (คงอยู่)

@@ -1,0 +1,89 @@
+# ===MASTER_FACT_SHEET=== 
+## Consolidated Facts for: Senna alexandrina
+* **Trend Fact:** No trend fact available in the provided context.
+* **Lab Fact (Experimental Method):** No experimental method available in the provided context.
+* **Lab Fact (Extraction Method):** No extraction method available in the provided context.
+* **Lab Fact (Compound Identified):** No identified compound available in the provided context.
+* **Lab Fact (Chromatography - TLC):** No chromatography detail available in the provided context.
+* **Lab Fact (Pharmacological Finding):** No pharmacological finding available in the provided context.
+* **Lab Fact (Cosmetic or Clinical Effect):** No cosmetic or clinical effect available in the provided context.
+* **Lab Fact (Quality Control):** No quality control observation available in the provided context.
+* **Science Fact (Herb):** Senna alexandrina
+* **Science Fact (Compound):** Sennosides
+* **Science Fact (Abstracts):**
+  * **Study 1:**
+    * **abstract_raw:** No abstract available in the provided context.
+    * **citation_apa:** No citation available in the provided context.
+  * **Study 2:**
+    * **abstract_raw:** No abstract available in the provided context.
+    * **citation_apa:** No citation available in the provided context.
+  * **Study 3:**
+    * **abstract_raw:** No abstract available in the provided context.
+    * **citation_apa:** No citation available in the provided context.
+* **Compliance Fact (Food Registration 1):** registration_number=10-1-19355-5-0018, product_name=ชา มะขามแขก (ตรา งามระหง) / Senna Tea (Ngamrahong Brand), company_name=ห้างหุ้นส่วนจำกัด ภูมณีรัตน์เภสัช, status=สถานะผลิตภัณฑ์(คงอยู่)\ สถานะสถานที่ (คงอยู่)
+* **Compliance Fact (Food Registration 2):** registration_number=50-2-04158-6-0019, product_name=ชาชงสมุนไพร ดอกคำฝอย ผสม หญ้าหวาน คาโมไมล์ ใบมะรุม มินท์ เฮอร์ธอร์ มะขามแขก ชนิดซองพร้อมชง ตรา บูสท์แอนด์เบิร์น / Safflower with Stevia Chamomile Moringa mint Hawthorn Berry senna leaf Herbal Tea (Boost & Burn Brand), company_name=กันต์โตะ ชาสมุนไพร เชียงใหม่, status=สถานะผลิตภัณฑ์(ยกเลิกโดยผู้ประกอบการ 17/8/2566) \ สถานะสถานที่ (คงอยู่ )
+* **Compliance Fact (Food Registration 3):** registration_number=73-1-26158-6-0066, product_name=ชาชงสมุนไพร ชาอัสสัมผสมหญ้าหวาน มะขามแขก เก๊กฮวย / Assam Tea Mixed Stevia Senna Chrysanthemum Herbal Tea, company_name=บริษัท ไอ เรียล พลัส (ประเทศไทย) จำกัด, status=สถานะผลิตภัณฑ์(ยกเลิกโดยผู้ประกอบการ 25/11/2562) \ สถานะสถานที่ (คงอยู่ )
+* **Compliance Fact (Herbal Registration 1):** registration_number=G166/52, product_name=ยามะขามแขก / -, company_name=ห้างหุ้นส่วนจำกัด พี แอนด์ เอิร์น (1995), status=คงอยู่แต่ไม่มีผู้ผลิตหรือนำเข้า
+* **Compliance Fact (Herbal Registration 2):** registration_number=G439/51, product_name=ยาแคปซูลมะขามแขก ตราหมอเฉลิมวังพรม / SENNA CAPSULE TRA MOHCHALERM WANGPHROM, company_name=สมุนไพรวังพรม, status=คงอยู่
+* **Compliance Fact (Herbal Registration 3):** registration_number=G87/64, product_name=ยาชงสมุนไพรมะขามแขก / -, company_name=เฮิร์บเทค อินเตอร์เนชั่นแนล, status=คงอยู่
+* **Compliance Fact (Safety Dosage):** No safety dosage available in the provided context.
+* **Compliance Fact (Safety Warning):** No safety warning available in the provided context.
+* **Safety Fact (Active Ingredient):** Sennosides
+* **Safety Fact (Ingredient Purpose):** Laxative
+* **Safety Fact (Uses):** Relieves occasional constipation (irregularity), generally produces a bowel movement in 6-12 hours
+* **Safety Fact (Warnings):** Do not use laxative products for longer than 1 week unless directed by a doctor. Ask a doctor before use if you have stomach pain, nausea, vomiting, noticed a sudden change in bowel habits that continues over a period of 2 weeks. Stop use and ask a doctor if you have rectal bleeding or fail to have a bowel movement after use of a laxative. These may indicate a serious condition. If pregnant or breast-feeding, ask a health professional before use. Keep out of reach of children. In case of overdose, get medical help or contact a Poison Control Center right away.
+* **Safety Fact (Directions):** Take preferably at bedtime or as directed by a doctor. Adults and children 12 years of age or older: 2 tablets once a day, not to exceed 4 tablets twice a day. Children 6 to under 12 years: 1 tablet once a day, not to exceed 2 tablets twice a day. Children 2 to under 6 years: 1/2 tablet once a day, not to exceed 1 tablet twice a day. Children under 2 years: ask a doctor.
+* **Safety Fact (Other Info):** Each tablet contains: calcium 25mg. Store at 25°C (77°F); excursions permitted between 15°-30°C (59°-86°F).
+* **Safety Fact (Inactive Ingredients):** Maltodextrin, microcrystalline cellulose, croscarmellose sodium, stearic acid, silicon dioxide, magnesium stearate, hypromellose, mineral oil, water.
+* **Safety Fact (Questions):** No questions available in the provided context.
+* **Toxicity Fact (Summary):** Senna alexandrina, also known as Cassia acutifolia or Cassia angustifolia, is a plant used as a laxative and stimulant. The active components in senna extracts are anthraquinone derivatives and their glucosides, referred to as senna glycosides or sennosides. Senna is generally safe and well tolerated, but can cause adverse events including clinically apparent liver injury when used in high doses for longer than recommended periods.
+* **Toxicity Fact (Mechanism):** The liver injury due to senna has been attributed to the anthraquinone derivatives present in the herbal extract, and most cases have been associated with taking excessive doses suggesting a direct hepatotoxic rather than idiosyncratic etiology.
+* **Toxicity Fact (Side Effects):** Abdominal cramps, diarrhea, electrolyte imbalance, liver injury, and skin irritation.
+* **Toxicity Fact (Case Reports):** There have been several case reports of liver injury associated with the use of senna, including cases of acute liver failure and hepatomyoencephalopathy. In some cases, reexposure to senna has led to rapid recurrence of liver injury.
+* **Culture Fact (Community - Malaysia):** 
+    * **community_name:** Malaysia
+    * **location:** Malaysia
+    * **ethnic_group:** Malay, Chinese, Indian
+    * **community_highlight:** Malaysia is a multicultural country with three main ethnic groups: Malay, Chinese, and Indian. Despite the majority of the population being Muslim, the country's cuisine is a blend of different cultures. Popular dishes include chicken rice, noodles, char siew, roast pork, and dim sum, which are all Chinese dishes that have been adapted to become part of Malaysian cuisine. Indian cuisine is also popular, with dishes such as tandoori chicken, nasi briyani, and roti canai. The country's cuisine is also known for its use of spices, particularly curry powder.
+    * **name_etymology:** No herbal-related information found.
+    * **community_environment:** The country's diverse geography, with rainforests and mountains, has led to the development of different cuisines in different regions. For example, in Sabah and Sarawak, the indigenous communities have a diet that includes wild boar and deer.
+    * **local_wisdom:** The use of local ingredients and spices has been passed down through generations, with different communities having their own unique cooking methods and recipes.
+    * **community_organizations:** No herbal-related information found.
+    * **local_name:** Starfruit (มะขามแขก)
+    * **traditional_use:** Cooking
+    * **processing_method:** Drying
+    * **source_url:** https://southeastasia.sac.or.th/subject.php?c_id=5&sj_id=49
+* **Culture Fact (Community - Thai):** 
+    * **community_name:** Thai
+    * **location:** Thailand
+    * **ethnic_group:** Thai
+    * **community_highlight:** Thai cuisine is known for its use of fresh herbs and spices, with popular dishes such as tom yum soup and green curry.
+    * **name_etymology:** No herbal-related information found.
+    * **community_environment:** The country's geography, with its tropical climate and abundant water resources, has led to the development of a cuisine that is centered around fresh ingredients and spices.
+    * **local_wisdom:** The use of local ingredients and spices has been passed down through generations, with different communities having their own unique cooking methods and recipes.
+    * **community_organizations:** No herbal-related information found.
+    * **local_name:** Galangal (ขิง)
+    * **traditional_use:** Cooking
+    * **processing_method:** Grinding
+    * **source_url:** https://southeastasia.sac.or.th/subject.php?c_id=5&sj_id=50
+* **Culture Fact (Community - Indonesian):** 
+    * **community_name:** Indonesian
+    * **location:** Indonesia
+    * **ethnic_group:** Indonesian
+    * **community_highlight:** Indonesian cuisine is known for its use of spices and fresh ingredients, with popular dishes such as nasi goreng and gado-gado.
+    * **name_etymology:** No herbal-related information found.
+    * **community_environment:** The country's geography, with its tropical climate and abundant water resources, has led to the development of a cuisine that is centered around fresh ingredients and spices.
+    * **local_wisdom:** The use of local ingredients and spices has been passed down through generations, with different communities having their own unique cooking methods and recipes.
+    * **community_organizations:** No herbal-related information found.
+    * **local_name:** Ginger (jahe)
+    * **traditional_use:** Cooking
+    * **processing_method:** Slicing
+    * **source_url:** https://southeastasia.sac.or.th/subject.php?c_id=5&sj_id=51
+* **Internal RAG Fact (Herbal):** Senna alexandrina, also known as มะขามแขก, is not explicitly mentioned in the provided context. However, the context discusses Thai traditional medicine, its benefits, and its uses. According to the context, Thai traditional medicine is considered old-fashioned and not suitable for modern times. However, it is also mentioned that using Thai traditional medicine can help reduce medical expenses by treating minor illnesses or initial symptoms. Additionally, the context highlights the importance of using Thai traditional medicine wisely, as it can be more harmful than modern medicine if not used properly.
+* **Internal RAG Fact (Cultural):** Tamarind, also known as มะขามแขก in Thai, has been used in Thai traditional medicine for its various health benefits. It is believed to have properties that can help with digestion, relieve symptoms of fever, and even act as a natural remedy for certain ailments. In traditional Thai cuisine, tamarind is often used as an ingredient in dishes like tom yum soup and green curry, where its sour taste is used to balance out the spiciness. Additionally, tamarind has been used in traditional Thai medicine for its antiseptic and anti-inflammatory properties, making it a popular ingredient in herbal remedies. However, it is essential to consume tamarind in moderation, as excessive consumption can lead to an imbalance of the body's elements, potentially causing health issues.
+* **Source URL (Trend):** No trend source URL available in the provided context.
+* **Source URL (Science):** No science source URL available in the provided context.
+* **Source URL (Compliance):** https://www.fda.moph.go.th/
+* **Source URL (Safety):** https://dailymed.nlm.nih.gov/dailymed/drugInfo.cfm?setid=ea14be82-1d4d-41fe-9e2f-3f4df9393be5
+* **Source URL (Toxicity):** https://www.ncbi.nlm.nih.gov/books/NBK576229/
+* **Source URL (Culture):** https://southeastasia.sac.or.th/subject.php?c_id=5&sj_id=49, https://southeastasia.sac.or.th/subject.php?c_id=5&sj_id=50, https://southeastasia.sac.or.th/subject.php?c_id=5&sj_id=51

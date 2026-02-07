@@ -1,0 +1,59 @@
+# ===RAW_THAI_DATA===
+## ข้อมูลวัฒนธรรมดิบสำหรับ: ชะพลู
+### การค้นหา 1 * **source_url:** https://manuscripts.sac.or.th/article-download.php?id=42 * **community_context:**
+    * **community_name:** โองการมหามะกรูดแปดกิ่ง
+    * **location:** -
+    * **ethnic_group:** -
+* **full_thai_narrative_context:** โองการมหามะกรูดแปดกิ่ง - เอกสาร โบราณ :: https://manuscripts.sac.or.th/article-download.php?id=42
+  โกฐทั้ง ๙ สิ่งละ ๑ บาท เทียนทั้ง ๙ สิ่งละ ๑ บาท กฤษณา ๑ ระยอม ๑ ไคร้เครือ ๑ ลูกจันทน์ ๑ ดอกจันทน์ ๑ กระวาน ๑ กานพลู ๑ ชะเอม ๑ ลูกเอน ๑ ลูกกล้าย ๑๖ ๑ ลูกเร่ว ๑ ชะลูด ๑ การบูร ๑ สมุลแว้ง ๑ มหาหิงคุ์ ๑ จันทน์แดง ๑ จันคะนา ๑ จันทน์เทศ ๑ ลูกสารพัดพิษ ๑ ขิงแห้ง ๑ ดอกบุนนาค ๑ แฝกหอม ๑ สะค้าน ๑ สมอทั้ง ๓ แก...
+* **specific_entities:**
+    * **local_names:**
+        * **Item 1:**
+            * **name:** -
+            * **context_quote:** -
+    * **traditional_uses:**
+        * **Item 1:**
+            * **use:** -
+            * **context_quote:** -
+    * **processing_methods:**
+        * **Item 1:**
+            * **method:** -
+            * **description_quote:** -
+### การค้นหา 2 * **source_url:** https://www.sac.or.th/portal/th/article/detail/402 * **community_context:**
+    * **community_name:** สำนวนภาษาจากยาหม้อใหญ่ EP.02 ตอน ลงแดง
+    * **location:** -
+    * **ethnic_group:** -
+* **full_thai_narrative_context:** สำนวนภาษาจากยาหม้อใหญ่ EP.02 ตอน ลงแดง :: https://www.sac.or.th/portal/th/article/detail/402
+  > ยากินแก้ลมสารพัดทั้งปวง ปลุกไฟธาตุ เอาเจตมูลเพลิง ๔ ตําลึง ตะค้าน ๓ บาท ขิงแห้ง ๓ บาท ดีปลี ๒ ตําลึง รากชะพลู ๑ บาท ๒ สลึง ลูกจันทน์ ๒ สลึง ดอกจันทน์ ๒ สลึง กระวาน ๒ สลึง กานพลู ๒ สลึง ทําเป็นผงลายน้ำผึ้งกินแก้ริดสีดวงลม มันให้ลงเลือด ลงแดง เป็นบิดเลือด บิดเสลด ให้ตกหนอง กินผิดสําแลง แก้ซางมันกินลําไส้ให้ลงไปลายน้ำกะทือ ปลุกเลือดน้ำดอกคํา น้ำฝาง ไข้เหนือลายน้ำซาวข้าวแก้ ผู้ใหญ่กิน ๑ บาท เด็กกิน ๑ สลึง ๑ เฟื้อง ตามกําลังสารพัดโรคทั้งปวงตามจะใช้เอาเถิด ยายลายเอาเถิด กระทู้เดิมหาค่ามิได้แล
+* **specific_entities:**
+    * **local_names:**
+        * **Item 1:**
+            * **name:** -
+            * **context_quote:** -
+    * **traditional_uses:**
+        * **Item 1:**
+            * **use:** -
+            * **context_quote:** -
+    * **processing_methods:**
+        * **Item 1:**
+            * **method:** -
+            * **description_quote:** -
+### การค้นหา 3 * **source_url:** https://southeastasia.sac.or.th/subject.php?c_id=9&sj_id=76 * **community_context:**
+    * **community_name:** ไทย - อาหาร
+    * **location:** -
+    * **ethnic_group:** -
+* **full_thai_narrative_context:** ฐานข้อมูลสังคม - วัฒนธรรมเอเชียตะวันออกเฉียงใต้ :: https://southeastasia.sac.or.th/subject.php?c_id=9&sj_id=76
+  ขณะที่กลุ่มชาติพันธุ์กะเหรี่ยงที่อาศัยอยู่ในภาคตะวันตกของประเทศไทย จะประกอบอาหารรับประทานจากวัตถุดิบที่มีอยู่ในพื้นที่ เช่น ชะอม แตง มะขาม ยอดกระถิน ผักบุ้ง เห็ดปลวก ใบชะพลู ตะไคร้ ชะอมป่า ยอดมะรุม มะเขือเหลือง ผักกูด ลูกสะเนียง หัวปลี พริก มะระ ดอกข่า ยอดตำลึง ตุ่น หอยตลับ หอยขม ปลาไหล ปลาช่อน  เลี...
+* **specific_entities:**
+    * **local_names:**
+        * **Item 1:**
+            * **name:** -
+            * **context_quote:** -
+    * **traditional_uses:**
+        * **Item 1:**
+            * **use:** -
+            * **context_quote:** -
+    * **processing_methods:**
+        * **Item 1:**
+            * **method:** -
+            * **description_quote:** -

@@ -1,0 +1,11 @@
+{
+  "model": "meta/llama-3.3-70b-instruct",
+  "herbs": "Acacia concinna",
+  "runtime_sec": 817.97,
+  "cpu_percent": 0.8,
+  "memory_mb_change": 193.41,
+  "total_tokens": 0,
+  "prompt_tokens": 0,
+  "completion_tokens": 0,
+  "total_cost": 0.0
+}

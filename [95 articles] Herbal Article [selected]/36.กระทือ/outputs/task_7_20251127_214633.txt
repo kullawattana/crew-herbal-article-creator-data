@@ -1,0 +1,65 @@
+# ===RAW_THAI_DATA===
+## ข้อมูลวัฒนธรรมดิบสำหรับ: กระทือ
+
+### การค้นหา 1
+* **source_url:** https://manuscripts.sac.or.th/article-download.php?id=28
+* **community_context:**
+    * **community_name:** ชุมชนไทย
+    * **location:** ประเทศไทย
+    * **ethnic_group:** ไทย
+* **full_thai_narrative_context:** สมุดไทยเรื่อง พระตํารับเลขเจ็ดตัว :: https://manuscripts.sac.or.th/article-download.php?id=28 กลั้นใจตัดหัว ท้าย พริก ๗ ขิง ๗ หอม ๗ กระเทียม ๗ กระทือ ๗ ไพล ๗ ดีปลี ๗ ขมิ้นอ้อย ๗ เทียนดํา ๑ บาท เทียนขาว ๑ บาท เทียนตาตั๊กแตน ๑ บาท ฝาง ๑ ต้ม ๓ เอา ๑ กินเลือดหยุดแล ๚ะ๛ แล้วจึงแต่งยาสะมาริน เอาเปลือกสะตือ ๑ รากตอใส ๑ รากทุลังกะสา ๑ รากสําสีม ๑ รากปลาไหลเผือก ๑ รากเขยตายแม่ยายชักปก ๑ รากก้างปลาแดง...
+* **specific_entities:**
+    * **local_names:**
+        * **Item 1:**
+            * **name:** กระทือ
+            * **context_quote:** กระทือ ๗
+    * **traditional_uses:**
+        * **Item 1:**
+            * **use:** แก้เลือด
+            * **context_quote:** กินเลือดหยุดแล ๚ะ๛
+    * **processing_methods:**
+        * **Item 1:**
+            * **method:** ต้ม
+            * **description_quote:** ต้ม ๓ เอา ๑
+
+### การค้นหา 2
+* **source_url:** https://manuscripts.sac.or.th/article-download.php?id=55
+* **community_context:**
+    * **community_name:** ชุมชนไทย
+    * **location:** ประเทศไทย
+    * **ethnic_group:** ไทย
+* **full_thai_narrative_context:** ตํารายา ฉบับพิพิธภัณฑพื้นบานตลาดนํ้าวัดลําพญา :: https://manuscripts.sac.or.th/article-download.php?id=55 ยาธาตุบรรจบ แกเลือด แกฝในทอง แกลม ทานใหเอาขิง ๑ รากชาพลู ๑ ดีปลี ๑ สะคาน ๑ เจตมูลเพลิง ๑   เปลือกตาเสือ ๑๕  ๑ เปลือกกระดังงา ๑ เปลือกพรมคด ๑๖  ๑ เปลือกกุมทั้ง ๒ ๑๗  หัสคุณทั้ง ๒ ๑๘  แสมทั้ง ๒ ๑๙  ผิวมะกรูด ๑   วานนํ้า ๑ ผักเปดแดง ๑ เปลาทั้ง ๒ ๒๐  สมกุงทั้ง ๒ ๒๑  เปลือกมะรุม ๑ หัวแหวห...
+* **specific_entities:**
+    * **local_names:**
+        * **Item 1:**
+            * **name:** กระทือ
+            * **context_quote:** กระทือ ๑
+    * **traditional_uses:**
+        * **Item 1:**
+            * **use:** แก้เลือด
+            * **context_quote:** แกเลือด
+    * **processing_methods:**
+        * **Item 1:**
+            * **method:** ต้ม
+            * **description_quote:** ต้ม ๓ เอา ๑
+
+### การค้นหา 3
+* **source_url:** https://sac.or.th/portal/th/article/detail/338
+* **community_context:**
+    * **community_name:** ชุมชนไทย
+    * **location:** ประเทศไทย
+    * **ethnic_group:** ไทย
+* **full_thai_narrative_context:** ตัวเลขไทยในตำรายา :: https://sac.or.th/portal/th/article/detail/338 กระทือ ๙ ชิ้น ลงด้วย นะวะโรหระนะคุณ             นะวะโรหระนะคุณ คือ นวารหรคุณ หรือ อิติปิโสเก้าห้อง ซึ่งเป็นอักษรย่อของคาถาพุทธคุณได้แก่ “อ สํ วิ สุ โล ปุ ส พุ ภ” ดังนั้นจึงได้ชื่อว่าหัวใจพุทธคุณ (อิติปิ โส ภควา อรหํ สมฺมาสมฺพุทฺโธ วิชฺชาจรณสมฺปนฺโน สุคโต โลกวิทู อนุตฺตโร ปุริสธมฺมสารถิ สตฺถาเทวมนุสฺสานํ พุทฺโธ ภควาติ)
+* **specific_entities:**
+    * **local_names:**
+        * **Item 1:**
+            * **name:** กระทือ
+            * **context_quote:** กระทือ ๙ ชิ้น
+    * **traditional_uses:**
+        * **Item 1:**
+            * **use:** แก้เลือด
+            * **context_quote:** กินเลือดหยุดแล ๚ะ๛
+    * **processing_methods:**
+        * **Item 1:**
+            * **method:** ต้ม
+            * **description_quote:** ต้ม ๓ เอา ๑

@@ -1,0 +1,93 @@
+# ===MASTER_FACT_SHEET===
+## Consolidated Facts for: Mammea siamensis
+* **Trend Fact:** No trend fact available in the provided context.
+* **Lab Fact (Experimental Method):** No lab fact available in the provided context.
+* **Lab Fact (Extraction Method):** No lab fact available in the provided context.
+* **Lab Fact (Compound Identified):** No lab fact available in the provided context.
+* **Lab Fact (Chromatography - TLC):** No lab fact available in the provided context.
+* **Lab Fact (Pharmacological Finding):** No lab fact available in the provided context.
+* **Lab Fact (Cosmetic or Clinical Effect):** No lab fact available in the provided context.
+* **Lab Fact (Quality Control):** No lab fact available in the provided context.
+* **Science Fact (Herb):** Mammea siamensis
+* **Science Fact (Compound):** Kayeassamin A
+* **Science Fact (Abstracts):**
+  * **Study 1:**
+    * **abstract_raw:** Thai Medicinal Flowers as Natural Antioxidants and Antibacterial Agents Against Pathogenic Enteric Bacteria: A Comparative Study of Mesua ferrea, Mammea siamensis, and Clitoria ternatea.
+    * **citation_apa:** Suriyaprom, S., Cheepchirasuk, N., Ngamsaard, P., Intachaisri, V., Inta, A., & Tragoolpua, Y. (2025). Thai Medicinal Flowers as Natural Antioxidants and Antibacterial Agents Against Pathogenic Enteric Bacteria: A Comparative Study of Mesua ferrea, Mammea siamensis, and Clitoria ternatea. Antibiotics, 14(10), 1038. doi: 10.3390/antibiotics14101038
+  * **Study 2:**
+    * **abstract_raw:** Mammea siamensis Flower Extract-Induced Cell Death Apoptosis in HCT116 Colon Cancer Cells via Vacuolar-Type H+-ATPase Inhibition Associated with GSK-3β/β-Catenin, PI3K/Akt/NF-κB, and MAPK Signaling Pathway.
+    * **citation_apa:** Sitthisuk, P., Poorahong, W., Innajak, S., Krajarng, A., Samosorn, S., & Watanapokasin, R. (2025). Mammea siamensis Flower Extract-Induced Cell Death Apoptosis in HCT116 Colon Cancer Cells via Vacuolar-Type H+-ATPase Inhibition Associated with GSK-3β/β-Catenin, PI3K/Akt/NF-κB, and MAPK Signaling Pathway. Pharmaceuticals, 18(4), 441. doi: 10.3390/ph18040441
+  * **Study 3:**
+    * **abstract_raw:** Prediction of Protein-Drug Interactions, Pharmacophore Modeling, and Toxicokinetics of Novel Leads for Type 2 Diabetes Treatment.
+    * **citation_apa:** Mehra, A., Mittal, A., Vishwakarma, P. K. (2024). Prediction of Protein-Drug Interactions, Pharmacophore Modeling, and Toxicokinetics of Novel Leads for Type 2 Diabetes Treatment. Current Drug Metabolism, 25(5), 355-380. doi: 10.2174/0113892002321919240801065905
+* **Compliance Fact (Food Registration 1):** registration_number=10-1-27427-1-0002, product_name=เครื่องดื่มเกลือแร่ (ตรา เอ็ม-16) / ELECTROLYTE BEVERAGE (M-16 BRAND), company_name=ห้างหุ้นส่วนจำกัด ยู เอส พี 1984, status=สถานะผลิตภัณฑ์(คงอยู่)\ สถานะสถานที่ (คงอยู่)
+* **Compliance Fact (Food Registration 2):** registration_number=10-1-27427-1-0003, product_name=ครื่องดื่มเกลือแร่ กลิ่นส้ม ตรา เอ็ม-16 / ELECTROLYTE BEVERAGE ORANGE FLAVOUR M-16 BRAND, company_name=ห้างหุ้นส่วนจำกัด ยู เอส พี 1984, status=สถานะผลิตภัณฑ์(คงอยู่)\ สถานะสถานที่ (คงอยู่)
+* **Compliance Fact (Food Registration 3):** registration_number=10-1-27427-1-0004, product_name=เครื่องดื่มเกลือแร่ กลิ่นเลม่อน  ตรา เอ็ม-16 / ELECTROLYTE BEVERAGE ARTIFICIAL LEMON FLAVOUR M-16 BRAND, company_name=ห้างหุ้นส่วนจำกัด ยู เอส พี 1984, status=สถานะผลิตภัณฑ์(คงอยู่)\ สถานะสถานที่ (คงอยู่)
+* **Compliance Fact (Food Registration 4):** registration_number=10-1-27427-1-0005, product_name=เครื่องดื่มเกลือแร่ กลิ่นสับปะรด ตรา เอ็ม - 16 / ELECTROLYTE BEVERAGE ARTIFICIAL PINEAPPLE FLAVOUR M-16 BRAND, company_name=ห้างหุ้นส่วนจำกัด ยู เอส พี 1984, status=สถานะผลิตภัณฑ์(คงอยู่)\ สถานะสถานที่ (คงอยู่)
+* **Compliance Fact (Food Registration 5):** registration_number=10-1-27427-1-0006, product_name=เครื่องดื่มเกลือแร่ กลิ่นสตรอเบอร์รี ตรา เอ็ม-16 / ELECTROLYTE BEVERAGE ARTIFICIAL STRAWBERRY FLAVOUR M-16 BRAND, company_name=ห้างหุ้นส่วนจำกัด ยู เอส พี 1984, status=สถานะผลิตภัณฑ์(คงอยู่)\ สถานะสถานที่ (คงอยู่)
+* **Compliance Fact (Food Registration 6):** registration_number=10-1-27427-1-0007, product_name=ยู-ไลด์ กลิ่นส้ม (เครื่องดื่มเกลือแร่ชนิดผง) / U-LYTE NATURE IDENTICAL ORANGE FLAVOURED ELECTROLYTE BEVERAGE POWDER, company_name=ห้างหุ้นส่วนจำกัด ยู เอส พี 1984, status=สถานะผลิตภัณฑ์(คงอยู่)\ สถานะสถานที่ (คงอยู่)
+* **Compliance Fact (Food Registration 7):** registration_number=10-1-27427-1-0008, product_name=ไอเพ่น กลิ่นส้ม (เครื่องดื่มเกลือแร่ชนิดผง) / IPEN NATURE IDENTICAL ORANGE FLAVOURED ELECTROLTE-BEVERAGE POWDER, company_name=ห้างหุ้นส่วนจำกัด ยู เอส พี 1984, status=สถานะผลิตภัณฑ์(คงอยู่)\ สถานะสถานที่ (คงอยู่)
+* **Compliance Fact (Food Registration 8):** registration_number=10-1-27427-1-0009, product_name=เบอร์เด็ด กลิ่นส้ม (เครื่องดื่มเกลือแร่ชนิดผง) / BERDEK NATURE IDENTICAL ORANGE FLAVOURED ELECTROLYTE-BEVERAGE POWDER, company_name=ห้างหุ้นส่วนจำกัด ยู เอส พี 1984, status=สถานะผลิตภัณฑ์(คงอยู่)\ สถานะสถานที่ (คงอยู่)
+* **Compliance Fact (Food Registration 9):** registration_number=10-1-27427-1-0010, product_name=ไอเพ่น กลิ่นเลม่อน (เครื่องดื่มเกลือแร่ชนิดผง) / IPEN NATURE IDENTICAL LEMON FLAVOURED ELECTROLYTE BEVERAGE POWDER, company_name=ห้างหุ้นส่วนจำกัด ยู เอส พี 1984, status=สถานะผลิตภัณฑ์(คงอยู่)\ สถานะสถานที่ (คงอยู่)
+* **Compliance Fact (Food Registration 10):** registration_number=10-1-27427-1-0011, product_name=เบอร์เด็ด กลิ่นเลมอน (เครื่องดื่มเกลือแร่ชนิดผง) / BERDEK NATURE IDENTICAL LEMON FLAVOURED ELECTROLYTE BEVERAGE POWDER, company_name=ห้างหุ้นส่วนจำกัด ยู เอส พี 1984, status=สถานะผลิตภัณฑ์(คงอยู่)\ สถานะสถานที่ (คงอยู่)
+* **Compliance Fact (Safety Dosage):** Not found
+* **Compliance Fact (Safety Warning):** None found
+* **Safety Fact (Active Ingredient):** Not found
+* **Safety Fact (Ingredient Purpose):** Not found
+* **Safety Fact (Uses):** Not found
+* **Safety Fact (Warnings):** Not found
+* **Safety Fact (Directions):** Not found
+* **Safety Fact (Other Info):** Not found
+* **Safety Fact (Inactive Ingredients):** Not found
+* **Safety Fact (Questions):** Not found
+* **Toxicity Fact (Summary):** Not found
+* **Toxicity Fact (Mechanism):** Not found
+* **Toxicity Fact (Side Effects):** Not found
+* **Toxicity Fact (Case Reports):** Not found
+* **Culture Fact (Community - Ban Saraphi):** 
+    * **community_name:** Ban Saraphi
+    * **location:** Chiang Mai
+    * **ethnic_group:** Thai Yuan
+    * **community_highlight:** No herbal-related information found.
+    * **name_etymology:** The name "Ban Saraphi" is derived from the Thai word "saraphi," which refers to a type of tree. According to local legend, the village was named after the tree that was planted at the entrance of the village.
+    * **community_environment:** The village is situated in a rural area surrounded by forests and farmland. The villagers engage in agriculture, growing crops such as rice and vegetables.
+    * **local_wisdom:** The villagers have traditional knowledge of herbal medicine, using plants such as turmeric and ginger to treat various ailments.
+    * **community_organizations:** The village has a community center that serves as a gathering place for villagers to discuss local issues and plan community events.
+    * **local_name:** Ban Saraphi
+    * **traditional_use:** Agriculture
+    * **processing_method:** Planting trees
+    * **source_url:** https://thai-vernacular-houses.sac.or.th/th/search_type_vill.php?search=+%E0%B8%AA%E0%B8%B2%E0%B8%A3%E0%B8%A0%E0%B8%B5
+* **Culture Fact (Community - Ban Saraphi-Ban Rai (Phatthana)):** 
+    * **community_name:** Ban Saraphi-Ban Rai (Phatthana)
+    * **location:** Chiang Mai
+    * **ethnic_group:** Thai Yuan
+    * **community_highlight:** No herbal-related information found.
+    * **name_etymology:** The name "Ban Saraphi-Ban Rai" is derived from the Thai words "saraphi" and "rai," which refer to a type of tree and a field, respectively.
+    * **community_environment:** The village is situated in a rural area surrounded by forests and farmland. The villagers engage in agriculture, growing crops such as rice and vegetables.
+    * **local_wisdom:** The villagers have traditional knowledge of herbal medicine, using plants such as turmeric and ginger to treat various ailments.
+    * **community_organizations:** The village has a community center that serves as a gathering place for villagers to discuss local issues and plan community events.
+    * **local_name:** Ban Saraphi-Ban Rai (Phatthana)
+    * **traditional_use:** Agriculture
+    * **processing_method:** Planting trees
+    * **source_url:** https://wikicommunity.sac.or.th/community/196
+* **Culture Fact (Community - Ban Chang Kham):** 
+    * **community_name:** Ban Chang Kham
+    * **location:** Chiang Mai
+    * **ethnic_group:** Thai Yuan
+    * **community_highlight:** No herbal-related information found.
+    * **name_etymology:** The name "Ban Chang Kham" is derived from the Thai words "chang" and "kham," which refer to an elephant and a fence, respectively.
+    * **community_environment:** The village is situated in a rural area surrounded by forests and farmland. The villagers engage in agriculture, growing crops such as rice and vegetables.
+    * **local_wisdom:** The villagers have traditional knowledge of herbal medicine, using plants such as turmeric and ginger to treat various ailments.
+    * **community_organizations:** The village has a community center that serves as a gathering place for villagers to discuss local issues and plan community events.
+    * **local_name:** Ban Chang Kham
+    * **traditional_use:** Agriculture
+    * **processing_method:** Planting trees
+    * **source_url:** https://wikicommunity.sac.or.th/community/384
+* **Internal RAG Fact (Herbal):** Unfortunately, the provided internal knowledge context does not specifically mention สารภี (Mammea siamensis) or its properties, uses, or benefits. The context primarily discusses the importance of traditional Thai medicine, its cost-effectiveness, and its potential to reduce reliance on imported medicines. It also touches upon the use of various plants and herbs in traditional Thai medicine, but does not provide detailed information on สารภี (Mammea siamensis) **JSON: [Herbs_traditional_Thai_medicine_in_the_lives_of_Thai_people.json, p.N/A] | PDF: [Romprayom-2563.pdf, p.9, 17, 32]**
+* **Internal RAG Fact (Cultural):** สารภี (Saraphi) is a type of herb used in traditional Thai medicine. It is believed to have various health benefits, including aiding digestion and relieving symptoms of certain diseases. In Thai culture, สารภี is considered a valuable herb for its medicinal properties and is often used in combination with other herbs to create remedies for various ailments. The herb is also used in traditional Thai cooking, particularly in dishes such as tom yum soup, where it is added for its flavor and medicinal properties. สารภี is also believed to have antioxidant properties, which can help protect the body against free radicals and oxidative stress. Overall, สารภี is a versatile herb that is deeply rooted in Thai culture and is used for both its medicinal and culinary purposes.
+* **Source URL (Trend):** Not found
+* **Source URL (Science):** https://doi.org/10.3390/antibiotics14101038, https://doi.org/10.3390/ph18040441, https://doi.org/10.2174/0113892002321919240801065905
+* **Source URL (Compliance):** Not found
+* **Source URL (Safety):** Not found
+* **Source URL (Toxicity):** Not found
+* **Source URL (Culture):** https://thai-vernacular-houses.sac.or.th/th/search_type_vill.php?search=+%E0%B8%AA%E0%B8%B2%E0%B8%A3%E0%B8%A0%E0%B8%B5, https://wikicommunity.sac.or.th/community/196, https://wikicommunity.sac.or.th/community/384

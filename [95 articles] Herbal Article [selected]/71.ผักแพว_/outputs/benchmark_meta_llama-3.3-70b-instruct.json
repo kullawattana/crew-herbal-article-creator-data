@@ -1,0 +1,11 @@
+{
+  "model": "meta/llama-3.3-70b-instruct",
+  "herbs": "Persicaria odorata",
+  "runtime_sec": 632.66,
+  "cpu_percent": -3.6,
+  "memory_mb_change": -301.47,
+  "total_tokens": 0,
+  "prompt_tokens": 0,
+  "completion_tokens": 0,
+  "total_cost": 0.0
+}

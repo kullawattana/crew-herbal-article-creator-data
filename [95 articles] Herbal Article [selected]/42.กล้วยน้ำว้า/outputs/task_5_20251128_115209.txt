@@ -1,0 +1,44 @@
+# ===SAFETY_DATA=== 
+## International Safety Data for: Musa paradisiaca
+* **herb_name:** Musa paradisiaca
+* **source_browsed:** https://dailymed.nlm.nih.gov/dailymed/fda/fdaDrugXsl.cfm?setid=e35acb33-27de-4eaa-a530-036d2c727d35&type=display
+### Drug Facts Label
+* **active_ingredients:**
+    * **Ingredient 1:**
+        * **name:** Calc Fluor
+        * **strength:** 12X HPUS
+        * **purpose:** deficient teeth enamel; tooth ache; teeth become loose
+    * **Ingredient 2:**
+        * **name:** Calc Phos
+        * **strength:** 12X HPUS
+        * **purpose:** rapid decay of teeth
+    * **Ingredient 3:**
+        * **name:** Kali Phos
+        * **strength:** 6X HPUS
+        * **purpose:** offensive oder from mouth; gums bleed easily
+    * **Ingredient 4:**
+        * **name:** Malus pumila, flos (Crab Apple)
+        * **strength:** 5X HPUS
+        * **purpose:** feeling unclean inside and out
+    * **Ingredient 5:**
+        * **name:** Nat Sulph
+        * **strength:** 6X HPUS
+        * **purpose:** salivates after meals; dryness with redness of gums
+    * **Ingredient 6:**
+        * **name:** Rock Water
+        * **strength:** 5X HPUS
+        * **purpose:** strong desire for self-perfection
+    * **Ingredient 7:**
+        * **name:** Silicea
+        * **strength:** 12X HPUS
+        * **purpose:** bad breath in morning
+    * **Ingredient 8:**
+        * **name:** Ulex europaeus, flos (Gorse)
+        * **strength:** 5X HPUS
+        * **purpose:** stagnation has taken hold
+* **uses:** temporarily relieves symptoms of tooth decay, toothache, bleeding gums, bad breath
+* **warnings:** Stop use and ask a veterinarian if symptoms persist or worsen. Keep out of reach of children.
+* **directions:** pets 31 lbs and heavier: 5 sprays in mouth twice per day 5 days per week. pets 30 lbs and lighter: 3 sprays in mouth twice per day 5 days per week. may be sprayed into pet's water bowl. may be applied externally to the top of pet's head.
+* **other_information:** do not use if plastic seal around cap is broken or missing. store in a cool, dry place.
+* **inactive_ingredients:** Banana*, Floss Flower*, Lemon*, Natural Flavor, Pineapple*, Purified and Structured Water, Snapdragon*, Venus Fly Trap*
+* **questions:** Call 800.570.0021 Between 9am-5pm PST info@siddhaflowers.com siddhaflowers.com

@@ -1,0 +1,32 @@
+# ===AUDIT_DATA_INTEGRITY_REPORT===
+*   **Collaboration Robustness (Data Loss):** 59.15%
+*   **Explanation Clarity (Hallucination/Handling):** 100%
+*   **Dropped Entities (Facts in Fact Sheet but not Article):**
+    -   Culture Fact (Community Highlight - Yang Na): population of approximately 1,000 people.
+    -   Culture Fact (Name Etymology - Yang Na): The name "Yang Na" is used to refer to the Karen community in Prachinburi Province.
+    -   Culture Fact (Processing - Yang Na): Machine use
+    -   Culture Fact (Community - Luk Yang)
+    -   Culture Fact (Location - Luk Yang): Not specified
+    -   Culture Fact (Ethnic Group - Luk Yang): Not specified
+    -   Culture Fact (Community Highlight - Luk Yang): No herbal-related information found.
+    -   Culture Fact (Name Etymology - Luk Yang): Luk Yang is a toy made from bamboo, with a spherical shape and 2-3-5 fins, containing seeds inside.
+    -   Culture Fact (Environment - Luk Yang): No herbal-related information found.
+    -   Culture Fact (Local Wisdom - Luk Yang): No herbal-related information found.
+    -   Culture Fact (Organization - Luk Yang): No herbal-related information found.
+    -   Culture Fact (Local Name - Luk Yang): Luk Yang
+    -   Culture Fact (Use - Luk Yang): Playing
+    -   Culture Fact (Processing - Luk Yang): Cutting
+    -   Culture Fact (Community - Museum of Ethnology)
+    -   Culture Fact (Location - Museum of Ethnology): Mae Hong Son Province
+    -   Culture Fact (Ethnic Group - Museum of Ethnology): Not specified
+    -   Culture Fact (Community Highlight - Museum of Ethnology): No herbal-related information found.
+    -   Culture Fact (Name Etymology - Museum of Ethnology): The Museum of Ethnology is a museum related to people, emphasizing community and ethnic group participation.
+    -   Culture Fact (Environment - Museum of Ethnology): No herbal-related information found.
+    -   Culture Fact (Local Wisdom - Museum of Ethnology): No herbal-related information found.
+    -   Culture Fact (Organization - Museum of Ethnology): No herbal-related information found.
+    -   Culture Fact (Local Name - Museum of Ethnology): Museum of Ethnology
+    -   Culture Fact (Use - Museum of Ethnology): Exhibition
+    -   Culture Fact (Processing - Museum of Ethnology): Management
+*   **Hallucinated Entities (Facts in Article but not Fact Sheet):**
+    -   None
+*   **Feedback:** The Final Article demonstrated strong performance in clarity and avoiding hallucination, with all factual claims directly traceable to the Master Fact Sheet, and all "Not Found" entries handled correctly by either omission or explicit acknowledgment as a constraint. However, there was significant data loss in the "Collaboration Robustness" aspect, particularly concerning detailed cultural facts from the "Luk Yang" and "Museum of Ethnology" communities, which were entirely absent from the article. Minor details from the "Yang Na" community's highlight, name etymology, and processing method were also dropped. The article focused primarily on scientific and safety aspects, leading to the omission of a large portion of the cultural data provided in the fact sheet.

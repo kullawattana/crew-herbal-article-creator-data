@@ -1,0 +1,22 @@
+# ===RESEARCH_DATA===
+## Scientific Evidence for: Dipterocarpus alatus
+* **herb_name:** Dipterocarpus alatus
+* **herb_name_scientific:** Dipterocarpus alatus
+### Validated Compounds
+* **Compound 1:**
+    * **compound_name:** Salicylic acid
+    * **mechanism_name:** Anti-inflammatory
+    * **supporting_studies:**
+        * **Study 1:** (Data from the first item in studies_data)
+            * **study_type:** Journal Article
+            * **abstract_raw:** The Characteristics and Biological Activities of Niosome-Entrapped Salicylic Acid-Contained Oleoresin from <i>Dipterocarpus alatus</i> for Skin Product Applications.
+            * **key_findings:** The incorporation of ODA into the niosome formulation has the potential to improve the entrapment efficiency of SA, facilitating controlled release and enhancing permeation, nitric oxide inhibition capabilities, and anti<i>-P. acnes</i> activity.
+            * **pmid:** 39350790
+            * **canonical_url:** https://doi.org/10.1155/2024/1642653
+            * **citation_apa:** Kanpipit, N., Thapphasaraphong, S., Phupaboon, P., & Puthongking, P. (2024). The Characteristics and Biological Activities of Niosome-Entrapped Salicylic Acid-Contained Oleoresin from <i>Dipterocarpus alatus</i> for Skin Product Applications. Advances in Pharmacological and Pharmaceutical Sciences, 2024, 1642653. doi: 10.1155/2024/1642653
+        * **Study 2:** (Data from the second item...)
+            * ...
+        * (Up to 3 studies)
+
+### Overall Summary
+* **summary:** Dipterocarpus alatus has been found to have anti-inflammatory properties, with salicylic acid being a validated compound.

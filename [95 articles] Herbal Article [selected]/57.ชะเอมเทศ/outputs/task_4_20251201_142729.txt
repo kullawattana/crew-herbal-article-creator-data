@@ -1,0 +1,7 @@
+# ===COMPLIANCE_DATA===
+## Thai FDA Status for: Glycyrrhiza glabra
+* **herb_name:** Glycyrrhiza glabra
+### Food Registrations
+* None found.
+### Drug Registrations
+* None found.

@@ -1,0 +1,61 @@
+# ===MASTER_FACT_SHEET=== 
+## Consolidated Facts for: Cymbopogon citratus
+* **Trend Fact:** No trend fact available in the provided context.
+* **Lab Fact (Experimental Method):** No lab fact available in the provided context.
+* **Lab Fact (Extraction Method):** No lab fact available in the provided context.
+* **Lab Fact (Compound Identified):** No lab fact available in the provided context.
+* **Lab Fact (Chromatography - TLC):** No lab fact available in the provided context.
+* **Lab Fact (Pharmacological Finding):** No lab fact available in the provided context.
+* **Lab Fact (Cosmetic or Clinical Effect):** No lab fact available in the provided context.
+* **Lab Fact (Quality Control):** No lab fact available in the provided context.
+* **Science Fact (Herb):** Cymbopogon citratus
+* **Science Fact (Compound):** No compound fact available in the provided context.
+* **Science Fact (Abstracts):**
+  * **Study 1:**
+    * **abstract_raw:** No abstract available in the provided context.
+    * **citation_apa:** No citation available in the provided context.
+  * **Study 2:**
+    * **abstract_raw:** No abstract available in the provided context.
+    * **citation_apa:** No citation available in the provided context.
+  * **Study 3:**
+    * **abstract_raw:** No abstract available in the provided context.
+    * **citation_apa:** No citation available in the provided context.
+* **Compliance Fact (Food Registration 1):** registration_number=10-1-00155-5-0026, product_name=ตะไคร้ผง / Lemongrass Powder, company_name=ร้าน ต เจริญ 88, status=สถานะผลิตภัณฑ์(คงอยู่)\ สถานะสถานที่ (คงอยู่)
+* **Compliance Fact (Food Registration 2):** registration_number=10-1-00450-1-0006, product_name=ชาสมุนไพร ตะไคร้ (ตราเอ็นทู ที) / LEMON GRASS HERBAL TEA (N2 TEA BRAND), company_name=บริษัท คัลเลอร์-พลาส จำกัด, status=สถานะผลิตภัณฑ์(คงอยู่)\ สถานะสถานที่ (คงอยู่)
+* **Compliance Fact (Food Registration 3):** registration_number=10-1-00654-1-0112, product_name=ไก่ทอด รสสมุนไพร (ตะไคร้, ใบเตย, พริกไทยดำ, ขมิ้นชัน) (ตรา ใต้ตะวัน), company_name=ห้างหุ้นส่วนจำกัด หาญบิสิเนส-อินเตอร์เนชั่นแนล, status=สถานะผลิตภัณฑ์(ยกเลิก 8/3/2560) \ สถานะสถานที่ (ขาดต่ออายุ 31/12/2559)
+* **Compliance Fact (Food Registration 4):** registration_number=10-1-00654-1-0117, product_name=ทอดมันปลาหมึก รสสมุนไพร (ตะไคร้, ใบเตย, พริกไทยดำ, ขมิ้นชัน) (ตรา ใต้ตะวัน), company_name=ห้างหุ้นส่วนจำกัด หาญบิสิเนส-อินเตอร์เนชั่นแนล, status=สถานะผลิตภัณฑ์(ยกเลิก 8/3/2560) \ สถานะสถานที่ (ขาดต่ออายุ 31/12/2559)
+* **Compliance Fact (Food Registration 5):** registration_number=10-1-00654-1-0121, product_name=แหนมเห็ดรสสมุนไพร (ตะไคร้, ขิง, กระเทียม, ใบเตย, พริกไทยดำ) (ตรา แซ่บจัง), company_name=ห้างหุ้นส่วนจำกัด หาญบิสิเนส-อินเตอร์เนชั่นแนล, status=สถานะผลิตภัณฑ์(ยกเลิก 8/3/2560) \ สถานะสถานที่ (ขาดต่ออายุ 31/12/2559)
+* **Compliance Fact (Safety Dosage):** No safety dosage fact available in the provided context.
+* **Compliance Fact (Safety Warning):** No safety warning fact available in the provided context.
+* **Safety Fact (Active Ingredient):** No active ingredient fact available in the provided context.
+* **Safety Fact (Ingredient Purpose):** No ingredient purpose fact available in the provided context.
+* **Safety Fact (Uses):** No uses fact available in the provided context.
+* **Safety Fact (Warnings):** No warnings fact available in the provided context.
+* **Safety Fact (Directions):** No directions fact available in the provided context.
+* **Safety Fact (Other Info):** No other info fact available in the provided context.
+* **Safety Fact (Inactive Ingredients):** No inactive ingredients fact available in the provided context.
+* **Safety Fact (Questions):** No questions fact available in the provided context.
+* **Toxicity Fact (Summary):** Cymbopogon citratus, also known as lemongrass, is a perennial herb that has been used in traditional medicine for various purposes, including nervousness, anxiety, insomnia, and menstrual irregularities. The essential oil of Cymbopogon citratus has been shown to have antimicrobial and antifungal properties, and has been used to treat various health conditions, including digestive problems and skin conditions. However, there is limited information available on the toxicity of Cymbopogon citratus, and it is not clear whether it is safe for human consumption.
+* **Toxicity Fact (Mechanism):** The mechanism of injury for Cymbopogon citratus is not well understood, but it is thought to be related to the presence of certain compounds, such as citral and geranial, which have been shown to have antimicrobial and antifungal properties.
+* **Toxicity Fact (Side Effects):** There are limited reports of side effects associated with the use of Cymbopogon citratus, but they may include allergic reactions, skin irritation, and digestive problems.
+* **Toxicity Fact (Case Reports):** There are no reported cases of liver injury associated with the use of Cymbopogon citratus.
+* **Culture Fact (Community - Rawai Beach Community):** community_name=Rawai Beach Community
+* **Culture Fact (Location - Rawai Beach Community):** location=Phuket Province
+* **Culture Fact (Ethnic Group - Rawai Beach Community):** ethnic_group=Urak Lawoi
+* **Culture Fact (Community Highlight - Rawai Beach Community):** community_highlight=The Rawai Beach Community is a coastal ethnic group that relies heavily on the marine ecosystem. Their food security is closely tied to the availability of land and food sources. The community's use of lemongrass is an example of their resourcefulness in utilizing local ingredients for cooking.
+* **Culture Fact (Name Etymology - Rawai Beach Community):** name_etymology=No herbal-related information found.
+* **Culture Fact (Environment - Rawai Beach Community):** community_environment=The community's environment is characterized by a rich marine ecosystem, which provides them with a diverse range of food sources, including lemongrass.
+* **Culture Fact (Local Wisdom - Rawai Beach Community):** local_wisdom=The community's traditional use of lemongrass in cooking is an example of their local wisdom in utilizing available resources to create nutritious and flavorful dishes.
+* **Culture Fact (Organization - Rawai Beach Community):** community_organizations=No herbal-related information found.
+* **Culture Fact (Local Name - Rawai Beach Community):** local_name=Lemongrass, context_quote=The Rawai Beach Community uses lemongrass in cooking and it is one of the most commonly found vegetables in the area.
+* **Culture Fact (Use - Rawai Beach Community):** traditional_use=Cooking, context_quote=The Rawai Beach Community uses lemongrass in cooking and it is one of the most commonly found vegetables in the area.
+* **Culture Fact (Processing - Rawai Beach Community):** processing_method=Cooking, description_quote=The Rawai Beach Community uses lemongrass in cooking and it is one of the most commonly found vegetables in the area.
+* **Culture Fact (Source - Rawai Beach Community):** source_url=https://ethnicredb.sac.or.th/research_detail.php?id=2099
+* **Internal RAG Fact (Herbal):** Cymbopogon citratus, also known as ตะไคร้, is not explicitly mentioned in the provided internal knowledge context. However, the context discusses Thai traditional medicine, its benefits, and the use of herbs in traditional Thai medicine. It highlights the importance of using locally grown herbs, which are free from chemicals and can be consumed fresh, as a way to maintain good health. The context also mentions the use of certain herbs, such as ใบมะกรูด (lemon balm), in traditional Thai medicine to treat various ailments. Additionally, it touches on the topic of food and health, emphasizing the importance of eating seasonal foods and using them as medicine to maintain good health. Overall, the context provides insight into the traditional Thai approach to health and wellness, emphasizing the use of natural herbs and locally grown foods.
+* **Internal RAG Fact (Cultural):** Lemongrass, also known as ตะไคร้, is a herb commonly used in Thai cuisine and traditional medicine. It has been used for healing purposes in Thai wisdom for a long time. Lemongrass is known for its citrusy flavor and aroma, and is often used in soups, curries, and other dishes. In traditional Thai medicine, lemongrass is believed to have various health benefits, including reducing inflammation, improving digestion, and relieving stress. It is also used as a natural remedy for fever, colds, and coughs. Additionally, lemongrass is used in traditional Thai massage to help relieve muscle tension and improve circulation. Overall, lemongrass is a versatile and fragrant herb that has been an integral part of Thai culture and traditional medicine for centuries.
+* **Source URL (Trend):** No trend URL available in the provided context.
+* **Source URL (Science):** No science URL available in the provided context.
+* **Source URL (Compliance):** https://www.fda.moph.go.th/
+* **Source URL (Safety):** https://dailymed.nlm.nih.gov/
+* **Source URL (Toxicity):** https://www.ncbi.nlm.nih.gov/books/NBK600583/
+* **Source URL (Culture):** https://ethnicredb.sac.or.th/research_detail.php?id=2099

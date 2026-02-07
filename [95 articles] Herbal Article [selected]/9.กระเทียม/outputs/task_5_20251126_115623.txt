@@ -1,0 +1,18 @@
+# ===SAFETY_DATA===
+## International Safety Data for: Allium sativum
+* **herb_name:** Allium sativum
+* **source_browsed:** https://dailymed.nlm.nih.gov/dailymed/drugInfo.cfm?setid=138cc555-f2da-5a55-e063-6394a90aba99&audience=consumer
+
+### Drug Facts Label
+* **active_ingredients:**
+    * **Ingredient 1:**
+        * **name:** Allium sativum
+        * **strength:** 200CK HPUS
+        * **purpose:** Relieves acid indigestion and bloating from overindulgence
+    * None found.
+* **uses:** Relieves acid indigestion and bloating from overindulgence
+* **warnings:** Stop use and ask a doctor if symptoms persist for more than 3 days or worsen.
+* **directions:** Adults and children: At the onset of symptoms, dissolve 5 pellets under the tongue 3 times a day until symptoms are relieved or as directed by a doctor.
+* **other_information:** Do not use if pellet dispenser seal is broken. Contains approx.80 pellets.
+* **inactive_ingredients:** lactose, sucrose
+* **questions:** BoironUSA.com Info@boiron.com 1-800-BOIRON-1 (1-800-264-7661) Distributed by Boiron, Inc. Newtown Square, PA 19073

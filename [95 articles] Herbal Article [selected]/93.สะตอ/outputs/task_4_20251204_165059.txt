@@ -1,0 +1,54 @@
+# ===COMPLIANCE_DATA===
+## Thai FDA Status for: Parkia speciosa
+* **herb_name:** Parkia speciosa
+### Food Registrations
+* **Food Registration 1:**
+    * **registration_number:** 10-1-02358-1-0437
+    * **product_name:** สะตอแกะ ตัดแต่ง
+    * **company_name:** บริษัท ซีพี แอ็กซ์ตร้า จำกัด (มหาชน) สาขา กัลปพฤกษ์
+    * **status:** สถานะผลิตภัณฑ์(คงอยู่)\ สถานะสถานที่ (คงอยู่)
+* **Food Registration 2:**
+    * **registration_number:** 10-1-26640-1-0862
+    * **product_name:** สะตอผัดเห็ด / -
+    * **company_name:** บริษัท เดอะมอลล์ กรุ๊ป จำกัด
+    * **status:** สถานะผลิตภัณฑ์(คงอยู่)\ สถานะสถานที่ (คงอยู่)
+* **Food Registration 3:**
+    * **registration_number:** 10-1-45840-1-0139
+    * **product_name:** สะตอผัดเนื้อปู / -
+    * **company_name:** ร้าน วรนาถ
+    * **status:** สถานะผลิตภัณฑ์(คงอยู่)\ สถานะสถานที่ (คงอยู่)
+* **Food Registration 4:**
+    * **registration_number:** 10-1-45840-1-0140
+    * **product_name:** สะตอผัดกุ้ง / -
+    * **company_name:** ร้าน วรนาถ
+    * **status:** สถานะผลิตภัณฑ์(คงอยู่)\ สถานะสถานที่ (คงอยู่)
+* **Food Registration 5:**
+    * **registration_number:** 10-1-45840-1-0141
+    * **product_name:** สะตอผัดหมู / -
+    * **company_name:** ร้าน วรนาถ
+    * **status:** สถานะผลิตภัณฑ์(คงอยู่)\ สถานะสถานที่ (คงอยู่)
+* **Food Registration 6:**
+    * **registration_number:** 11-2-02657-6-0317
+    * **product_name:** สะตอแกะ /  Stink bean
+    * **company_name:** บริษัท เอ็มเค เรสโตรองต์ กรุ๊ป จำกัด (มหาชน)
+    * **status:** สถานะผลิตภัณฑ์(คงอยู่)\ สถานะสถานที่ (คงอยู่)
+* **Food Registration 7:**
+    * **registration_number:** 12-2-03157-2-0014
+    * **product_name:** สะตอแกะเม็ด
+    * **company_name:** บริษัท เจริญ ออแกนนิค ฟาร์ม จำกัด
+    * **status:** สถานะผลิตภัณฑ์(คงอยู่)\ สถานะสถานที่ (คงอยู่)
+* **Food Registration 8:**
+    * **registration_number:** 13-2-01458-2-0005
+    * **product_name:** สะตอแกะ
+    * **company_name:** วนิดา
+    * **status:** สถานะผลิตภัณฑ์(คงอยู่)\ สถานะสถานที่ (คงอยู่)
+* **Food Registration 9:**
+    * **registration_number:** 13-2-05866-6-0005
+    * **product_name:** สะตอสดแกะเม็ด / Sataw Bean (Fresh Cut)
+    * **company_name:** บริษัท ไชน์โฟร์ท อินเตอร์ จำกัด
+    * **status:** สถานะผลิตภัณฑ์(คงอยู่)\ สถานะสถานที่ (คงอยู่)
+* **Food Registration 10:**
+    * **registration_number:** 13-2-08564-6-0005
+    * **product_name:** สะตอ(แกะ)แพ็คละ
+    * **company_name:** บริษัท ไทย แอ็กโกร เฟรช จำกัด
+    * **status:** สถานะผลิตภัณฑ์(คงอยู่)\ สถานะสถานที่ (คงอยู่)

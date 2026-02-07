@@ -1,0 +1,55 @@
+# ===MASTER_FACT_SHEET=== 
+## Consolidated Facts for: Sesbania grandiflora
+* **Trend Fact:** Not found in the provided context.
+* **Lab Fact (Experimental Method):** Not found in the provided context.
+* **Lab Fact (Extraction Method):** Not found in the provided context.
+* **Lab Fact (Compound Identified):** Not found in the provided context.
+* **Lab Fact (Chromatography - TLC):** Not found in the provided context.
+* **Lab Fact (Pharmacological Finding):** Not found in the provided context.
+* **Lab Fact (Cosmetic or Clinical Effect):** Not found in the provided context.
+* **Lab Fact (Quality Control):** Not found in the provided context.
+* **Science Fact (Herb):** Sesbania grandiflora
+* **Science Fact (Compound):** Not found in the provided context.
+* **Science Fact (Abstracts):**
+  * **Study 1:**
+    * **abstract_raw:** Not found in the provided context.
+    * **citation_apa:** Not found in the provided context.
+* **Compliance Fact (Food Registration 1):** registration_number=19-2-03460-6-0136, product_name=ดอกแคตัดแต่ง / trimmed sesban, company_name=บริษัท ผักอร่อย ฟาร์ม จำกัด, status=สถานะผลิตภัณฑ์(คงอยู่)\ สถานะสถานที่ (คงอยู่)
+* **Compliance Fact (Food Registration 2):** registration_number=40-2-05363-6-0026, product_name=น้ำดื่มตรา ดอกแคร์ /  DOK CARE DRINKING WATER, company_name=บริษัท มหาโชค 888 จำกัด, status=สถานะผลิตภัณฑ์(คงอยู่)\ สถานะสถานที่ (คงอยู่)
+* **Compliance Fact (Food Registration 3):** registration_number=82-4-00157-6-0409, product_name=ดอกแคปเปอร์ในน้ำเกลือ-มอนเต อาร์เจนโต / FRUTTI DI CAPPERO-MONTE ARGENTO, company_name=บริษัท ไซโน ฟูด ไทย จำกัด, status=สถานะผลิตภัณฑ์(ยกเลิกเนื่องจากย้ายใบอนุญาต ) \ สถานะสถานที่ (ย้าย 27/5/2557)
+* **Compliance Fact (Food Registration 4):** registration_number=83-4-00136-2-0014, product_name=ดอกแคปเปอร์ดอง  (ตราเดลิซิ่ง ) / -, company_name=บริษัท อินเตอร์มาร์โก จำกัด, status=สถานะผลิตภัณฑ์(สิ้นสภาพเนื่องจากใบอนุญาตขาดต่ออายุ 31/12/2559) \ สถานะสถานที่ (ขาดต่ออายุ 31/12/2559)
+* **Compliance Fact (Food Registration 5):** registration_number=10-3-44857-6-0409, product_name=ดอกแคปเปอร์ในน้ำเกลือ-มอนเต อาร์เจนโต / FRUTTI DI CAPPERO-MONTE ARGENTO, company_name=บริษัท ไซโน ฟูด ไทย จำกัด, status=สถานะผลิตภัณฑ์(คงอยู่)\ สถานะสถานที่ (คงอยู่)
+* **Compliance Fact (Safety Dosage):** Not found in the provided context.
+* **Compliance Fact (Safety Warning):** Not found in the provided context.
+* **Safety Fact (Active Ingredient):** Not found in the provided context.
+* **Safety Fact (Ingredient Purpose):** Not found in the provided context.
+* **Safety Fact (Uses):** Not found in the provided context.
+* **Safety Fact (Warnings):** Not found in the provided context.
+* **Safety Fact (Directions):** Not found in the provided context.
+* **Safety Fact (Other Info):** Not found in the provided context.
+* **Safety Fact (Inactive Ingredients):** Not found in the provided context.
+* **Safety Fact (Questions):** Not found in the provided context.
+* **Toxicity Fact (Summary):** Sesbania grandiflora has been found to have potential toxicity, particularly in relation to lead exposure. The plant has been shown to accumulate lead in its roots and shoots, and high concentrations of lead have been found to affect the plant's growth and biochemical processes. However, the plant also has mechanisms to tolerate and detoxify lead, including the production of antioxidants and the activation of defense genes.
+* **Toxicity Fact (Mechanism):** The mechanism of injury for Sesbania grandiflora is not fully understood, but it is thought to involve the accumulation of lead in the plant's tissues, which can lead to oxidative stress and damage to cellular components.
+* **Toxicity Fact (Side Effects):** There are no reported side effects of Sesbania grandiflora toxicity in humans. However, the plant's potential to accumulate lead and other heavy metals may pose a risk to human health if ingested or exposed to in large quantities.
+* **Toxicity Fact (Case Reports):** There are no case reports of Sesbania grandiflora toxicity in humans. However, studies have shown that the plant can tolerate and detoxify lead and other heavy metals, which may have implications for its use in phytoremediation and other applications.
+* **Culture Fact (Community - Ban Klang):** Ban Klang
+* **Culture Fact (Location - Ban Klang):** Lampang Province
+* **Culture Fact (Ethnic Group - Ban Klang):** Karen Pwo
+* **Culture Fact (Community Highlight - Ban Klang):** The Ban Klang community is a Karen Pwo ethnic group that has been living in the area for over 300 years. The community is known for its rich cultural heritage and traditional practices, including the use of herbal medicine. The community has a strong connection with nature and uses various plants and herbs for food, medicine, and other purposes.
+* **Culture Fact (Name Etymology - Ban Klang):** The name "Ban Klang" is derived from the Karen language, which means "middle village." The community is situated in a valley surrounded by mountains, and the name reflects its geographical location.
+* **Culture Fact (Environment - Ban Klang):** The community is located in a mountainous area with a rich biodiversity of flora and fauna. The community has a strong tradition of living in harmony with nature and uses sustainable practices to manage the natural resources.
+* **Culture Fact (Local Wisdom - Ban Klang):** The community has a rich tradition of herbal medicine, and the elderly members of the community are knowledgeable about the various plants and herbs that can be used for medicinal purposes. The community also has a strong tradition of storytelling and passing down knowledge from one generation to the next.
+* **Culture Fact (Organization - Ban Klang):** The community has a number of organizations that work together to promote the well-being of the community, including the village committee, the women's group, and the youth group. These organizations work together to manage the community's resources, provide support to members, and promote the community's cultural heritage.
+* **Culture Fact (Local Name - Ban Klang):** Dork Kae
+* **Culture Fact (Use - Ban Klang):** Dork Kae is a plant that can be used as a food source, and it is often eaten during the summer months when it is in season.
+* **Culture Fact (Processing - Ban Klang):** Dork Kae can be cooked in a variety of ways, including boiling, steaming, and frying, and it is often served as a side dish or used as an ingredient in traditional dishes.
+* **Culture Fact (Source - Ban Klang):** https://wikicommunity.sac.or.th/community/1213
+* **Internal RAG Fact (Herbal):** Sesbania grandiflora, also known as ดอกแค, is not explicitly mentioned in the provided internal knowledge context. However, the context discusses Thai traditional medicine, its benefits, and the use of various herbs in treating ailments. It highlights the importance of using locally grown and chemical-free herbs, such as ใบมะกรูด, which can be safely consumed and used to promote health. The context also touches on the traditional practices of the Lanna people, who use certain herbs and dishes, like คั่วบานะบายข้าวกิน, to enhance appetite and alleviate discomfort during seasonal changes. Furthermore, it emphasizes the value of Thai traditional medicine in reducing healthcare costs and promoting self-sufficiency. While Sesbania grandiflora is not directly mentioned, the context provides insight into the broader context of Thai herbal medicine and its applications.
+* **Internal RAG Fact (Cultural):** ดอกแค (Sesbania grandiflora) has been used in Thai traditional medicine for a long time. It is believed to have various health benefits, including reducing inflammation and improving digestion. The herb is also used to treat various ailments, such as fever, cough, and skin conditions. Additionally, ดอกแค is used as a ingredient in traditional Thai cooking, particularly in dishes such as curries and soups. The herb is also used in traditional Thai medicine to treat various health conditions, including respiratory problems and skin conditions. Overall, ดอกแค is a versatile herb that has been used in Thai traditional medicine for centuries.
+* **Source URL (Trend):** Not found in the provided context.
+* **Source URL (Science):** https://pubmed.ncbi.nlm.nih.gov/25103568/
+* **Source URL (Compliance):** https://www.fda.moph.go.th/
+* **Source URL (Safety):** https://dailymed.nlm.nih.gov/
+* **Source URL (Toxicity):** https://ncbi.nlm.nih.gov/books/
+* **Source URL (Culture):** https://wikicommunity.sac.or.th/community/1213

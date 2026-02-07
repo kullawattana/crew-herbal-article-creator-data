@@ -1,0 +1,80 @@
+# ===CULTURE_DATA===
+## Cultural Context for: Kritsana (กฤษณา)
+
+### Finding 1
+* **source_url:** https://thailitdir.sac.or.th/character-detail.php?n_id=29
+* **community_context:**
+    * **community_name:** Kritsana 1
+    * **location:** 
+    * **ethnic_group:** 
+* **community_profile_summaries:**
+    * **community_highlight:** No herbal-related information found
+    * **name_etymology:** Kritsana is a character in the story "Kritsana Sorn Nong Kham Chan", a princess who has five husbands and is loved by all of them. She advises her sister, Jiraprapha, on how to be a good wife and live a happy life.
+    * **community_environment:** No herbal-related information found
+    * **local_wisdom:** Kritsana teaches her sister the importance of being a good wife, including being faithful, understanding, and polite.
+    * **community_organizations:** No herbal-related information found
+* **specific_entities:**
+    * **local_names:**
+        * **Item 1:**
+            * **name:** Kritsana 1
+            * **context_quote:** Kritsana is a character in the story "Kritsana Sorn Nong Kham Chan", a princess who has five husbands and is loved by all of them.
+    * **traditional_uses:**
+        * **Item 1:**
+            * **use:** 
+            * **context_quote:** 
+    * **processing_methods:**
+        * **Item 1:**
+            * **method:** 
+            * **description_quote:** 
+
+### Finding 2
+* **source_url:** https://sac-research.sac.or.th/file_thb/394-ch4.pdf
+* **community_context:**
+    * **community_name:** Yawa Muslim Community
+    * **location:** Sathorn District, Bangkok
+    * **ethnic_group:** Yawa Muslim
+* **community_profile_summaries:**
+    * **community_highlight:** The Yawa Muslim community has a tradition of "making merit" (doing good deeds) and participating in ceremonies and rituals.
+    * **name_etymology:** The name "Yawa" refers to the Yawa people, a Muslim ethnic group.
+    * **community_environment:** The community is located in the Sathorn District of Bangkok.
+    * **local_wisdom:** The community has a strong tradition of Islamic practices and rituals.
+    * **community_organizations:** The community has a mosque and participates in various Islamic ceremonies.
+* **specific_entities:**
+    * **local_names:**
+        * **Item 1:**
+            * **name:** 
+            * **context_quote:** 
+    * **traditional_uses:**
+        * **Item 1:**
+            * **use:** Making merit and participating in ceremonies and rituals
+            * **context_quote:** The Yawa Muslim community has a tradition of "making merit" (doing good deeds) and participating in ceremonies and rituals.
+    * **processing_methods:**
+        * **Item 1:**
+            * **method:** 
+            * **description_quote:** 
+
+### Finding 3
+* **source_url:** https://ethnicredb.sac.or.th/research_detail.php?id=700
+* **community_context:**
+    * **community_name:** Sakai Community
+    * **location:** Yala Province
+    * **ethnic_group:** Sakai
+* **community_profile_summaries:**
+    * **community_highlight:** The Sakai community has traditional knowledge of herbal medicine and uses it to treat illnesses.
+    * **name_etymology:** The name "Sakai" refers to the Sakai people, an ethnic group.
+    * **community_environment:** The community is located in the Yala Province.
+    * **local_wisdom:** The community has traditional knowledge of herbal medicine and uses it to treat illnesses.
+    * **community_organizations:** The community has a traditional system of healthcare using herbal medicine.
+* **specific_entities:**
+    * **local_names:**
+        * **Item 1:**
+            * **name:** Sakai
+            * **context_quote:** The Sakai community has traditional knowledge of herbal medicine and uses it to treat illnesses.
+    * **traditional_uses:**
+        * **Item 1:**
+            * **use:** Traditional herbal medicine
+            * **context_quote:** The Sakai community has traditional knowledge of herbal medicine and uses it to treat illnesses.
+    * **processing_methods:**
+        * **Item 1:**
+            * **method:** Using incantations and rituals
+            * **description_quote:** The community uses incantations and rituals to treat illnesses, and also uses herbal medicine.

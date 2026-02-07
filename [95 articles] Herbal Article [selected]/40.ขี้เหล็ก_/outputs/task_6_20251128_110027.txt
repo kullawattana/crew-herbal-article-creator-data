@@ -1,0 +1,9 @@
+# ===TOXICITY_DATA=== 
+## Clinical Toxicity Data for: Senna siamea
+* **herb_name:** Senna siamea
+* **source_browsed:** https://www.ncbi.nlm.nih.gov/books/NBK547922/
+### Clinical Summary
+* **toxicity_summary:** Senna siamea has been associated with liver injury, and the liver injury due to senna has been attributed to the anthraquinone derivatives present in the herbal extract. Most cases have been associated with taking excessive doses, suggesting a direct hepatotoxic rather than idiosyncratic etiology.
+* **mechanism_of_injury:** The mechanism of injury is not fully understood, but it is believed that the anthraquinone derivatives present in the herbal extract are responsible for the liver injury.
+* **reported_side_effects:** Nausea, dermatitis, rash, and other gastrointestinal symptoms have been reported.
+* **case_report_summary:** There have been several case reports of liver injury associated with Senna siamea, including a case series of 5 patients who developed liver injury after taking Senna siamea for constipation.

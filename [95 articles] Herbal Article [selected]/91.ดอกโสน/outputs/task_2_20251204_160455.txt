@@ -1,0 +1,1 @@
+Thought: I have gathered the search results from Pinecone, and now I need to filter the snippets to ensure they are explicitly about ดอกโสน (Sesbania javanica).

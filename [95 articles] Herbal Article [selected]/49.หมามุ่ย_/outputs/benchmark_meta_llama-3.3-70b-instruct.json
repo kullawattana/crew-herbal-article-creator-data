@@ -1,0 +1,11 @@
+{
+  "model": "meta/llama-3.3-70b-instruct",
+  "herbs": "Mucuna pruriens",
+  "runtime_sec": 389.19,
+  "cpu_percent": 0.9,
+  "memory_mb_change": 36.11,
+  "total_tokens": 0,
+  "prompt_tokens": 0,
+  "completion_tokens": 0,
+  "total_cost": 0.0
+}

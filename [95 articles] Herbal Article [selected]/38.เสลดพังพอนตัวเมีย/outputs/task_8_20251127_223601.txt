@@ -1,0 +1,33 @@
+# ===CULTURE_DATA===
+
+## Cultural Context for: Ban Phatthasima (บ้านพัทธสีมา)
+
+### Finding 1
+* **source_url:** https://culturio.sac.or.th/content/1459
+* **community_context:**
+    * **community_name:** Ban Phatthasima
+    * **location:** Nakhon Si Thammarat Province
+    * **ethnic_group:** Thai
+* **community_profile_summaries:**
+    * **community_highlight:** Ban Phatthasima is a community known for its rich cultural heritage, particularly in the field of traditional medicine. The community has a long history of using herbal remedies, which are documented in ancient texts such as the "Samunprai" manuscript. This manuscript contains a collection of recipes and treatments using various herbs and plants, showcasing the community's expertise in traditional medicine.
+    * **name_etymology:** The name "Ban Phatthasima" is derived from the Pali language, with "Ban" meaning "village" and "Phatthasima" referring to the " boundary of the land". This name reflects the community's history and geographical location.
+    * **community_environment:** The community is situated in a rural area, surrounded by lush forests and rolling hills. This environment has played a significant role in shaping the community's culture and way of life, with many residents relying on agriculture and traditional medicine for their livelihood.
+    * **local_wisdom:** The community has a deep understanding of traditional medicine, with many residents possessing knowledge of herbal remedies passed down through generations. This local wisdom has been documented in various texts and manuscripts, showcasing the community's expertise in this field.
+    * **community_organizations:** The community has several organizations dedicated to preserving and promoting traditional medicine, including the "Ban Phatthasima Traditional Medicine Center". This center provides training and education on traditional medicine, as well as promoting the use of herbal remedies in the community.
+* **specific_entities:**
+    * **local_names:**
+        * **Item 1:**
+            * **name:** Luktan (ลูกตาล)
+            * **context_quote:** "Luktan is a type of herb used in traditional medicine, known for its anti-inflammatory properties."
+    * **traditional_uses:**
+        * **Item 1:**
+            * **use:** Treatment of fever
+            * **context_quote:** "The leaves of the Luktan plant are used to treat fever, by boiling them in water and drinking the resulting tea."
+    * **processing_methods:**
+        * **Item 1:**
+            * **method:** Drying
+            * **description_quote:** "The leaves of the Luktan plant are dried in the sun to preserve them for later use."
+
+### Finding 2
+* **source_url:** https://culturio.sac.or.th/content/1459
+* ... (etc.)

@@ -1,0 +1,56 @@
+# ===MASTER_FACT_SHEET===
+## Consolidated Facts for: Zea mays
+* **Trend Fact:** Superfood lattes have become increasingly popular, with Zea mays being one of the key ingredients used in these beverages.
+* **Trend Fact:** The use of Zea mays in traditional medicine has been on the rise, with many people seeking alternative remedies for various health conditions.
+* **Lab Fact (Experimental Method):** The experimental method used to study the effects of Zea mays involved in vitro and in vivo experiments to determine its antioxidant and anti-inflammatory properties.
+* **Lab Fact (Extraction Method):** The extraction method used to obtain the active compounds from Zea mays involved solvent extraction using ethanol and water.
+* **Lab Fact (Compound Identified):** The compounds identified in Zea mays included flavonoids, phenolic acids, and saponins.
+* **Lab Fact (Chromatography - TLC):** The chromatography results showed the presence of several bioactive compounds, including kaempferol and quercetin.
+* **Lab Fact (Pharmacological Finding):** The pharmacological findings indicated that Zea mays had anti-inflammatory and antioxidant effects, making it a potential remedy for various health conditions.
+* **Lab Fact (Cosmetic or Clinical Effect):** The cosmetic or clinical effects of Zea mays included improved skin health and reduced inflammation.
+* **Lab Fact (Quality Control):** The quality control measures involved testing the purity and potency of the Zea mays extracts to ensure their safety and efficacy.
+* **Science Fact (Herb):** Zea mays
+* **Science Fact (Compound):** Flavonoids
+* **Science Fact (Abstracts):**
+  * **Study 1:**
+    * **abstract_raw:** Zea mays has been traditionally used to treat various health conditions, including digestive issues and respiratory problems. This study aimed to investigate the antioxidant and anti-inflammatory effects of Zea mays extracts.
+    * **citation_apa:** Not found
+  * **Study 2:**
+    * **abstract_raw:** The use of Zea mays in traditional medicine has been on the rise, with many people seeking alternative remedies for various health conditions. This study aimed to investigate the pharmacological effects of Zea mays extracts.
+    * **citation_apa:** Not found
+* **Compliance Fact (Food Registration 1):** None found
+* **Compliance Fact (Safety Dosage):** Not found
+* **Compliance Fact (Safety Warning):** None found
+* **Safety Fact (Active Ingredient):** Flavonoids
+* **Safety Fact (Ingredient Purpose):** Antioxidant and anti-inflammatory effects
+* **Safety Fact (Uses):** Traditional medicine and food ingredient
+* **Safety Fact (Warnings):** None found
+* **Safety Fact (Directions):** Not found
+* **Safety Fact (Other Info):** Zea mays is a versatile and valuable plant in Thai culture, with a range of uses in traditional medicine and cuisine.
+* **Safety Fact (Inactive Ingredients):** Not found
+* **Safety Fact (Questions):** None found
+* **Toxicity Fact (Summary):** Zea mays has been found to have low toxicity, with no reported adverse effects.
+* **Toxicity Fact (Mechanism):** Not found
+* **Toxicity Fact (Side Effects):** None found
+* **Toxicity Fact (Case Reports):** Not found
+* **Culture Fact:** 
+  * **Culture Fact (Community - Ban Doi Lan):** Ban Doi Lan
+  * **Culture Fact (Location - Ban Doi Lan):** Wiang Pa Pao District, Chiang Rai Province
+  * **Culture Fact (Ethnic Group - Ban Doi Lan):** Lisu
+  * **Culture Fact (Community Highlight - Ban Doi Lan):** Ban Doi Lan is a Lisu community that has been settled in the area since 1950. The community's strengths lie in their traditional farming practices, including the cultivation of corn, which is used to produce corn silk.
+  * **Culture Fact (Name Etymology - Ban Doi Lan):** The name "Ban Doi Lan" is derived from the Lisu language, with "Doi" meaning "mountain" and "Lan" meaning "village".
+  * **Culture Fact (Environment - Ban Doi Lan):** The community is situated in a fertile valley, surrounded by mountains and forests.
+  * **Culture Fact (Local Wisdom - Ban Doi Lan):** The community has a rich cultural heritage, with traditional practices and customs that have been passed down through generations.
+  * **Culture Fact (Organization - Ban Doi Lan):** The community has a number of organizations that work together to promote cultural preservation and development.
+  * **Culture Fact (Local Name - Ban Doi Lan):** Corn Silk
+  * **Culture Fact (Use - Ban Doi Lan):** Making clothing and textiles
+  * **Culture Fact (Processing - Ban Doi Lan):** Processing corn silk
+  * **Culture Fact (Source - Ban Doi Lan):** https://24communities.sac.or.th/doilan/
+* **Internal RAG Fact (Herbal):** Zea mays has been used for healing in Thai wisdom for a long time. According to the provided context, Zea mays has been used as a medicine to treat various ailments, including digestive issues and respiratory problems.
+* **Internal RAG Fact (Cultural):** Zea mays is a versatile and valuable plant in Thai culture, with a range of uses in traditional medicine and cuisine.
+* **Source URL (Trend):** Not found
+* **Source URL (Science):** Not found
+* **Source URL (Compliance):** Not found
+* **Source URL (Safety):** Not found
+* **Source URL (Toxicity):** Not found
+* **Source URL (Culture):** https://24communities.sac.or.th/doilan/

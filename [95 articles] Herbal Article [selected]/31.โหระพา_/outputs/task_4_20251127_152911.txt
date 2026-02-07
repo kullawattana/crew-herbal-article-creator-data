@@ -1,0 +1,1 @@
+Thought: I have browsed the Thai FDA website using the constructed URL and obtained the HTML content. Now, I need to extract the relevant registration numbers from the content.

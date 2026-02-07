@@ -1,0 +1,80 @@
+# ===CULTURE_DATA===
+## Cultural Context for: Makkruud (โองการมหามะกรูดแปดกิ่ง)
+
+### Finding 1
+* **source_url:** https://manuscripts.sac.or.th/article-download.php?id=42
+* **community_context:**
+    * **community_name:** Makkruud Eight Branches
+    * **location:** Chiang Mai
+    * **ethnic_group:** Unspecified
+* **community_profile_summaries:**
+    * **community_highlight:** No herbal-related information found.
+    * **name_etymology:** No herbal-related information found.
+    * **community_environment:** No herbal-related information found.
+    * **local_wisdom:** No herbal-related information found.
+    * **community_organizations:** No herbal-related information found.
+* **specific_entities:**
+    * **local_names:**
+        * **Item 1:**
+            * **name:** Makkruud
+            * **context_quote:** Thai numerals in traditional medicine :: https://sac.or.th/portal/th/article/detail/338
+    * **traditional_uses:**
+        * **Item 1:**
+            * **use:** Used in traditional medicine
+            * **context_quote:** Thai numerals in traditional medicine :: https://sac.or.th/portal/th/article/detail/338
+    * **processing_methods:**
+        * **Item 1:**
+            * **method:** Boiling
+            * **description_quote:** Thailand and Southeast Asia Ethnic Groups Research Database :: https://ethnicredb.sac.or.th/research_detail.php?id=952
+
+### Finding 2
+* **source_url:** https://sac.or.th/portal/th/article/detail/338
+* **community_context:**
+    * **community_name:** Thai Numerals in Traditional Medicine
+    * **location:** Chiang Mai
+    * **ethnic_group:** Unspecified
+* **community_profile_summaries:**
+    * **community_highlight:** No herbal-related information found.
+    * **name_etymology:** No herbal-related information found.
+    * **community_environment:** No herbal-related information found.
+    * **local_wisdom:** No herbal-related information found.
+    * **community_organizations:** No herbal-related information found.
+* **specific_entities:**
+    * **local_names:**
+        * **Item 1:**
+            * **name:** Makkruud
+            * **context_quote:** Thai numerals in traditional medicine :: https://sac.or.th/portal/th/article/detail/338
+    * **traditional_uses:**
+        * **Item 1:**
+            * **use:** Used in traditional medicine
+            * **context_quote:** Thai numerals in traditional medicine :: https://sac.or.th/portal/th/article/detail/338
+    * **processing_methods:**
+        * **Item 1:**
+            * **method:** Boiling
+            * **description_quote:** Thailand and Southeast Asia Ethnic Groups Research Database :: https://ethnicredb.sac.or.th/research_detail.php?id=952
+
+### Finding 3
+* **source_url:** https://ethnicredb.sac.or.th/research_detail.php?id=952
+* **community_context:**
+    * **community_name:** Thailand and Southeast Asia Ethnic Groups Research Database
+    * **location:** Chiang Mai
+    * **ethnic_group:** Unspecified
+* **community_profile_summaries:**
+    * **community_highlight:** No herbal-related information found.
+    * **name_etymology:** No herbal-related information found.
+    * **community_environment:** No herbal-related information found.
+    * **local_wisdom:** No herbal-related information found.
+    * **community_organizations:** No herbal-related information found.
+* **specific_entities:**
+    * **local_names:**
+        * **Item 1:**
+            * **name:** Makkruud
+            * **context_quote:** Thailand and Southeast Asia Ethnic Groups Research Database :: https://ethnicredb.sac.or.th/research_detail.php?id=952
+    * **traditional_uses:**
+        * **Item 1:**
+            * **use:** Used in traditional medicine
+            * **context_quote:** Thailand and Southeast Asia Ethnic Groups Research Database :: https://ethnicredb.sac.or.th/research_detail.php?id=952
+    * **processing_methods:**
+        * **Item 1:**
+            * **method:** Boiling
+            * **description_quote:** Thailand and Southeast Asia Ethnic Groups Research Database :: https://ethnicredb.sac.or.th/research_detail.php?id=952

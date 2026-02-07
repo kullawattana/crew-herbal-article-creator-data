@@ -1,0 +1,9 @@
+# ===TOXICITY_DATA=== 
+## Clinical Toxicity Data for: Catharanthus roseus 
+* **herb_name:** Catharanthus roseus 
+* **source_browsed:** https://www.ncbi.nlm.nih.gov/books/NBK557842/ 
+### Clinical Summary 
+* **toxicity_summary:** Vinca alkaloids, derived from Catharanthus roseus, can cause toxicity affecting multiple organ systems, including the peripheral and central nervous, cardiovascular, hematologic, renal, and pulmonary systems. Neurotoxicity is the most commonly reported adverse event. 
+* **mechanism_of_injury:** The microtubular apparatus plays a pivotal role in axonal transport and secretory function. Vinca alkaloids bind to specific sites on the β-subunit and prevent propagation of the microtubule. 
+* **reported_side_effects:** Peripheral neuropathy, gastrointestinal distress, hematologic toxicity, cardiovascular effects, seizures, and syndrome of inappropriate antidiuretic hormone secretion. 
+* **case_report_summary:** Case reports of liver injury, hepatotoxicity, and hepatic veno-occlusive disease have been associated with vinca alkaloids.

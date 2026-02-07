@@ -1,0 +1,39 @@
+# ===COMPLIANCE_DATA=== ## Thai FDA Status for: Millingtonia hortensis
+* **herb_name:** Millingtonia hortensis
+### Food Registrations 
+* **Food Registration 1:**
+    * **registration_number:** 25-2-01159-6-0001
+    * **product_name:** น้ำดื่มตรา ดอกปีบ  / Dokpeeb Brand Drinking Water
+    * **company_name:** น้ำดื่มดอกปีป
+    * **status:** สถานะผลิตภัณฑ์(คงอยู่)\ สถานะสถานที่ (คงอยู่)
+* **Food Registration 2:**
+    * **registration_number:** None found.
+    * **product_name:** None found.
+    * **company_name:** None found.
+    * **status:** None found.
+### Cosmetic Registrations 
+* **Cosmetic Registration 1:**
+    * **registration_number:** 10-1-6010045647
+    * **product_name:** ดาราวดี สปา มาสาจ ออยล์ ดอกปีบ สปา มาสสาจ ออยล์ / DARAWADEE SPA MASSAGE OIL DORK PEEP SPA MASSAGE OIL
+    * **company_name:** บริษัท วาโย  โปรดักส์ จำกัด
+    * **status:** คงอยู่
+* **Cosmetic Registration 2:**
+    * **registration_number:** 10-1-6100026846
+    * **product_name:** ไอรีน อินสปายริ่ง บิวตี้ อโรม่า มาสสาจ ออย ดอกปีบ / IRENE INSPIRING BEAUTY AROMA MASSAGE OIL Dork Peeb
+    * **company_name:** บริษัท ไอ เรียล พลัส (ประเทศไทย) จำกัด
+    * **status:** คงอยู่
+* **Cosmetic Registration 3:**
+    * **registration_number:** 10-1-6200032853
+    * **product_name:** โยดา เฮิร์บ มาสสาจ์ ออยด์ ดอกปีบ / YODA HERBS MASSAGE OIL Peep
+    * **company_name:** บริษัท โยดา เฮิร์บ (ประเทศไทย) จำกัด
+    * **status:** คงอยู่
+* **Cosmetic Registration 4:**
+    * **registration_number:** 10-1-6600020541
+    * **product_name:** แกเบรียล อโรม่า มาสสาจ ออย ดอกปีบ / GABRIELLE AROMA MASSAGE OIL  Indian cork
+    * **company_name:** นาย วิศว รัตโนภาสกุล
+    * **status:** คงอยู่
+* **Cosmetic Registration 5:**
+    * **registration_number:** 10-1-6800003131
+    * **product_name:** บลู บลอสซั่ม มาสสาจ ออยล์ ดอกปีบ / BLUE BLOSSOM MASSAGE OIL Peep Flower
+    * **company_name:** มูลนิธิ ณภาฯ ในพระราชดำริสมเด็จพระเจ้าลูกเธอ เจ้าฟ้าพัชรกิติยาภา นเรนทิราเทพยวดี
+    * **status:** คงอยู่

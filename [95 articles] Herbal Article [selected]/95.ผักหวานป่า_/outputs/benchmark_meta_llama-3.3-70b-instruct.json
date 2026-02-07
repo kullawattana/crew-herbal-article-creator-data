@@ -1,0 +1,11 @@
+{
+  "model": "meta/llama-3.3-70b-instruct",
+  "herbs": "Melientha suavis",
+  "runtime_sec": 505.48,
+  "cpu_percent": -2.5,
+  "memory_mb_change": -238.2,
+  "total_tokens": 0,
+  "prompt_tokens": 0,
+  "completion_tokens": 0,
+  "total_cost": 0.0
+}

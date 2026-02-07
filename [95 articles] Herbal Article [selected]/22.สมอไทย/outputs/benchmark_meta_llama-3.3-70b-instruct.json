@@ -1,0 +1,11 @@
+{
+  "model": "meta/llama-3.3-70b-instruct",
+  "herbs": "Terminalia chebula",
+  "runtime_sec": 482.92,
+  "cpu_percent": 0.3,
+  "memory_mb_change": 21.67,
+  "total_tokens": 0,
+  "prompt_tokens": 0,
+  "completion_tokens": 0,
+  "total_cost": 0.0
+}

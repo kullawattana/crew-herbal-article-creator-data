@@ -1,0 +1,242 @@
+# ===MASTER_FACT_SHEET=== 
+## Consolidated Facts for: Aquilaria crassna
+* **Trend Fact:** Not found
+* **Lab Fact (Experimental Method):** Not found
+* **Lab Fact (Extraction Method):** Not found
+* **Lab Fact (Compound Identified):** Not found
+* **Lab Fact (Chromatography - TLC):** Not found
+* **Lab Fact (Pharmacological Finding):** Not found
+* **Lab Fact (Cosmetic or Clinical Effect):** Not found
+* **Lab Fact (Quality Control):** Not found
+* **Science Fact (Herb):** Aquilaria crassna
+* **Science Fact (Compound):** Not found
+* **Science Fact (Abstracts):**
+  * **Study 1:**
+    * **abstract_raw:** Not found
+    * **citation_apa:** Not found
+* **Compliance Fact (Food Registration 1):** registration_number=10-1-19355-5-0036, product_name=ชา กฤษณา (ตรา งามระหง) / Agarwood tea (Ngamrahong brand), company_name=ห้างหุ้นส่วนจำกัด ภูมณีรัตน์เภสัช, status=สถานะผลิตภัณฑ์(ยกเลิกโดยผู้ประกอบการ 27/5/2563) \ สถานะสถานที่ (คงอยู่ )
+* **Compliance Fact (Food Registration 2):** registration_number=13-2-00946-2-0001, product_name=แหนมหมูตรา ม.ขอนแก่น, company_name=กฤษณา ฟู๊ดส์, status=สถานะผลิตภัณฑ์(คงอยู่)\ สถานะสถานที่ (คงอยู่)
+* **Compliance Fact (Food Registration 3):** registration_number=13-2-00946-2-0002, product_name=แหนมหมู (ดอนเมือง) ตรา กฤษณา, company_name=กฤษณา ฟู๊ดส์, status=สถานะผลิตภัณฑ์(คงอยู่)\ สถานะสถานที่ (คงอยู่)
+* **Compliance Fact (Food Registration 4):** registration_number=13-2-00946-2-0003, product_name=หมูยอตรา ม.ขอนแก่น, company_name=กฤษณา ฟู๊ดส์, status=สถานะผลิตภัณฑ์(คงอยู่)\ สถานะสถานที่ (คงอยู่)
+* **Compliance Fact (Food Registration 5):** registration_number=13-2-00946-2-0004, product_name=หมูยอตรา กฤษณา, company_name=กฤษณา ฟู๊ดส์, status=สถานะผลิตภัณฑ์(คงอยู่)\ สถานะสถานที่ (คงอยู่)
+* **Compliance Fact (Safety Dosage):** Not found
+* **Compliance Fact (Safety Warning):** Not found
+* **Safety Fact (Active Ingredient):** 
+    * **Ingredient 1:**
+        * **name:** Agnus Castus
+        * **strength:** 12X
+        * **purpose:** Narcissism
+    * **Ingredient 2:**
+        * **name:** Ambra Grisea
+        * **strength:** 6X
+        * **purpose:** Codependency
+    * **Ingredient 3:**
+        * **name:** Anacardium Orientale
+        * **strength:** 12X
+        * **purpose:** Lack of Self Confidence
+    * **Ingredient 4:**
+        * **name:** Aurum Metallicum
+        * **strength:** 12X, 30X
+        * **purpose:** Lack of Self Esteem
+    * **Ingredient 5:**
+        * **name:** Baryta Iodata
+        * **strength:** 12X
+        * **purpose:** Lack of Self Esteem
+    * **Ingredient 6:**
+        * **name:** Carcinosin
+        * **strength:** 30X
+        * **purpose:** Codependency
+    * **Ingredient 7:**
+        * **name:** Cubeba Officinalis
+        * **strength:** 9X
+        * **purpose:** Lack of Self Esteem
+    * **Ingredient 8:**
+        * **name:** Hypothalamus Suis
+        * **strength:** 8X, 12X, 30X
+        * **purpose:** Lack of Self Esteem
+    * **Ingredient 9:**
+        * **name:** Lac Caninum
+        * **strength:** 12X
+        * **purpose:** Lack of Self Confidence
+    * **Ingredient 10:**
+        * **name:** Lac Felinum
+        * **strength:** 16X
+        * **purpose:** Lack of Self Confidence
+    * **Ingredient 11:**
+        * **name:** Lilium Tigrinum
+        * **strength:** 6X
+        * **purpose:** Narcissism
+    * **Ingredient 12:**
+        * **name:** Lycopodium Clavatum
+        * **strength:** 6X
+        * **purpose:** Lack of Self Esteem
+    * **Ingredient 13:**
+        * **name:** Magnesium Iodide
+        * **strength:** 16X
+        * **purpose:** Codependency
+    * **Ingredient 14:**
+        * **name:** Naja Tripudians
+        * **strength:** 12X
+        * **purpose:** Narcissism
+    * **Ingredient 15:**
+        * **name:** Natrum Carbonicum
+        * **strength:** 6X
+        * **purpose:** Lack of Self Confidence
+    * **Ingredient 16:**
+        * **name:** Rhus Glabra
+        * **strength:** 12X
+        * **purpose:** Lack of Self Confidence
+    * **Ingredient 17:**
+        * **name:** Rosa Damascena
+        * **strength:** 12X
+        * **purpose:** Narcissism
+    * **Ingredient 18:**
+        * **name:** Sabadilla
+        * **strength:** 12X
+        * **purpose:** Lack of Self Esteem
+    * **Ingredient 19:**
+        * **name:** Thuja Occidentalis
+        * **strength:** 6X, 12X, 30X
+        * **purpose:** Codependency
+    * **Ingredient 20:**
+        * **name:** Viscum Album
+        * **strength:** 6X
+        * **purpose:** Lack of Self Confidence
+* **Safety Fact (Ingredient Purpose):** 
+    * **Ingredient 1:**
+        * **name:** Agnus Castus
+        * **strength:** 12X
+        * **purpose:** Narcissism
+    * **Ingredient 2:**
+        * **name:** Ambra Grisea
+        * **strength:** 6X
+        * **purpose:** Codependency
+    * **Ingredient 3:**
+        * **name:** Anacardium Orientale
+        * **strength:** 12X
+        * **purpose:** Lack of Self Confidence
+    * **Ingredient 4:**
+        * **name:** Aurum Metallicum
+        * **strength:** 12X, 30X
+        * **purpose:** Lack of Self Esteem
+    * **Ingredient 5:**
+        * **name:** Baryta Iodata
+        * **strength:** 12X
+        * **purpose:** Lack of Self Esteem
+    * **Ingredient 6:**
+        * **name:** Carcinosin
+        * **strength:** 30X
+        * **purpose:** Codependency
+    * **Ingredient 7:**
+        * **name:** Cubeba Officinalis
+        * **strength:** 9X
+        * **purpose:** Lack of Self Esteem
+    * **Ingredient 8:**
+        * **name:** Hypothalamus Suis
+        * **strength:** 8X, 12X, 30X
+        * **purpose:** Lack of Self Esteem
+    * **Ingredient 9:**
+        * **name:** Lac Caninum
+        * **strength:** 12X
+        * **purpose:** Lack of Self Confidence
+    * **Ingredient 10:**
+        * **name:** Lac Felinum
+        * **strength:** 16X
+        * **purpose:** Lack of Self Confidence
+    * **Ingredient 11:**
+        * **name:** Lilium Tigrinum
+        * **strength:** 6X
+        * **purpose:** Narcissism
+    * **Ingredient 12:**
+        * **name:** Lycopodium Clavatum
+        * **strength:** 6X
+        * **purpose:** Lack of Self Esteem
+    * **Ingredient 13:**
+        * **name:** Magnesium Iodide
+        * **strength:** 16X
+        * **purpose:** Codependency
+    * **Ingredient 14:**
+        * **name:** Naja Tripudians
+        * **strength:** 12X
+        * **purpose:** Narcissism
+    * **Ingredient 15:**
+        * **name:** Natrum Carbonicum
+        * **strength:** 6X
+        * **purpose:** Lack of Self Confidence
+    * **Ingredient 16:**
+        * **name:** Rhus Glabra
+        * **strength:** 12X
+        * **purpose:** Lack of Self Confidence
+    * **Ingredient 17:**
+        * **name:** Rosa Damascena
+        * **strength:** 12X
+        * **purpose:** Narcissism
+    * **Ingredient 18:**
+        * **name:** Sabadilla
+        * **strength:** 12X
+        * **purpose:** Lack of Self Esteem
+    * **Ingredient 19:**
+        * **name:** Thuja Occidentalis
+        * **strength:** 6X, 12X, 30X
+        * **purpose:** Codependency
+    * **Ingredient 20:**
+        * **name:** Viscum Album
+        * **strength:** 6X
+        * **purpose:** Lack of Self Confidence
+* **Safety Fact (Uses):** For the temporary relief of the symptoms including: lack of self esteem, codependency, lack of self confidence, narcissism.
+* **Safety Fact (Warnings):** If pregnant or breast-feeding, ask a health professional before use. Keep out of reach of children. In case of overdose, contact a physician or Poison Control Center right away.
+* **Safety Fact (Directions):** 1-10 drops under the tongue, 3 times a day or as directed by a health professional. Consult a physician for use in children under 12 years of age.
+* **Safety Fact (Other Info):** Dist. By: Deseret Biologicals, Inc. 469 W. Parkland Drive, Sandy, UT 84070, www.desbio.com, 800-827-8204
+* **Safety Fact (Inactive Ingredients):** Demineralized water, 25% ethanol
+* **Safety Fact (Questions):** Dist. By: Deseret Biologicals, Inc. 469 W. Parkland Drive, Sandy, UT 84070, www.desbio.com, 800-827-8204
+* **Toxicity Fact (Summary):** The extracts of Aquilaria crassna pericarp were investigated on the MDA-MB-468, a breast cancer cell line, at desired concentration (1-50 μg/mL). The results showed that the dichloromethane (DCM) extract exhibited the strongest toxicity and was carried out subsequently. A total of nine compounds were isolated from the DCM extract using column chromatography and recrystallization, of which their structures were determined. Intriguingly, in addition to the previously reported compounds, neocucurbitacin A, a cucurbitacin triterpenoid aglycone with a lactone in ring A, was reported for the first time in the Aquilaria genus. Among the isolated compounds, cucurbitacin E highly inhibited MDA-MB-468 cell growth in a dose-dependent manner. Owing to binding abilities with the SH2 domain in the molecular docking study, cucurbitacin E, neocucurbitan A, neocucurbitan B, and cucurbitacin E 2-O-β-d-glucopyranoside act as STAT3 inhibitors and are suitable for further research. This study suggests that Aquilaria crassna fruits could serve as a promising source of natural compounds with potential anticancer effects, particularly against breast cancer.
+* **Toxicity Fact (Mechanism):** The mechanism of injury is not explicitly stated in the article. However, it is mentioned that the isolated compounds, particularly cucurbitacin E, neocucurbitan A, neocucurbitan B, and cucurbitacin E 2-O-β-d-glucopyranoside, act as STAT3 inhibitors, which may contribute to their anticancer effects.
+* **Toxicity Fact (Side Effects):** The article does not mention any side effects associated with the use of Aquilaria crassna.
+* **Toxicity Fact (Case Reports):** There are no case reports mentioned in the article.
+* **Culture Fact (Community - Kritsana 1):** 
+    * **community_name:** Kritsana 1
+    * **location:** 
+    * **ethnic_group:** 
+    * **community_highlight:** No herbal-related information found
+    * **name_etymology:** Kritsana is a character in the story "Kritsana Sorn Nong Kham Chan", a princess who has five husbands and is loved by all of them. She advises her sister, Jiraprapha, on how to be a good wife and live a happy life.
+    * **community_environment:** No herbal-related information found
+    * **local_wisdom:** Kritsana teaches her sister the importance of being a good wife, including being faithful, understanding, and polite.
+    * **community_organizations:** No herbal-related information found
+    * **local_name:** Kritsana 1
+    * **traditional_use:** 
+    * **processing_method:** 
+    * **source_url:** https://thailitdir.sac.or.th/character-detail.php?n_id=29
+* **Culture Fact (Community - Yawa Muslim Community):** 
+    * **community_name:** Yawa Muslim Community
+    * **location:** Sathorn District, Bangkok
+    * **ethnic_group:** Yawa Muslim
+    * **community_highlight:** The Yawa Muslim community has a tradition of "making merit" (doing good deeds) and participating in ceremonies and rituals.
+    * **name_etymology:** The name "Yawa" refers to the Yawa people, a Muslim ethnic group.
+    * **community_environment:** The community is located in the Sathorn District of Bangkok.
+    * **local_wisdom:** The community has a strong tradition of Islamic practices and rituals.
+    * **community_organizations:** The community has a mosque and participates in various Islamic ceremonies.
+    * **local_name:** 
+    * **traditional_use:** Making merit and participating in ceremonies and rituals
+    * **processing_method:** 
+    * **source_url:** https://sac-research.sac.or.th/file_thb/394-ch4.pdf
+* **Culture Fact (Community - Sakai Community):** 
+    * **community_name:** Sakai Community
+    * **location:** Yala Province
+    * **ethnic_group:** Sakai
+    * **community_highlight:** The Sakai community has traditional knowledge of herbal medicine and uses it to treat illnesses.
+    * **name_etymology:** The name "Sakai" refers to the Sakai people, an ethnic group.
+    * **community_environment:** The community is located in the Yala Province.
+    * **local_wisdom:** The community has traditional knowledge of herbal medicine and uses it to treat illnesses.
+    * **community_organizations:** The community has a traditional system of healthcare using herbal medicine.
+    * **local_name:** Sakai
+    * **traditional_use:** Traditional herbal medicine
+    * **processing_method:** Using incantations and rituals
+    * **source_url:** https://ethnicredb.sac.or.th/research_detail.php?id=700
+* **Internal RAG Fact (Herbal):** Unfortunately, the provided internal knowledge context does not explicitly mention กฤษณา (Aquilaria crassna) in any of the queries or PDF snippets. The context primarily discusses the benefits and usage of traditional Thai medicine, highlighting its cost-effectiveness and potential to reduce reliance on imported medicines. It also touches on the importance of self-sufficiency in food production and the use of locally grown herbs for health benefits. However, without specific information on กฤษณา (Aquilaria crassna), a detailed summary focused on this herb is not possible based on the provided context.
+* **Internal RAG Fact (Cultural):** กฤษณา (Aquilaria crassna) is a plant used in traditional Thai medicine. It has been used for a long time to treat various health conditions, including digestive issues and skin problems. The plant is also used as a natural remedy for fever, cough, and sore throat. In addition, กฤษณา is believed to have anti-inflammatory properties and is used to treat wounds and injuries. The plant is also used in traditional Thai cooking, particularly in soups and curries, where it is valued for its unique flavor and aroma. Overall, กฤษณา is a versatile plant that has been used for centuries in traditional Thai medicine and cooking.
+* **Source URL (Trend):** Not found
+* **Source URL (Science):** https://pubmed.ncbi.nlm.nih.gov/38024711/
+* **Source URL (Compliance):** https://www.fda.moph.go.th/
+* **Source URL (Safety):** https://dailymed.nlm.nih.gov/dailymed/drugInfo.cfm?setid=2946e748-85a9-4398-b4b6-81aa0f3ebe69
+* **Source URL (Toxicity):** https://pubmed.ncbi.nlm.nih.gov/38024711/
+* **Source URL (Culture):** https://thailitdir.sac.or.th/character-detail.php?n_id=29, https://sac-research.sac.or.th/file_thb/394-ch4.pdf, https://ethnicredb.sac.or.th/research_detail.php?id=700

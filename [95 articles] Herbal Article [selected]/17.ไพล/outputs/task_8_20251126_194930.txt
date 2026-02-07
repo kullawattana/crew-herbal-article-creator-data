@@ -1,0 +1,80 @@
+# ===CULTURE_DATA=== 
+## Cultural Context for: Plai (ไพล)
+
+### Finding 1 
+* **source_url:** https://sac.or.th/portal/th/article/detail/338
+* **community_context:**
+    * **community_name:** Thai Numerals in Traditional Medicine
+    * **location:** Wat Phra Chetuphon Wimon Mangkhalaram, Phra Nakhon Subdistrict, Phra Nakhon Si Ayutthaya District, Phra Nakhon Si Ayutthaya Province
+    * **ethnic_group:** Thai
+* **community_profile_summaries:**
+    * **community_highlight:** No herbal-related information found
+    * **name_etymology:** No herbal-related information found
+    * **community_environment:** No herbal-related information found
+    * **local_wisdom:** No herbal-related information found
+    * **community_organizations:** No herbal-related information found
+* **specific_entities:**
+    * **local_names:**
+        * **Item 1:**
+            * **name:** Plai
+            * **context_quote:** 56 leaves of Kaffir lime, each with its own medicinal properties
+    * **traditional_uses:**
+        * **Item 1:**
+            * **use:** Relieves fever and thirst
+            * **context_quote:** 56 leaves of Kaffir lime, each with its own medicinal properties
+    * **processing_methods:**
+        * **Item 1:**
+            * **method:** Boiled and consumed
+            * **description_quote:** 56 leaves of Kaffir lime, each with its own medicinal properties
+
+### Finding 2 
+* **source_url:** https://db.sac.or.th/inscriptions/inscribe/detail/17709
+* **community_context:**
+    * **community_name:** Inscription of Wat Phra Chetuphon Wimon Mangkhalaram (Regarding Medicinal Properties of Herbs and Spices, Plate 7: Thao Yai Mom, Kha Yai, Kha Ling, Krathue, Plai, Krachai, Hom, and Krathiam)
+    * **location:** Wat Phra Chetuphon Wimon Mangkhalaram, Phra Nakhon Subdistrict, Phra Nakhon Si Ayutthaya District, Phra Nakhon Si Ayutthaya Province
+    * **ethnic_group:** Thai
+* **community_profile_summaries:**
+    * **community_highlight:** No herbal-related information found
+    * **name_etymology:** No herbal-related information found
+    * **community_environment:** No herbal-related information found
+    * **local_wisdom:** No herbal-related information found
+    * **community_organizations:** No herbal-related information found
+* **specific_entities:**
+    * **local_names:**
+        * **Item 1:**
+            * **name:** Plai
+            * **context_quote:** Inscription of Wat Phra Chetuphon Wimon Mangkhalaram (Regarding Medicinal Properties of Herbs and Spices, Plate 7: Thao Yai Mom, Kha Yai, Kha Ling, Krathue, Plai, Krachai, Hom, and Krathiam)
+    * **traditional_uses:**
+        * **Item 1:**
+            * **use:** Relieves various ailments
+            * **context_quote:** Inscription of Wat Phra Chetuphon Wimon Mangkhalaram (Regarding Medicinal Properties of Herbs and Spices, Plate 7: Thao Yai Mom, Kha Yai, Kha Ling, Krathue, Plai, Krachai, Hom, and Krathiam)
+    * **processing_methods:**
+        * **Item 1:**
+            * **method:** Uses herbs
+            * **description_quote:** Inscription of Wat Phra Chetuphon Wimon Mangkhalaram (Regarding Medicinal Properties of Herbs and Spices, Plate 7: Thao Yai Mom, Kha Yai, Kha Ling, Krathue, Plai, Krachai, Hom, and Krathiam)
+
+### Finding 3 
+* **source_url:** https://ethnicredb.sac.or.th/research_detail.php?id=696
+* **community_context:**
+    * **community_name:** Sakai People: A Disappearing Tribe in the Thai Forest
+    * **location:** Banthat Mountains, Phatthalung and Trang Provinces
+    * **ethnic_group:** Sakai
+* **community_profile_summaries:**
+    * **community_highlight:** No herbal-related information found
+    * **name_etymology:** No herbal-related information found
+    * **community_environment:** No herbal-related information found
+    * **local_wisdom:** No herbal-related information found
+    * **community_organizations:** No herbal-related information found
+* **specific_entities:**
+    * **local_names:**
+        * **Item 1:**
+            * **name:** Plai
+            * **context_quote:** Chewing Plai to relieve itching and ward off evil spirits
+    * **traditional_uses:**
+        * **Item 1:**
+            * **use:** Relieves itching
+            * **context_quote:** Chewing Plai to relieve itching and ward off evil spirits
+    * **processing_methods:**
+        * **Item 1:**
+            * **method:** Chewing
+            * **description_quote:** Chewing Plai to relieve itching and ward off evil spirits

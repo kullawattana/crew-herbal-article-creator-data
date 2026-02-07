@@ -1,0 +1,81 @@
+# ===MASTER_FACT_SHEET=== 
+## Consolidated Facts for: Citrus hystrix
+* **Trend Fact:** Kaffir lime is a citrus fruit native to tropical Southeast Asia. Its fruit and leaves are used in Southeast Asian cuisine, and its essential oil is used in perfumery. The leaves are the most frequently used part of the plant, fresh, dried, or frozen. The leaves are widely used in Thai cuisine (for dishes such as tom yum) and Cambodian cuisine (for the base paste "krueng"). The leaves are used in Vietnamese cuisine to add fragrance to chicken dishes and to decrease the pungent odor when steaming snails. Also, in Vietnamese villages that harvest silkworms, the silkworms in the pupa stage are stir-fried with the kaffir lime leaves. The leaves are used in Indonesian cuisine (especially Balinese cuisine and Javanese cuisine) for foods such as soto ayam and are used along with Indonesian bay leaf for chicken and fish. They are also found in Malaysian and Burmese cuisines. The rind (peel) is commonly used in Lao and Thai curry paste, adding an aromatic, astringent flavor. 
+* **Lab Fact (Experimental Method):** Not found
+* **Lab Fact (Extraction Method):** Not found
+* **Lab Fact (Compound Identified):** Not found
+* **Lab Fact (Chromatography - TLC):** Not found
+* **Lab Fact (Pharmacological Finding):** Not found
+* **Lab Fact (Cosmetic or Clinical Effect):** Not found
+* **Lab Fact (Quality Control):** Not found
+* **Science Fact (Herb):** Citrus hystrix
+* **Science Fact (Compound):** Not found
+* **Science Fact (Abstracts):**
+  * **Study 1:**
+    * **abstract_raw:** The liver injury attributed to Herbalife products remains unexplained. There was no clear commonality in the products themselves, much less their constituents. Some products contained green tea or aloe vera extracts, both which have been implicated in other forms of HDS liver injury.
+    * **citation_apa:** Not found
+  * **Study 2:** Not found
+  * **Study 3:** Not found
+* **Compliance Fact (Food Registration 1):** registration_number=10-1-04435-1-0041, product_name=มะกรูดผง (อาหารที่ได้ผ่านการฉายรังสีเพื่อลดปริมาณจุลินทรีย์ที่ทำให้เกิดโรคแล้ว) / -, company_name=บริษัท อาร์ แอนด์ บี ฟู้ด ซัพพลาย จำกัด (มหาชน), status=สถานะผลิตภัณฑ์(คงอยู่)\ สถานะสถานที่ (คงอยู่)
+* **Compliance Fact (Food Registration 2):** registration_number=10-1-08064-5-0030, product_name=ชาจากพืช (กระชาย ขิง ข่า ตะไคร้ มะกรูด ขมิ้น หญ้าหวาน ใบเตย หอมแดง ) (ตราสมุนไพร จันทร์วาด) / FINGERROOT, GINGER, GALANGAL, LEMONGRASS, KAFFIR LIME, CURCUMA, STEVIA, PANDANUS, SHALLOT INFUSION TEA (JANWAD HERBAL BRAND), company_name=บริษัท จมิรา จำกัด, status=สถานะผลิตภัณฑ์(ยกเลิกโดยผู้ประกอบการ 19/4/2565) \ สถานะสถานที่ (คงอยู่ )
+* **Compliance Fact (Food Registration 3):** registration_number=10-1-10962-5-0001, product_name=มะกรูดลอยแก้ว  /  Kaffir Lime in syrup, company_name=พวงมะลิ, status=สถานะผลิตภัณฑ์(คงอยู่)\ สถานะสถานที่ (คงอยู่)
+* **Compliance Fact (Food Registration 4):** registration_number=10-1-11750-1-0068, product_name=มะกรูดแช่อิ่ม, company_name=บริษัท สยามอินเตอร์ พรีเสิร์ฟ ฟู้ดส์ จำกัด, status=สถานะผลิตภัณฑ์(ยกเลิก ) \ สถานะสถานที่ (ขาดต่ออายุ 31/12/2555)
+* **Compliance Fact (Food Registration 5):** registration_number=10-1-13660-5-0200, product_name=มะกรูด / Leech Lime, company_name=บริษัท โพธิ์ประดิษฐ์สมุนไพร จำกัด, status=สถานะผลิตภัณฑ์(คงอยู่)\ สถานะสถานที่ (คงอยู่)
+* **Compliance Fact (Safety Dosage):** Not found
+* **Compliance Fact (Safety Warning):** Not found
+* **Safety Fact (Active Ingredient):** Not found
+* **Safety Fact (Ingredient Purpose):** Not found
+* **Safety Fact (Uses):** Not found
+* **Safety Fact (Warnings):** Not found
+* **Safety Fact (Directions):** Not found
+* **Safety Fact (Other Info):** Not found
+* **Safety Fact (Inactive Ingredients):** Not found
+* **Safety Fact (Questions):** Not found
+* **Toxicity Fact (Summary):** The liver injury attributed to Herbalife products remains unexplained. There was no clear commonality in the products themselves, much less their constituents. Some products contained green tea or aloe vera extracts, both which have been implicated in other forms of HDS liver injury.
+* **Toxicity Fact (Mechanism):** The mechanism of liver injury that has been attributed to Herbalife products is not well understood. The injury is typically hepatocellular and can be severe, but the specific substances responsible are unknown.
+* **Toxicity Fact (Side Effects):** The reported side effects of Herbalife products include nausea, epigastric pain, jaundice, and elevated liver enzymes.
+* **Toxicity Fact (Case Reports):** There have been several case reports of liver injury attributed to Herbalife products, including a case of a 37-year-old woman who developed jaundice and elevated liver enzymes after taking multiple Herbalife products for weight loss.
+* **Culture Fact (Community - Makkruud Eight Branches):** community_name=Makkruud Eight Branches, location=Chiang Mai, ethnic_group=Unspecified
+* **Culture Fact (Location - Makkruud Eight Branches):** location=Chiang Mai
+* **Culture Fact (Ethnic Group - Makkruud Eight Branches):** ethnic_group=Unspecified
+* **Culture Fact (Community Highlight - Makkruud Eight Branches):** No herbal-related information found.
+* **Culture Fact (Name Etymology - Makkruud Eight Branches):** No herbal-related information found.
+* **Culture Fact (Environment - Makkruud Eight Branches):** No herbal-related information found.
+* **Culture Fact (Local Wisdom - Makkruud Eight Branches):** No herbal-related information found.
+* **Culture Fact (Organization - Makkruud Eight Branches):** No herbal-related information found.
+* **Culture Fact (Local Name - Makkruud Eight Branches):** name=Makkruud, context_quote=Thai numerals in traditional medicine :: https://sac.or.th/portal/th/article/detail/338
+* **Culture Fact (Use - Makkruud Eight Branches):** use=Used in traditional medicine, context_quote=Thai numerals in traditional medicine :: https://sac.or.th/portal/th/article/detail/338
+* **Culture Fact (Processing - Makkruud Eight Branches):** method=Boiling, description_quote=Thailand and Southeast Asia Ethnic Groups Research Database :: https://ethnicredb.sac.or.th/research_detail.php?id=952
+* **Culture Fact (Source - Makkruud Eight Branches):** source_url=https://manuscripts.sac.or.th/article-download.php?id=42
+* **Culture Fact (Community - Thai Numerals in Traditional Medicine):** community_name=Thai Numerals in Traditional Medicine, location=Chiang Mai, ethnic_group=Unspecified
+* **Culture Fact (Location - Thai Numerals in Traditional Medicine):** location=Chiang Mai
+* **Culture Fact (Ethnic Group - Thai Numerals in Traditional Medicine):** ethnic_group=Unspecified
+* **Culture Fact (Community Highlight - Thai Numerals in Traditional Medicine):** No herbal-related information found.
+* **Culture Fact (Name Etymology - Thai Numerals in Traditional Medicine):** No herbal-related information found.
+* **Culture Fact (Environment - Thai Numerals in Traditional Medicine):** No herbal-related information found.
+* **Culture Fact (Local Wisdom - Thai Numerals in Traditional Medicine):** No herbal-related information found.
+* **Culture Fact (Organization - Thai Numerals in Traditional Medicine):** No herbal-related information found.
+* **Culture Fact (Local Name - Thai Numerals in Traditional Medicine):** name=Makkruud, context_quote=Thai numerals in traditional medicine :: https://sac.or.th/portal/th/article/detail/338
+* **Culture Fact (Use - Thai Numerals in Traditional Medicine):** use=Used in traditional medicine, context_quote=Thai numerals in traditional medicine :: https://sac.or.th/portal/th/article/detail/338
+* **Culture Fact (Processing - Thai Numerals in Traditional Medicine):** method=Boiling, description_quote=Thailand and Southeast Asia Ethnic Groups Research Database :: https://ethnicredb.sac.or.th/research_detail.php?id=952
+* **Culture Fact (Source - Thai Numerals in Traditional Medicine):** source_url=https://sac.or.th/portal/th/article/detail/338
+* **Culture Fact (Community - Thailand and Southeast Asia Ethnic Groups Research Database):** community_name=Thailand and Southeast Asia Ethnic Groups Research Database, location=Chiang Mai, ethnic_group=Unspecified
+* **Culture Fact (Location - Thailand and Southeast Asia Ethnic Groups Research Database):** location=Chiang Mai
+* **Culture Fact (Ethnic Group - Thailand and Southeast Asia Ethnic Groups Research Database):** ethnic_group=Unspecified
+* **Culture Fact (Community Highlight - Thailand and Southeast Asia Ethnic Groups Research Database):** No herbal-related information found.
+* **Culture Fact (Name Etymology - Thailand and Southeast Asia Ethnic Groups Research Database):** No herbal-related information found.
+* **Culture Fact (Environment - Thailand and Southeast Asia Ethnic Groups Research Database):** No herbal-related information found.
+* **Culture Fact (Local Wisdom - Thailand and Southeast Asia Ethnic Groups Research Database):** No herbal-related information found.
+* **Culture Fact (Organization - Thailand and Southeast Asia Ethnic Groups Research Database):** No herbal-related information found.
+* **Culture Fact (Local Name - Thailand and Southeast Asia Ethnic Groups Research Database):** name=Makkruud, context_quote=Thailand and Southeast Asia Ethnic Groups Research Database :: https://ethnicredb.sac.or.th/research_detail.php?id=952
+* **Culture Fact (Use - Thailand and Southeast Asia Ethnic Groups Research Database):** use=Used in traditional medicine, context_quote=Thailand and Southeast Asia Ethnic Groups Research Database :: https://ethnicredb.sac.or.th/research_detail.php?id=952
+* **Culture Fact (Processing - Thailand and Southeast Asia Ethnic Groups Research Database):** method=Boiling, description_quote=Thailand and Southeast Asia Ethnic Groups Research Database :: https://ethnicredb.sac.or.th/research_detail.php?id=952
+* **Culture Fact (Source - Thailand and Southeast Asia Ethnic Groups Research Database):** source_url=https://ethnicredb.sac.or.th/research_detail.php?id=952
+* **Internal RAG Fact (Herbal):** Citrus hystrix, also known as มะกรูด, is not explicitly mentioned in the context **JSON: [Herbal_processing.json, p.X] | PDF: [herbal_wild_plants.pdf, p.X]**. However, the context discusses Thai traditional medicine and its benefits. According to the text, Thai traditional medicine is not outdated and can be used to treat minor illnesses and reduce medical expenses **JSON: [Herbs_traditional_Thai_medicine_in_the_lives_of_Thai_people.json, p.N/A]**. The context also mentions the use of various herbs, including ใบมะกรูด (Citrus hystrix leaves), which can be used to make food and medicine **PDF: [Romprayom-2563.pdf, p.9]**. Additionally, the text describes a traditional recipe called "คั่วบานะบายข้าวกิน" which uses Citrus hystrix leaves to improve digestion and relieve symptoms of illness **PDF: [Romprayom-2563.pdf, p.32]**. Overall, the context highlights the importance of Thai traditional medicine and the use of herbs like Citrus hystrix in promoting health and well-being.
+* **Internal RAG Fact (Cultural):** Kaffir lime (มะกรูด) has been used in traditional Thai medicine for a long time. It is believed to have various health benefits, including aiding digestion and relieving symptoms of certain illnesses. In traditional Thai cuisine, kaffir lime is used as a condiment and is also used in the preparation of various dishes, such as tom yum soup. The peel of the kaffir lime is also used in traditional Thai medicine to treat various ailments, including fever and rheumatism. Additionally, kaffir lime is believed to have antioxidant properties and is used in some skincare products. **JSON: [Nutrition_in_Thai_wisdom.json, p.N/A]**
+* **Source URL (Trend):** https://en.wikipedia.org/wiki/Kaffir_lime
+* **Source URL (Science):** https://www.ncbi.nlm.nih.gov/books/NBK548447/
+* **Source URL (Compliance):** https://www.fda.moph.go.th/
+* **Source URL (Safety):** https://dailymed.nlm.nih.gov/
+* **Source URL (Toxicity):** https://ncbi.nlm.nih.gov/books/NBK548447/
+* **Source URL (Culture):** https://manuscripts.sac.or.th/article-download.php?id=42, https://sac.or.th/portal/th/article/detail/338, https://ethnicredb.sac.or.th/research_detail.php?id=952

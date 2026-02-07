@@ -1,0 +1,27 @@
+# ===SAFETY_DATA=== ## International Safety Data for: Pueraria mirifica
+* **herb_name:** Pueraria mirifica
+* **source_browsed:** https://dailymed.nlm.nih.gov/dailymed/fda/fdaDrugXsl.cfm?setid=451f75a8-5c9c-4e41-a5e5-4df3eae8c83f&type=display
+### Drug Facts Label
+* **active_ingredients:**
+    * **Ingredient 1:**
+        * **name:** Pyridoxine
+        * **strength:** 50 mg
+        * **purpose:** Dietary Supplement
+    * **Ingredient 2:**
+        * **name:** Niacin
+        * **strength:** 50 mg
+        * **purpose:** Dietary Supplement
+    * **Ingredient 3:**
+        * **name:** Cyanocobalamin
+        * **strength:** 0.03 mg
+        * **purpose:** Dietary Supplement
+    * **Ingredient 4:**
+        * **name:** Vitamin A
+        * **strength:** 50 mg
+        * **purpose:** Dietary Supplement
+* **uses:** Intense Sexual Desire
+* **warnings:** Consult with a physician to determine if this product is safe for you to use or not. This product contains herbs, powders and extracts that can have an effect on your health. Do not take this product if you are taking any drug, alcohol, caffeine or any ingredient that increases energy or affects blood pressure higher or lower. This product is not intended to cure any disease or condition. Do not take if you have any heart issues, high blood pressure, liver issues, or any condition you are being treated for. Consult with your physician before you take this product or any sexual enhancement product.
+* **directions:** Take 1 capsule 60-180 minutes prior to sexual activity. Do not take with food, it works best when taken in between meals, or at least one hour after eating.
+* **other_information:** Effects are normally active only when physically stimulated. NOT INTENDED FOR USE BY PERSONS UNDER THE AGE OF 18
+* **inactive_ingredients:** Pueraria Candollei Var. Mirifica Root, Epimedium Wushanense Whole, Yohimbine, White Rice
+* **questions:** None

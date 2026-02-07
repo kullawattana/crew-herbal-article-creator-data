@@ -1,0 +1,16 @@
+# ===TRENDS_DATA===
+
+### Finding 1
+* **herb_name:** Licorice
+* **wellness_context_summary:** Licorice root has been traditionally used in Chinese medicine for its health benefits, including its ability to boost the immune system and reduce stress. It has also been shown to have anti-inflammatory properties and may help to reduce the severity of colds and flu. Additionally, licorice root has been used to aid digestion and relieve symptoms of irritable bowel syndrome.
+* **source_url:** https://globalwellnessinstitute.org/global-wellness-institute-blog/2025/08/28/timeless-beauty-what-traditional-chinese-medicine-tells-us-about-aging-emotion-and-the-face/
+
+### Finding 2
+* **herb_name:** Licorice
+* **wellness_context_summary:** Licorice root has been shown to have immunomodulatory effects, meaning it can help to regulate the immune system and prevent illness. It has also been traditionally used to aid digestion and relieve symptoms of irritable bowel syndrome. Additionally, licorice root has been used to reduce stress and anxiety, and may have anti-inflammatory properties.
+* **source_url:** https://globalwellnessinstitute.org/wp-content/uploads/2020/04/Immune-Boosting-Aroma-Bathing-at-Hot-Springs-Theme-Rains-Synthesis.pdf
+
+### Finding 3
+* **herb_name:** Licorice
+* **wellness_context_summary:** Licorice root has been traditionally used in Chinese medicine for its health benefits, including its ability to boost the immune system and reduce stress. It has also been shown to have anti-inflammatory properties and may help to reduce the severity of colds and flu. Additionally, licorice root has been used to aid digestion and relieve symptoms of irritable bowel syndrome.
+* **source_url:** https://globalwellnessinstitute.org/wp-content/uploads/2018/10/GWI-MWI-WhitePaper2018.pdf

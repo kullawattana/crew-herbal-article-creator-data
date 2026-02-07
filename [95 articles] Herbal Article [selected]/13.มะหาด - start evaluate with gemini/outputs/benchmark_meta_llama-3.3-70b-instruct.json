@@ -1,0 +1,11 @@
+{
+  "model": "meta/llama-3.3-70b-instruct",
+  "herbs": "Artocarpus lacucha",
+  "runtime_sec": 466.32,
+  "cpu_percent": -0.9,
+  "memory_mb_change": 44.42,
+  "total_tokens": 0,
+  "prompt_tokens": 0,
+  "completion_tokens": 0,
+  "total_cost": 0.0
+}

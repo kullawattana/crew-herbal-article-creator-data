@@ -1,0 +1,81 @@
+# ===CULTURE_DATA===
+
+## Cultural Context for: Fakkhao (ฟักข้าว)
+
+### Finding 1
+* **source_url:** https://db.sac.or.th/inscriptions/dataset/detail/14
+* **community_context:**
+    * **community_name:** Wat Phra Mahathat Woramahawihan
+    * **location:** Nakhon Si Thammarat Province
+    * **ethnic_group:** Khom Ayutthaya, Khom Thonburi-Rattanakosin
+* **community_profile_summaries:**
+    * **community_highlight:** No herbal-related information found.
+    * **name_etymology:** No herbal-related information found.
+    * **community_environment:** No herbal-related information found.
+    * **local_wisdom:** No herbal-related information found.
+    * **community_organizations:** No herbal-related information found.
+* **specific_entities:**
+    * **local_names:**
+        * **Item 1:**
+            * **name:** Fakkhao
+            * **context_quote:** Fakkhao, Rak Phak Wan, Nam Sao Khao, Khai Ok Dam Daeng, Fai Duean Ha, Prakai Datsa Hong.
+    * **traditional_uses:**
+        * **Item 1:**
+            * **use:** Offering
+            * **context_quote:** Phra Athittayapanyo, along with his relatives, officials, and villagers, offered Fakkhao, Rak Phak Wan, Nam Sao Khao, Khai Ok Dam Daeng, Fai Duean Ha, and Prakai Datsa Hong.
+    * **processing_methods:**
+        * **Item 1:**
+            * **method:** Gilding
+            * **description_quote:** Inscription on the gold-leaf covered finial of Phra Mahathat Chedi, Nakhon Si Thammarat 36 (J. 47).
+
+### Finding 2
+* **source_url:** https://wikicommunity.sac.or.th/community/816
+* **community_context:**
+    * **community_name:** Ban Sop Lan
+    * **location:** Chiang Mai Province
+    * **ethnic_group:** Pga K'nyau
+* **community_profile_summaries:**
+    * **community_highlight:** The community of Ban Sop Lan has a strong connection with the forest and has been living in harmony with nature for generations. The community has a deep understanding of the forest ecosystem and has developed a unique way of life that is closely tied to the forest.
+    * **name_etymology:** The name "Ban Sop Lan" is derived from the Pga K'nyau language, which means "village of the Sop Lan people".
+    * **community_environment:** The community is located in a remote area of Chiang Mai Province, surrounded by dense forest. The community has a strong connection with the natural environment and has developed a sustainable way of life that is in harmony with the forest ecosystem.
+    * **local_wisdom:** The community has a rich cultural heritage and has developed a unique way of life that is closely tied to the forest. The community has a deep understanding of the forest ecosystem and has developed a sustainable way of life that is in harmony with the natural environment.
+    * **community_organizations:** The community has a strong sense of solidarity and has developed a number of community organizations that work together to promote the well-being of the community.
+* **specific_entities:**
+    * **local_names:**
+        * **Item 1:**
+            * **name:** Fakkhao
+            * **context_quote:** Fakkhao, Ma Kheuang Pong in the field.
+    * **traditional_uses:**
+        * **Item 1:**
+            * **use:** Planting
+            * **context_quote:** Planting Fakkhao, Ma Kheuang Pong in the field.
+    * **processing_methods:**
+        * **Item 1:**
+            * **method:** Planting
+            * **description_quote:** Planting Fakkhao, Ma Kheuang Pong in the field.
+
+### Finding 3
+* **source_url:** https://wikicommunity.sac.or.th/community/1961
+* **community_context:**
+    * **community_name:** Pha To
+    * **location:** Mae Hong Son Province
+    * **ethnic_group:** Pga K'nyau
+* **community_profile_summaries:**
+    * **community_highlight:** No herbal-related information found.
+    * **name_etymology:** No herbal-related information found.
+    * **community_environment:** No herbal-related information found.
+    * **local_wisdom:** No herbal-related information found.
+    * **community_organizations:** No herbal-related information found.
+* **specific_entities:**
+    * **local_names:**
+        * **Item 1:**
+            * **name:** Fakkhao
+            * **context_quote:** Fakkhao.
+    * **traditional_uses:**
+        * **Item 1:**
+            * **use:** Planting
+            * **context_quote:** Fakkhao.
+    * **processing_methods:**
+        * **Item 1:**
+            * **method:** Planting
+            * **description_quote:** Fakkhao.

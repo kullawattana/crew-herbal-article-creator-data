@@ -1,0 +1,65 @@
+# ===MASTER_FACT_SHEET===
+## Consolidated Facts for: Momordica cochinchinensis
+* **Trend Fact:** No trend fact available.
+* **Lab Fact (Experimental Method):** No lab fact available.
+* **Lab Fact (Extraction Method):** Soxhlet extraction.
+* **Lab Fact (Compound Identified):** beta-Carotene.
+* **Lab Fact (Chromatography - TLC):** No lab fact available.
+* **Lab Fact (Pharmacological Finding):** beta-Carotene, a potent natural antioxidant, was recovered from the peel of Momordica cochinchinensis (gac) fruit peel using Soxhlet extraction.
+* **Lab Fact (Cosmetic or Clinical Effect):** No lab fact available.
+* **Lab Fact (Quality Control):** No lab fact available.
+* **Science Fact (Herb):** Momordica cochinchinensis.
+* **Science Fact (Compound):** beta-Carotene.
+* **Science Fact (Abstracts):**
+  * **Study 1:**
+    * **abstract_raw:** beta-Carotene, a potent natural antioxidant, was recovered from the peel of Momordica cochinchinensis (gac) fruit peel using Soxhlet extraction. Experimental results indicated that both the sample mass and solvent flow rate exerted a positive influence on the yield of beta-carotene. The beta-carotene extraction achieved the highest yield with a solvent mixture of ethyl acetate and acetone in a 6 : 4 (v/v) ratio. Thermal stability assessments revealed that beta-carotene exhibited greater stability in acetone compared to ethyl acetate under oxygenated conditions. A kinetic model was developed to describe the beta-carotene extraction, facilitating the estimation of key parameters including the extraction rate constant, degradation rate constant, and the maximum extractable beta-carotene in the gac peel. The model demonstrated good correlation with experimental data, providing valuable insights for optimizing beta-carotene extraction protocols.
+    * **citation_apa:** Tran, H. D., Tu Nguyen, N. T., Phuong, T. T., Nguyen, Q. H., & Dang, V. H. (2025). Soxhlet extraction of Momordica cochinchinensis fruit peel for beta-carotene recovery. RSC Advances, 15(9), 6764-6773. doi: 10.1039/d4ra08999e
+* **Compliance Fact (Food Registration 1):** No compliance fact available.
+* **Compliance Fact (Food Registration 2):** No compliance fact available.
+* **Compliance Fact (Safety Dosage):** No compliance fact available.
+* **Compliance Fact (Safety Warning):** No compliance fact available.
+* **Safety Fact (Active Ingredient):** No safety fact available.
+* **Safety Fact (Ingredient Purpose):** No safety fact available.
+* **Safety Fact (Uses):** No safety fact available.
+* **Safety Fact (Warnings):** No safety fact available.
+* **Safety Fact (Directions):** No safety fact available.
+* **Safety Fact (Other Info):** No safety fact available.
+* **Safety Fact (Inactive Ingredients):** No safety fact available.
+* **Safety Fact (Questions):** No safety fact available.
+* **Toxicity Fact (Summary):** The water extract of Momordica cochinchinensis aril caused significant apoptosis and necrosis of breast cancer and melanoma cells, with varieties from Northern Vietnam possessing superior activity.
+* **Toxicity Fact (Mechanism):** The mechanism of cell death induced by the aril extract was found to be both apoptotic and necrotic, with typical biochemical and morphological characteristics.
+* **Toxicity Fact (Side Effects):** No side effects were reported in the study.
+* **Toxicity Fact (Case Reports):** No case reports were mentioned in the study.
+* **Culture Fact:** 
+  * **Culture Fact (Community - Wat Phra Mahathat Woramahawihan):** 
+    * **community_name:** Wat Phra Mahathat Woramahawihan
+    * **location:** Nakhon Si Thammarat Province
+    * **ethnic_group:** Khom Ayutthaya, Khom Thonburi-Rattanakosin
+    * **local_name:** Fakkhao
+    * **traditional_use:** Offering
+    * **processing_method:** Gilding
+    * **source_url:** https://db.sac.or.th/inscriptions/dataset/detail/14
+  * **Culture Fact (Community - Ban Sop Lan):** 
+    * **community_name:** Ban Sop Lan
+    * **location:** Chiang Mai Province
+    * **ethnic_group:** Pga K'nyau
+    * **local_name:** Fakkhao
+    * **traditional_use:** Planting
+    * **processing_method:** Planting
+    * **source_url:** https://wikicommunity.sac.or.th/community/816
+  * **Culture Fact (Community - Pha To):** 
+    * **community_name:** Pha To
+    * **location:** Mae Hong Son Province
+    * **ethnic_group:** Pga K'nyau
+    * **local_name:** Fakkhao
+    * **traditional_use:** Planting
+    * **processing_method:** Planting
+    * **source_url:** https://wikicommunity.sac.or.th/community/1961
+* **Internal RAG Fact (Herbal):** Unfortunately, the provided internal knowledge context does not specifically mention ฟักข้าว (Momordica cochinchinensis).
+* **Internal RAG Fact (Cultural):** No relevant information about ฟักข้าว was found in the provided cultural context.
+* **Source URL (Trend):** No source URL available.
+* **Source URL (Science):** https://doi.org/10.1039/d4ra08999e
+* **Source URL (Compliance):** No source URL available.
+* **Source URL (Safety):** No source URL available.
+* **Source URL (Toxicity):** https://pmc.ncbi.nlm.nih.gov/articles/PMC7687717/
+* **Source URL (Culture):** https://db.sac.or.th/inscriptions/dataset/detail/14, https://wikicommunity.sac.or.th/community/816, https://wikicommunity.sac.or.th/community/1961

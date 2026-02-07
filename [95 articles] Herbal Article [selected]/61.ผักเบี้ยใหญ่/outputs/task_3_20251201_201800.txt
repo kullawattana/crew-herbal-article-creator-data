@@ -1,0 +1,32 @@
+# ===RESEARCH_DATA===
+## Scientific Evidence for: Portulaca oleracea
+* **herb_name:** Portulaca oleracea
+* **herb_name_scientific:** Portulaca oleracea
+### Validated Compounds
+* **Compound 1:**
+    * **compound_name:** PoMPK3
+    * **mechanism_name:** Salt tolerance
+    * **supporting_studies:**
+        * **Study 1:** (Data from the first item in studies_data)
+            * **study_type:** Journal Article
+            * **abstract_raw:** Clinical management of atopic dermatitis (AD) is challenged by its susceptibility to recurrence, side effects, and high costs. We found that Portulaca oleracea L.-derived nanovesicles (PDNV) exert anti-inflammatory effects by modulating macrophage M1/M2 polarization. These effects were achieved through pathways including inhibition of nuclear factor-κB (NF-κB) and stimulator of interferon genes (STING) protein expression in diseased tissues, demonstrating their potential to ameliorate AD symptoms. To increase the transdermal permeation of PDNV, dissolvable microneedles composed primarily of hyaluronic acid (HA) were developed as an adjunctive means of delivery. Meanwhile, polysaccharides of Portulaca oleracea L., which were synergistic with PDNV, were used as microneedle constituent materials to enhance the mechanical properties and physical stability of HA. This new means of delivery significantly improves the treatment of AD and also provides new options for the efficient utilization of plant extracellular vesicles and the treatment of AD. In addition, transcriptomic analysis of PDNV showed that the mRNAs of Portulaca oleracea L. are closest to those of ferns, which may shed light on related evolutionary and plant species identification studies.
+            * **key_findings:** The study found that Portulaca oleracea L.-derived nanovesicles (PDNV) exert anti-inflammatory effects by modulating macrophage M1/M2 polarization. The study also found that the mRNAs of Portulaca oleracea L. are closest to those of ferns.
+            * **pmid:** 41311408
+            * **canonical_url:** https://doi.org/10.1016/j.apsb.2025.08.021
+            * **citation_apa:** Long, M., Li, J., Zhu, Y., Ruan, H., Li, J., Xu, F., ... & Zhang, Y. (2025). Microneedle-facilitated Portulaca oleracea L.-derived nanovesicles ameliorate atopic dermatitis by modulating macrophage M1/M2 polarization and inhibiting NF-κB and STING signaling pathways. Acta Pharmaceutica Sinica B, 15(11), 5966-5987. doi: 10.1016/j.apsb.2025.08.021
+        * **Study 2:** (Data from the second item in studies_data)
+            * **study_type:** Journal Article
+            * **abstract_raw:** Integrated metabolome and transcriptome analysis provides insights into anthocyanin biosynthesis in Portulaca oleracea.
+            * **key_findings:** The study found that Portulaca oleracea contains anthocyanins, which are powerful antioxidants.
+            * **pmid:** 41310462
+            * **canonical_url:** https://doi.org/10.1186/s12870-025-07790-2
+            * **citation_apa:** Zhu, M., Wu, H., Fu, Y., You, L., Yang, C., Zhao, R., ... & Han, X. (2025). Integrated metabolome and transcriptome analysis provides insights into anthocyanin biosynthesis in Portulaca oleracea. BMC Plant Biology, 25(1), 1-13.
+        * **Study 3:** (Data from the third item in studies_data)
+            * **study_type:** Journal Article
+            * **abstract_raw:** PoMPK3, an MAPK Gene from Purslane (Portulaca oleracea), Conferred Salt Tolerance in Transgenic Arabidopsis thaliana.
+            * **key_findings:** The study found that PoMPK3, an MAPK gene from Portulaca oleracea, conferred salt tolerance in transgenic Arabidopsis thaliana.
+            * **pmid:** 41304629
+            * **canonical_url:** https://doi.org/10.3390/plants14223478
+            * **citation_apa:** Sun, G., He, S., Dong, J., He, T., Zhu, X., Wang, K., ... & Xing, J. (2025). PoMPK3, an MAPK Gene from Purslane (Portulaca oleracea), Conferred Salt Tolerance in Transgenic Arabidopsis thaliana. Plants, 14(22), 3478.
+### Overall Summary
+* **summary:** Portulaca oleracea has been found to have anti-inflammatory and antioxidant effects, and its extracts have been shown to improve salt tolerance in transgenic Arabidopsis thaliana.

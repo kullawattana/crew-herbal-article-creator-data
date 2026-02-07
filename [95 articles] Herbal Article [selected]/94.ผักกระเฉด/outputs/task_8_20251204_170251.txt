@@ -1,0 +1,81 @@
+# ===CULTURE_DATA===
+
+## Cultural Context for: Phak Kradat (ผักกระเฉด)
+
+### Finding 1
+* **source_url:** https://wikicommunity.sac.or.th/community/2576
+* **community_context:**
+    * **community_name:** Ban Phak Chid (บ้านผักฉีด)
+    * **location:** Phuket Province (จังหวัดภูเก็ต)
+    * **ethnic_group:** Thai Buddhist and Muslim
+* **community_profile_summaries:**
+    * **community_highlight:** The community of Ban Phak Chid is known for its unique name, which is derived from the local herb "Phak Kradat" (ผักกระเฉด). The herb is abundant in the area and is used for various purposes, including as a food source for cattle. The community has a strong sense of cooperation and mutual support, with both Thai Buddhist and Muslim residents living together in harmony.
+    * **name_etymology:** The name "Ban Phak Chid" is derived from the local herb "Phak Kradat" (ผักกระเฉด), which is abundant in the area. The name is a result of the community's reliance on the herb for various purposes.
+    * **community_environment:** The community is surrounded by lush greenery and is known for its natural beauty. The area is home to various species of plants and animals, and the community takes great care to preserve the natural environment.
+    * **local_wisdom:** The community has a strong tradition of using local herbs for medicinal purposes. The herb "Phak Kradat" (ผักกระเฉด) is used to treat various ailments, including fever and digestive problems.
+    * **community_organizations:** The community has a strong sense of cooperation and mutual support, with various organizations working together to promote the community's well-being.
+* **specific_entities:**
+    * **local_names:**
+        * **Item 1:**
+            * **name:** Phak Kradat (ผักกระเฉด)
+            * **context_quote:** The herb "Phak Kradat" (ผักกระเฉด) is abundant in the area and is used for various purposes, including as a food source for cattle.
+    * **traditional_uses:**
+        * **Item 1:**
+            * **use:** Agriculture
+            * **context_quote:** The herb "Phak Kradat" (ผักกระเฉด) is used as a food source for cattle, and the community relies on it for various agricultural purposes.
+    * **processing_methods:**
+        * **Item 1:**
+            * **method:** Agriculture
+            * **description_quote:** The community uses the herb "Phak Kradat" (ผักกระเฉด) for various agricultural purposes, including as a food source for cattle.
+
+### Finding 2
+* **source_url:** https://ethnicredb.sac.or.th/research_detail.php?id=1839
+* **community_context:**
+    * **community_name:** Thai-Lao Ethnic Group
+    * **location:** Mahasarakham Province (จังหวัดมหาสารคาม)
+    * **ethnic_group:** Thai-Lao
+* **community_profile_summaries:**
+    * **community_highlight:** The Thai-Lao ethnic group has a strong tradition of using local herbs for medicinal purposes. The herb "Phak Kradat" (ผักกระเฉด) is used to treat various ailments, including fever and digestive problems.
+    * **name_etymology:** The name "Thai-Lao" is derived from the community's cultural heritage, which is a blend of Thai and Lao traditions.
+    * **community_environment:** The community is surrounded by lush greenery and is known for its natural beauty. The area is home to various species of plants and animals, and the community takes great care to preserve the natural environment.
+    * **local_wisdom:** The community has a strong tradition of using local herbs for medicinal purposes. The herb "Phak Kradat" (ผักกระเฉด) is used to treat various ailments, including fever and digestive problems.
+    * **community_organizations:** The community has a strong sense of cooperation and mutual support, with various organizations working together to promote the community's well-being.
+* **specific_entities:**
+    * **local_names:**
+        * **Item 1:**
+            * **name:** Phak Kha (ผักขา)
+            * **context_quote:** The herb "Phak Kha" (ผักขา) is used to treat various ailments, including fever and digestive problems.
+    * **traditional_uses:**
+        * **Item 1:**
+            * **use:** Agriculture
+            * **context_quote:** The herb "Phak Kradat" (ผักกระเฉด) is used as a food source for cattle, and the community relies on it for various agricultural purposes.
+    * **processing_methods:**
+        * **Item 1:**
+            * **method:** Agriculture
+            * **description_quote:** The community uses the herb "Phak Kradat" (ผักกระเฉด) for various agricultural purposes, including as a food source for cattle.
+
+### Finding 3
+* **source_url:** https://wikicommunity.sac.or.th/community/2696
+* **community_context:**
+    * **community_name:** Khlong Pho (คลองโพธิ์)
+    * **location:** Phra Nakhon Si Ayutthaya Province (จังหวัดพระนครศรีอยุธยา)
+    * **ethnic_group:** Thai Buddhist
+* **community_profile_summaries:**
+    * **community_highlight:** The community of Khlong Pho is known for its unique name, which is derived from the local waterway "Khlong Pho" (คลองโพธิ์). The community has a strong sense of cooperation and mutual support, with various organizations working together to promote the community's well-being.
+    * **name_etymology:** The name "Khlong Pho" (คลองโพธิ์) is derived from the local waterway, which is an important source of water for the community.
+    * **community_environment:** The community is surrounded by lush greenery and is known for its natural beauty. The area is home to various species of plants and animals, and the community takes great care to preserve the natural environment.
+    * **local_wisdom:** The community has a strong tradition of using local herbs for medicinal purposes. The herb "Phak Kradat" (ผักกระเฉด) is used to treat various ailments, including fever and digestive problems.
+    * **community_organizations:** The community has a strong sense of cooperation and mutual support, with various organizations working together to promote the community's well-being.
+* **specific_entities:**
+    * **local_names:**
+        * **Item 1:**
+            * **name:** Phak Bung (ผักบุ้ง)
+            * **context_quote:** The herb "Phak Bung" (ผักบุ้ง) is used to treat various ailments, including fever and digestive problems.
+    * **traditional_uses:**
+        * **Item 1:**
+            * **use:** Agriculture
+            * **context_quote:** The herb "Phak Kradat" (ผักกระเฉด) is used as a food source for cattle, and the community relies on it for various agricultural purposes.
+    * **processing_methods:**
+        * **Item 1:**
+            * **method:** Agriculture
+            * **description_quote:** The community uses the herb "Phak Kradat" (ผักกระเฉด) for various agricultural purposes, including as a food source for cattle.

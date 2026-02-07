@@ -1,0 +1,26 @@
+# ===TRENDS_DATA===
+
+### Finding 1
+* **herb_name:** Yellow Vine
+* **wellness_context_summary:** Unfortunately, no relevant information about Yellow Vine was found on the Global Wellness Institute (GWI) website.
+* **source_url:** https://globalwellnessinstitute.org/
+
+### Finding 2
+* **herb_name:** Yellow Vine
+* **wellness_context_summary:** No relevant articles or studies about Yellow Vine were found on the GWI website.
+* **source_url:** https://globalwellnessinstitute.org/initiatives/wellness-evidence/
+
+### Finding 3
+* **herb_name:** Yellow Vine
+* **wellness_context_summary:** The GWI website does not contain any information about the health benefits or wellness trends related to Yellow Vine.
+* **source_url:** https://globalwellnessinstitute.org/research/
+
+### Finding 4
+* **herb_name:** Yellow Vine
+* **wellness_context_summary:** No relevant data or research about Yellow Vine was found on the GWI website.
+* **source_url:** https://globalwellnessinstitute.org/geography-of-wellness/
+
+### Finding 5
+* **herb_name:** Yellow Vine
+* **wellness_context_summary:** Unfortunately, no information about Yellow Vine was found on the GWI website.
+* **source_url:** https://globalwellnessinstitute.org/wellness-moonshot/

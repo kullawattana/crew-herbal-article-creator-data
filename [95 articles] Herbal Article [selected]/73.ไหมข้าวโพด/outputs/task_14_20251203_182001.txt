@@ -1,0 +1,28 @@
+# ===AUDIT_DATA_INTEGRITY_REPORT===
+*   **Collaboration Robustness (Data Loss):** 64%
+*   **Explanation Clarity (Hallucination/Handling):** 98%
+*   **Dropped Entities (Facts in Fact Sheet but not Article):**
+    *   Lab Fact (Experimental Method): The experimental method used to study the effects of Zea mays involved in vitro and in vivo experiments to determine its antioxidant and anti-inflammatory properties.
+    *   Lab Fact (Cosmetic or Clinical Effect): The cosmetic or clinical effects of Zea mays included improved skin health and reduced inflammation.
+    *   Compliance Fact (Food Registration 1): None found
+    *   Compliance Fact (Safety Dosage): Not found
+    *   Compliance Fact (Safety Warning): None found
+    *   Safety Fact (Inactive Ingredients): Not found
+    *   Safety Fact (Questions): None found
+    *   Toxicity Fact (Mechanism): Not found
+    *   Toxicity Fact (Side Effects): None found
+    *   Toxicity Fact (Case Reports): Not found
+    *   Culture Fact (Community Highlight - Ban Doi Lan): The community's strengths lie in their traditional farming practices, including the cultivation of corn, which is used to produce corn silk.
+    *   Culture Fact (Local Name - Ban Doi Lan): Corn Silk
+    *   Culture Fact (Processing - Ban Doi Lan): Processing corn silk
+    *   Source URL (Trend): Not found
+    *   Source URL (Science): Not found
+    *   Source URL (Compliance): Not found
+    *   Source URL (Safety): Not found
+    *   Source URL (Toxicity): Not found
+*   **Hallucinated Entities (Facts in Article but not Fact Sheet):**
+    *   Zea mays has been used for centuries (in the phrase "a traditional herb that has been used for centuries in various cultures")
+*   **Feedback:**
+    The audit reveals a Collaboration Robustness score of 64%, indicating a substantial loss of data from the Master Fact Sheet to the Final Article. A total of 18 distinct facts, including specific lab methodologies, cosmetic effects, comprehensive compliance data (Food Registration, Safety Dosage, Safety Warning), detailed safety information (Inactive Ingredients, Questions), toxicity specifics (Mechanism, Side Effects, Case Reports), certain cultural details (community farming strengths, local name "Corn Silk", corn silk processing), and all "Source URL: Not found" entries were entirely omitted from the Final Article. While the article correctly handled the "Not found" status for APA citations and general safety warnings/directions by explicitly stating their absence or omitting references, it failed to report the absence of many other "Not found" or "None found" facts, representing a significant gap in completeness.
+
+    The Explanation Clarity score is 98%, demonstrating a high degree of accuracy in the facts that *were* included. Only one minor embellishment, "used for centuries" (in the context of Zea mays being a traditional herb), was identified as a hallucination, as this specific timeframe was not present in the Master Fact Sheet. All other factual statements in the article were directly verifiable from the provided source of truth. The article also correctly handled the `citation_apa: not_found` entries by explicitly stating "Not found" in the references section, preventing the invention of citations.

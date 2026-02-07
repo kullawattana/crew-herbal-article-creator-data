@@ -1,0 +1,80 @@
+# ===CULTURE_DATA===
+## Cultural Context for: Elephant Garlic (หอมหัวใหญ่)
+
+### Finding 1
+* **source_url:** https://ethnicredb.sac.or.th/research_detail.php?id=952
+* **community_context:**
+    * **community_name:** Indigenous Community
+    * **location:** Chiang Mai
+    * **ethnic_group:** Indigenous
+* **community_profile_summaries:**
+    * **community_highlight:** The indigenous community in Chiang Mai has a strong tradition of using forest products, including elephant garlic, for food and income generation. The community has a diverse range of crops, including rice, corn, and vegetables, which are sold in local markets. The community also uses elephant garlic as a key ingredient in traditional dishes.
+    * **name_etymology:** No herbal-related information found.
+    * **community_environment:** The community is located in a mountainous region with a diverse range of flora and fauna. The community has a strong connection to the natural environment and uses sustainable practices to manage the forest resources.
+    * **local_wisdom:** The community has a rich cultural heritage and traditional knowledge of using forest products, including elephant garlic, for food, medicine, and rituals.
+    * **community_organizations:** The community has a number of organizations that work together to manage the forest resources and promote sustainable livelihoods.
+* **specific_entities:**
+    * **local_names:**
+        * **Item 1:**
+            * **name:** Elephant Garlic
+            * **context_quote:** "The community grows a variety of crops, including elephant garlic, which is used as a key ingredient in traditional dishes." (Page 42)
+    * **traditional_uses:**
+        * **Item 1:**
+            * **use:** Cultivating Elephant Garlic
+            * **context_quote:** "The community grows a variety of crops, including elephant garlic, which is used as a key ingredient in traditional dishes." (Page 42)
+    * **processing_methods:**
+        * **Item 1:**
+            * **method:** Cultivating Elephant Garlic
+            * **description_quote:** "The community grows a variety of crops, including elephant garlic, which is used as a key ingredient in traditional dishes." (Page 42)
+
+### Finding 2
+* **source_url:** https://southeastasia.sac.or.th/subject.php?c_id=1&sj_id=28
+* **community_context:**
+    * **community_name:** Brunei
+    * **location:** Brunei
+    * **ethnic_group:** Brunei
+* **community_profile_summaries:**
+    * **community_highlight:** The Brunei community has a rich cultural heritage and traditional knowledge of using elephant garlic in cooking. Elephant garlic is used as a key ingredient in traditional dishes, such as Udang Sambal Serai Bersantan.
+    * **name_etymology:** No herbal-related information found.
+    * **community_environment:** The community is located in a tropical region with a diverse range of flora and fauna. The community has a strong connection to the natural environment and uses sustainable practices to manage the forest resources.
+    * **local_wisdom:** The community has a rich cultural heritage and traditional knowledge of using elephant garlic in cooking and medicine.
+    * **community_organizations:** The community has a number of organizations that work together to promote sustainable livelihoods and preserve traditional knowledge.
+* **specific_entities:**
+    * **local_names:**
+        * **Item 1:**
+            * **name:** Elephant Garlic
+            * **context_quote:** "Udang Sambal Serai Bersantan is a traditional dish that uses elephant garlic as a key ingredient." (Page 180)
+    * **traditional_uses:**
+        * **Item 1:**
+            * **use:** Using Elephant Garlic in Cooking
+            * **context_quote:** "Udang Sambal Serai Bersantan is a traditional dish that uses elephant garlic as a key ingredient." (Page 180)
+    * **processing_methods:**
+        * **Item 1:**
+            * **method:** Using Elephant Garlic in Cooking
+            * **description_quote:** "Udang Sambal Serai Bersantan is a traditional dish that uses elephant garlic as a key ingredient." (Page 180)
+
+### Finding 3
+* **source_url:** https://culturio.sac.or.th/content/1250
+* **community_context:**
+    * **community_name:** Bang Ao Mosque Community
+    * **location:** Bang Ao
+    * **ethnic_group:** Bang Ao Mosque Community
+* **community_profile_summaries:**
+    * **community_highlight:** The Bang Ao Mosque Community has a rich cultural heritage and traditional knowledge of using elephant garlic in cooking. Elephant garlic is used as a key ingredient in traditional dishes, such as Yam Thina.
+    * **name_etymology:** No herbal-related information found.
+    * **community_environment:** The community is located in a urban region with a diverse range of flora and fauna. The community has a strong connection to the natural environment and uses sustainable practices to manage the forest resources.
+    * **local_wisdom:** The community has a rich cultural heritage and traditional knowledge of using elephant garlic in cooking and medicine.
+    * **community_organizations:** The community has a number of organizations that work together to promote sustainable livelihoods and preserve traditional knowledge.
+* **specific_entities:**
+    * **local_names:**
+        * **Item 1:**
+            * **name:** Elephant Garlic
+            * **context_quote:** "Yam Thina is a traditional dish that uses elephant garlic as a key ingredient."
+    * **traditional_uses:**
+        * **Item 1:**
+            * **use:** Using Elephant Garlic in Cooking
+            * **context_quote:** "Yam Thina is a traditional dish that uses elephant garlic as a key ingredient."
+    * **processing_methods:**
+        * **Item 1:**
+            * **method:** Using Elephant Garlic in Cooking
+            * **description_quote:** "Yam Thina is a traditional dish that uses elephant garlic as a key ingredient."

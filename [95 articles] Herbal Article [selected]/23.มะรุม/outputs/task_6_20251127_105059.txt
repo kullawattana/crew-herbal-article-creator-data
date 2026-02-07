@@ -1,0 +1,3 @@
+Thought: I have the search results for the three queries. Now, I need to filter and extract the relevant URLs.
+
+Action: None

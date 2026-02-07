@@ -1,0 +1,88 @@
+# ===MASTER_FACT_SHEET=== 
+## Consolidated Facts for: Onion
+* **Trend Fact:** Onion is mentioned in the context of a healthy diet for the beginning of Spring. It is recommended to eat mild food, such as green onions, coriander, peanuts, leeks, shrimps, etc., and eat less spicy food. Onion is also mentioned as an ingredient in a recipe for Fried Leek Dumpling.
+* **Trend Fact:** Onion is mentioned as a vegetable that can be eaten during the beginning of Spring. It is recommended to eat seasonal vegetables, such as leeks, white radish, wild rice shoots, green bamboo shoots, Spring bamboo shoots, etc., and use coriander as a side dish.
+* **Trend Fact:** Onion is mentioned as an ingredient in a recipe for Fried Leek Dumpling. The recipe is recommended for the beginning of Spring, and it is suggested to eat mild food, such as green onions, coriander, peanuts, leeks, shrimps, etc., and eat less spicy food.
+* **Lab Fact (Experimental Method):** No experimental method information found.
+* **Lab Fact (Extraction Method):** No extraction method information found.
+* **Lab Fact (Compound Identified):** No compound identified information found.
+* **Lab Fact (Chromatography - TLC):** No chromatography information found.
+* **Lab Fact (Pharmacological Finding):** No pharmacological finding information found.
+* **Lab Fact (Cosmetic or Clinical Effect):** No cosmetic or clinical effect information found.
+* **Lab Fact (Quality Control):** No quality control information found.
+* **Science Fact (Herb):** No herb name scientific information found.
+* **Science Fact (Compound):** No compound name information found.
+* **Science Fact (Abstracts):** 
+  * **Study 1:** 
+    * **abstract_raw:** No abstract raw information found.
+    * **citation_apa:** No citation APA information found.
+  * **Study 2:** 
+    * **abstract_raw:** No abstract raw information found.
+    * **citation_apa:** No citation APA information found.
+  * **Study 3:** 
+    * **abstract_raw:** No abstract raw information found.
+    * **citation_apa:** No citation APA information found.
+* **Compliance Fact (Food Registration 1):** registration_number=10-1-02263-5-0015, product_name=Onion Powder, company_name=Bioform International Co., Ltd., status=Active
+* **Compliance Fact (Food Registration 2):** registration_number=10-1-10758-5-0092, product_name=Yellow Onion Vacuum, company_name=Natural and Premium Food Co., Ltd., status=Active
+* **Compliance Fact (Food Registration 3):** registration_number=10-1-10758-5-0096, product_name=Red Onion Vacuum, company_name=Natural and Premium Food Co., Ltd., status=Active
+* **Compliance Fact (Food Registration 4):** registration_number=10-1-10758-5-0347, product_name=Onion Powder, company_name=Natural and Premium Food Co., Ltd., status=Active
+* **Compliance Fact (Food Registration 5):** registration_number=10-1-10758-5-0495, product_name=Yellow and Red Onion Vacuum, company_name=Natural and Premium Food Co., Ltd., status=Active
+* **Compliance Fact (Safety Dosage):** No safety dosage information found.
+* **Compliance Fact (Safety Warning):** No safety warning information found.
+* **Safety Fact (Active Ingredient):** No active ingredient information found.
+* **Safety Fact (Ingredient Purpose):** No ingredient purpose information found.
+* **Safety Fact (Uses):** No uses information found.
+* **Safety Fact (Warnings):** No warnings information found.
+* **Safety Fact (Directions):** No directions information found.
+* **Safety Fact (Other Info):** No other information found.
+* **Safety Fact (Inactive Ingredients):** No inactive ingredients information found.
+* **Safety Fact (Questions):** No questions information found.
+* **Toxicity Fact (Summary):** No toxicity summary information found.
+* **Toxicity Fact (Mechanism):** No mechanism of injury information found.
+* **Toxicity Fact (Side Effects):** No reported side effects information found.
+* **Toxicity Fact (Case Reports):** No case report summary information found.
+* **Culture Fact (Community - Indigenous Community):** community_name=Indigenous Community
+* **Culture Fact (Location - Indigenous Community):** location=Chiang Mai
+* **Culture Fact (Ethnic Group - Indigenous Community):** ethnic_group=Indigenous
+* **Culture Fact (Community Highlight - Indigenous Community):** community_highlight=The indigenous community in Chiang Mai has a strong tradition of using forest products, including elephant garlic, for food and income generation.
+* **Culture Fact (Name Etymology - Indigenous Community):** name_etymology=No herbal-related information found.
+* **Culture Fact (Environment - Indigenous Community):** community_environment=The community is located in a mountainous region with a diverse range of flora and fauna.
+* **Culture Fact (Local Wisdom - Indigenous Community):** local_wisdom=The community has a rich cultural heritage and traditional knowledge of using forest products, including elephant garlic, for food, medicine, and rituals.
+* **Culture Fact (Organization - Indigenous Community):** community_organizations=The community has a number of organizations that work together to manage the forest resources and promote sustainable livelihoods.
+* **Culture Fact (Local Name - Indigenous Community):** local_name=Elephant Garlic
+* **Culture Fact (Use - Indigenous Community):** traditional_use=Cultivating Elephant Garlic
+* **Culture Fact (Processing - Indigenous Community):** processing_method=Cultivating Elephant Garlic
+* **Culture Fact (Source - Indigenous Community):** source_url=https://ethnicredb.sac.or.th/research_detail.php?id=952
+* **Culture Fact (Community - Brunei):** community_name=Brunei
+* **Culture Fact (Location - Brunei):** location=Brunei
+* **Culture Fact (Ethnic Group - Brunei):** ethnic_group=Brunei
+* **Culture Fact (Community Highlight - Brunei):** community_highlight=The Brunei community has a rich cultural heritage and traditional knowledge of using elephant garlic in cooking.
+* **Culture Fact (Name Etymology - Brunei):** name_etymology=No herbal-related information found.
+* **Culture Fact (Environment - Brunei):** community_environment=The community is located in a tropical region with a diverse range of flora and fauna.
+* **Culture Fact (Local Wisdom - Brunei):** local_wisdom=The community has a rich cultural heritage and traditional knowledge of using elephant garlic in cooking and medicine.
+* **Culture Fact (Organization - Brunei):** community_organizations=The community has a number of organizations that work together to promote sustainable livelihoods and preserve traditional knowledge.
+* **Culture Fact (Local Name - Brunei):** local_name=Elephant Garlic
+* **Culture Fact (Use - Brunei):** traditional_use=Using Elephant Garlic in Cooking
+* **Culture Fact (Processing - Brunei):** processing_method=Using Elephant Garlic in Cooking
+* **Culture Fact (Source - Brunei):** source_url=https://southeastasia.sac.or.th/subject.php?c_id=1&sj_id=28
+* **Culture Fact (Community - Bang Ao Mosque Community):** community_name=Bang Ao Mosque Community
+* **Culture Fact (Location - Bang Ao Mosque Community):** location=Bang Ao
+* **Culture Fact (Ethnic Group - Bang Ao Mosque Community):** ethnic_group=Bang Ao Mosque Community
+* **Culture Fact (Community Highlight - Bang Ao Mosque Community):** community_highlight=The Bang Ao Mosque Community has a rich cultural heritage and traditional knowledge of using elephant garlic in cooking.
+* **Culture Fact (Name Etymology - Bang Ao Mosque Community):** name_etymology=No herbal-related information found.
+* **Culture Fact (Environment - Bang Ao Mosque Community):** community_environment=The community is located in a urban region with a diverse range of flora and fauna.
+* **Culture Fact (Local Wisdom - Bang Ao Mosque Community):** local_wisdom=The community has a rich cultural heritage and traditional knowledge of using elephant garlic in cooking and medicine.
+* **Culture Fact (Organization - Bang Ao Mosque Community):** community_organizations=The community has a number of organizations that work together to promote sustainable livelihoods and preserve traditional knowledge.
+* **Culture Fact (Local Name - Bang Ao Mosque Community):** local_name=Elephant Garlic
+* **Culture Fact (Use - Bang Ao Mosque Community):** traditional_use=Using Elephant Garlic in Cooking
+* **Culture Fact (Processing - Bang Ao Mosque Community):** processing_method=Using Elephant Garlic in Cooking
+* **Culture Fact (Source - Bang Ao Mosque Community):** source_url=https://culturio.sac.or.th/content/1250
+* **Internal RAG Fact (Herbal):** The provided internal knowledge context does not explicitly mention หอมหัวใหญ่ (Allium cepa). However, it discusses the use of traditional Thai medicine and herbs in the lives of Thai people.
+* **Internal RAG Fact (Cultural):** No relevant information about หอมหัวใหญ่ was found in the provided cultural context.
+* **Source URL (Trend):** https://globalwellnessinstitute.org/global-wellness-institute-blog/2021/02/24/february-2021-revive-china/
+* **Source URL (Compliance):** No compliance source URL information found.
+* **Source URL (Safety):** No safety source URL information found.
+* **Source URL (Toxicity):** No toxicity source URL information found.
+* **Source URL (Culture):** https://ethnicredb.sac.or.th/research_detail.php?id=952
+* **Source URL (Culture):** https://southeastasia.sac.or.th/subject.php?c_id=1&sj_id=28
+* **Source URL (Culture):** https://culturio.sac.or.th/content/1250

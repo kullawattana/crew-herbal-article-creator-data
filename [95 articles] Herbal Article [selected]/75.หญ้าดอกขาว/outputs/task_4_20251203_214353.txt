@@ -1,0 +1,31 @@
+# ===COMPLIANCE_DATA=== ## Thai FDA Status for: Vernonia cinerea
+* **herb_name:** Vernonia cinerea
+### Food Registrations 
+* None found.
+
+### Herb/Drug Registrations 
+* **Herb/Drug Registration 1:**
+    * **registration_number:** G184/60
+    * **product_name:** ยาชงหญ้าดอกขาว ตราเคเอ็มพี / VERNORIA CINEREA INFUSION KMP BRAND
+    * **company_name:** แก้วมังกรเภสัช
+    * **status:** คงอยู่
+* **Herb/Drug Registration 2:**
+    * **registration_number:** G50013/63
+    * **product_name:** ยาชงหญ้าดอกขาว / VERNORIA CINEREA INFUSION
+    * **company_name:** ลิ้มเซ่งฮึง
+    * **status:** คงอยู่
+* **Herb/Drug Registration 3:**
+    * **registration_number:** G465/60
+    * **product_name:** ยาชงหญ้าดอกขาว ตราสะม็อค / VERNONIA CINEREA INFUSION SMOC BRAND
+    * **company_name:** ห้างธงทองโอสถ
+    * **status:** คงอยู่
+* **Herb/Drug Registration 4:**
+    * **registration_number:** G51/60
+    * **product_name:** ยาชงหญ้าดอกขาว / VERNONIA CINEREA INFUSION
+    * **company_name:** ขาวละออเภสัช .
+    * **status:** คงอยู่
+* **Herb/Drug Registration 5:**
+    * **registration_number:** G418/59
+    * **product_name:** ยาชงหญ้าดอกขาว ตราพระอินทร์ / -
+    * **company_name:** หมอยาไทย 101
+    * **status:** คงอยู่

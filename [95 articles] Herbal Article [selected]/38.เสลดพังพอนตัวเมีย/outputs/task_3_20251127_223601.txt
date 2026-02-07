@@ -1,0 +1,34 @@
+# ===RESEARCH_DATA===
+## Scientific Evidence for: Clinacanthus nutans
+* **herb_name:** Clinacanthus nutans
+* **herb_name_scientific:** Clinacanthus nutans
+
+### Validated Compounds
+* **Compound 1:**
+    * **compound_name:** not_found
+    * **mechanism_name:** not_found
+    * **supporting_studies:**
+        * **Study 1:** (Data from the first item in studies_data)
+            * **study_type:** not_found
+            * **abstract_raw:** not_found
+            * **key_findings:** not_found
+            * **pmid:** 41257546
+            * **canonical_url:** https://doi.org/10.1186/s12863-025-01380-9
+            * **citation_apa:** not_found
+        * **Study 2:** (Data from the second item...)
+            * **study_type:** not_found
+            * **abstract_raw:** Isolation and characterization of a potent anticancer fraction from Clinacanthus nutans targeting MCF-7 and A549 cells: an integrated in vitro and in silico study.
+            * **key_findings:** not_found
+            * **pmid:** 41244929
+            * **canonical_url:** https://doi.org/10.1007/s40203-025-00471-w
+            * **citation_apa:** not_found
+        * **Study 3:** (Data from the third item...)
+            * **study_type:** not_found
+            * **abstract_raw:** Supercritical CO₂ extraction of Clinacanthus nutans: Enhanced bioactive recovery and cytotoxicity against cervical cancer cells.
+            * **key_findings:** not_found
+            * **pmid:** 41234346
+            * **canonical_url:** https://doi.org/10.4103/japtr.japtr_101_25
+            * **citation_apa:** not_found
+
+### Overall Summary
+* **summary:** not_found

@@ -1,0 +1,71 @@
+# ===CULTURE_DATA=== 
+## Cultural Context for: Tha Di Mi (ท่าดีหมี)
+### Finding 1 
+* **source_url:** https://wikicommunity.sac.or.th/community/1759 
+* **community_context:** 
+    * **community_name:** Ban Tha Di Mi 
+    * **location:** Pak Tom 
+    * **ethnic_group:** Thai Yuan 
+* **community_profile_summaries:** 
+    * **community_highlight:** Ban Tha Di Mi is a border village that has received support and development from military units, security agencies, and the 23rd Ranger Regiment. The last development project was around 1999-2002, when the 2nd Army Region supported the construction of a large Buddha image, which is now a tourist attraction in Chiang Kham District, Lampang Province. 
+    * **name_etymology:** No herbal-related information found. 
+    * **community_environment:** No herbal-related information found. 
+    * **local_wisdom:** Di Mi or Di Mi Pa is mixed with a little water to create a permanent tattoo. 
+    * **community_organizations:** No herbal-related information found. 
+* **specific_entities:** 
+    * **local_names:** 
+        * **Item 1:** 
+            * **name:** Di Mi 
+            * **context_quote:** Di Mi or Di Mi Pa is mixed with a little water to create a permanent tattoo. 
+    * **traditional_uses:** 
+        * **Item 1:** 
+            * **use:** Tattooing 
+            * **context_quote:** Di Mi or Di Mi Pa is mixed with a little water to create a permanent tattoo. 
+    * **processing_methods:** 
+        * **Item 1:** 
+            * **method:** Tattooing 
+            * **description_quote:** Di Mi or Di Mi Pa is mixed with a little water to create a permanent tattoo. 
+
+### Finding 2 
+* **source_url:** https://www.sac.or.th/portal/th/article/detail/371 
+* **community_context:** 
+    * **community_name:** Lanna 
+    * **location:** Chiang Mai 
+    * **ethnic_group:** Thai Yuan 
+* **community_profile_summaries:** 
+    * **community_highlight:** Tattooing is a distinctive feature of the Lanna people, which can be used to distinguish them from other ethnic groups. However, it is not unique to the Lanna people, as there has been cultural exchange and transmission of tattooing techniques among different groups. 
+    * **name_etymology:** No herbal-related information found. 
+    * **community_environment:** No herbal-related information found. 
+    * **local_wisdom:** Di Mi or Di Mi Pa is mixed with a little water to create a permanent tattoo. 
+    * **community_organizations:** No herbal-related information found. 
+* **specific_entities:** 
+    * **local_names:** 
+        * **Item 1:** 
+            * **name:** Di Mi 
+            * **context_quote:** Di Mi or Di Mi Pa is mixed with a little water to create a permanent tattoo. 
+    * **traditional_uses:** 
+        * **Item 1:** 
+            * **use:** Tattooing 
+            * **context_quote:** Di Mi or Di Mi Pa is mixed with a little water to create a permanent tattoo. 
+    * **processing_methods:** 
+        * **Item 1:** 
+            * **method:** Tattooing 
+            * **description_quote:** Di Mi or Di Mi Pa is mixed with a little water to create a permanent tattoo. 
+
+### Finding 3 
+* **source_url:** https://ethnicity.sac.or.th/database-ethnic/194?SacThesaurus_sort=access_point&Populations_sort=provinces 
+* **community_context:** 
+    * **community_name:** Mlabri 
+    * **location:** Phrae 
+    * **ethnic_group:** Mlabri 
+* **community_profile_summaries:** 
+    * **community_highlight:** The Mlabri people are an ethnic group that has migrated between Thailand and Laos. They originally lived in the forest and survived by hunting and gathering. Now, they have settled in permanent villages and have a diverse range of livelihoods, including hunting and gathering, farming, animal husbandry, and wage labor. 
+    * **name_etymology:** No herbal-related information found. 
+    * **community_environment:** No herbal-related information found. 
+    * **local_wisdom:** Di Mi is used in traditional tattooing. 
+    * **community_organizations:** No herbal-related information found. 
+* **specific_entities:** 
+    * **local_names:** 
+        * **Item 1:** 
+            * **name:** Di Mi 
+            * **context_quote:** Di Mi is used in traditional tattooing.

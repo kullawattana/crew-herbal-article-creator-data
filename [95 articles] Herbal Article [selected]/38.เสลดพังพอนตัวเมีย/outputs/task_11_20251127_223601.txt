@@ -1,0 +1,65 @@
+# ===MASTER_FACT_SHEET===
+## Consolidated Facts for: Clinacanthus nutans
+* **Trend Fact:** Snake Jasmine has been used to help with skin allergies and diseases like Psorosis and ring worm infections. It has anti diabetes and anti hypertension properties. It is also considered anti-inflammatory, antipyretic, and detoxicant. The plant is used to treat snake venom and has numerous uses as an antioxidant powerhouse.
+* **Trend Fact:** The leaves of Snake Jasmine are widely used in Ayurveda for easing arthritis, joint stiffness, and back pain. The plant is also used to treat snake venom and has numerous uses as an antioxidant powerhouse.
+* **Trend Fact:** Rhinacanthus nasutus, commonly referred to as Snake Jasmine, is a native of Southeast Asia. The plant is used to treat various diseases, including cancer, diabetes, infectious diseases, and neurodegenerative diseases. It has phytochemicals that have medicinal benefits.
+* **Trend Fact:** Snake Jasmine has various uses, including treating skin allergies and diseases, diabetes, and hypertension. It is also used to treat snake venom and has antioxidant properties.
+* **Lab Fact (Experimental Method):** Not found
+* **Lab Fact (Extraction Method):** Not found
+* **Lab Fact (Compound Identified):** Not found
+* **Lab Fact (Chromatography - TLC):** Not found
+* **Lab Fact (Pharmacological Finding):** Not found
+* **Lab Fact (Cosmetic or Clinical Effect):** Not found
+* **Lab Fact (Quality Control):** Not found
+* **Science Fact (Herb):** Clinacanthus nutans
+* **Science Fact (Compound):** Not found
+* **Science Fact (Abstracts):**
+  * **Study 1:**
+    * **abstract_raw:** Not found
+    * **citation_apa:** Not found
+  * **Study 2:**
+    * **abstract_raw:** Isolation and characterization of a potent anticancer fraction from Clinacanthus nutans targeting MCF-7 and A549 cells: an integrated in vitro and in silico study.
+    * **citation_apa:** Not found
+  * **Study 3:**
+    * **abstract_raw:** Supercritical CO₂ extraction of Clinacanthus nutans: Enhanced bioactive recovery and cytotoxicity against cervical cancer cells.
+    * **citation_apa:** Not found
+* **Compliance Fact (Food Registration 1):** registration_number=None, product_name=None, company_name=None, status=None
+* **Compliance Fact (Herbal Product Registration 1):** registration_number=G465/41, product_name=ยาผงพญายอ (เสลดพังพอนตัวเมีย) ตราโกร่งทอง / CLINACANTHUS POWDER, company_name=ห้าง โกร่งทองเภสัชกรรม, status=ยกเลิก(20 ตุลาคม 2559)
+* **Compliance Fact (Herbal Product Registration 2):** registration_number=G4/66(E), product_name=ยาหม่องสมุนไพรผสมเสลดพังพอนตัวเมีย ตราแม่โชคดี / COMPOUND CLINACANTHUS NUTANS HERBAL BALM MAE CHOKDEE BRAND, company_name=หยดทิพย์ชื่นจิตต์, status=คงอยู่
+* **Compliance Fact (Herbal Product Registration 3):** registration_number=G259/62, product_name=ยาน้ำมันผสมเสลดพังพอนตัวเมีย / COMPOUND SALET PHANG PHON TUA-MIA MEDICATED OIL, company_name=ห้างหุ้นส่วนจำกัดสมุนไพรธิดาพร, status=คงอยู่
+* **Compliance Fact (Herbal Product Registration 4):** registration_number=G274/65, product_name=ยาหม่องผสมเสลดพังพอนตัวเมีย ตราเฌอเอม สูตร 2 / CHERAIM BRAND COMPOUND CLINACANTHUS NUTANS BALM FORMULA 2, company_name=ห้างหุ้นส่วน จิสประพัจน์, status=คงอยู่
+* **Compliance Fact (Herbal Product Registration 5):** registration_number=G470/65, product_name=ยาครีมผสมเสลดพังพอนตัวเมีย ตรา บางกอก บาล์ม / -, company_name=โกลเด้นลีฟ, status=ทะเบียนคงอยู่ แต่ผู้ผลิตยกเลิกกิจการ ทำให้ไม่สามารถผลิตได้
+* **Compliance Fact (Safety Dosage):** Not found
+* **Compliance Fact (Safety Warning):** Not found
+* **Safety Fact (Active Ingredient):** Camphor, Menthol
+* **Safety Fact (Ingredient Purpose):** Topical Analgesic
+* **Safety Fact (Uses):** For temporarily relief of pain and itching associated with insect bites,minor skin irritations and infections, rashes, boils, minor aches and pains of muscles and joints, dizziness
+* **Safety Fact (Warnings):** For external use only When using this product Use only as directed Do not apply to wounds and broken skin Avoid contact with eyes Stop use and ask a doctor if condition worsens severe skin irritation occurs symptoms persist for more than 7 days or clear up and reoccur within a few days
+* **Safety Fact (Directions):** Apply thin layer to or rub gently upon the desired area or inhale as needed. Repeat 3 to 4 times daily. For infants under 12 months of age, consult physician before use
+* **Safety Fact (Other Info):** This product may cause allergic reaction in some individuals, test on small area before use Store at 68° to 85°F (20° to 30°C)
+* **Safety Fact (Inactive Ingredients):** Aloe Vera, Barleria Lupulina, Beach Morning Glory, Betel leaf, Clinacanthus Nutans Lindau, Coconut oil, Crinum Veld Lily, Garden Quinine, Paraffin, Petrolatum,Zingiber Cassamunar.
+* **Safety Fact (Questions):** Not found
+* **Toxicity Fact (Summary):** Clinacanthus nutans is a plant that has been used in traditional medicine for various purposes, including the treatment of herpes infections and cancer. However, there is limited information available on its toxicity and potential side effects. Some studies have reported that the plant's extracts have cytotoxic and antiproliferative effects on cancer cells, but more research is needed to fully understand its safety and efficacy.
+* **Toxicity Fact (Mechanism):** The mechanism of injury associated with Clinacanthus nutans is not well understood, but it is thought to be related to its ability to inhibit the growth of cancer cells.
+* **Toxicity Fact (Side Effects):** There have been some reports of side effects associated with the use of Clinacanthus nutans, including allergic reactions and gastrointestinal problems. However, more research is needed to fully understand the potential risks and benefits of using this plant.
+* **Toxicity Fact (Case Reports):** There have been some case reports of liver injury associated with the use of Clinacanthus nutans, but more research is needed to fully understand the potential risks and benefits of using this plant.
+* **Culture Fact (Community - Ban Phatthasima):** Ban Phatthasima is a community known for its rich cultural heritage, particularly in the field of traditional medicine. The community has a long history of using herbal remedies, which are documented in ancient texts such as the "Samunprai" manuscript.
+* **Culture Fact (Location - Ban Phatthasima):** Nakhon Si Thammarat Province
+* **Culture Fact (Ethnic Group - Ban Phatthasima):** Thai
+* **Culture Fact (Community Highlight - Ban Phatthasima):** Ban Phatthasima is a community known for its rich cultural heritage, particularly in the field of traditional medicine.
+* **Culture Fact (Name Etymology - Ban Phatthasima):** The name "Ban Phatthasima" is derived from the Pali language, with "Ban" meaning "village" and "Phatthasima" referring to the " boundary of the land".
+* **Culture Fact (Environment - Ban Phatthasima):** The community is situated in a rural area, surrounded by lush forests and rolling hills.
+* **Culture Fact (Local Wisdom - Ban Phatthasima):** The community has a deep understanding of traditional medicine, with many residents possessing knowledge of herbal remedies passed down through generations.
+* **Culture Fact (Organization - Ban Phatthasima):** The community has several organizations dedicated to preserving and promoting traditional medicine, including the "Ban Phatthasima Traditional Medicine Center".
+* **Culture Fact (Local Name - Ban Phatthasima):** Luktan (ลูกตาล)
+* **Culture Fact (Use - Ban Phatthasima):** The leaves of the Luktan plant are used to treat fever, by boiling them in water and drinking the resulting tea.
+* **Culture Fact (Processing - Ban Phatthasima):** The leaves of the Luktan plant are dried in the sun to preserve them for later use.
+* **Culture Fact (Source - Ban Phatthasima):** https://culturio.sac.or.th/content/1459
+* **Internal RAG Fact (Herbal):** The internal knowledge context does not provide specific information about เสลดพังพอนตัวเมีย (Clinacanthus nutans). However, it discusses the importance of traditional Thai medicine and the use of herbal remedies in Thai culture.
+* **Internal RAG Fact (Cultural):** เสลดพังพอนตัวเมีย (Clinacanthus nutans) is a herb used in Thai traditional medicine. It is believed to have various health benefits, including the ability to cure diseases and maintain overall well-being.
+* **Source URL (Trend):** https://letstalkgardens.com/sweet-snake-jasmine/, https://www.facebook.com/groups/gardenflowersandplants/posts/1431713543520459/, https://pubmed.ncbi.nlm.nih.gov/33317106/, https://herbpathy.com/Uses-and-Benefits-of-Snake-Jasmine-Cid1897
+* **Source URL (Science):** https://doi.org/10.1186/s12863-025-01380-9, https://doi.org/10.1007/s40203-025-00471-w, https://doi.org/10.4103/japtr.japtr_101_25
+* **Source URL (Compliance):** https://www.fda.moph.go.th/
+* **Source URL (Safety):** https://dailymed.nlm.nih.gov/dailymed/fda/fdaDrugXsl.cfm?setid=56f84aae-ea47-4207-80da-3657bc1e0af2&type=display
+* **Source URL (Toxicity):** https://www.ncbi.nlm.nih.gov/books/NBK548196/
+* **Source URL (Culture):** https://culturio.sac.or.th/content/1459

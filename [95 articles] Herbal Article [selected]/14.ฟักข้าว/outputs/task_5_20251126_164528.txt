@@ -1,0 +1,1 @@
+Thought: I have browsed the URL and found a PDF file, now I need to extract the 'Drug Facts' label information from the PDF.

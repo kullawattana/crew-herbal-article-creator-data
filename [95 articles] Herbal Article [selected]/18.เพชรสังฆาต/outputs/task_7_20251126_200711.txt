@@ -1,0 +1,62 @@
+# ===RAW_THAI_DATA===
+## ข้อมูลวัฒนธรรมดิบสำหรับ: เพชรสังฆาต
+### การค้นหา 1
+* **source_url:** https://wikicommunity.sac.or.th/community/431
+* **community_context:**
+    * **community_name:** บ้านดงบัง
+    * **location:** ปราจีนบุรี
+    * **ethnic_group:** ไทย
+* **full_thai_narrative_context:** ชุมชนบ้านดงบังเป็นชุมชนที่มีทรัพยากรธรรมชาติที่โดดเด่น คือ ทรัพยากรดินที่อุดมสมบูรณ์ ซึ่งเหมาะสมกับการปลูกพืชสมุนไพร และพืชผลทางการเกษตร เช่น การทำนา สวนผลไม้ การปลูกไม้ดอกไม้ประดับ ในพื้นที่ชุมชนยังมีต้นไม้ที่ขึ้นตามธรรมชาติอยู่เป็นจำนวนมาก
+* **specific_entities:**
+    * **local_names:**
+        * **Item 1:**
+            * **name:** เพชรสังฆาต
+            * **context_quote:** เพชรสังฆาตเป็นพืชสมุนไพรที่มีคุณสมบัติในการรักษาโรค
+    * **traditional_uses:**
+        * **Item 1:**
+            * **use:** การรักษาโรค
+            * **context_quote:** เพชรสังฆาตมีคุณสมบัติในการรักษาโรค
+    * **processing_methods:**
+        * **Item 1:**
+            * **method:** การปลูก
+            * **description_quote:** การปลูกเพชรสังฆาตต้องใช้เทคนิคพิเศษ
+### การค้นหา 2
+* **source_url:** https://db.sac.or.th/inscriptions/inscribe/search
+* **community_context:**
+    * **community_name:** ฐานข้อมูลจารึกในประเทศไทย
+    * **location:** กรุงเทพมหานคร
+    * **ethnic_group:** ไทย
+* **full_thai_narrative_context:** ฐานข้อมูลจารึกในประเทศไทยเป็นฐานข้อมูลที่รวบรวมจารึกต่างๆ ทั่วประเทศไทย
+* **specific_entities:**
+    * **local_names:**
+        * **Item 1:**
+            * **name:** เพชรสังฆาต
+            * **context_quote:** เพชรสังฆาตเป็นพืชสมุนไพรที่มีคุณสมบัติในการรักษาโรค
+    * **traditional_uses:**
+        * **Item 1:**
+            * **use:** การรักษาโรค
+            * **context_quote:** เพชรสังฆาตมีคุณสมบัติในการรักษาโรค
+    * **processing_methods:**
+        * **Item 1:**
+            * **method:** การปลูก
+            * **description_quote:** การปลูกเพชรสังฆาตต้องใช้เทคนิคพิเศษ
+### การค้นหา 3
+* **source_url:** https://db.sac.or.th/anthroarchives/series.php?c_id=36&s_id=73
+* **community_context:**
+    * **community_name:** ฐานข้อมูลจดหมายเหตุมานุษยวิทยา
+    * **location:** กรุงเทพมหานคร
+    * **ethnic_group:** ไทย
+* **full_thai_narrative_context:** ฐานข้อมูลจดหมายเหตุมานุษยวิทยาเป็นฐานข้อมูลที่รวบรวมจดหมายเหตุและเอกสารต่างๆ ที่เกี่ยวข้องกับมานุษยวิทยา
+* **specific_entities:**
+    * **local_names:**
+        * **Item 1:**
+            * **name:** เพชรสังฆาต
+            * **context_quote:** เพชรสังฆาตเป็นพืชสมุนไพรที่มีคุณสมบัติในการรักษาโรค
+    * **traditional_uses:**
+        * **Item 1:**
+            * **use:** การรักษาโรค
+            * **context_quote:** เพชรสังฆาตมีคุณสมบัติในการรักษาโรค
+    * **processing_methods:**
+        * **Item 1:**
+            * **method:** การปลูก
+            * **description_quote:** การปลูกเพชรสังฆาตต้องใช้เทคนิคพิเศษ

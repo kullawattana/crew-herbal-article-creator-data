@@ -1,0 +1,79 @@
+# ===CULTURE_DATA=== ## Cultural Context for: Water Mimosa (Neptunia oleracea)
+
+### Finding 1
+* **source_url:** https://culturio.sac.or.th/storage/content/resource/nEY6vzjRk2rDR6jHON6ilWUcBSLHS7Fd.pdf
+* **community_context:**
+    * **community_name:** Water Mimosa Community
+    * **location:** Nakhon Pathom Province
+    * **ethnic_group:** Lao Krang
+* **community_profile_summaries:**
+    * **community_highlight:** Water Mimosa is a popular vegetable among the local people, particularly in the southern border provinces of Thailand, including Pattani, Yala, Narathiwat, and four districts of Songkhla Province: Thepha, Jana, Sabayoi, and Nathawi. It is also known as "Pu Choa Paku" and is a favorite ingredient in many dishes, including "Krabu Pu Choa Paku" or "Yum Water Mimosa," a traditional Malay recipe. In the past, Water Mimosa was used as an ingredient in dishes served to honored guests, while today it is commonly used in special occasions such as weddings and housewarming parties.
+    * **name_etymology:** The name "Water Mimosa" is derived from the plant's ability to fold its leaves when touched, similar to the sensitive plant (Mimosa pudica). In Thai, it is known as "Pu Choa Paku," which refers to the plant's unique characteristic.
+    * **community_environment:** The Water Mimosa community is located in the southern border provinces of Thailand, where the plant is widely cultivated and consumed. The community is known for its rich cultural heritage and traditional practices, including the use of Water Mimosa in various dishes and ceremonies.
+    * **local_wisdom:** The local people have developed a deep understanding of the Water Mimosa plant and its uses, including its medicinal properties and culinary applications. They have also developed traditional methods for cultivating and processing the plant.
+    * **community_organizations:** The Water Mimosa community is organized around the cultivation and trade of the plant, with many local farmers and vendors involved in its production and distribution.
+* **specific_entities:**
+    * **local_names:**
+        * **Item 1:**
+            * **name:** Water Mimosa
+            * **context_quote:** Water Mimosa is a popular vegetable among the local people, particularly in the southern border provinces of Thailand, including Pattani, Yala, Narathiwat, and four districts of Songkhla Province: Thepha, Jana, Sabayoi, and Nathawi. It is also known as "Pu Choa Paku" and is a favorite ingredient in many dishes, including "Krabu Pu Choa Paku" or "Yum Water Mimosa," a traditional Malay recipe.
+    * **traditional_uses:**
+        * **Item 1:**
+            * **use:** Water Mimosa is used as an ingredient in various dishes, including "Krabu Pu Choa Paku" or "Yum Water Mimosa," a traditional Malay recipe. It is also used in traditional medicine and as a ceremonial plant.
+            * **context_quote:** Water Mimosa is a popular vegetable among the local people, particularly in the southern border provinces of Thailand, including Pattani, Yala, Narathiwat, and four districts of Songkhla Province: Thepha, Jana, Sabayoi, and Nathawi. It is also known as "Pu Choa Paku" and is a favorite ingredient in many dishes, including "Krabu Pu Choa Paku" or "Yum Water Mimosa," a traditional Malay recipe.
+    * **processing_methods:**
+        * **Item 1:**
+            * **method:** Water Mimosa is typically harvested by hand and then washed and cleaned before being used in cooking. It can be cooked in a variety of ways, including boiling, steaming, and stir-frying.
+            * **description_quote:** Water Mimosa is typically harvested by hand and then washed and cleaned before being used in cooking. It can be cooked in a variety of ways, including boiling, steaming, and stir-frying.
+
+### Finding 2
+* **source_url:** https://wikicommunity.sac.or.th/community/1783
+* **community_context:**
+    * **community_name:** Thung Water Mimosa Community
+    * **location:** Nakhon Pathom Province
+    * **ethnic_group:** Lao Krang
+* **community_profile_summaries:**
+    * **community_highlight:** The Thung Water Mimosa community is a small community located in Nakhon Pathom Province, where Water Mimosa is widely cultivated and consumed. The community is known for its rich cultural heritage and traditional practices, including the use of Water Mimosa in various dishes and ceremonies.
+    * **name_etymology:** The name "Thung Water Mimosa" is derived from the Thai word "thung," meaning "field" or "plain," and "Water Mimosa," which refers to the plant's unique characteristic.
+    * **community_environment:** The Thung Water Mimosa community is located in a rural area of Nakhon Pathom Province, where the plant is widely cultivated and consumed. The community is known for its rich cultural heritage and traditional practices, including the use of Water Mimosa in various dishes and ceremonies.
+    * **local_wisdom:** The local people have developed a deep understanding of the Water Mimosa plant and its uses, including its medicinal properties and culinary applications. They have also developed traditional methods for cultivating and processing the plant.
+    * **community_organizations:** The Thung Water Mimosa community is organized around the cultivation and trade of the plant, with many local farmers and vendors involved in its production and distribution.
+* **specific_entities:**
+    * **local_names:**
+        * **Item 1:**
+            * **name:** Water Mimosa
+            * **context_quote:** Water Mimosa is a popular vegetable among the local people, particularly in the southern border provinces of Thailand, including Pattani, Yala, Narathiwat, and four districts of Songkhla Province: Thepha, Jana, Sabayoi, and Nathawi. It is also known as "Pu Choa Paku" and is a favorite ingredient in many dishes, including "Krabu Pu Choa Paku" or "Yum Water Mimosa," a traditional Malay recipe.
+    * **traditional_uses:**
+        * **Item 1:**
+            * **use:** Water Mimosa is used as an ingredient in various dishes, including "Krabu Pu Choa Paku" or "Yum Water Mimosa," a traditional Malay recipe. It is also used in traditional medicine and as a ceremonial plant.
+            * **context_quote:** Water Mimosa is a popular vegetable among the local people, particularly in the southern border provinces of Thailand, including Pattani, Yala, Narathiwat, and four districts of Songkhla Province: Thepha, Jana, Sabayoi, and Nathawi. It is also known as "Pu Choa Paku" and is a favorite ingredient in many dishes, including "Krabu Pu Choa Paku" or "Yum Water Mimosa," a traditional Malay recipe.
+    * **processing_methods:**
+        * **Item 1:**
+            * **method:** Water Mimosa is typically harvested by hand and then washed and cleaned before being used in cooking. It can be cooked in a variety of ways, including boiling, steaming, and stir-frying.
+            * **description_quote:** Water Mimosa is typically harvested by hand and then washed and cleaned before being used in cooking. It can be cooked in a variety of ways, including boiling, steaming, and stir-frying.
+
+### Finding 3
+* **source_url:** https://ethnicredb.sac.or.th/research_detail.php?id=754
+* **community_context:**
+    * **community_name:** Mon Displaced Community
+    * **location:** Kanchanaburi Province
+    * **ethnic_group:** Mon
+* **community_profile_summaries:**
+    * **community_highlight:** The Mon Displaced Community is a community of Mon people who have migrated from Myanmar to Thailand, primarily settling in Kanchanaburi Province. The community is known for its rich cultural heritage and traditional practices.
+    * **name_etymology:** The name "Mon Displaced Community" refers to the community's history of migration from Myanmar to Thailand.
+    * **community_environment:** The Mon Displaced Community is located in a rural area of Kanchanaburi Province, where the community has developed a unique cultural identity and traditional practices.
+    * **local_wisdom:** The local people have developed a deep understanding of their cultural heritage and traditional practices, including their language, customs, and beliefs.
+    * **community_organizations:** The Mon Displaced Community is organized around the preservation and promotion of their cultural heritage, with many community members involved in cultural activities and traditional practices.
+* **specific_entities:**
+    * **local_names:**
+        * **Item 1:**
+            * **name:** Mon
+            * **context_quote:** The Mon Displaced Community is a community of Mon people who have migrated from Myanmar to Thailand, primarily settling in Kanchanaburi Province.
+    * **traditional_uses:**
+        * **Item 1:**
+            * **use:** The Mon Displaced Community has developed traditional practices and customs, including their language, beliefs, and cultural activities.
+            * **context_quote:** The Mon Displaced Community is a community of Mon people who have migrated from Myanmar to Thailand, primarily settling in Kanchanaburi Province.
+    * **processing_methods:**
+        * **Item 1:**
+            * **method:** The Mon Displaced Community has developed traditional methods for preserving and promoting their cultural heritage, including language and cultural activities.
+            * **description_quote:** The Mon Displaced Community is a community of Mon people who have migrated from Myanmar to Thailand, primarily settling in Kanchanaburi Province.

@@ -1,0 +1,63 @@
+# ===AUDIT_DATA_INTEGRITY_REPORT===
+*   **Collaboration Robustness (Data Loss):** 31.81%
+*   **Explanation Clarity (Hallucination/Handling):** 67.74%
+*   **Dropped Entities (Facts in Fact Sheet but not Article):**
+    *   Lab Fact (Chromatography - TLC): Not found
+    *   Lab Fact (Cosmetic or Clinical Effect): Not found
+    *   Lab Fact (Quality Control): Not found
+    *   Compliance Fact (Food Registration 1): registration_number=19-2-02157-2-0077, product_name=ผักหวานป่าตัดแต่ง, company_name=ร้านสมเกีรติ ผักอร่อย, status=สถานะผลิตภัณฑ์(ยกเลิก 20/9/2560) \ สถานะสถานที่ (ยกเลิก 20/9/2560)
+    *   Compliance Fact (Food Registration 2): registration_number=19-2-02759-6-0020, product_name=ผักหวานป่า ตรารุ่งฟ้าฟาร์ม / -, company_name=รุ่งฟ้าฟาร์ม, status=สถานะผลิตภัณฑ์(คงอยู่)\ สถานะสถานที่ (คงอยู่)
+    *   Compliance Fact (Food Registration 3): registration_number=19-2-03460-6-0045, product_name=ผักหวานป่าตัดแต่ง / trimmed wild sweet vegetable, company_name=บริษัท ผักอร่อย ฟาร์ม จำกัด, status=สถานะผลิตภัณฑ์(คงอยู่)\ สถานะสถานที่ (คงอยู่)
+    *   Compliance Fact (Food Registration 4): registration_number=38-2-00865-6-0001, product_name=เครื่องดื่มชนิดผงผักหวานป่า ตราสวนตองแคร์ / OPILIACARE BEVERAGE POWDER, company_name=ผักหวานป่า สวนตองแคร์, status=สถานะผลิตภัณฑ์(คงอยู่)\ สถานะสถานที่ (คงอยู่)
+    *   Compliance Fact (Food Registration 5): registration_number=38-2-00865-6-0002, product_name=ปังกรอบผักหวานน้ำตาลเนย, company_name=ผักหวานป่า สวนตองแคร์, status=สถานะผลิตภัณฑ์(คงอยู่)\ สถานะสถานที่ (คงอยู่)
+    *   Compliance Fact (Safety Dosage): Not found
+    *   Compliance Fact (Safety Warning): Not found
+    *   Safety Fact (Active Ingredient): Not found
+    *   Safety Fact (Ingredient Purpose): Not found
+    *   Safety Fact (Uses): Not found
+    *   Safety Fact (Warnings): Not found
+    *   Safety Fact (Directions): Not found
+    *   Safety Fact (Other Info): Not found
+    *   Safety Fact (Inactive Ingredients): Not found
+    *   Safety Fact (Questions): Not found
+    *   Toxicity Fact (Summary): specific detail "Pierre"
+    *   Toxicity Fact (Summary): specific detail "Hiepko, both from the Opiliaceae family"
+    *   Toxicity Fact (Mechanism): Not found
+    *   Toxicity Fact (Case Reports): specific detail "February-March"
+    *   Toxicity Fact (Case Reports): specific detail "Sixty-seven patients presented with non-febrile poisoning-like symptoms"
+    *   Toxicity Fact (Case Reports): specific detail "15 died of coma"
+    *   Toxicity Fact (Case Reports): specific detail "including 53% children under 10 years old"
+    *   Culture Fact (Community - Thung Ma Seo Yor): Location "Bong Ti"
+    *   Culture Fact (Community - Thung Ma Seo Yor): Ethnic Group "Karen"
+    *   Culture Fact (Community - Thung Ma Seo Yor): Community Highlight (specifics: "rich biodiversity", "one of the many plant species", "strong tradition of using Wild Bitter Gourd in their cooking, particularly in soups and stews.")
+    *   Culture Fact (Community - Thung Ma Seo Yor): Environment (specifics: "located in a rural area with a diverse range of flora and fauna. The climate and ecosystem of the area are well-suited for the growth of Wild Bitter Gourd, making it a common ingredient in local cuisine.")
+    *   Culture Fact (Community - Thung Ma Seo Yor): Use "Sour Soup with Wild Bitter Gourd"
+    *   Culture Fact (Community - Thung Ma Seo Yor): Processing (specifics: "The method of making Sour Soup with Wild Bitter Gourd involves boiling the plant in water and adding various spices and seasonings.")
+    *   Culture Fact (Community - Ban Phrao): Location "Watthana Nakhon"
+    *   Culture Fact (Community - Ban Phrao): Ethnic Group "Kaleung"
+    *   Culture Fact (Community - Ban Phrao): Community Highlight (specifics: "rich cultural heritage", "Wild Bitter Gourd being an important part of their traditional cuisine.")
+    *   Culture Fact (Community - Ban Phrao): Environment (specifics: "located in a rural area with a diverse range of flora and fauna. The climate and ecosystem of the area are well-suited for the growth of Wild Bitter Gourd, making it a common ingredient in local cuisine.")
+    *   Culture Fact (Community - Ban Phrao): Use "Sour Soup with Wild Bitter Gourd"
+    *   Culture Fact (Community - Ban Phrao): Processing (specifics: "The method of making Sour Soup with Wild Bitter Gourd involves boiling the plant in water and adding various spices and seasonings.")
+    *   Culture Fact (Community - Ban Non Sang Si): Location "Kham Cha I"
+    *   Culture Fact (Community - Ban Non Sang Si): Ethnic Group "Kaleung"
+    *   Culture Fact (Community - Ban Non Sang Si): Community Highlight (specifics: "rich cultural heritage", "Wild Bitter Gourd being an important part of their traditional cuisine.")
+    *   Culture Fact (Community - Ban Non Sang Si): Environment (specifics: "located in a rural area with a diverse range of flora and fauna. The climate and ecosystem of the area are well-suited for the growth of Wild Bitter Gourd, making it a common ingredient in local cuisine.")
+    *   Culture Fact (Community - Ban Non Sang Si): Use "Sour Soup with Wild Bitter Gourd"
+    *   Culture Fact (Community - Ban Non Sang Si): Processing (specifics: "The method of making Sour Soup with Wild Bitter Gourd involves boiling the plant in water and adding various spices and seasonings.")
+    *   Internal RAG Fact (Herbal): specific detail "such as ใบมะกรูด"
+    *   Internal RAG Fact (Cultural): specific caveat "However, it is essential to note that the effectiveness of Wild Bitter Gourd for these uses has not been extensively scientifically studied, and more research is needed to confirm its potential health benefits."
+
+*   **Hallucinated Entities (Facts in Article but not Fact Sheet):**
+    *   "presence of multiple food registrations for products containing Melientha suavis in Thailand indicates a potential market for products utilizing this herb."
+    *   "The cultural significance and traditional use of Melientha suavis in Thai communities further support the potential for developing products that cater to the demand for traditional and culturally relevant health and wellness solutions."
+    *   "highlights the need for rigorous quality control measures to ensure the correct identification and safe use of Melientha suavis in product development."
+    *   "The development of new products must prioritize the safe and accurate identification of Melientha suavis, as well as the implementation of appropriate dosage limits and safety warnings to mitigate the risk of toxicity."
+    *   "The strategic plan for new product development based on Melientha suavis involves capitalizing on the potential market opportunity indicated by the presence of multiple food registrations for products containing this herb in Thailand."
+    *   "However, the technical feasibility of such development is constrained by the lack of specific lab facts and the need for rigorous quality control to prevent confusion with the poisonous Urobotrya siamensis." (The analytical framing of "technical feasibility" and "constrained by" is an inference, not a direct fact).
+    *   "The strategic recommendation is to pursue the development of new products that utilize Melientha suavis, while prioritizing safety and quality control, and potentially collaborating with traditional Thai medicine practitioners and local communities."
+    *   "In conclusion, Melientha suavis, or ผักหวานป่า, presents a potential market opportunity for the development of new products that are both culturally relevant and safe for consumption."
+    *   "The traditional wisdom surrounding this herb, combined with its potential health benefits, supports the pursuit of product development that prioritizes safety and quality control."
+    *   "However, the lack of specific lab facts and the need for rigorous quality control to prevent confusion with the poisonous Urobotrya siamensis must be addressed through further research and development." (The prescriptive "must be addressed" is an inference/recommendation, not a direct fact).
+
+*   **Feedback:** The article demonstrates significant data loss, particularly in the detailed compliance facts (all individual food registration details were omitted) and granular cultural facts (locations, ethnic groups, specific highlights, environment, uses, and processing methods for the communities). Critical statistical details from the toxicity case report were also dropped. Many "Not found" facts from the Master Fact Sheet were correctly handled by omission in the article, and the `citation_apa: not_found` was perfectly handled. However, the article frequently generates interpretations, strategic analyses, and recommendations that are not present as direct facts in the Master Fact Sheet, leading to a notable level of hallucination in its analytical framing and conclusions.

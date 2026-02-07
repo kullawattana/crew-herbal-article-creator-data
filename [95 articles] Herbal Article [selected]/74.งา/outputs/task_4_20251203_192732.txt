@@ -1,0 +1,29 @@
+# ===COMPLIANCE_DATA===
+## Thai FDA Status for: Sesamum indicum
+* **herb_name:** Sesamum indicum
+### Food Registrations
+* **Food Registration 1:**
+    * **registration_number:** 10-1-00252-5-0125
+    * **product_name:** มินิปังสามรส (ถั่วทอง,ถั่วแดง,งาดำ) (เครื่องหมายการค้าเลอแปง)
+    * **company_name:** บริษัท ซีพีแรม จำกัด
+    * **status:** สถานะผลิตภัณฑ์(คงอยู่)\ สถานะสถานที่ (คงอยู่)
+* **Food Registration 2:**
+    * **registration_number:** 10-1-00337-1-0018
+    * **product_name:** งาแผ่นผสมน้ำผึ้ง (ตราฟลาวเวอร์ฟูด) / Sesame Bars with Honey (Flower Food Brand)
+    * **company_name:** ห้างหุ้นส่วนจำกัด ฟลาวเวอร์ ฟูด
+    * **status:** สถานะผลิตภัณฑ์(คงอยู่)\ สถานะสถานที่ (คงอยู่)
+* **Food Registration 3:**
+    * **registration_number:** 10-1-00337-1-0019
+    * **product_name:** งาแผ่นผสมน้ำผึ้ง / Sesame Bars with Honey
+    * **company_name:** ห้างหุ้นส่วนจำกัด ฟลาวเวอร์ ฟูด
+    * **status:** สถานะผลิตภัณฑ์(คงอยู่)\ สถานะสถานที่ (คงอยู่)
+* **Food Registration 4:**
+    * **registration_number:** 10-1-00337-1-0021
+    * **product_name:** งาแผ่นผสมน้ำผึ้ง (ตราเคลม) / Sesame Bars with Honey (Clame Brand)
+    * **company_name:** ห้างหุ้นส่วนจำกัด ฟลาวเวอร์ ฟูด
+    * **status:** สถานะผลิตภัณฑ์(คงอยู่)\ สถานะสถานที่ (คงอยู่)
+* **Food Registration 5:**
+    * **registration_number:** 10-1-00337-1-0030
+    * **product_name:** งาแผ่นผสมน้ำผึ้ง (ตราฟลาวเวอร์ฟูด) / SESAME BARS WITH HONEY (FLOWER FOOD BRAND)
+    * **company_name:** ห้างหุ้นส่วนจำกัด ฟลาวเวอร์ ฟูด
+    * **status:** สถานะผลิตภัณฑ์(คงอยู่)\ สถานะสถานที่ (คงอยู่)

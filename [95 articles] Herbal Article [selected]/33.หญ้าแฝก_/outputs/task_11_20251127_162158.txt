@@ -1,0 +1,87 @@
+# ===MASTER_FACT_SHEET===
+## Consolidated Facts for: Chrysopogon zizanioides (Vetiver)
+* **Trend Fact:** Vetiver has been used for its health benefits, including its ability to induce tranquility and reduce stress. It has also been used in traditional medicine for its anti-inflammatory and antimicrobial properties. Vetiver oil is extracted from the roots of the plant and is used in cosmetics and aromatherapy.
+* **Trend Fact:** Vetiver sandals are made from natural vetiver roots and are believed to have cooling and therapeutic properties. Wearing vetiver sandals is believed to promote relaxation and reduce stress.
+* **Trend Fact:** Vetiver essential oil has been used in meditation to promote relaxation and reduce stress. It is also used in aromatherapy to promote mental wellness.
+* **Lab Fact (Experimental Method):** Not found
+* **Lab Fact (Extraction Method):** Not found
+* **Lab Fact (Compound Identified):** Not found
+* **Lab Fact (Chromatography - TLC):** Not found
+* **Lab Fact (Pharmacological Finding):** Not found
+* **Lab Fact (Cosmetic or Clinical Effect):** Not found
+* **Lab Fact (Quality Control):** Not found
+* **Science Fact (Herb):** Chrysopogon zizanioides
+* **Science Fact (Compound):** Not found
+* **Science Fact (Abstracts):**
+  * **Study 1:**
+    * **abstract_raw:** Not found
+    * **citation_apa:** Not found
+  * **Study 2:**
+    * **abstract_raw:** Not found
+    * **citation_apa:** Not found
+  * **Study 3:**
+    * **abstract_raw:** Not found
+    * **citation_apa:** Not found
+* **Compliance Fact (Food Registration 1):** None found
+* **Compliance Fact (Safety Dosage):** Not found
+* **Compliance Fact (Safety Warning):** None found
+* **Safety Fact (Active Ingredient):** Not found
+* **Safety Fact (Ingredient Purpose):** Not found
+* **Safety Fact (Uses):** Not found
+* **Safety Fact (Warnings):** Not found
+* **Safety Fact (Directions):** Not found
+* **Safety Fact (Other Info):** Not found
+* **Safety Fact (Inactive Ingredients):** Not found
+* **Safety Fact (Questions):** Not found
+* **Toxicity Fact (Summary):** Not found
+* **Toxicity Fact (Mechanism):** Not found
+* **Toxicity Fact (Side Effects):** Not found
+* **Toxicity Fact (Case Reports):** Not found
+* **Culture Fact (Community - The Agricultural Museum in Honor of His Majesty the King):** The Agricultural Museum in Honor of His Majesty the King
+* **Culture Fact (Location - The Agricultural Museum in Honor of His Majesty the King):** Pathum Thani Province
+* **Culture Fact (Ethnic Group - The Agricultural Museum in Honor of His Majesty the King):** -
+* **Culture Fact (Community Highlight - The Agricultural Museum in Honor of His Majesty the King):** The Agricultural Museum in Honor of His Majesty the King is a cultural and educational institution that showcases the royal projects and initiatives of His Majesty the King. The museum features interactive exhibits, multimedia displays, and a collection of artifacts that highlight the importance of agriculture in Thai society. One of the exhibits features the vetiver grass project, which demonstrates the use of vetiver grass in preventing soil erosion and landslides.
+* **Culture Fact (Name Etymology - The Agricultural Museum in Honor of His Majesty the King):** No herbal-related information found.
+* **Culture Fact (Environment - The Agricultural Museum in Honor of His Majesty the King):** The museum is situated on a large plot of land that features a demonstration farm, a botanical garden, and a nature trail. The farm showcases various crops and farming techniques, while the botanical garden features a collection of plants and herbs used in traditional Thai medicine.
+* **Culture Fact (Local Wisdom - The Agricultural Museum in Honor of His Majesty the King):** The museum offers workshops and training programs on sustainable agriculture, organic farming, and traditional Thai medicine. Visitors can learn about the importance of soil conservation, water management, and biodiversity in agriculture.
+* **Culture Fact (Organization - The Agricultural Museum in Honor of His Majesty the King):** The museum is affiliated with the Ministry of Agriculture and Cooperatives and works closely with local communities, farmers, and researchers to promote sustainable agriculture and rural development.
+* **Culture Fact (Local Name - The Agricultural Museum in Honor of His Majesty the King):** Vetiver Grass (หญ้าแฝก)
+* **Culture Fact (Use - The Agricultural Museum in Honor of His Majesty the King):** Soil erosion prevention and landslide control
+* **Culture Fact (Processing - The Agricultural Museum in Honor of His Majesty the King):** Planting vetiver grass in slopes and embankments
+* **Culture Fact (Source - The Agricultural Museum in Honor of His Majesty the King):** https://db.sac.or.th/museum/museum-detail/242
+* **Culture Fact (Community - Mae Um Phai Village):** Mae Um Phai Village
+* **Culture Fact (Location - Mae Um Phai Village):** Mae Hong Son Province
+* **Culture Fact (Ethnic Group - Mae Um Phai Village):** Pgak'nyau
+* **Culture Fact (Community Highlight - Mae Um Phai Village):** The Pgak'nyau people of Mae Um Phai Village have a traditional practice of rotational farming, where they cultivate crops in a large area of land for 7 years before moving to a new location. This practice helps maintain soil fertility and prevents deforestation.
+* **Culture Fact (Name Etymology - Mae Um Phai Village):** No herbal-related information found.
+* **Culture Fact (Environment - Mae Um Phai Village):** The village is situated in a mountainous area with rich biodiversity. The Pgak'nyau people have a deep understanding of the local ecosystem and use various plants and herbs in their traditional medicine.
+* **Culture Fact (Local Wisdom - Mae Um Phai Village):** The Pgak'nyau people believe that vetiver grass is essential for rice cultivation and must be planted alongside rice crops. They also use various plants and herbs in their traditional medicine and rituals.
+* **Culture Fact (Organization - Mae Um Phai Village):** The village has a community-based organization that promotes sustainable agriculture and rural development. They work closely with local authorities and NGOs to conserve natural resources and promote eco-tourism.
+* **Culture Fact (Local Name - Mae Um Phai Village):** Vetiver Grass (หญ้าแฝก)
+* **Culture Fact (Use - Mae Um Phai Village):** Rice cultivation
+* **Culture Fact (Processing - Mae Um Phai Village):** Planting vetiver grass alongside rice crops
+* **Culture Fact (Source - Mae Um Phai Village):** https://wikicommunity.sac.or.th/community/15
+* **Culture Fact (Community - Thai Food Learning Center):** Thai Food Learning Center
+* **Culture Fact (Location - Thai Food Learning Center):** Bangkok
+* **Culture Fact (Ethnic Group - Thai Food Learning Center):** -
+* **Culture Fact (Community Highlight - Thai Food Learning Center):** The Thai Food Learning Center is a cultural and educational institution that showcases the art and science of Thai cuisine. The center features interactive exhibits, cooking demonstrations, and a collection of artifacts that highlight the importance of food in Thai culture.
+* **Culture Fact (Name Etymology - Thai Food Learning Center):** No herbal-related information found.
+* **Culture Fact (Environment - Thai Food Learning Center):** The center is situated in a modern building with state-of-the-art facilities. The center offers cooking classes, workshops, and training programs on Thai cuisine and food safety.
+* **Culture Fact (Local Wisdom - Thai Food Learning Center):** The center promotes the use of local and seasonal ingredients in Thai cooking. They also offer workshops on food preservation and food safety.
+* **Culture Fact (Organization - Thai Food Learning Center):** The center is affiliated with the Ministry of Industry and works closely with local chefs, restaurants, and food manufacturers to promote Thai cuisine and food safety.
+* **Culture Fact (Local Name - Thai Food Learning Center):** Vetiver Grass (หญ้าแฝก)
+* **Culture Fact (Use - Thai Food Learning Center):** Soil erosion prevention and landslide control
+* **Culture Fact (Processing - Thai Food Learning Center):** Planting vetiver grass in slopes and embankments
+* **Culture Fact (Source - Thai Food Learning Center):** https://db.sac.or.th/museum/museum-detail/1395
+* **Internal RAG Fact (Herbal):** Chrysopogon zizanioides, also known as หญ้าแฝก, is not explicitly mentioned in the provided context. However, the context discusses Thai traditional medicine and the use of herbs in treating various ailments. According to the context, Thai traditional medicine is considered old-fashioned and not suitable for modern times, but it has been used effectively in treating minor illnesses and initial stages of diseases.
+* **Internal RAG Fact (Cultural):** No relevant information about หญ้าแฝก was found in the provided cultural context.
+* **Source URL (Trend):** https://www.vetiver.org/ICV6_PROC/RESEARCH%20AND%20INNOVATION/7%20D%20Lukiwati%20Paper.pdf
+* **Source URL (Trend):** https://www.yaazh.org/products/vetiver-herbal-slipper?srsltid=AfmBOoq4BHsWxJP8ZloFA2pIpd0sMPA158V6XBRscr-uI-NyTobhm9nm
+* **Source URL (Trend):** https://lokamritoil.org/blogs/news/meditation-combined-with-natural-oils-for-mental-wellness?srsltid=AfmBOopitdiWwRB6raqgZxt-hZbPoKNUOiaF32cTOrRTbIDM0GTJesdy
+* **Source URL (Science):** Not found
+* **Source URL (Compliance):** Not found
+* **Source URL (Safety):** Not found
+* **Source URL (Toxicity):** https://www.ncbi.nlm.nih.gov/books/NBK218635/
+* **Source URL (Culture):** https://db.sac.or.th/museum/museum-detail/242
+* **Source URL (Culture):** https://wikicommunity.sac.or.th/community/15
+* **Source URL (Culture):** https://db.sac.or.th/museum/museum-detail/1395

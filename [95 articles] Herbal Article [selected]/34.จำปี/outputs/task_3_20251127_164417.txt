@@ -1,0 +1,27 @@
+# ===RESEARCH_DATA===
+## Scientific Evidence for: Michelia alba
+* **herb_name:** Michelia alba
+* **herb_name_scientific:** Michelia alba
+### Validated Compounds
+* **Compound 1:**
+    * **compound_name:** Silver nanoparticles
+    * **mechanism_name:** Antimicrobial, anticancer, antioxidant, and photocatalytic properties
+    * **supporting_studies:**
+        * **Study 1:** (Data from the first item in studies_data)
+            * **study_type:** Journal Article
+            * **abstract_raw:** Green synthesis of silver nanoparticles using Magnolia alba leaf extracts and evaluating their antimicrobial, anticancer, antioxidant, and photocatalytic properties.
+            * **key_findings:** The study found that the silver nanoparticles synthesized using Magnolia alba leaf extracts exhibited antimicrobial, anticancer, antioxidant, and photocatalytic properties.
+            * **pmid:** 40610522
+            * **canonical_url:** https://doi.org/10.1038/s41598-025-08468-3
+            * **citation_apa:** De Mel, S., Gruenler, J., Khoury, L., Heynes, A., Fazekas, J., Damaske, K., Galbadage, T., Gunasekera, R. S., & Anderson, R. S. (2025). Green synthesis of silver nanoparticles using Magnolia alba leaf extracts and evaluating their antimicrobial, anticancer, antioxidant, and photocatalytic properties. Scientific Reports, 15(1), 23709. https://doi.org/10.1038/s41598-025-08468-3
+        * **Study 2:** (Data from the second item in studies_data)
+            * **study_type:** Journal Article
+            * **abstract_raw:** Diverse Sesquiterpenoids From Michelia alba and Their Cytotoxic and Nitric Oxide Inhibitory Activities.
+            * **key_findings:** The study found that the sesquiterpenoids isolated from Michelia alba exhibited cytotoxic and nitric oxide inhibitory activities.
+            * **pmid:** 40193222
+            * **canonical_url:** https://doi.org/10.1002/cbdv.202500499
+            * **citation_apa:** Zheng, T.-Y., Ding, L.-F., Wang, Q.-H., Li, Z.-Q., Zhao, Q.-Y., Zhou, H.-L., Song, L.-D., Tu, W.-C., Wu, X.-D., & Zhang, H.-Y. (2025). Diverse Sesquiterpenoids From Michelia alba and Their Cytotoxic and Nitric Oxide Inhibitory Activities. Chemistry & Biodiversity, 22(9), e202500499. https://doi.org/10.1002/cbdv.202500499
+        * (Up to 3 studies)
+
+### Overall Summary
+* **summary:** Michelia alba has been found to have various bioactive compounds with potential health benefits, including silver nanoparticles with antimicrobial, anticancer, antioxidant, and photocatalytic properties, and sesquiterpenoids with cytotoxic and nitric oxide inhibitory activities.

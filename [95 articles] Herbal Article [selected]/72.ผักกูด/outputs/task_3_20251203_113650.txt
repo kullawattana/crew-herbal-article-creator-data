@@ -1,0 +1,16 @@
+# ===RESEARCH_DATA===
+## Scientific Evidence for: Diplazium esculentum
+* **herb_name:** Diplazium esculentum
+* **herb_name_scientific:** Diplazium esculentum (Retz.) Sw.
+### Validated Compounds
+* **Compound 1:**
+    * **compound_name:** Kaempferol
+    * **mechanism_name:** Anti-inflammatory
+    * **supporting_studies:**
+        * **Study 1:** (Data from the first item in studies_data)
+            * **study_type:** Journal Article
+            * **abstract_raw:** Alzheimer's disease (AD) is the most common type of dementia and a significant concern to global public health due to the prevalence of aging populations. Donepezil is one of only a few medications approved for use as an anti-AD agent but all have adverse side effects. Reducing the dosage of AD drugs with plant extracts (phytotherapy) while maintaining efficacy is one strategy to minimize adverse side effects. We previously reported the anti-AD properties of an edible fern, Diplazium esculentum (Retz.) Sw. (DE), which inhibited key enzymes involved in AD pathogenesis including acetylcholinesterase (AChE), butyrylcholinesterase (BChE), and β-secretase 1 (BACE-1). This study aimed to determine whether DE exhibited a synergistic effect with donepezil. The enzyme inhibitory assay showed that DE extract and its bioactive compounds, kaempferol, and quercetin, slightly impeded AChE inhibition with donepezil, while DE extract and quercetin showed synergistic or additive effects with donepezil against BChE and BACE-1, respectively. DE extract combined with donepezil also improved eye phenotypes in a Drosophila model of AD by preventing ommatidia atrophia and bristle breakages. Furthermore, the DE extract exhibited no genotoxic activities, as determined by the Ames test. Our data revealed that DE extract showed promise when combined with donepezil during AD treatment by targeting BChE and BACE-1.
+            * **key_findings:** The study found that Diplazium esculentum extract and its bioactive compounds, kaempferol, and quercetin, showed synergistic or additive effects with donepezil against BChE and BACE-1, respectively. The extract also improved eye phenotypes in a Drosophila model of AD.
+            * **pmid:** 38543127
+            * **canonical_url:** https://doi.org/10.3390/ph17030341
+            * **citation_apa:** Inthachat, W., Chantong, B., Pitchakarn, P., Takoon, C., Karinchai, J., Suttisansanee, U., & Temviriyanukul, P. (2024). Enhancing Therapeutic Efficacy of Donepezil, an Alzheimer's Disease Drug, by Diplazium esculentum (Retz.) Sw. and Its Phytochemicals. Pharmaceuticals, 17(3), 341. https://doi.org/10.3390/ph17030341

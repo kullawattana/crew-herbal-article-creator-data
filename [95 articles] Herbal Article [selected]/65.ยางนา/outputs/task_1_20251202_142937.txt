@@ -1,0 +1,1 @@
+Thought: I have the search results, but I need to filter out the non-relevant URLs and extract the canonical URLs of the relevant articles.

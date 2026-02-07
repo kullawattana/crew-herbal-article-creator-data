@@ -1,0 +1,32 @@
+# ===SAFETY_DATA=== 
+## International Safety Data for: Gardenia jasminoides
+* **herb_name:** Gardenia jasminoides 
+* **source_browsed:** https://dailymed.nlm.nih.gov/dailymed/drugInfo.cfm?setid=7fc6fed4-6604-43ca-8850-1a594b64eaa5
+### Drug Facts Label
+* **active_ingredients:**
+    * **Ingredient 1:**
+        * **name:** Scutellaria Baicalensis Root
+        * **strength:** 240 mg
+        * **purpose:** prevention of cerebrovascular diseases, cardiovascular disease
+    * **Ingredient 2:**
+        * **name:** Coptis Japonica Root
+        * **strength:** 240 mg
+        * **purpose:** prevention of cerebrovascular diseases, cardiovascular disease
+    * **Ingredient 3:**
+        * **name:** Phellodendron Chinensis Bark
+        * **strength:** 240 mg
+        * **purpose:** prevention of cerebrovascular diseases, cardiovascular disease
+    * **Ingredient 4:**
+        * **name:** Gardenia Jasminoides Fruit
+        * **strength:** 240 mg
+        * **purpose:** prevention of cerebrovascular diseases, cardiovascular disease
+    * **Ingredient 5:**
+        * **name:** Rheum Palmatum Root
+        * **strength:** 60 mg
+        * **purpose:** prevention of cerebrovascular diseases, cardiovascular disease
+* **uses:** prevention of cerebrovascular diseases, cardiovascular disease
+* **warnings:** Read the directions and warnings before use. KEEP THE PRODUCT INFORMATION. IT CONTAINS IMPORTANT INFORMATION.
+* **directions:** For adults, take 2 capsules, once a day, before or between meals
+* **other_information:** Do not use if you have galactose intolerance, lapp lactase deficiency, glucose-galactose malabsorption (this medicine contains lactose)
+* **inactive_ingredients:** Corn Starch, Animal originated ingredients: Lactose Hydrate/ Magnesium Stearate
+* **questions:** Ask a doctor before use if you are a patient with liver dysfunction (liver enzyme value (AST, ALT) levels more than 3 times normal), a patient who is being treated by a doctor or taking other medications, an elderly person (in general, elderly people should take with care, such as reducing their dosage, as their physiological function has deteriorated.), a child (the safety of children's use is not established. (Less experience in use))

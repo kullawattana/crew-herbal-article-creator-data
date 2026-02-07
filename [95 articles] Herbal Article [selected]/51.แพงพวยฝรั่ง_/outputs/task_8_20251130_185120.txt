@@ -1,0 +1,73 @@
+# ===CULTURE_DATA=== ## Cultural Context for: Paeng Phueng Farang (แพงพวยฝรั่ง)
+
+### Finding 1 * **source_url:** https://db.sac.or.th/manuscriptsofthailand/ * **community_context:**
+    * **community_name:** Wat Nam Cham
+    * **location:** Rong Wua Daeng Subdistrict, San Kamphaeng District, Chiang Mai Province
+    * **ethnic_group:** Unspecified
+* **community_profile_summaries:**
+    * **community_highlight:** No herbal-related information found.
+    * **name_etymology:** No herbal-related information found.
+    * **community_environment:** No herbal-related information found.
+    * **local_wisdom:** No herbal-related information found.
+    * **community_organizations:** No herbal-related information found.
+* **specific_entities:**
+    * **local_names:**
+        * **Item 1:**
+            * **name:** Kam Mawaja
+            * **context_quote:** Chanting, various blessings.
+    * **traditional_uses:**
+        * **Item 1:**
+            * **use:** Kam Matthan
+            * **context_quote:** Chanting, various blessings.
+    * **processing_methods:**
+        * **Item 1:**
+            * **method:** Kam Matthan 3 Heng
+            * **description_quote:** General principles.
+
+### Finding 2 * **source_url:** https://db.sac.or.th/thailand-cultural-encyclopedia/region_book.php?region=6 * **community_context:**
+    * **community_name:** Thailand Cultural Encyclopedia
+    * **location:** Southern Region
+    * **ethnic_group:** Unspecified
+* **community_profile_summaries:**
+    * **community_highlight:** No herbal-related information found.
+    * **name_etymology:** No herbal-related information found.
+    * **community_environment:** No herbal-related information found.
+    * **local_wisdom:** No herbal-related information found.
+    * **community_organizations:** No herbal-related information found.
+* **specific_entities:**
+    * **local_names:**
+        * **Item 1:**
+            * **name:** Thailand Cultural Encyclopedia, Southern Region, Volume 1 (Ga - Ga, Proverbs - Islands, Boats)
+            * **context_quote:** Read details.
+    * **traditional_uses:**
+        * **Item 1:**
+            * **use:** Thailand Cultural Encyclopedia, Southern Region, Volume 2 (Islands: Ayat - Kao, Fish)
+            * **context_quote:** Read details.
+    * **processing_methods:**
+        * **Item 1:**
+            * **method:** Thailand Cultural Encyclopedia, Southern Region, Volume 3 (Elephant Enclosure: Wild Elephant Capture - Jit Dhammo)
+            * **description_quote:** Read details.
+
+### Finding 3 * **source_url:** https://db.sac.or.th/anthroarchives/collection.php?c_id=104 * **community_context:**
+    * **community_name:** Anthropological Archives Database
+    * **location:** Unspecified
+    * **ethnic_group:** Unspecified
+* **community_profile_summaries:**
+    * **community_highlight:** No herbal-related information found.
+    * **name_etymology:** No herbal-related information found.
+    * **community_environment:** No herbal-related information found.
+    * **local_wisdom:** No herbal-related information found.
+    * **community_organizations:** No herbal-related information found.
+* **specific_entities:**
+    * **local_names:**
+        * **Item 1:**
+            * **name:** Fieldwork (Jong) in Kwang Si
+            * **context_quote:** Photographs.
+    * **traditional_uses:**
+        * **Item 1:**
+            * **use:** Fieldwork (Jong) in Kwang Si
+            * **context_quote:** Photographs.
+    * **processing_methods:**
+        * **Item 1:**
+            * **method:** Fieldwork (Jong) in Kwang Si
+            * **description_quote:** Photographs.

@@ -1,0 +1,13 @@
+# ===HERBAL_INTERNAL_SUMMARY===
+
+Unfortunately, the provided internal knowledge context does not explicitly mention ขมิ้นอ้อย (Curcuma zedoaria) or its specific context. However, the context discusses Thai traditional medicine, herbal processing, and the use of herbs in traditional Thai medicine.
+
+According to the context, Thai traditional medicine is considered old-fashioned and not suitable for modern times **JSON: [Herbs_traditional_Thai_medicine_in_the_lives_of_Thai_people.json, p.N/A]**. However, it is also mentioned that traditional Thai medicine can be effective in treating minor illnesses and reducing medical expenses **JSON: [Herbs_traditional_Thai_medicine_in_the_lives_of_Thai_people.json, p.N/A]**.
+
+The context also mentions the use of herbs in traditional Thai medicine, such as ใบมะกรูด (leaf of the kaffir lime tree), which is considered safe and healthy **PDF: [Romprayom-2563.pdf, p.9]**. Additionally, the context mentions the use of คั่วบานะบายข้าวกิน (a type of herbal remedy) to treat digestive issues **PDF: [Romprayom-2563.pdf, p.32]**.
+
+In terms of herbal processing, the context mentions the importance of using fresh and clean herbs, as well as the need to follow proper preparation and cooking methods **PDF: [Romprayom-2563.pdf, p.9]**.
+
+Overall, while the context does not specifically mention ขมิ้นอ้อย (Curcuma zedoaria), it provides information on the use of herbs in traditional Thai medicine and the importance of proper herbal processing and preparation.
+
+**JSON: [Herbs_traditional_Thai_medicine_in_the_lives_of_Thai_people.json, p.N/A] | PDF: [Romprayom-2563.pdf, p.9, 17, 32]**

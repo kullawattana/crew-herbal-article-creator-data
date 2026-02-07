@@ -1,0 +1,11 @@
+{
+  "model": "meta/llama-3.3-70b-instruct",
+  "herbs": "Catharanthus roseus",
+  "runtime_sec": 396.75,
+  "cpu_percent": 2.3,
+  "memory_mb_change": 25.2,
+  "total_tokens": 0,
+  "prompt_tokens": 0,
+  "completion_tokens": 0,
+  "total_cost": 0.0
+}

@@ -1,0 +1,226 @@
+# ===MASTER_FACT_SHEET=== 
+## Consolidated Facts for: Globe Amaranth
+* **Trend Fact:** The Global Wellness Institute (GWI) presents a groundbreaking initiative focusing on providing robust wellness market data for select countries around the world. The 2025 global nutrition trends emphasize a shift toward health-focused, sustainable food choices. Consumers are prioritizing nutrient-dense foods, with a focus on soil health and regenerative agriculture to enhance food quality.
+* **Trend Fact:** The way we consume protein is undergoing a major transformation. With growing concerns over sustainability, health, and food security, traditional animal-based proteins are no longer the default choice. Instead, consumers and the food industry are turning toward alternative proteins—plant-based, fermentation-derived, and cultivated meat products—as viable, eco-friendly solutions.
+* **Trend Fact:** Consumers are increasingly aware of the significant presence of toxins in the US food supply, including pesticides, processing chemicals, dyes, additives, and other artificial and industrial substances. The removal of toxic ingredients from our food supply and the environment will lead to a significant victory for public health, but it will take time.
+* **Lab Fact (Experimental Method):** Not found
+* **Lab Fact (Extraction Method):** Not found
+* **Lab Fact (Compound Identified):** Not found
+* **Lab Fact (Chromatography - TLC):** Not found
+* **Lab Fact (Pharmacological Finding):** Not found
+* **Lab Fact (Cosmetic or Clinical Effect):** Not found
+* **Lab Fact (Quality Control):** Not found
+* **Science Fact (Herb):** Not found
+* **Science Fact (Compound):** Not found
+* **Science Fact (Abstracts):** 
+  * **Study 1:** 
+    * **abstract_raw:** Not found
+    * **citation_apa:** Not found
+* **Compliance Fact (Food Registration 1):** None found.
+* **Compliance Fact (Cosmetic Registration 1):** registration_number=10-1-6010050392, product_name=ซิส แม่ ซอฟท์แมทท์ ลิควิด ลิปสติก บานไม่รู้โรย / SIS'S MAE SOFT MATTE LIQUID LIPSTICK Globe amaranth, company_name=นางสาวดารัณ ช่างฝั้นศ์(วีดา เฮอร์เบิล ออร์แกนิค คอสเมติคส์ แฟคทอรี), status=สิ้นอายุ
+* **Compliance Fact (Safety Dosage):** Not found
+* **Compliance Fact (Safety Warning):** None found
+* **Safety Fact (Active Ingredient):** 
+    * **Ingredient 1:** 
+        * **name:** Agnus Castus
+        * **strength:** 12X
+        * **purpose:** Narcissism
+    * **Ingredient 2:** 
+        * **name:** Ambra Grisea
+        * **strength:** 6X
+        * **purpose:** Codependency
+    * **Ingredient 3:** 
+        * **name:** Anacardium Orientale
+        * **strength:** 12X
+        * **purpose:** Lack of Self Confidence
+    * **Ingredient 4:** 
+        * **name:** Aurum Metallicum
+        * **strength:** 12X, 30X
+        * **purpose:** Lack of Self Esteem
+    * **Ingredient 5:** 
+        * **name:** Baryta Iodata
+        * **strength:** 12X
+        * **purpose:** Lack of Self Esteem
+    * **Ingredient 6:** 
+        * **name:** Carcinosin
+        * **strength:** 30X
+        * **purpose:** Codependency
+    * **Ingredient 7:** 
+        * **name:** Cubeba Officinalis
+        * **strength:** 9X
+        * **purpose:** Lack of Self Esteem
+    * **Ingredient 8:** 
+        * **name:** Hypothalamus Suis
+        * **strength:** 8X, 12X, 30X
+        * **purpose:** Lack of Self Esteem
+    * **Ingredient 9:** 
+        * **name:** Lac Caninum
+        * **strength:** 12X
+        * **purpose:** Lack of Self Confidence
+    * **Ingredient 10:** 
+        * **name:** Lac Felinum
+        * **strength:** 16X
+        * **purpose:** Lack of Self Confidence
+    * **Ingredient 11:** 
+        * **name:** Lilium Tigrinum
+        * **strength:** 6X
+        * **purpose:** Narcissism
+    * **Ingredient 12:** 
+        * **name:** Lycopodium Clavatum
+        * **strength:** 6X
+        * **purpose:** Lack of Self Esteem
+    * **Ingredient 13:** 
+        * **name:** Magnesium Iodide
+        * **strength:** 16X
+        * **purpose:** Codependency
+    * **Ingredient 14:** 
+        * **name:** Naja Tripudians
+        * **strength:** 12X
+        * **purpose:** Narcissism
+    * **Ingredient 15:** 
+        * **name:** Natrum Carbonicum
+        * **strength:** 6X
+        * **purpose:** Lack of Self Confidence
+    * **Ingredient 16:** 
+        * **name:** Rhus Glabra
+        * **strength:** 12X
+        * **purpose:** Lack of Self Confidence
+    * **Ingredient 17:** 
+        * **name:** Rosa Damascena
+        * **strength:** 12X
+        * **purpose:** Narcissism
+    * **Ingredient 18:** 
+        * **name:** Sabadilla
+        * **strength:** 12X
+        * **purpose:** Lack of Self Esteem
+    * **Ingredient 19:** 
+        * **name:** Thuja Occidentalis
+        * **strength:** 6X, 12X, 30X
+        * **purpose:** Codependency
+    * **Ingredient 20:** 
+        * **name:** Viscum Album
+        * **strength:** 6X
+        * **purpose:** Lack of Self Confidence
+* **Safety Fact (Ingredient Purpose):** 
+    * **Ingredient 1:** 
+        * **name:** Agnus Castus
+        * **strength:** 12X
+        * **purpose:** Narcissism
+    * **Ingredient 2:** 
+        * **name:** Ambra Grisea
+        * **strength:** 6X
+        * **purpose:** Codependency
+    * **Ingredient 3:** 
+        * **name:** Anacardium Orientale
+        * **strength:** 12X
+        * **purpose:** Lack of Self Confidence
+    * **Ingredient 4:** 
+        * **name:** Aurum Metallicum
+        * **strength:** 12X, 30X
+        * **purpose:** Lack of Self Esteem
+    * **Ingredient 5:** 
+        * **name:** Baryta Iodata
+        * **strength:** 12X
+        * **purpose:** Lack of Self Esteem
+    * **Ingredient 6:** 
+        * **name:** Carcinosin
+        * **strength:** 30X
+        * **purpose:** Codependency
+    * **Ingredient 7:** 
+        * **name:** Cubeba Officinalis
+        * **strength:** 9X
+        * **purpose:** Lack of Self Esteem
+    * **Ingredient 8:** 
+        * **name:** Hypothalamus Suis
+        * **strength:** 8X, 12X, 30X
+        * **purpose:** Lack of Self Esteem
+    * **Ingredient 9:** 
+        * **name:** Lac Caninum
+        * **strength:** 12X
+        * **purpose:** Lack of Self Confidence
+    * **Ingredient 10:** 
+        * **name:** Lac Felinum
+        * **strength:** 16X
+        * **purpose:** Lack of Self Confidence
+    * **Ingredient 11:** 
+        * **name:** Lilium Tigrinum
+        * **strength:** 6X
+        * **purpose:** Narcissism
+    * **Ingredient 12:** 
+        * **name:** Lycopodium Clavatum
+        * **strength:** 6X
+        * **purpose:** Lack of Self Esteem
+    * **Ingredient 13:** 
+        * **name:** Magnesium Iodide
+        * **strength:** 16X
+        * **purpose:** Codependency
+    * **Ingredient 14:** 
+        * **name:** Naja Tripudians
+        * **strength:** 12X
+        * **purpose:** Narcissism
+    * **Ingredient 15:** 
+        * **name:** Natrum Carbonicum
+        * **strength:** 6X
+        * **purpose:** Lack of Self Confidence
+    * **Ingredient 16:** 
+        * **name:** Rhus Glabra
+        * **strength:** 12X
+        * **purpose:** Lack of Self Confidence
+    * **Ingredient 17:** 
+        * **name:** Rosa Damascena
+        * **strength:** 12X
+        * **purpose:** Narcissism
+    * **Ingredient 18:** 
+        * **name:** Sabadilla
+        * **strength:** 12X
+        * **purpose:** Lack of Self Esteem
+    * **Ingredient 19:** 
+        * **name:** Thuja Occidentalis
+        * **strength:** 6X, 12X, 30X
+        * **purpose:** Codependency
+    * **Ingredient 20:** 
+        * **name:** Viscum Album
+        * **strength:** 6X
+        * **purpose:** Lack of Self Confidence
+* **Safety Fact (Uses):** For the temporary relief of the symptoms including: lack of self esteem, codependency, lack of self confidence, narcissism
+* **Safety Fact (Warnings):** If pregnant or breast-feeding, ask a health professional before use. Keep out of reach of children. In case of overdose, contact a physician or Poison Control Center right away.
+* **Safety Fact (Directions):** 1-10 drops under the tongue, 3 times a day or as directed by a health professional. Consult a physician for use in children under 12 years of age.
+* **Safety Fact (Other Info):** Not found
+* **Safety Fact (Inactive Ingredients):** Demineralized water, 25% ethanol
+* **Safety Fact (Questions):** Dist. By: Deseret Biologicals, Inc. 469 W. Parkland Drive Sandy, UT 84070 www.desbio.com 800-827-8204
+* **Toxicity Fact (Summary):** Not found
+* **Toxicity Fact (Mechanism):** Not found
+* **Toxicity Fact (Side Effects):** Not found
+* **Toxicity Fact (Case Reports):** Not found
+* **Culture Fact (Community - The Museum of Floral Culture):** The Museum of Floral Culture
+* **Culture Fact (Location - The Museum of Floral Culture):** Dusit District, Bangkok
+* **Culture Fact (Ethnic Group - The Museum of Floral Culture):** Thai
+* **Culture Fact (Community Highlight - The Museum of Floral Culture):** The Museum of Floral Culture is a unique cultural institution that showcases the art and history of floral arrangements in Thailand. The museum was founded by Sakul Intakul, a renowned floral artist, and features a collection of traditional Thai floral arrangements, as well as exhibits on the history and cultural significance of flowers in Thai society.
+* **Culture Fact (Name Etymology - The Museum of Floral Culture):** The name "The Museum of Floral Culture" reflects the museum's focus on the cultural significance of flowers in Thai society. The word "floral" refers to the art of flower arrangement, while "culture" highlights the museum's mission to preserve and promote Thai cultural heritage.
+* **Culture Fact (Environment - The Museum of Floral Culture):** The museum is located in a historic building in the Dusit District of Bangkok, which is known for its rich cultural heritage. The surrounding area is home to many other cultural institutions, including the Grand Palace and the National Museum.
+* **Culture Fact (Local Wisdom - The Museum of Floral Culture):** The museum showcases traditional Thai floral arrangements, which are an important part of Thai cultural heritage. The arrangements are made using a variety of flowers, including orchids, jasmine, and marigolds, and are often used in traditional Thai ceremonies and rituals.
+* **Culture Fact (Organization - The Museum of Floral Culture):** The museum is affiliated with the Princess Maha Chakri Sirindhorn Anthropology Centre (SAC), which is a leading research institution in Thailand. The SAC provides support for the museum's research and educational programs.
+* **Culture Fact (Local Name - The Museum of Floral Culture):** Sakul Intakul
+* **Culture Fact (Use - The Museum of Floral Culture):** Traditional Thai floral arrangements
+* **Culture Fact (Processing - The Museum of Floral Culture):** Flower arrangement
+* **Culture Fact (Source - The Museum of Floral Culture):** https://db.sac.or.th/museum/museum-detail/1247
+* **Culture Fact (Community - Thailand and Southeast Asia Ethnic Groups Research Database):** Thailand and Southeast Asia Ethnic Groups Research Database
+* **Culture Fact (Location - Thailand and Southeast Asia Ethnic Groups Research Database):** Not specified
+* **Culture Fact (Ethnic Group - Thailand and Southeast Asia Ethnic Groups Research Database):** Not specified
+* **Culture Fact (Community Highlight - Thailand and Southeast Asia Ethnic Groups Research Database):** The Thailand and Southeast Asia Ethnic Groups Research Database is a comprehensive online database that provides information on ethnic groups in Thailand and Southeast Asia. The database includes information on the culture, language, and traditions of each ethnic group.
+* **Culture Fact (Name Etymology - Thailand and Southeast Asia Ethnic Groups Research Database):** The name "Thailand and Southeast Asia Ethnic Groups Research Database" reflects the database's focus on ethnic groups in Thailand and Southeast Asia.
+* **Culture Fact (Environment - Thailand and Southeast Asia Ethnic Groups Research Database):** The database is maintained by the Princess Maha Chakri Sirindhorn Anthropology Centre (SAC), which is a leading research institution in Thailand.
+* **Culture Fact (Local Wisdom - Thailand and Southeast Asia Ethnic Groups Research Database):** The database provides information on the culture, language, and traditions of each ethnic group, which is an important part of Thai cultural heritage.
+* **Culture Fact (Organization - Thailand and Southeast Asia Ethnic Groups Research Database):** The database is affiliated with the SAC, which provides support for the database's research and educational programs.
+* **Culture Fact (Local Name - Thailand and Southeast Asia Ethnic Groups Research Database):** Princess Maha Chakri Sirindhorn Anthropology Centre (SAC)
+* **Culture Fact (Use - Thailand and Southeast Asia Ethnic Groups Research Database):** Research and education
+* **Culture Fact (Processing - Thailand and Southeast Asia Ethnic Groups Research Database):** Online database
+* **Culture Fact (Source - Thailand and Southeast Asia Ethnic Groups Research Database):** https://ethnicredb.sac.or.th/research_detail.php?id=455
+* **Internal RAG Fact (Herbal):** Although the internal knowledge context does not explicitly mention บานไม่รู้โรย (Gomphrena globosa), it discusses the importance of traditional Thai medicine and herbal remedies in the lives of Thai people. The context highlights the benefits of using traditional Thai medicine, such as reducing medical expenses and providing effective treatment for minor ailments. Additionally, it mentions the use of various herbs and plants in traditional Thai medicine, including ใบมะกรูด (lemon balm), which is used to treat digestive issues and promote overall health. The context also touches on the importance of self-sufficiency in food production and the use of locally available herbs and plants in traditional Thai medicine. Furthermore, it mentions the use of คั่วบานะบายข้าวกิน (a type of herbal remedy) to treat digestive issues and promote overall health. While Gomphrena globosa is not explicitly mentioned, the context provides valuable insights into the use of traditional Thai medicine and herbal remedies in the lives of Thai people.
+* **Internal RAG Fact (Cultural):** บานไม่รู้โรย (Gomphrena globosa) has been used for healing in Thai wisdom for a long time. It is believed to have various health benefits, including helping to balance the elements in the body, improving digestion, and relieving symptoms of various ailments. In traditional Thai medicine, บานไม่รู้โรย is used to make a variety of remedies, including herbal teas, soups, and salads. It is also used as a ingredient in traditional Thai dishes, such as tom yum soup and green curry. Additionally, บานไม่รู้โรย is believed to have antioxidant and anti-inflammatory properties, which can help to protect against chronic diseases such as heart disease, diabetes, and cancer. Overall, บานไม่รู้โรย is a versatile and nutritious herb that has been used for centuries in Thai traditional medicine.
+* **Source URL (Trend):** https://globalwellnessinstitute.org/global-wellness-institute-blog/2025/04/02/nutrition-for-healthspan-initiative-trends-for-2025/
+* **Source URL (Science):** Not found
+* **Source URL (Compliance):** https://www.fda.moph.go.th/
+* **Source URL (Safety):** https://dailymed.nlm.nih.gov/dailymed/drugInfo.cfm?setid=2946e748-85a9-4398-b4b6-81aa0f3ebe69
+* **Source URL (Toxicity):** Not found
+* **Source URL (Culture):** https://db.sac.or.th/museum/museum-detail/1247, https://ethnicredb.sac.or.th/research_detail.php?id=455

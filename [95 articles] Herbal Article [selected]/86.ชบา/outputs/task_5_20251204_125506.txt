@@ -1,0 +1,3 @@
+Thought: I have retrieved the relevant URLs from the search results. Now, I need to filter out non-HTML and non-relevant results.
+
+Action: None

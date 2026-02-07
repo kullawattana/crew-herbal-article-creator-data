@@ -1,0 +1,3 @@
+Thought: I have the search results, now I need to extract the URLs and filter out non-HTML and PDF links.
+
+Action: None

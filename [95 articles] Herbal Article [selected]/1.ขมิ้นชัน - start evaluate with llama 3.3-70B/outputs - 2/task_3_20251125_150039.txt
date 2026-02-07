@@ -1,0 +1,22 @@
+# ===RESEARCH_DATA===
+## Scientific Evidence for: Turmeric
+* **herb_name:** Turmeric
+* **herb_name_scientific:** Curcuma longa
+### Validated Compounds
+* **Compound 1:**
+    * **compound_name:** Curcumin
+    * **mechanism_name:** Anti-inflammatory
+    * **supporting_studies:**
+        * **Study 1:** (Data from the first item in studies_data)
+            * **study_type:** Journal Article
+            * **abstract_raw:** Curcumin (Cur) is a bioactive compound with neuroprotective and anti-inflammatory effects, though its clinical application is limited by poor bioavailability. This study assessed the impact of nanocapsulated curcumin (NcCur), formulated Eudragit (EUD) polymer, in a sporadic Alzheimer's disease (AD) mouse model induced by intracerebroventricular streptozotocin (STZ), with attention to sex-specific differences. Mice received STZ (3 nmol/3 μL) or 0.9% saline on days 1 and 3, followed by intragastric treatment with Cur or NcCur (10 mg/kg, on alternate days) from day 22 until euthanasia - a dose previously shown to be effective in behavioral and biochemical modulation in rodent models of neurodegeneration. Behavioral assessments included open field, elevated plus maze (EPM), tail suspension (TST), object recognition, Y-maze, and step-down avoidance tasks (SDAT), performed before and after treatment. After euthanasia, thymus, spleen and adrenal glands were weighed; biochemical assays evaluated oxidative stress, monoaminergic and cholinergic enzymes, and Na(+ )K(+)-ATPase activity. NcCur improved short- and long-term memory in both sexes, with greater effects in females (42% and 35%) than males (28% and 25%). In the EPM, NcCur increased open arm time more prominently in females (40%) than males (25%), while TST immobility time was reduced similarly in both. Spatial and aversive memory improved in both sexes, but females showed greater performance in the SDAT. Biochemical analyses showed reductions in reactive species in males (45%) and females (55%) with NcCur; Na(+ )K(+)-ATPase activity increased in females (60%) and males (50%). AChE activity was restored in both sexes. NcCur reduced MAO-A/B activities more in females (65%/55%) than in males (45%/35%). Thymus and spleen weights were normalized in both sexes, with stronger effects in females. NcCur also mitigated alterations in thymus and spleen relative weights, suggesting immunomodulatory effects. Some biochemical and behavioral responses were more prominent in females, both sexes benefited from treatments. These findings suggest that NcCur enhances Cur therapeutic potential through multimodal actions linked involving modulation of oxidative stress, cholinergic and monoaminergic systems, and immune-related parameters. NcCur emerges as a promising candidate for AD-like intervention in both sexes.
+            * **key_findings:** This study demonstrates the potential of nanocapsulated curcumin (NcCur) in improving cognitive and physiological restoration in female mice with Alzheimer's disease. NcCur showed greater effects in females than males, with improvements in short- and long-term memory, spatial and aversive memory, and biochemical parameters. The study suggests that NcCur may be a promising candidate for AD-like intervention in both sexes.
+            * **pmid:** 41284069
+            * **canonical_url:** https://doi.org/10.1007/s00213-025-06967-9
+            * **citation_apa:** Rodrigues, K. D. C., Oliveira, M. D. C., de Souza, I. C., Igansi, A. W., Lopes, A. V. B., de Oliveira Pacheco, C., ... & Luchese, C. (2025). Sex-dependent therapeutic effects of nano-curcumin on Alzheimer's disease: Enhanced cognitive and physiological restoration in female mice. Psychopharmacology, 242(11), 41284069.
+        * **Study 2:** (Data from the second item...)
+            * ...
+        * (Up to 3 studies)
+
+### Overall Summary
+* **summary:** This report provides an overview of the scientific evidence for Turmeric, including its validated compounds, mechanisms of action, and supporting studies. The report highlights the potential of Turmeric in improving cognitive and physiological restoration in Alzheimer's disease, particularly in female mice.

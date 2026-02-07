@@ -1,0 +1,14 @@
+# ===TRENDS_DATA===
+## Wellness Trends for: Kratom (Mitragyna speciosa)
+### Finding 1
+* **herb_name:** Kratom (Mitragyna speciosa)
+* **wellness_context_summary:** Kratom is a tropical tree native to Southeast Asia, and its leaves have been used for centuries to treat pain, fever, and cough, as well as to increase energy and enhance mood. The herb contains alkaloids that affect the brain and nervous system, providing stimulant effects and interacting with opioid receptors to provide pain relief, mood enhancement, and relaxation. Kratom has been reported to have potential benefits for stress relief, anxiety, and sleep quality, but its use also carries risks, including addiction, dependency, and adverse effects.
+* **source_url:** https://occursnaturally.com/blog/kratom-vs-cortisol
+### Finding 2
+* **herb_name:** Kratom (Mitragyna speciosa)
+* **wellness_context_summary:** A cross-sectional survey of 11,545 respondents found that 1,049 reported current kratom use, indicating a 9.1% prevalence. The most common kratom products used in the past 30 days were pills, gummies, and powder formulations. Pain relief, relaxation/stress relief, and boost energy were the most common conditions for using kratom. The reported benefits were increased energy from tea bags and improved sleep with leaf or extract powders.
+* **source_url:** https://pubmed.ncbi.nlm.nih.gov/40022554/
+### Finding 3
+* **herb_name:** Kratom (Mitragyna speciosa)
+* **wellness_context_summary:** Kratom has been reported to have beneficial and adverse health effects. A critical review of the literature found that kratom may have beneficial effects on pain relief, anxiety, and sleep quality, but its use also carries risks, including addiction, dependency, and adverse effects. The neuropharmacology of kratom is complex, and more research is needed to establish reliable safety guidelines for dosage recommendations.
+* **source_url:** https://www.wsj.com/health/wellness/kratom-supplement-safety-b63d0573

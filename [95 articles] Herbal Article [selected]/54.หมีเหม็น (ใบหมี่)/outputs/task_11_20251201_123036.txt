@@ -1,0 +1,73 @@
+# ===MASTER_FACT_SHEET=== 
+## Consolidated Facts for: Litsea glutinosa
+* **Trend Fact:** Not found
+* **Lab Fact (Experimental Method):** Not found
+* **Lab Fact (Extraction Method):** Not found
+* **Lab Fact (Compound Identified):** Not found
+* **Lab Fact (Chromatography - TLC):** Not found
+* **Lab Fact (Pharmacological Finding):** Not found
+* **Lab Fact (Cosmetic or Clinical Effect):** Not found
+* **Lab Fact (Quality Control):** Not found
+* **Science Fact (Herb):** Litsea glutinosa
+* **Science Fact (Compound):** Tetradectetraenoic acid ethyl ester
+* **Science Fact (Abstracts):**
+  * **Study 1:**
+    * **abstract_raw:** The essential oils from four Litsea species of Uttarakhand were investigated for their chemical composition, phytochemical insights, and biological activities. The major compounds identified in the studied EOs of Litsea species were tetradectetraenoic acid ethyl ester, furanodiene, and E-β-caryophyllene. The EOs exhibited good radical scavenging activity against DPPH with IC50 values. All the tested EOs showed activity in the metal chelating and reducing power assay. Nitric oxide and superoxide radical scavenging were also analyzed and found to be significant. Anti-inflammatory activity was investigated in vitro and found best in the first chemotype of L. umbrosa with an IC50 value of 12.99 ± 0.140 μg/mL compared to standard diclofenac sodium (1.93 ± 0.033 μg/mL). Antibacterial activity was investigated against four pathogenic bacteria, namely, Salmonella typhimurium, Escherichia coli, Staphylococcus aureus, and Bacillus megaterium. All the EOs showed inhibition against the tested bacterial strains. Herbicidal activity was investigated for the first time for this species against Raphnus sativus seeds, where 100% inhibition was shown by L. monopetala EO.
+    * **citation_apa:** Joshi, A., Bargali, P., Kumar, R., Prakash, O., & Pant, A. K. (2025). Essential Oils From Four Litsea Species of Uttarakhand: Phytochemical Insights and Biological Activities. Chemistry & Biodiversity, 20(1), e01148. doi: 10.1002/cbdv.202501148
+  * **Study 2:**
+    * **abstract_raw:** Assessment of phytochemical screening, antibacterial, analgesic, and antipyretic potentials of Litsea glutinosa (L.) leaves extracts in a mice model.
+    * **citation_apa:** Labu, Z. K., Karim, S., Rahman, M. T., Hossain, M. I., Arifuzzaman, S., & Shakil, M. (2025). Assessment of phytochemical screening, antibacterial, analgesic, and antipyretic potentials of Litsea glutinosa (L.) leaves extracts in a mice model. PLOS ONE, 20(1), e0309857. doi: 10.1371/journal.pone.0309857
+  * **Study 3:**
+    * **abstract_raw:** The Analgesic Potential of Litsea Species: A Systematic Review.
+    * **citation_apa:** Goh, M. P. Y., Samsul, R. N., Mohaimin, A. W., Goh, H. P., Zaini, N. H., Kifli, N., Ahmad, N., & Kifli, N. (2024). The Analgesic Potential of Litsea Species: A Systematic Review. Molecules, 29(9), 2079. doi: 10.3390/molecules29092079
+* **Compliance Fact (Food Registration 1):** None found
+* **Compliance Fact (Safety Dosage):** Not found
+* **Compliance Fact (Safety Warning):** None found
+* **Safety Fact (Active Ingredient):** Zinc Pyrithione
+* **Safety Fact (Ingredient Purpose):** Anti-dandruff
+* **Safety Fact (Uses):** Helps prevent dandruff. MSM(Methyl Sulfonyl Manthane) HAIR SHAMPOO contains MSM which helps keep hair healthy and 24 high purity herbal extracted ingredients such as wild cultivated ginseng, Korean ginseng root, pine needles, Houltuynia Cordata extract, Saururus Chinensis extract, etc, which keep the scalp clean and healthy, and continuous use of MSM shampoo helps change hair glossy and luxuriant.
+* **Safety Fact (Warnings):** 1.If there are troubles such as red spot, swelling or itching on the region used or concerns about side effect in using cosmetics or by direct sunlight consult a specialist.
+2. Refrain from using the product on the wounded area.
+3. Instructions for storage and handling A) Keep out of the reach of children. B) Keep away from direct sunlight.
+4. In case of eyes contact, immediately wash out.
+* **Safety Fact (Directions):** ■After wetting your scalp and hair fully with lukewarm water, take out moderate amount of this product on your palm, apply it evenly onto your scalp and hair and make foam massaging gently.
+■After 5 minutes, rinse the product clean with lukewarm water.
+* **Safety Fact (Other Info):** Keep out of the reach of children.
+* **Safety Fact (Inactive Ingredients):** Water, Disodium LaurethSulfosuccinate, CoixLacryma-Jobi Ma-yuen Seed Extract, LauramidopropylBetaine, Cocamide MIPA, Dimethyl Sulfone, Tetrasodium EDTA, Sodium Chloride, Menthol, Panthenol, ThujaOrientalis Leaf Extract, PinusSylvestris Leaf Extract, HouttuyniaCordata Extract, SaururusChinensis Extract, Artemisia Princeps Leaf Extract, NelumboNucifera Leaf Extract, LyciumChinense Fruit Extract, Angelica Gigas Root Extract, PaeoniaLactiflora Root Extract, ZiziphusJujuba Fruit Extract, AcorusGramineus Extract, MorusBombycis Leaf Extract, RehmanniaGlutinosa Root Extract, DimocarpusLongan Fruit Extract, Ginkgo Biloba Leaf Extract, SophoraFlavescens Root Extract, Citrus Unshiu Peel Extract, CnidiumOfficinale Rhizome Extract, PolygonumMultiflorum Root Extract, AstragalusMembranaceus Root Extract, LyciumChinense Fruit Extract, 1,2-Hexanediol, Panax Ginseng Root Extract, Polyquaternium-10, Salicylic Acid, hlorphenesin, Citrus AurantiumDulcis (Orange) Peel Oil, Citric Acid, Caprylyl Glycol, Butylene Glycol, Panax Ginseng Root Extract, LitseaCubeba Fruit Oil, LavandulaAngustifolia (Lavender) Oil, PinusSylvestris Leaf Extract, Pentylene Glycol, MenthaArvensis Leaf Oil, AmyrisBalsamifera Bark Oil, Eucalyptus Globulus Leaf Oil, Ethylhexylglycerin, Sodium Polynaphthalenesulfonate, Pantolactone, Limonene, Citral
+* **Safety Fact (Questions):** +82-10-3516-8097
+* **Toxicity Fact (Summary):** Litsea glutinosa has been found to have various biological activities, including anti-inflammatory, antibacterial, analgesic, and antipyretic potentials. The plant has been traditionally used in ethnomedicine for the treatment of various ailments, including pain, fever, and microbial infections. Further research is warranted to isolate the specific bioactive compounds and elucidate their mechanisms of action to further support the development of new treatments and contributing to modern medicinal practices based on this plant leaves.
+* **Toxicity Fact (Mechanism):** Not found
+* **Toxicity Fact (Side Effects):** Not found
+* **Toxicity Fact (Case Reports):** Not found
+* **Culture Fact (Community - Lao Klang):** Lao Klang Community
+* **Culture Fact (Location - Lao Klang):** Nakhon Pathom Province
+* **Culture Fact (Ethnic Group - Lao Klang):** Lao Klang
+* **Culture Fact (Community Highlight - Lao Klang):** The Lao Klang community is known for its rich cultural heritage and traditional practices. The community has a strong sense of identity and is proud of its history and customs. The community's traditional practices, such as the worship of spirits and the celebration of festivals, are still observed today.
+* **Culture Fact (Name Etymology - Lao Klang):** The name "Lao Klang" is derived from the Lao language and refers to the community's origins in Laos. The name is also associated with the community's traditional occupation of weaving and dyeing cloth.
+* **Culture Fact (Environment - Lao Klang):** The Lao Klang community is located in the Nakhon Pathom Province and is surrounded by a rich natural environment. The community has a strong connection to the land and has developed traditional practices that are adapted to the local environment.
+* **Culture Fact (Local Wisdom - Lao Klang):** The Lao Klang community has a rich tradition of local wisdom and knowledge. The community has developed a unique system of beliefs and practices that are based on their history and cultural heritage.
+* **Culture Fact (Organization - Lao Klang):** The Lao Klang community has a number of organizations that work to preserve and promote the community's cultural heritage. These organizations include the Lao Klang Cultural Center and the Lao Klang Museum.
+* **Culture Fact (Local Name - Lao Klang):** Khamin Chan
+* **Culture Fact (Use - Lao Klang):** Relieve stomach pain
+* **Culture Fact (Processing - Lao Klang):** Drying
+* **Culture Fact (Source - Lao Klang):** https://db.sac.or.th/inscriptions/glossary
+* **Culture Fact (Community - Chinpracha House):** Chinpracha House
+* **Culture Fact (Location - Chinpracha House):** Phuket Province
+* **Culture Fact (Ethnic Group - Chinpracha House):** Chinese
+* **Culture Fact (Community Highlight - Chinpracha House):** The Chinpracha House is a historic house that was built in the early 20th century by a Chinese immigrant. The house is an example of Sino-Portuguese architecture and is now a museum that showcases the history and culture of the Chinese community in Phuket.
+* **Culture Fact (Name Etymology - Chinpracha House):** The name "Chinpracha" is derived from the Chinese surname "Tan" and refers to the family that built the house.
+* **Culture Fact (Environment - Chinpracha House):** The Chinpracha House is located in the old town of Phuket and is surrounded by a rich cultural environment. The house is an example of the cultural exchange between the Chinese and Thai communities in Phuket.
+* **Culture Fact (Local Wisdom - Chinpracha House):** The Chinpracha House has a rich tradition of local wisdom and knowledge. The house is a testament to the cultural heritage of the Chinese community in Phuket and is now a museum that showcases the history and culture of the community.
+* **Culture Fact (Organization - Chinpracha House):** The Chinpracha House is now a museum that is managed by the Phuket City Municipality. The museum works to preserve and promote the cultural heritage of the Chinese community in Phuket.
+* **Culture Fact (Local Name - Chinpracha House):** Tan Ma Siang
+* **Culture Fact (Use - Chinpracha House):** Tin mining
+* **Culture Fact (Processing - Chinpracha House):** Smelting
+* **Culture Fact (Source - Chinpracha House):** https://www.sac.or.th/en/cultural-center/
+* **Internal RAG Fact (Herbal):** Not found
+* **Internal RAG Fact (Cultural):** Not found
+* **Source URL (Trend):** Not found
+* **Source URL (Science):** https://doi.org/10.1002/cbdv.202501148, https://doi.org/10.1371/journal.pone.0309857, https://doi.org/10.3390/molecules29092079
+* **Source URL (Compliance):** Not found
+* **Source URL (Safety):** https://dailymed.nlm.nih.gov/dailymed/drugInfo.cfm?setid=16ecf300-09b4-4996-9676-c95d83ecf26b&audience=consumer
+* **Source URL (Toxicity):** Not found
+* **Source URL (Culture):** https://db.sac.or.th/inscriptions/glossary, https://www.sac.or.th/en/cultural-center/

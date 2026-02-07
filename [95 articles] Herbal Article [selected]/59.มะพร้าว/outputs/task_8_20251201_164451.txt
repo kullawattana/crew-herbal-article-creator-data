@@ -1,0 +1,80 @@
+# ===CULTURE_DATA=== 
+## Cultural Context for: Coconut (มะพร้าว)
+
+### Finding 1 
+* **source_url:** https://db.sac.or.th/thailand-cultural-encyclopedia/freeterm.php?freeterm_id=1852 
+* **community_context:**
+    * **community_name:** Ban Suan Thung 
+    * **location:** Samut Songkhram Province 
+    * **ethnic_group:** Thai 
+* **community_profile_summaries:**
+    * **community_highlight:** Ban Suan Thung community is a self-sufficient economy community located at the mouth of the Mae Klong River, where the main occupation is making coconut sugar from coconuts that are grown in a water-filled ditch, which makes the coconut trees grow well. Coconuts produce clear sugar when made into coconut sugar.
+    * **name_etymology:** No herbal-related information found
+    * **community_environment:** The community is located at the mouth of the Mae Klong River, where the main occupation is making coconut sugar from coconuts.
+    * **local_wisdom:** The community has been making coconut sugar for a long time, and it is their main occupation.
+    * **community_organizations:** No herbal-related information found
+* **specific_entities:**
+    * **local_names:**
+        * **Item 1:**
+            * **name:** Coconut 
+            * **context_quote:** Coconut is a plant that provides many benefits, and every part of the coconut tree generates income.
+    * **traditional_uses:**
+        * **Item 1:**
+            * **use:** Making coconut sugar 
+            * **context_quote:** Making coconut sugar is the main occupation of the people in the community for a long time.
+    * **processing_methods:**
+        * **Item 1:**
+            * **method:** Boiling coconut sugar 
+            * **description_quote:** Boiling coconut sugar uses consistent fire for about 1 hour and 30 minutes, the sugar will slowly thicken until it becomes yellow or what is called "dok mai", it will become small bubbles, boiling further for a while, the bubbles will become bigger, indicating that it is ready.
+
+### Finding 2 
+* **source_url:** https://culturio.sac.or.th/content/1870 
+* **community_context:**
+    * **community_name:** Bang O Mosque Community 
+    * **location:** Samut Songkhram Province 
+    * **ethnic_group:** Thai 
+* **community_profile_summaries:**
+    * **community_highlight:** No herbal-related information found
+    * **name_etymology:** No herbal-related information found
+    * **community_environment:** No herbal-related information found
+    * **local_wisdom:** No herbal-related information found
+    * **community_organizations:** No herbal-related information found
+* **specific_entities:**
+    * **local_names:**
+        * **Item 1:**
+            * **name:** Coconut 
+            * **context_quote:** Coconut, which has a sweet taste and is sweeter than the dough.
+    * **traditional_uses:**
+        * **Item 1:**
+            * **use:** Making Khanom Sai 
+            * **context_quote:** Khanom Sai, or Khanom Sod Sai, is an ancient Thai dessert that uses coconut, flour, and sugar as main ingredients.
+    * **processing_methods:**
+        * **Item 1:**
+            * **method:** Making dough 
+            * **description_quote:** Making dough uses glutinous rice flour and water.
+
+### Finding 3 
+* **source_url:** https://wikicommunity.sac.or.th/community/888 
+* **community_context:**
+    * **community_name:** Ban Suan Thung 
+    * **location:** Samut Songkhram Province 
+    * **ethnic_group:** Thai 
+* **community_profile_summaries:**
+    * **community_highlight:** Ban Suan Thung community is a self-sufficient economy community located at the mouth of the Mae Klong River, where the main occupation is making coconut sugar from coconuts that are grown in a water-filled ditch, which makes the coconut trees grow well. Coconuts produce clear sugar when made into coconut sugar.
+    * **name_etymology:** No herbal-related information found
+    * **community_environment:** The community is located at the mouth of the Mae Klong River, where the main occupation is making coconut sugar from coconuts.
+    * **local_wisdom:** The community has been making coconut sugar for a long time, and it is their main occupation.
+    * **community_organizations:** No herbal-related information found
+* **specific_entities:**
+    * **local_names:**
+        * **Item 1:**
+            * **name:** Coconut 
+            * **context_quote:** Coconut is a plant that provides many benefits, and every part of the coconut tree generates income.
+    * **traditional_uses:**
+        * **Item 1:**
+            * **use:** Making coconut sugar 
+            * **context_quote:** Making coconut sugar is the main occupation of the people in the community for a long time.
+    * **processing_methods:**
+        * **Item 1:**
+            * **method:** Boiling coconut sugar 
+            * **description_quote:** Boiling coconut sugar uses consistent fire for about 1 hour and 30 minutes, the sugar will slowly thicken until it becomes yellow or what is called "dok mai", it will become small bubbles, boiling further for a while, the bubbles will become bigger, indicating that it is ready.

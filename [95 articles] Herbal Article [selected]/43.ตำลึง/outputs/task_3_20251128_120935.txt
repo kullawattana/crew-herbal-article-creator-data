@@ -1,0 +1,32 @@
+# ===RESEARCH_DATA===
+## Scientific Evidence for: Coccinia grandis
+* **herb_name:** Coccinia grandis
+* **herb_name_scientific:** Coccinia grandis
+### Validated Compounds
+* **Compound 1:**
+    * **compound_name:** Catechin
+    * **mechanism_name:** Anti-inflammatory
+    * **supporting_studies:**
+        * **Study 1:** (Data from the first item in studies_data)
+            * **study_type:** Journal Article
+            * **abstract_raw:** The therapeutic role of Coccinia grandis in flavor-enhancing high-lipid diet-induced chronic kidney disease: a dual role of NF-kB and TGF-β/Smad in renal fibrosis.
+            * **key_findings:** Coccinia grandis (CG) is a plant used as traditional medicine, possessing antioxidant, anti-inflammatory, and anti-fibrotic activities. The purpose of this study is to hypothesize that CG might counteract MH-induced kidney dysfunction through its putative modulation of the signaling pathway.
+            * **pmid:** 40775474
+            * **canonical_url:** https://doi.org/10.1007/s11033-025-10798-4
+            * **citation_apa:** Banerjee, A., Roy, J., Sarkar, D., Shil, A., Das, D., & Maji, B. K. (2025). The therapeutic role of Coccinia grandis in flavor-enhancing high-lipid diet-induced chronic kidney disease: a dual role of NF-kB and TGF-β/Smad in renal fibrosis. Molecular Biology Reports, 52(1), 798. https://doi.org/10.1007/s11033-025-10798-4
+        * **Study 2:** (Data from the second item in studies_data)
+            * **study_type:** Journal Article
+            * **abstract_raw:** Genetic variability, morphological diversity, and antioxidant potential in gynoecious Coccinia accessions: implications for breeding and biofortification.
+            * **key_findings:** This study investigates genetic variability, morphological diversity, and biochemical traits in gynoecious Coccinia accessions using multivariate analysis. The results revealed significant variation across key traits, with vine length (VL) ranging from 243.0 to 532.2 cm (CV = 10.15%), internode length (IL) from 6.15 to 9.7 cm, and leaf length (LL) from 6.52 to 8.76 cm.
+            * **pmid:** 40610870
+            * **canonical_url:** https://doi.org/10.1186/s12870-025-06335-x
+            * **citation_apa:** Yadav, L. P., Gangadhara, K., Singh, A. K., Yadav, V., Apparao, V. V., Pawar, A., Kumar, S., Janani, P., Khapte, P. S., Meena, N. K., Jinger, D., Rane, J., & Maji, B. K. (2025). Genetic variability, morphological diversity, and antioxidant potential in gynoecious Coccinia accessions: implications for breeding and biofortification. BMC Plant Biology, 25(1), 844. https://doi.org/10.1186/s12870-025-06335-x
+        * **Study 3:** (Data from the third item in studies_data)
+            * **study_type:** Journal Article
+            * **abstract_raw:** Potential Applications of Zingiber officinale, Clitoria ternatea, and Coccinia grandis for Enhancing the Functionality of Set Yogurts.
+            * **key_findings:** The growing consumer interest in health-promoting foods has encouraged the development of yogurt fortified with plant-based additives. This study focused on the effect of aqueous extracts from ginger (Zingiber officinale) rhizome, blue butterfly pea (Clitoria ternatea) flower, and ivy (Coccinia grandis) leaf on the physicochemical and functional characteristics of yogurt.
+            * **pmid:** 40585492
+            * **canonical_url:** https://doi.org/10.1002/fsn3.70475
+            * **citation_apa:** Jayaweera, Y., Silva, M., Chandrapala, J., Liyanage, R., Jayathunge, K. G. L. R., & Alahakoon, A. U. (2025). Potential Applications of Zingiber officinale, Clitoria ternatea, and Coccinia grandis for Enhancing the Functionality of Set Yogurts. Food Science & Nutrition, 13(7), e70475. https://doi.org/10.1002/fsn3.70475
+### Overall Summary
+* **summary:** Coccinia grandis has been found to have potential therapeutic roles in flavor-enhancing high-lipid diet-induced chronic kidney disease, and its extracts have been shown to have antioxidant and anti-inflammatory activities.

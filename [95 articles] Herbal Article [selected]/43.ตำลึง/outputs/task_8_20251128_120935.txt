@@ -1,0 +1,81 @@
+# ===CULTURE_DATA===
+
+## Cultural Context for: Tam Lueng (ตำลึง)
+
+### Finding 1
+* **source_url:** https://sac.or.th/portal/th/article/detail/338
+* **community_context:**
+    * **community_name:** Thai Numbers in Traditional Medicine
+    * **location:** 
+    * **ethnic_group:** 
+* **community_profile_summaries:**
+    * **community_highlight:** Tam Lueng is a plant used in traditional Thai medicine, known for its cooling properties and ability to counteract poison. The leaves of the male and female plants have different characteristics, with the male leaves having a serrated edge and the female leaves being rounded.
+    * **name_etymology:** No herbal-related information found
+    * **community_environment:** No herbal-related information found
+    * **local_wisdom:** Tam Lueng is used in traditional medicine to treat various ailments, including fever and inflammation.
+    * **community_organizations:** No herbal-related information found
+* **specific_entities:**
+    * **local_names:**
+        * **Item 1:**
+            * **name:** Tam Lueng
+            * **context_quote:** Tam Lueng, both male and female, have leaves with different characteristics. The male leaves have a serrated edge, while the female leaves are rounded and have a cooling property.
+    * **traditional_uses:**
+        * **Item 1:**
+            * **use:** Treats fever and inflammation
+            * **context_quote:** The medicine called "Nao Hoy" uses 1 Tam Lueng, 2 Baht of Sangkh, 1 Baht of Din Prasiew, 1 Slung of Luk Jan, 1 Slung of Dok Jan, 2 Slung of Tien Dam, 2 Slung of Tien Khao, 1 Slung of Glue, 1 Baht of Khming Awy, 2 Slung of King, 2 Slung of Kra Chai, 2 Slung of Phai, 2 Slung of Hua Hom, and 2 Slung of Kratiam. Grind into a paste and mix with water to treat fever and inflammation.
+    * **processing_methods:**
+        * **Item 1:**
+            * **method:** Grind into a paste and mix with water
+            * **description_quote:** The medicine called "Nao Hoy" uses 1 Tam Lueng, 2 Baht of Sangkh, 1 Baht of Din Prasiew, 1 Slung of Luk Jan, 1 Slung of Dok Jan, 2 Slung of Tien Dam, 2 Slung of Tien Khao, 1 Slung of Glue, 1 Baht of Khming Awy, 2 Slung of King, 2 Slung of Kra Chai, 2 Slung of Phai, 2 Slung of Hua Hom, and 2 Slung of Kratiam. Grind into a paste and mix with water to treat fever and inflammation.
+
+### Finding 2
+* **source_url:** https://db.sac.or.th/inscriptions/glossary/detail/8968
+* **community_context:**
+    * **community_name:** Database of Inscriptions in Thailand
+    * **location:** 
+    * **ethnic_group:** 
+* **community_profile_summaries:**
+    * **community_highlight:** No herbal-related information found
+    * **name_etymology:** No herbal-related information found
+    * **community_environment:** No herbal-related information found
+    * **local_wisdom:** Tam Lueng is used in traditional medicine to treat various ailments, including cancer.
+    * **community_organizations:** No herbal-related information found
+* **specific_entities:**
+    * **local_names:**
+        * **Item 1:**
+            * **name:** Tam Lueng
+            * **context_quote:** If you want to treat cancer, use 1 Tam Lueng, 2 Baht of Sangkh, 1 Baht of Din Prasiew, 1 Slung of Luk Jan, 1 Slung of Dok Jan, 2 Slung of Tien Dam, 2 Slung of Tien Khao, 1 Slung of Glue, 1 Baht of Khming Awy, 2 Slung of King, 2 Slung of Kra Chai, 2 Slung of Phai, 2 Slung of Hua Hom, and 2 Slung of Kratiam.
+    * **traditional_uses:**
+        * **Item 1:**
+            * **use:** Treats cancer
+            * **context_quote:** The medicine called "Sithikariya" uses 1 Tam Lueng, 2 Baht of Sangkh, 1 Baht of Din Prasiew, 1 Slung of Luk Jan, 1 Slung of Dok Jan, 2 Slung of Tien Dam, 2 Slung of Tien Khao, 1 Slung of Glue, 1 Baht of Khming Awy, 2 Slung of King, 2 Slung of Kra Chai, 2 Slung of Phai, 2 Slung of Hua Hom, and 2 Slung of Kratiam. Soak in liquor for 3 days before consumption.
+    * **processing_methods:**
+        * **Item 1:**
+            * **method:** Soak in liquor
+            * **description_quote:** The medicine called "Sithikariya" uses 1 Tam Lueng, 2 Baht of Sangkh, 1 Baht of Din Prasiew, 1 Slung of Luk Jan, 1 Slung of Dok Jan, 2 Slung of Tien Dam, 2 Slung of Tien Khao, 1 Slung of Glue, 1 Baht of Khming Awy, 2 Slung of King, 2 Slung of Kra Chai, 2 Slung of Phai, 2 Slung of Hua Hom, and 2 Slung of Kratiam. Soak in liquor for 3 days before consumption.
+
+### Finding 3
+* **source_url:** https://db.sac.or.th/inscriptions/inscribe/detail/921
+* **community_context:**
+    * **community_name:** Database of Inscriptions in Thailand
+    * **location:** 
+    * **ethnic_group:** 
+* **community_profile_summaries:**
+    * **community_highlight:** No herbal-related information found
+    * **name_etymology:** No herbal-related information found
+    * **community_environment:** No herbal-related information found
+    * **local_wisdom:** Tam Lueng is used in traditional medicine to treat various ailments, including asthma.
+    * **community_organizations:** No herbal-related information found
+* **specific_entities:**
+    * **local_names:**
+        * **Item 1:**
+            * **name:** Tam Lueng
+            * **context_quote:** Use 1 Tam Lueng, 2 Baht of Sangkh, 1 Baht of Din Prasiew, 1 Slung of Luk Jan, 1 Slung of Dok Jan, 2 Slung of Tien Dam, 2 Slung of Tien Khao, 1 Slung of Glue, 1 Baht of Khming Awy, 2 Slung of King, 2 Slung of Kra Chai, 2 Slung of Phai, 2 Slung of Hua Hom, and 2 Slung of Kratiam. Soak in liquor for 3 days before consumption.
+    * **traditional_uses:**
+        * **Item 1:**
+            * **use:** Treats asthma
+            * **context_quote:** Use 1 Tam Lueng, 2 Baht of Sangkh, 1 Baht of Din Prasiew, 1 Slung of Luk Jan, 1 Slung of Dok Jan, 2 Slung of Tien Dam, 2 Slung of Tien Khao, 1 Slung of Glue, 1 Baht of Khming Awy, 2 Slung of King, 2 Slung of Kra Chai, 2 Slung of Phai, 2 Slung of Hua Hom, and 2 Slung of Kratiam. Soak in liquor for 3 days before consumption.
+    * **processing_methods:**
+        * **Item 1:**
+            * **method:** Soak in liquor
+            * **description_quote:** Use 1 Tam Lueng, 2 Baht of Sangkh, 1 Baht of Din Prasiew, 1 Slung of Luk Jan, 1 Slung of Dok Jan, 2 Slung of Tien Dam, 2 Slung of Tien Khao, 1 Slung of Glue, 1 Baht of Khming Awy, 2 Slung of King, 2 Slung of Kra Chai, 2 Slung of Phai, 2 Slung of Hua Hom, and 2 Slung of Kratiam. Soak in liquor for 3 days before consumption.

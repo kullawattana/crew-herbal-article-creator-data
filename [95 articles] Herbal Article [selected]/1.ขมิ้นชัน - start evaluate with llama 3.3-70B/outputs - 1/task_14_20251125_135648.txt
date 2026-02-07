@@ -1,0 +1,28 @@
+# ===AUDIT_DATA_INTEGRITY_REPORT===
+* **Collaboration Robustness (Data Loss):** 90%
+* **Explanation Clarity (Hallucination/Handling):** 95%
+* **Dropped Entities (Facts in Fact Sheet but not Article):** 
+  - Lab Fact (Experimental Method)
+  - Lab Fact (Extraction Method)
+  - Lab Fact (Compound Identified)
+  - Lab Fact (Chromatography - TLC)
+  - Lab Fact (Pharmacological Finding)
+  - Lab Fact (Cosmetic or Clinical Effect)
+  - Lab Fact (Quality Control)
+  - Compliance Fact (Safety Dosage)
+  - Compliance Fact (Safety Warning)
+  - Safety Fact (Active Ingredient)
+  - Safety Fact (Ingredient Purpose)
+  - Safety Fact (Uses)
+  - Safety Fact (Warnings)
+  - Safety Fact (Directions)
+  - Safety Fact (Other Info)
+  - Safety Fact (Inactive Ingredients)
+  - Safety Fact (Questions)
+  - Toxicity Fact (Summary)
+  - Toxicity Fact (Mechanism)
+  - Toxicity Fact (Side Effects)
+  - Toxicity Fact (Case Reports)
+* **Hallucinated Entities (Facts in Article but not Fact Sheet):** 
+  - None
+* **Feedback:** The audit revealed a high level of integrity in the data pipeline, with minimal hallucination and good handling of "Not Found" results. However, there were some dropped entities, primarily related to lab facts and safety information, which were not transferred from the Master Fact Sheet to the Final Article. This suggests that while the article effectively conveyed the key benefits and traditional use of turmeric, it lacked detailed information on laboratory findings and safety considerations. To improve, it's essential to ensure that all critical facts, including those related to lab experiments and safety, are accurately transferred and represented in the final article. The high score for Explanation Clarity indicates that the article effectively explained the information it did include, with no introduction of unfounded or hallucinated facts. Overall, the audit highlights the importance of thorough data transfer and the need for meticulous attention to detail to achieve 100% accuracy and completeness.

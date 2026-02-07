@@ -1,0 +1,82 @@
+# ===SAFETY_DATA=== ## International Safety Data for: Mitragyna speciosa
+* **herb_name:** Mitragyna speciosa * **source_browsed:** https://dailymed.nlm.nih.gov/dailymed/fda/fdaDrugXsl.cfm?setid=7668cca1-9f37-470e-998b-23353c023a5c
+### Drug Facts Label
+* **active_ingredients:**
+    * **Ingredient 1:**
+        * **name:** Adenosinum Triphosphoricum Dinatrum
+        * **strength:** 6X
+        * **purpose:** Excessive Appetite
+    * **Ingredient 2:**
+        * **name:** Adrenal Cortex (Suis)
+        * **strength:** 6X
+        * **purpose:** Greed in Eating
+    * **Ingredient 3:**
+        * **name:** Bacopa Speciosa
+        * **strength:** 6X
+        * **purpose:** Eating Ameliorates
+    * **Ingredient 4:**
+        * **name:** Chininum Sulphuricum
+        * **strength:** 6X
+        * **purpose:** Excessive Appetite
+    * **Ingredient 5:**
+        * **name:** Cina
+        * **strength:** 8X
+        * **purpose:** Sugar Craving
+    * **Ingredient 6:**
+        * **name:** Dopamine Hydrochloride
+        * **strength:** 8X
+        * **purpose:** Fat Craving
+    * **Ingredient 7:**
+        * **name:** Equol
+        * **strength:** 6X
+        * **purpose:** Carbohydrate Craving
+    * **Ingredient 8:**
+        * **name:** Gambogia
+        * **strength:** 14X
+        * **purpose:** Eating Ameliorates
+    * **Ingredient 9:**
+        * **name:** Iodium
+        * **strength:** 6X
+        * **purpose:** Greed in Eating
+    * **Ingredient 10:**
+        * **name:** Lycopodium Clavatum
+        * **strength:** 6X
+        * **purpose:** Excessive Appetite
+    * **Ingredient 11:**
+        * **name:** Morgan Gaertner
+        * **strength:** 30C
+        * **purpose:** Sugar Craving
+    * **Ingredient 12:**
+        * **name:** Oxytocin
+        * **strength:** 12X
+        * **purpose:** Carbohydrate Craving
+    * **Ingredient 13:**
+        * **name:** Pantothenic Acid
+        * **strength:** 6X
+        * **purpose:** Fat Craving
+    * **Ingredient 14:**
+        * **name:** Phosphorus
+        * **strength:** 6X
+        * **purpose:** Eating Ameliorates
+    * **Ingredient 15:**
+        * **name:** Rhodiola
+        * **strength:** 6X
+        * **purpose:** Carbohydrate Craving
+    * **Ingredient 16:**
+        * **name:** Serotonin (Hydrochloride)
+        * **strength:** 8X
+        * **purpose:** Sugar Craving
+    * **Ingredient 17:**
+        * **name:** Stomach (Suis)
+        * **strength:** 6X
+        * **purpose:** Excessive Appetite
+    * **Ingredient 18:**
+        * **name:** Thyroidinum (Suis)
+        * **strength:** 8X
+        * **purpose:** Excessive Appetite
+* **uses:** For the temporary relief of symptoms including: eating ameliorates, greed in eating, excessive appetite, sugar craving, carbohydrate craving, fat craving. These statements are based upon homeopathic principles. They have not been reviewed by the Food and Drug Administration.
+* **warnings:** If pregnant or breast-feeding, ask a health professional before use. Keep out of reach of children. In case of overdose, contact a physician or Poison Control Center right away. Tamper Evident: Sealed for Your Protection. Do not use if seal is broken or missing.
+* **directions:** 3-10 drops under the tongue, 3 times a day or as directed by a health professional. Consult a physician for use in children under 12 years of age.
+* **other_information:** Not found
+* **inactive_ingredients:** Demineralized water, 25% ethanol
+* **questions:** Dist. By: Deseret Biologicals, Inc. 469 W. Parkland Drive Sandy, UT 84070 www.desbio.com 800-827-8204

@@ -1,0 +1,29 @@
+# ===COMPLIANCE_DATA===
+## Thai FDA Status for: Capsicum annuum
+* **herb_name:** Capsicum annuum
+### Food Registrations
+* **Food Registration 1:**
+    * **registration_number:** 10-1-00155-5-0003
+    * **product_name:** พริกป่น / Chilli Powder
+    * **company_name:** ร้าน ต เจริญ 88
+    * **status:** สถานะผลิตภัณฑ์(คงอยู่)\ สถานะสถานที่ (คงอยู่)
+* **Food Registration 2:**
+    * **registration_number:** 10-1-00155-5-0009
+    * **product_name:** พริกดอง / Pickled Chilli
+    * **company_name:** ร้าน ต เจริญ 88
+    * **status:** สถานะผลิตภัณฑ์(คงอยู่)\ สถานะสถานที่ (คงอยู่)
+* **Food Registration 3:**
+    * **registration_number:** 10-1-00155-5-0012
+    * **product_name:** พริกแห้ง / Dried Chilli
+    * **company_name:** ร้าน ต เจริญ 88
+    * **status:** สถานะผลิตภัณฑ์(คงอยู่)\ สถานะสถานที่ (คงอยู่)
+* **Food Registration 4:**
+    * **registration_number:** 10-1-00155-5-0025
+    * **product_name:** พริกหอมป่น / Sichuan Pepper Powder
+    * **company_name:** ร้าน ต เจริญ 88
+    * **status:** สถานะผลิตภัณฑ์(คงอยู่)\ สถานะสถานที่ (คงอยู่)
+* **Food Registration 5:**
+    * **registration_number:** 10-1-00155-5-0056
+    * **product_name:** พริกไทย / Pepper Powder
+    * **company_name:** ร้าน ต เจริญ 88
+    * **status:** สถานะผลิตภัณฑ์(คงอยู่)\ สถานะสถานที่ (คงอยู่)

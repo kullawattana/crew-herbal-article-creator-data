@@ -1,0 +1,31 @@
+# ===COMPLIANCE_DATA===
+## Thai FDA Status for: Barleria lupulina
+* **herb_name:** Barleria lupulina
+### Food Registrations 
+* None found.
+### Herbal Product Registrations
+* **Herbal Product Registration 1:**
+    * **registration_number:** G632/60
+    * **product_name:** ยาน้ำมันสมุนไพรผสมเสลดพังพอนตัวผู้ ตราโพธิ์เงิน โพธิ์ทอง / -
+    * **company_name:** บริษัท กุลนารถ แกรนด์ จำกัด
+    * **status:** ยกเลิก(18 มีนาคม 2563)
+* **Herbal Product Registration 2:**
+    * **registration_number:** G598/63
+    * **product_name:** ยาน้ำมันผสมเสลดพังพอนตัวผู้  /  COMPOUND SALET PHANG PHON TUA-PHU MEDICATED OIL
+    * **company_name:** พรีราน่า เนเจอร์
+    * **status:** คงอยู่
+* **Herbal Product Registration 3:**
+    * **registration_number:** G477/60
+    * **product_name:** ยาหม่องสมุนไพรผสมเสลดพังพอนตัวผู้ / -
+    * **company_name:** บริษัท ไบโอโปร จำกัด
+    * **status:** คงอยู่
+* **Herbal Product Registration 4:**
+    * **registration_number:** G569/63
+    * **product_name:** ยาขี้ผึ้งผสมเสลดพังพอนตัวผู้ /  COMPOUND HOP HEADED BARLERIA OINTMENT
+    * **company_name:** ลิ้มเซ่งฮึง
+    * **status:** คงอยู่
+* **Herbal Product Registration 5:**
+    * **registration_number:** G558/60
+    * **product_name:** ยาหม่องสมุนไพรผสมเสลดพังพอนตัวผู้ / -
+    * **company_name:** บริษัท ไบโอโปร จำกัด
+    * **status:** คงอยู่

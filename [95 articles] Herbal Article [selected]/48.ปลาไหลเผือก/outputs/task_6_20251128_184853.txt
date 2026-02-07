@@ -1,0 +1,3 @@
+Thought: I have obtained a list of URLs from the search results, but I need to filter them to select the most relevant ones.
+
+Action: None

@@ -1,0 +1,38 @@
+# ===AUDIT_DATA_INTEGRITY_REPORT===
+*   **Collaboration Robustness (Data Loss):** 55.38%
+*   **Explanation Clarity (Hallucination/Handling):** 55%
+*   **Dropped Entities (Facts in Fact Sheet but not Article):**
+    *   **Trend Fact:** The specific outcome and timeline for removing toxic ingredients: "The removal of toxic ingredients from our food supply and the environment will lead to a significant victory for public health, but it will take time."
+    *   **Compliance Fact (Food Registration 1):** "None found."
+    *   **Compliance Fact (Cosmetic Registration 1):** The entire registration details including registration number (10-1-6010050392), product name (ซิส แม่ ซอฟท์แมทท์ ลิควิด ลิปสติก บานไม่รู้โรย / SIS'S MAE SOFT MATTE LIQUID LIPSTICK Globe amaranth), company name (นางสาวดารัณ ช่างฝั้นศ์(วีดา เฮอร์เบิล ออร์แกนิค คอสเมติคส์ แฟคทอรี)), and status (สิ้นอายุ).
+    *   **Compliance Fact (Safety Dosage):** "Not found."
+    *   **Compliance Fact (Safety Warning):** "None found."
+    *   **Safety Fact (Active Ingredient):** The complete list of 20 active ingredients, including each ingredient's name, strength, and purpose (e.g., Agnus Castus 12X for Narcissism, Ambra Grisea 6X for Codependency, etc.).
+    *   **Safety Fact (Uses):** "For the temporary relief of the symptoms including: lack of self esteem, codependency, lack of self confidence, narcissism."
+    *   **Safety Fact (Directions):** "1-10 drops under the tongue, 3 times a day or as directed by a health professional. Consult a physician for use in children under 12 years of age."
+    *   **Safety Fact (Other Info):** "Not found."
+    *   **Safety Fact (Inactive Ingredients):** "Demineralized water, 25% ethanol."
+    *   **Safety Fact (Questions):** The complete contact information including "Dist. By: Deseret Biologicals, Inc. 469 W. Parkland Drive Sandy, UT 84070 www.desbio.com 800-827-8204."
+    *   **Culture Fact (The Museum of Floral Culture):**
+        *   Specific ethnic group associated with the museum: "Thai."
+        *   Details of Community Highlight: The founder "Sakul Intakul, a renowned floral artist," and that the museum "features a collection of traditional Thai floral arrangements, as well as exhibits on the history and cultural significance of flowers in Thai society."
+        *   Name Etymology: The explanation that "floral" refers to the art of flower arrangement and "culture" highlights the museum's mission to preserve and promote Thai cultural heritage.
+        *   Details of Environment: That the museum is in a "historic building," is "known for its rich cultural heritage," and that the "surrounding area is home to many other cultural institutions, including the Grand Palace and the National Museum."
+        *   Details of Local Wisdom: The specific flowers used ("orchids, jasmine, and marigolds") and their use in "traditional Thai ceremonies and rituals."
+        *   Organization affiliation: "affiliated with the Princess Maha Chakri Sirindhorn Anthropology Centre (SAC), which is a leading research institution in Thailand. The SAC provides support for the museum's research and educational programs."
+        *   Local Name: "Sakul Intakul" (as the local name/founder).
+    *   **Culture Fact (Thailand and Southeast Asia Ethnic Groups Research Database):** All 11 specific facts related to this database (Community, Location, Ethnic Group, Community Highlight, Name Etymology, Environment, Local Wisdom, Organization, Local Name, Use, Processing).
+    *   **Source URL (Toxicity):** "Not found" (This specific 'Not found' URL was not explicitly included in the "Sources Consulted" section, unlike other URLs and the "Science" 'Not found' citation).
+
+*   **Hallucinated Entities (Facts in Article but not Fact Sheet):**
+    *   "Presents a significant market opportunity for the development of new products based on Globe Amaranth." (This is a strategic conclusion, not a fact from the Fact Sheet.)
+    *   "Further research and testing would be necessary to confirm its safety and efficacy." (This is a recommendation/conclusion, not a fact from the Fact Sheet.)
+    *   "The Museum of Floral Culture... including the use of Globe Amaranth in traditional Thai floral arrangements." (While Globe Amaranth is used in Thai wisdom and the museum showcases Thai floral arrangements, the explicit link that the *museum showcases the use of Globe Amaranth* in its arrangements is a synthesis by the article, not a direct fact from the Fact Sheet's Museum details.)
+    *   "Safety facts provided for other ingredients suggest that any new product development would need to prioritize safety and follow regulatory guidelines." (This is an interpretation and recommendation, not a direct fact from the Fact Sheet.)
+    *   "The lack of specific toxicity data or side effects for Globe Amaranth means that any new product development would need to be approached with caution and thorough testing." (This is a recommendation/conclusion, not a fact from the Fact Sheet.)
+    *   "A strategic recommendation for new product development would be to focus on creating sustainable, healthy, and nutrient-dense products that capitalize on the trends towards plant-based and alternative proteins." (This is a recommendation, not a fact from the Fact Sheet.)
+
+*   **Feedback:**
+    The **Collaboration Robustness (Data Loss)** score is low (55.38%) due to significant omissions. The article failed to transfer critical compliance data (Food and Cosmetic Registrations, Safety Dosage/Warning 'None found' statuses), the extensive list of active ingredients, detailed safety uses/directions/inactive ingredients/contact information, and a large block of cultural information related to the "Thailand and Southeast Asia Ethnic Groups Research Database." Several specific details from "The Museum of Floral Culture" were also lost.
+
+    The **Explanation Clarity (Hallucination/Handling)** score is also moderate (55%). While the article correctly handled several "Not found" statements from the Fact Sheet (e.g., Lab Facts, Science Facts, `citation_apa`), it failed to explicitly address others (e.g., Compliance Food/Safety Dosage/Safety Warning 'Not found/None found', Safety Other Info 'Not found', and the Toxicity Source URL 'Not found'). Furthermore, the article introduced several "hallucinated" statements, primarily in the form of strategic conclusions, interpretations, and recommendations (e.g., "significant market opportunity," "further research necessary," linking Globe Amaranth directly to museum exhibits, and general product development advice) that were not explicitly present as facts in the Master Fact Sheet. This indicates a departure from strict factual adherence.

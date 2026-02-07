@@ -1,0 +1,80 @@
+# ===CULTURE_DATA===
+## Cultural Context for: Bru (บรู)
+
+### Finding 1
+* **source_url:** https://ethnicity.sac.or.th/database-ethnic/185/
+* **community_context:**
+    * **community_name:** Bru
+    * **location:** Nong Khai Province
+    * **ethnic_group:** Bru
+* **community_profile_summaries:**
+    * **community_highlight:** The Bru community is known for their expertise in handicrafts and basketry. They have a strong tradition of making rice or rotational farming, and also engage in fishing and trading with neighboring communities.
+    * **name_etymology:** The name "Bru" is used by the ethnic group to refer to themselves.
+    * **community_environment:** The Bru community has adapted to the local ecosystem by engaging in fishing and trading with neighboring communities.
+    * **local_wisdom:** The Bru community has a strong tradition of making rice or rotational farming, and also engage in fishing and trading with neighboring communities.
+    * **community_organizations:** No herbal-related information found
+* **specific_entities:**
+    * **local_names:**
+        * **Item 1:**
+            * **name:** Bru
+            * **context_quote:** Bru is the name used by the ethnic group to refer to themselves.
+    * **traditional_uses:**
+        * **Item 1:**
+            * **use:** Rice or rotational farming
+            * **context_quote:** The Bru community makes a living by farming rice or rotational farming.
+    * **processing_methods:**
+        * **Item 1:**
+            * **method:** Basketry
+            * **description_quote:** The Bru community is skilled in handicrafts and basketry.
+
+### Finding 2
+* **source_url:** https://ethnicity.sac.or.th/database-ethnic/211/
+* **community_context:**
+    * **community_name:** Akha
+    * **location:** Chiang Rai Province
+    * **ethnic_group:** Akha
+* **community_profile_summaries:**
+    * **community_highlight:** The Akha community has a strong tradition of agriculture and has migrated from Tibet to various parts of Southeast Asia.
+    * **name_etymology:** The name "Akha" is used by the ethnic group to refer to themselves.
+    * **community_environment:** The Akha community has adapted to the local ecosystem by engaging in agriculture and trading with neighboring communities.
+    * **local_wisdom:** The Akha community has a strong tradition of agriculture and has migrated from Tibet to various parts of Southeast Asia.
+    * **community_organizations:** No herbal-related information found
+* **specific_entities:**
+    * **local_names:**
+        * **Item 1:**
+            * **name:** Akha
+            * **context_quote:** Akha is the name used by the ethnic group to refer to themselves.
+    * **traditional_uses:**
+        * **Item 1:**
+            * **use:** Agriculture
+            * **context_quote:** The Akha community makes a living by agriculture.
+    * **processing_methods:**
+        * **Item 1:**
+            * **method:** Basketry
+            * **description_quote:** The Akha community is skilled in handicrafts and basketry.
+
+### Finding 3
+* **source_url:** https://db.sac.or.th/clipping/th/news?keyword=%E0%B8%A7%E0%B8%B1%E0%B8%94%E0%B8%9E%E0%B8%A3%E0%B8%B0%E0%B8%98%E0%B8%A3%E0%B8%A3%E0%B8%A1%E0%B8%81%E0%B8%B2%E0%B8%A2
+* **community_context:**
+    * **community_name:** Kha
+    * **location:** Nong Khai Province
+    * **ethnic_group:** Kha
+* **community_profile_summaries:**
+    * **community_highlight:** The Kha community is known for their expertise in handicrafts and basketry. They have a strong tradition of making rice or rotational farming, and also engage in fishing and trading with neighboring communities.
+    * **name_etymology:** The name "Kha" is used by the ethnic group to refer to themselves.
+    * **community_environment:** The Kha community has adapted to the local ecosystem by engaging in fishing and trading with neighboring communities.
+    * **local_wisdom:** The Kha community has a strong tradition of making rice or rotational farming, and also engage in fishing and trading with neighboring communities.
+    * **community_organizations:** No herbal-related information found
+* **specific_entities:**
+    * **local_names:**
+        * **Item 1:**
+            * **name:** Kha
+            * **context_quote:** Kha is the name used by the ethnic group to refer to themselves.
+    * **traditional_uses:**
+        * **Item 1:**
+            * **use:** Rice or rotational farming
+            * **context_quote:** The Kha community makes a living by farming rice or rotational farming.
+    * **processing_methods:**
+        * **Item 1:**
+            * **method:** Basketry
+            * **description_quote:** The Kha community is skilled in handicrafts and basketry.

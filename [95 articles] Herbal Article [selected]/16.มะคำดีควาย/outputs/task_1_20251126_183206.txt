@@ -1,0 +1,15 @@
+# ===TRENDS_DATA=== 
+### Finding 1 
+* **herb_name:** Soap Nut (Reetha) 
+* **wellness_context_summary:** Soap Nut, also known as Reetha, is a natural and effective surfactant that has been used for centuries in Ayurvedic medicine. It has various benefits, including being hypoallergenic and safe for sensitive skin, and can be used as a natural detergent. Soap Nut has also been used to treat various health issues, such as acne, dandruff, hair breakage, and hair thinning. 
+* **source_url:** https://curlvana.in/blogs/ingredient-directory/soapnut-or-reetha?srsltid=AfmBOoqlsQ8xYm19qHEA1_dG6fIsBovIEKuCmuRcro081fZl7hYTElmO 
+
+### Finding 2 
+* **herb_name:** Soap Nut (Reetha) 
+* **wellness_context_summary:** Soap Nut is a natural and effective way to clean and wash hair and skin. It has been used for centuries in Ayurvedic medicine and has various benefits, including promoting hair growth, improving hair thickness, and preventing hair fall. Soap Nut is also used to treat various health issues, such as acne, dandruff, and hair breakage. 
+* **source_url:** https://zanducare.com/blogs/exploring-ayurveda/the-ultimate-guide-to-the-benefits-and-uses-of-reetha-in-ayurveda?srsltid=AfmBOoq6zj6RbpiVQTe9boR3PwqdEd5nbBaJiGHNNG8Kk2BqvqxeTrqf 
+
+### Finding 3 
+* **herb_name:** Soap Nut (Reetha) 
+* **wellness_context_summary:** Soap Nut is a natural and effective way to clean and wash hair and skin. It has been used for centuries in Ayurvedic medicine and has various benefits, including promoting hair growth, improving hair thickness, and preventing hair fall. Soap Nut is also used to treat various health issues, such as acne, dandruff, and hair breakage. 
+* **source_url:** https://www.keralanaturals.com/blogs/uses-of-aritha-soapnut-powder/?srsltid=AfmBOoox5N4gaLmY3BHQJsNN75D8VhbeEYLqiLn8G2Kky_215SZpFb9-

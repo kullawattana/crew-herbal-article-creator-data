@@ -1,0 +1,38 @@
+# ===SAFETY_DATA=== 
+## International Safety Data for: Curcuma comosa
+* **herb_name:** Curcuma comosa
+* **source_browsed:** https://dailymed.nlm.nih.gov/dailymed/drugInfo.cfm?setid=254b0349-6945-97d9-e063-6394a90a16d9
+
+### Drug Facts Label
+* **active_ingredients:**
+    * **Ingredient 1:**
+        * **name:** Tetrahexyldecyl Ascorbate
+        * **strength:** 2%
+        * **purpose:** Not found
+    * **Ingredient 2:**
+        * **name:** Ascorbic Acid
+        * **strength:** 2%
+        * **purpose:** Not found
+    * **Ingredient 3:**
+        * **name:** Curcuma Longa (Turmeric) Root Extract
+        * **strength:** 2%
+        * **purpose:** Not found
+* **uses:** Brightens skin tone.
+* **warnings:** For external use only.
+* **directions:** After skin cleaning or bathing, apply a proper amount of GZE turmeric & vitamin c body lotion evenly to the whole body or the parts to be improved, and gently massage untl it absorbed.
+* **other_information:** Not found
+* **inactive_ingredients:** 
+    * Aqua
+    * Cetyl Alcohol
+    * Glycerin
+    * Dimethicone
+    * Butyrospermum Parkii (Shea) Butter
+    * Ceteareth-20
+    * Aloe Barbadensis Leaf Juice
+    * Panax Ginseng Root Extract
+    * Tocopherol
+    * Beeswax
+    * Carbomer
+    * Xanthan Gum
+    * Fragrance
+* **questions:** Not found

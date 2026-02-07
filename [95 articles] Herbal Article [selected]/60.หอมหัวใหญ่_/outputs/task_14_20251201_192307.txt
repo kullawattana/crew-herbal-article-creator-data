@@ -1,0 +1,53 @@
+# ===AUDIT_DATA_INTEGRITY_REPORT===
+*   **Collaboration Robustness (Data Loss):** 50%
+*   **Explanation Clarity (Hallucination/Handling):** 100%
+*   **Dropped Entities (Facts in Fact Sheet but not Article):**
+    -   Trend Fact: Use coriander as a side dish.
+    -   Lab Fact (Quality Control): No quality control information found.
+    -   Science Fact (Herb): No herb name scientific information found.
+    -   Science Fact (Compound): No compound name information found.
+    -   Compliance Fact (Food Registration 3): registration_number=10-1-10758-5-0096, product_name=Red Onion Vacuum, company_name=Natural and Premium Food Co., Ltd., status=Active
+    -   Compliance Fact (Food Registration 4): registration_number=10-1-10758-5-0347, product_name=Onion Powder, company_name=Natural and Premium Food Co., Ltd., status=Active
+    -   Compliance Fact (Food Registration 5): registration_number=10-1-10758-5-0495, product_name=Yellow and Red Onion Vacuum, company_name=Natural and Premium Food Co., Ltd., status=Active
+    -   Compliance Fact (Safety Dosage): No safety dosage information found.
+    -   Compliance Fact (Safety Warning): No safety warning information found.
+    -   Safety Fact (Active Ingredient): No active ingredient information found.
+    -   Safety Fact (Ingredient Purpose): No ingredient purpose information found.
+    -   Safety Fact (Uses): No uses information found.
+    -   Safety Fact (Warnings): No warnings information found.
+    -   Safety Fact (Directions): No directions information found.
+    -   Safety Fact (Other Info): No other information found.
+    -   Safety Fact (Inactive Ingredients): No inactive ingredients information found.
+    -   Safety Fact (Questions): No questions information found.
+    -   Toxicity Fact (Mechanism): No mechanism of injury information found.
+    -   Culture Fact (Indigenous Community): ethnic_group=Indigenous
+    -   Culture Fact (Indigenous Community): name_etymology=No herbal-related information found.
+    -   Culture Fact (Indigenous Community): community_organizations=The community has a number of organizations that work together to manage the forest resources and promote sustainable livelihoods.
+    -   Culture Fact (Indigenous Community): local_name=Elephant Garlic
+    -   Culture Fact (Indigenous Community): traditional_use=Cultivating Elephant Garlic
+    -   Culture Fact (Indigenous Community): processing_method=Cultivating Elephant Garlic
+    -   Culture Fact (Brunei): location=Brunei
+    -   Culture Fact (Brunei): ethnic_group=Brunei
+    -   Culture Fact (Brunei): name_etymology=No herbal-related information found.
+    -   Culture Fact (Brunei): community_environment=The community is located in a tropical region with a diverse range of flora and fauna.
+    -   Culture Fact (Brunei): community_organizations=The community has a number of organizations that work together to promote sustainable livelihoods and preserve traditional knowledge.
+    -   Culture Fact (Brunei): local_name=Elephant Garlic
+    -   Culture Fact (Brunei): traditional_use=Using Elephant Garlic in Cooking
+    -   Culture Fact (Brunei): processing_method=Using Elephant Garlic in Cooking
+    -   Culture Fact (Bang Ao Mosque Community): location=Bang Ao
+    -   Culture Fact (Bang Ao Mosque Community): ethnic_group=Bang Ao Mosque Community
+    -   Culture Fact (Bang Ao Mosque Community): name_etymology=No herbal-related information found.
+    -   Culture Fact (Bang Ao Mosque Community): community_environment=The community is located in a urban region with a diverse range of flora and fauna.
+    -   Culture Fact (Bang Ao Mosque Community): community_organizations=The community has a number of organizations that work together to promote sustainable livelihoods and preserve traditional knowledge.
+    -   Culture Fact (Bang Ao Mosque Community): local_name=Elephant Garlic
+    -   Culture Fact (Bang Ao Mosque Community): traditional_use=Using Elephant Garlic in Cooking
+    -   Culture Fact (Bang Ao Mosque Community): processing_method=Using Elephant Garlic in Cooking
+    -   Source URL (Compliance): No compliance source URL information found.
+    -   Source URL (Safety): No safety source URL information found.
+    -   Source URL (Toxicity): No toxicity source URL information found.
+*   **Hallucinated Entities (Facts in Article but not Fact Sheet):**
+    -   None
+*   **Feedback:**
+    The robustness score of 50% indicates significant data loss. Out of 88 distinct facts identified in the Master Fact Sheet, 44 were not explicitly transferred to the Final Article. This includes numerous "No information found" facts from Lab, Science, Compliance, Safety, and Toxicity sections, as well as specific details from the Culture Facts for all three communities (e.g., ethnic group, location, name etymology, organizations, local name, traditional use, processing method). While the article generalized some "no info" statements, it did not capture all distinct instances. Furthermore, three specific food registrations and three source URLs for compliance, safety, and toxicity were also dropped.
+
+    The clarity score of 100% is achieved because no facts were hallucinated. All information presented in the Final Article was either directly present in the Master Fact Sheet or constituted a reasonable inference/generalization based solely on the provided facts. The handling of `citation_apa: not_found` was also correct, with the article explicitly stating "not found" for the reference instead of inventing a citation.

@@ -1,0 +1,75 @@
+# ===MASTER_FACT_SHEET===
+## Consolidated Facts for: Dipterocarpus alatus
+* **Trend Fact:** Not found
+* **Lab Fact (Experimental Method):** Not found
+* **Lab Fact (Extraction Method):** Not found
+* **Lab Fact (Compound Identified):** Salicylic acid
+* **Lab Fact (Chromatography - TLC):** Not found
+* **Lab Fact (Pharmacological Finding):** Anti-inflammatory properties
+* **Lab Fact (Cosmetic or Clinical Effect):** Skin benefits, including anticancer, wound healing, and antibacterial properties
+* **Lab Fact (Quality Control):** Not found
+* **Science Fact (Herb):** Dipterocarpus alatus
+* **Science Fact (Compound):** Salicylic acid
+* **Science Fact (Abstracts):**
+  * **Study 1:**
+    * **abstract_raw:** The Characteristics and Biological Activities of Niosome-Entrapped Salicylic Acid-Contained Oleoresin from <i>Dipterocarpus alatus</i> for Skin Product Applications.
+    * **citation_apa:** Kanpipit, N., Thapphasaraphong, S., Phupaboon, P., & Puthongking, P. (2024). The Characteristics and Biological Activities of Niosome-Entrapped Salicylic Acid-Contained Oleoresin from <i>Dipterocarpus alatus</i> for Skin Product Applications. Advances in Pharmacological and Pharmaceutical Sciences, 2024, 1642653. doi: 10.1155/2024/1642653
+* **Compliance Fact (Food Registration 1):** None found
+* **Compliance Fact (Safety Dosage):** Not found
+* **Compliance Fact (Safety Warning):** None found
+* **Safety Fact (Active Ingredient):** Salicylic acid
+* **Safety Fact (Ingredient Purpose):** Anti-inflammatory properties
+* **Safety Fact (Uses):** Skin benefits, including anticancer, wound healing, and antibacterial properties
+* **Safety Fact (Warnings):** Not found
+* **Safety Fact (Directions):** Not found
+* **Safety Fact (Other Info):** Not found
+* **Safety Fact (Inactive Ingredients):** Not found
+* **Safety Fact (Questions):** Not found
+* **Toxicity Fact (Summary):** Dipterocarpus alatus has been found to have skin benefits, including anticancer, wound healing, and antibacterial properties. However, the skin irritation of dipterocarpol remains unassessed.
+* **Toxicity Fact (Mechanism):** Not found
+* **Toxicity Fact (Side Effects):** Not found
+* **Toxicity Fact (Case Reports):** Not found
+* **Culture Fact (Community - Yang Na):** Yang Na
+* **Culture Fact (Location - Yang Na):** Prachinburi
+* **Culture Fact (Ethnic Group - Yang Na):** Karen
+* **Culture Fact (Community Highlight - Yang Na):** Yang Na community is a Karen community located in Prachinburi Province, with a population of approximately 1,000 people. The community has a diverse way of life, including farming, animal husbandry, and plantation.
+* **Culture Fact (Name Etymology - Yang Na):** The name "Yang Na" is used to refer to the Karen community in Prachinburi Province.
+* **Culture Fact (Environment - Yang Na):** No herbal-related information found.
+* **Culture Fact (Local Wisdom - Yang Na):** No herbal-related information found.
+* **Culture Fact (Organization - Yang Na):** No herbal-related information found.
+* **Culture Fact (Local Name - Yang Na):** Yang Na
+* **Culture Fact (Use - Yang Na):** Farming
+* **Culture Fact (Processing - Yang Na):** Machine use
+* **Culture Fact (Source - Yang Na):** https://wikicommunity.sac.or.th/community/index?CommunitySearch%5Bkeyword_id%5D=3774
+* **Culture Fact (Community - Luk Yang):** Luk Yang
+* **Culture Fact (Location - Luk Yang):** Not specified
+* **Culture Fact (Ethnic Group - Luk Yang):** Not specified
+* **Culture Fact (Community Highlight - Luk Yang):** No herbal-related information found.
+* **Culture Fact (Name Etymology - Luk Yang):** Luk Yang is a toy made from bamboo, with a spherical shape and 2-3-5 fins, containing seeds inside.
+* **Culture Fact (Environment - Luk Yang):** No herbal-related information found.
+* **Culture Fact (Local Wisdom - Luk Yang):** No herbal-related information found.
+* **Culture Fact (Organization - Luk Yang):** No herbal-related information found.
+* **Culture Fact (Local Name - Luk Yang):** Luk Yang
+* **Culture Fact (Use - Luk Yang):** Playing
+* **Culture Fact (Processing - Luk Yang):** Cutting
+* **Culture Fact (Source - Luk Yang):** https://traditional-objects.sac.or.th/th/equipment-detail.php?ob_id=461
+* **Culture Fact (Community - Museum of Ethnology):** Museum of Ethnology
+* **Culture Fact (Location - Museum of Ethnology):** Mae Hong Son Province
+* **Culture Fact (Ethnic Group - Museum of Ethnology):** Not specified
+* **Culture Fact (Community Highlight - Museum of Ethnology):** No herbal-related information found.
+* **Culture Fact (Name Etymology - Museum of Ethnology):** The Museum of Ethnology is a museum related to people, emphasizing community and ethnic group participation.
+* **Culture Fact (Environment - Museum of Ethnology):** No herbal-related information found.
+* **Culture Fact (Local Wisdom - Museum of Ethnology):** No herbal-related information found.
+* **Culture Fact (Organization - Museum of Ethnology):** No herbal-related information found.
+* **Culture Fact (Local Name - Museum of Ethnology):** Museum of Ethnology
+* **Culture Fact (Use - Museum of Ethnology):** Exhibition
+* **Culture Fact (Processing - Museum of Ethnology):** Management
+* **Culture Fact (Source - Museum of Ethnology):** https://sac-research.sac.or.th/file_thb/397-fullText.pdf
+* **Internal RAG Fact (Herbal):** ยางนา (Dipterocarpus alatus) has been used for healing in Thai wisdom for a long time. It is a type of herb that has been used to treat various ailments, including fever, rheumatism, and digestive problems. The herb is also believed to have anti-inflammatory properties and is used to treat wounds and skin conditions. In addition, ยางนา is used in traditional Thai medicine to treat respiratory problems, such as bronchitis and asthma. The herb is typically consumed as a tea or decoction, and is also used in combination with other herbs to enhance its medicinal properties.
+* **Internal RAG Fact (Cultural):** ยางนา (Dipterocarpus alatus) has been used for healing in Thai wisdom for a long time. It is a type of herb that has been used to treat various ailments, including fever, rheumatism, and digestive problems. The herb is also believed to have anti-inflammatory properties and is used to treat wounds and skin conditions. In addition, ยางนา is used in traditional Thai medicine to treat respiratory problems, such as bronchitis and asthma. The herb is typically consumed as a tea or decoction, and is also used in combination with other herbs to enhance its medicinal properties.
+* **Source URL (Trend):** Not found
+* **Source URL (Science):** https://doi.org/10.1155/2024/1642653
+* **Source URL (Compliance):** Not found
+* **Source URL (Safety):** Not found
+* **Source URL (Toxicity):** https://pubmed.ncbi.nlm.nih.gov/37863382/
+* **Source URL (Culture):** https://wikicommunity.sac.or.th/community/index?CommunitySearch%5Bkeyword_id%5D=3774, https://traditional-objects.sac.or.th/th/equipment-detail.php?ob_id=461, https://sac-research.sac.or.th/file_thb/397-fullText.pdf

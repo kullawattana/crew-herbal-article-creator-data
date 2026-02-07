@@ -1,0 +1,20 @@
+# ===SAFETY_DATA=== 
+## International Safety Data for: Smilax corbularia
+* **herb_name:** Smilax corbularia
+### Food Registrations
+* **Food Registration 1:**
+    * **registration_number:** 10-1-13660-5-0227
+    * **product_name:** ข้าวเย็นเหนือ / Smilax corbularia Kunth
+    * **company_name:** บริษัท โพธิ์ประดิษฐ์สมุนไพร จำกัด
+    * **status:** สถานะผลิตภัณฑ์(ยกเลิกโดยผู้ประกอบการ 26/10/2561) \ สถานะสถานที่ (คงอยู่ )
+* **Food Registration 2:**
+    * **registration_number:** 10-1-13660-5-0228
+    * **product_name:** ข้าวเย็นเหนือ (ผง) / Smilax corbularia Kunth (Powder)
+    * **company_name:** บริษัท โพธิ์ประดิษฐ์สมุนไพร จำกัด
+    * **status:** สถานะผลิตภัณฑ์(ยกเลิกโดยผู้ประกอบการ 26/10/2561) \ สถานะสถานที่ (คงอยู่ )
+### Herbal Product Registrations
+* **Herbal Product Registration 1:**
+    * **registration_number:** G242/60
+    * **product_name:** ยาแคปซูลสมุนไพรผสมข้าวเย็นเหนือ ตราเต้าปูนย่า / COMPOUND SMILAX CORBULARIA CAPSULE, TAOPUN YA BRAND
+    * **company_name:** ศูนย์กสิกรรมสมุนไพรไท
+    * **status:** ทะเบียนคงอยู่ แต่ผู้ผลิต ไม่ต่ออายุใบอนุญาตฯ ทำให้ไม่สามารถผลิตได้

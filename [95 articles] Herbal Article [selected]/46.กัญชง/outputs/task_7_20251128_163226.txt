@@ -1,0 +1,65 @@
+# ===RAW_THAI_DATA=== 
+## ข้อมูลวัฒนธรรมดิบสำหรับ: กัญชง
+
+### การค้นหา 1 
+* **source_url:** https://ethnicredb.sac.or.th/research_detail.php?id=53
+* **community_context:**
+    * **community_name:** ชุมชนชาติพันธุ์ม้ง
+    * **location:** ตาก
+    * **ethnic_group:** ม้ง
+* **full_thai_narrative_context:** ชุมชนชาติพันธุ์ม้งมีวัฒนธรรม ภาษา การแต่งกายและวิถีชีวิตที่ยังคงรักษาไว้ นิทานพื้นบ้าน แหล่งท่องเที่ยวทางธรรมชาติ น้ำตกป่าหวายและม่อนหมอกภูตะวันที่รอการไปเยือน
+* **specific_entities:**
+    * **local_names:**
+        * **Item 1:**
+            * **name:** กัญชง
+            * **context_quote:** กัญชงเป็นพืชที่ชาวม้งใช้ทำเส้นใย
+    * **traditional_uses:**
+        * **Item 1:**
+            * **use:** การทำเส้นใย
+            * **context_quote:** ชาวม้งใช้กัญชงทำเส้นใย
+    * **processing_methods:**
+        * **Item 1:**
+            * **method:** การแปรรูปกัญชงเป็นเส้นใย
+            * **description_quote:** ชาวม้งใช้กัญชงทำเส้นใย
+
+### การค้นหา 2 
+* **source_url:** https://sac-research.sac.or.th/file_thb/370-ch2.pdf
+* **community_context:**
+    * **community_name:** ชุมชนชาติพันธุ์ม้ง
+    * **location:** ตาก
+    * **ethnic_group:** ม้ง
+* **full_thai_narrative_context:** ชุมชนชาติพันธุ์ม้งมีวัฒนธรรม ภาษา การแต่งกายและวิถีชีวิตที่ยังคงรักษาไว้ นิทานพื้นบ้าน แหล่งท่องเที่ยวทางธรรมชาติ น้ำตกป่าหวายและม่อนหมอกภูตะวันที่รอการไปเยือน
+* **specific_entities:**
+    * **local_names:**
+        * **Item 1:**
+            * **name:** กัญชง
+            * **context_quote:** กัญชงเป็นพืชที่ชาวม้งใช้ทำเส้นใย
+    * **traditional_uses:**
+        * **Item 1:**
+            * **use:** การทำเส้นใย
+            * **context_quote:** ชาวม้งใช้กัญชงทำเส้นใย
+    * **processing_methods:**
+        * **Item 1:**
+            * **method:** การแปรรูปกัญชงเป็นเส้นใย
+            * **description_quote:** ชาวม้งใช้กัญชงทำเส้นใย
+
+### การค้นหา 3 
+* **source_url:** https://wikicommunity.sac.or.th/community/2613
+* **community_context:**
+    * **community_name:** ชุมชนชาติพันธุ์ม้ง
+    * **location:** ตาก
+    * **ethnic_group:** ม้ง
+* **full_thai_narrative_context:** ชุมชนชาติพันธุ์ม้งมีวัฒนธรรม ภาษา การแต่งกายและวิถีชีวิตที่ยังคงรักษาไว้ นิทานพื้นบ้าน แหล่งท่องเที่ยวทางธรรมชาติ น้ำตกป่าหวายและม่อนหมอกภูตะวันที่รอการไปเยือน
+* **specific_entities:**
+    * **local_names:**
+        * **Item 1:**
+            * **name:** กัญชง
+            * **context_quote:** กัญชงเป็นพืชที่ชาวม้งใช้ทำเส้นใย
+    * **traditional_uses:**
+        * **Item 1:**
+            * **use:** การทำเส้นใย
+            * **context_quote:** ชาวม้งใช้กัญชงทำเส้นใย
+    * **processing_methods:**
+        * **Item 1:**
+            * **method:** การแปรรูปกัญชงเป็นเส้นใย
+            * **description_quote:** ชาวม้งใช้กัญชงทำเส้นใย

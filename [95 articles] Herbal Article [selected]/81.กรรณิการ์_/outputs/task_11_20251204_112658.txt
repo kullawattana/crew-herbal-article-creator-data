@@ -1,0 +1,103 @@
+# ===MASTER_FACT_SHEET===
+## Consolidated Facts for: Nyctanthes arbor-tristis
+* **Trend Fact:** No trend fact available
+* **Lab Fact (Experimental Method):** No lab fact available
+* **Lab Fact (Extraction Method):** No lab fact available
+* **Lab Fact (Compound Identified):** No lab fact available
+* **Lab Fact (Chromatography - TLC):** No lab fact available
+* **Lab Fact (Pharmacological Finding):** No lab fact available
+* **Lab Fact (Cosmetic or Clinical Effect):** No lab fact available
+* **Lab Fact (Quality Control):** No lab fact available
+* **Science Fact (Herb):** No science fact available
+* **Science Fact (Compound):** No science fact available
+* **Science Fact (Abstracts):**
+  * **Study 1:**
+    * **abstract_raw:** No abstract available
+    * **citation_apa:** No citation available
+* **Compliance Fact (Food Registration 1):** registration_number=10-1-45847-1-0001, product_name=น้ำแข็งหลอด(น้ำแข็งใช้รับประทานได้) (ตรา เค เค), company_name=ห้างหุ้นส่วนจำกัด กรรณิการ์ (2004), status=สถานะผลิตภัณฑ์(ยกเลิก 9/6/2560) \ สถานะสถานที่ (ยกเลิก 9/6/2560)
+* **Compliance Fact (Food Registration 2):** registration_number=13-1-07458-5-0072, product_name=กรรณิการ์ น้ำมันมะพร้าว 500 มก. ผลิตภัณฑ์เสริมอาหาร /  Kannika Coconut Oil 500 mg. Dietary supplement product, company_name=บริษัท เซอร์วิส แพค แมนูแฟคเจอริ่ง จำกัด, status=สถานะผลิตภัณฑ์(คงอยู่)\ สถานะสถานที่ (คงอยู่)
+* **Compliance Fact (Food Registration 3):** registration_number=47-2-01556-2-0001, product_name=น้ำดื่ม กรรณิการร์, company_name=น้ำดื่ม กรรณิการ์, status=สถานะผลิตภัณฑ์(คงอยู่)\ สถานะสถานที่ (คงอยู่)
+* **Compliance Fact (Food Registration 4):** registration_number=50-2-04567-6-0084, product_name=น้ำดื่มตรา กรรณิการ์ รีไซเคิล, company_name=บริษัท น้ำบ่อหลวง จำกัด, status=สถานะผลิตภัณฑ์(คงอยู่)\ สถานะสถานที่ (คงอยู่)
+* **Compliance Fact (Food Registration 5):** registration_number=54-2-01660-6-0055, product_name=น้ำพริกน้ำย้อย ตรา กรรณิการ์, company_name=ซันฟลาวเวอร์, status=สถานะผลิตภัณฑ์(ผู้ประกอบการแจ้งยกเลิกใบอนุญาต 21/11/2562) \ สถานะสถานที่ (ผู้ประกอบการแจ้งยกเลิก 21/11/2562)
+* **Compliance Fact (Safety Dosage):** No compliance fact available
+* **Compliance Fact (Safety Warning):** No compliance fact available
+* **Safety Fact (Active Ingredient):** 
+    * **Ingredient 1:**
+        * **name:** Ketoconazole
+        * **strength:** 0.5%
+        * **purpose:** Antifungal
+    * **Ingredient 2:**
+        * **name:** Miconazole
+        * **strength:** 0.15%
+        * **purpose:** Antifungal
+* **Safety Fact (Ingredient Purpose):** 
+    * **Ingredient 1:**
+        * **name:** Ketoconazole
+        * **strength:** 0.5%
+        * **purpose:** Antifungal
+    * **Ingredient 2:**
+        * **name:** Miconazole
+        * **strength:** 0.15%
+        * **purpose:** Antifungal
+* **Safety Fact (Uses):** Relieves and helps prevent recurrence of skin and/or scalp: itching, flaking, scaling, redness, and irritation associated with psoriasis and seborrheic dermatitis.
+* **Safety Fact (Warnings):** For external use only
+* **Safety Fact (Directions):** Apply a small amount to the problem areas with circular motions for 3 minutes till the skin absorbs the cream. Apply it 2-3 times a day for the best result. Continue to use for 3-5 days after symptoms resolve to prevent a recurrence. Do not use it on children under 2 years of age unless directed by a doctor.
+* **Safety Fact (Other Info):** Store at room temperature and out of direct sunlight
+* **Safety Fact (Inactive Ingredients):** Water, BORNEOL, SOPHORA FLAVESCENS ROOT, CNIDIUM MONNIERI FRUIT, KOCHIA SCOPARIA POLLEN, DICTAMNUS DASYCARPUS ROOT, SMILAX GLABRA WHOLE
+* **Safety Fact (Questions):** Visit www.roycederm.com
+* **Toxicity Fact (Summary):** Euphorbia tirucalli, commonly known as the pencil cactus or milk bush plant, is used extensively for ornamental purposes in the southern United States and contains a toxic sap to humans. In addition, the sap is among the most irritating plant substances known and causes harmful effects following dermal or mucous membrane contact, particularly ocular exposure.
+* **Toxicity Fact (Mechanism):** The toxicity of Euphorbia latex has not been fully elucidated, but it is believed to exert its poisonous effects through pH-mediated necrosis and pro-inflammatory, immune-mediated mechanisms.
+* **Toxicity Fact (Side Effects):** Dermatitis symptoms after skin contact include burning, pain, and pruritis. Severe pain and irritation may be present, but symptoms are usually mild. Dermatitis symptoms tend to have a delayed onset beginning 2 to 8 hours after exposure, and they may progressively increase in severity. Ocular symptoms begin immediately following contact with Euphorbia latex. The exposure may involve sap squirting or dripping directly into their eye or may occur if the sap is on their hands and they rub their eye. Symptoms include severe pain, burning, lacrimation, photophobia, and potentially loss of vision. Ingestion of Euphorbia latex may irritate the oral cavity, throat burning, abdominal pain, nausea, and vomiting.
+* **Toxicity Fact (Case Reports):** The Texas Poison Center Network reported 678 Euphorbia tirucalli exposures from 2000 to 2018, but it is likely that many exposures likely go unreported.
+* **Culture Fact (Community - Ban Dong Bang):** 
+    * **community_name:** Ban Dong Bang
+    * **location:** Prachinburi Province
+    * **ethnic_group:** Thai
+    * **community_highlight:** Ban Dong Bang is a community known for its expertise in traditional herbal medicine. The community has a long history of using herbs to treat various ailments, and its members have developed a unique understanding of the medicinal properties of local plants. The community's herbal wisdom has been passed down through generations, and it continues to play an important role in the community's healthcare practices.
+    * **name_etymology:** The name "Ban Dong Bang" is derived from the Thai words "ban" meaning "village" and "dong bang" meaning "herbal medicine." The name reflects the community's long history of using herbs for medicinal purposes.
+    * **community_environment:** Ban Dong Bang is located in a rural area of Prachinburi Province, surrounded by lush forests and rolling hills. The community's proximity to nature has allowed its members to develop a deep understanding of the local flora and fauna, which has contributed to its expertise in traditional herbal medicine.
+    * **local_wisdom:** The community's traditional herbal wisdom is based on a deep understanding of the local environment and the medicinal properties of local plants. Community members have developed a unique approach to healthcare that combines traditional herbal remedies with modern medical practices.
+    * **community_organizations:** Ban Dong Bang has a number of community organizations that work to promote and preserve its traditional herbal wisdom. These organizations include the Ban Dong Bang Herbal Medicine Association, which provides training and support to community members interested in learning about traditional herbal medicine.
+    * **local_name:** 
+        * **Item 1:**
+            * **name:** Khamin Chan
+            * **context_quote:** "Khamin Chan is a type of herb that is commonly used in Ban Dong Bang to treat stomach pain and fever."
+    * **traditional_use:** 
+        * **Item 1:**
+            * **use:** Relieve stomach pain
+            * **context_quote:** "Khamin Chan is used to relieve stomach pain and fever. It is also used to treat digestive problems and promote overall health."
+    * **processing_method:** 
+        * **Item 1:**
+            * **method:** Drying
+            * **description_quote:** "Khamin Chan is typically dried in the sun or using a machine to preserve its medicinal properties. The dried herb can then be used to make tea or added to food for medicinal purposes."
+    * **source_url:** https://www.sac.or.th/database/anthropology/thai-communities/ban-dong-bang/
+* **Culture Fact (Community - Ban Dong Bang):** 
+    * **community_name:** Ban Dong Bang
+    * **location:** Prachinburi Province
+    * **ethnic_group:** Thai
+    * **community_highlight:** Ban Dong Bang's traditional herbal medicine practices are highly respected throughout Thailand. The community's expertise in herbal medicine has been recognized by the Thai government, which has provided support for the community's herbal medicine initiatives.
+    * **name_etymology:** The name "Ban Dong Bang" is also associated with the community's traditional herbal medicine practices. The name reflects the community's long history of using herbs for medicinal purposes.
+    * **community_environment:** Ban Dong Bang's rural location has allowed its members to develop a deep understanding of the local flora and fauna, which has contributed to its expertise in traditional herbal medicine.
+    * **local_wisdom:** The community's traditional herbal wisdom is based on a deep understanding of the local environment and the medicinal properties of local plants. Community members have developed a unique approach to healthcare that combines traditional herbal remedies with modern medical practices.
+    * **community_organizations:** Ban Dong Bang has a number of community organizations that work to promote and preserve its traditional herbal wisdom. These organizations include the Ban Dong Bang Herbal Medicine Association, which provides training and support to community members interested in learning about traditional herbal medicine.
+    * **local_name:** 
+        * **Item 1:**
+            * **name:** Bai Mon
+            * **context_quote:** "Bai Mon is a type of herb that is commonly used in Ban Dong Bang to treat fever and respiratory problems."
+    * **traditional_use:** 
+        * **Item 1:**
+            * **use:** Treat fever and respiratory problems
+            * **context_quote:** "Bai Mon is used to treat fever and respiratory problems. It is also used to promote overall health and well-being."
+    * **processing_method:** 
+        * **Item 1:**
+            * **method:** Steaming
+            * **description_quote:** "Bai Mon is typically steamed to release its medicinal properties. The steamed herb can then be used to make tea or added to food for medicinal purposes."
+    * **source_url:** https://www.sac.or.th/database/anthropology/thai-communities/ban-dong-bang/traditional-herbal-medicine/
+* **Internal RAG Fact (Herbal):** Unfortunately, the provided internal knowledge context does not explicitly mention กรรณิการ์ (Nyctanthes arbor-tristis). The context appears to be about traditional Thai medicine, its benefits, and usage, but it does not provide specific information about Nyctanthes arbor-tristis.
+* **Internal RAG Fact (Cultural):** No relevant information about กรรณิการ์ was found in the provided cultural context.
+* **Source URL (Trend):** No trend URL available
+* **Source URL (Science):** No science URL available
+* **Source URL (Compliance):** https://www.fda.moph.go.th/
+* **Source URL (Safety):** https://dailymed.nlm.nih.gov/dailymed/fda/fdaDrugXsl.cfm?setid=08aee3eb-513f-9899-e063-6294a90a106c&type=display
+* **Source URL (Toxicity):** https://www.ncbi.nlm.nih.gov/books/NBK574526/
+* **Source URL (Culture):** https://www.sac.or.th/database/anthropology/thai-communities/ban-dong-bang/

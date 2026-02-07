@@ -1,0 +1,3 @@
+Thought: I have the search results, now I need to extract the URLs, filter out non-HTML and non-relevant results, and canonicalize the URLs.
+
+Action: None

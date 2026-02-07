@@ -1,0 +1,54 @@
+# ===COMPLIANCE_DATA===
+## Thai FDA Status for: Kaempferia parviflora
+* **herb_name:** Kaempferia parviflora
+### Food Registrations
+* **Food Registration 1:**
+    * **registration_number:** 10-1-00567-5-0003
+    * **product_name:** ชาสมุนไพร ขิง หญ้าหวาน กระเจี๊ยบ มะขามป้อม กระชายดำ (ชาจากพืช) (ตรา 3 พี) / Herbal Tea Gingetr,Stevia,Roselle,Chinese Jujube ,Indian Gooseberry,Krachai Dam (3P Brand)
+    * **company_name:** บริษัท ขวัญดาว ไทยเฮิร์บ จำกัด
+    * **status:** สถานะผลิตภัณฑ์(คงอยู่)\ สถานะสถานที่ (คงอยู่)
+* **Food Registration 2:**
+    * **registration_number:** 10-1-03650-1-0001
+    * **product_name:** เครื่องดื่มสมุนไพร กระชายดำสกัด (ตราเอ็กซ์ตร้านคร) / BLACK GALINGALE EXTRACT HERB DRINK (BRAND XTRA NAKORN)
+    * **company_name:** บริษัท กระชายดำ เอ็กซ์ตร้า จำกัด
+    * **status:** สถานะผลิตภัณฑ์(สิ้นสภาพเนื่องจากใบอนุญาตขาดต่ออายุ 31/12/2561) \ สถานะสถานที่ (ขาดต่ออายุ 31/12/2561)
+* **Food Registration 3:**
+    * **registration_number:** 10-1-03650-1-0002
+    * **product_name:** เครื่องดื่มสมุนไพรกระชายดำสกัด (ตรา เอ็กซ์ตร้า เวิลด์) / BLACK GALINGALE EXTRACT HERB DRINK (X-TRA WORLD BRAND)
+    * **company_name:** บริษัท กระชายดำ เอ็กซ์ตร้า จำกัด
+    * **status:** สถานะผลิตภัณฑ์(สิ้นสภาพเนื่องจากใบอนุญาตขาดต่ออายุ 31/12/2561) \ สถานะสถานที่ (ขาดต่ออายุ 31/12/2561)
+* **Food Registration 4:**
+    * **registration_number:** 10-1-03650-1-0003
+    * **product_name:** เครื่องดื่มสมุนไพรกระชายดำสกัด (ตรา เอ็กซ์-ตร้าโกลด์) / BLACK GALINGALE EXTRACT HERB DRINK (X-TRA GOLD BRAND)
+    * **company_name:** บริษัท กระชายดำ เอ็กซ์ตร้า จำกัด
+    * **status:** สถานะผลิตภัณฑ์(สิ้นสภาพเนื่องจากใบอนุญาตขาดต่ออายุ 31/12/2561) \ สถานะสถานที่ (ขาดต่ออายุ 31/12/2561)
+* **Food Registration 5:**
+    * **registration_number:** 10-1-03650-1-0005
+    * **product_name:** เครื่องดื่มสมุนไพรกระชายดำสกัด (ตรา เอ็กซ์ตร้าเค) / BLACK GALINGALE EXTRACT HERB DRINK (X-TRA K BRAND)
+    * **company_name:** บริษัท กระชายดำ เอ็กซ์ตร้า จำกัด
+    * **status:** สถานะผลิตภัณฑ์(สิ้นสภาพเนื่องจากใบอนุญาตขาดต่ออายุ 31/12/2561) \ สถานะสถานที่ (ขาดต่ออายุ 31/12/2561)
+* **Food Registration 6:**
+    * **registration_number:** 10-1-03856-1-0021
+    * **product_name:** กระชายดำ สกัด (ผลิตภัณฑ์เสริมอาหาร)(ตรา เดอะเนเจอร์) / BLACK GALINGALE EXTRACT (DIETARY SUPPLEMENT PRODUCT)(THE NATURE BRAND)
+    * **company_name:** บริษัท พีเคเอฟบี ฟาร์มาซูติคอล แมนูแฟคเจอริ่ง จำกัด
+    * **status:** สถานะผลิตภัณฑ์(คงอยู่)\ สถานะสถานที่ (คงอยู่)
+* **Food Registration 7:**
+    * **registration_number:** 10-1-03856-5-0065
+    * **product_name:** เครื่องดื่ม โสม ผสม เห็ดหลินจือ และ กระชายดำ (ตรา นัมเบอร์ วัน) /  GINSENG WITH REISHI MUSHROOM AND GALINGALE DRINK (NUMBER ONE BRAND)
+    * **company_name:** บริษัท พีเคเอฟบี ฟาร์มาซูติคอล แมนูแฟคเจอริ่ง จำกัด
+    * **status:** สถานะผลิตภัณฑ์(คงอยู่)\ สถานะสถานที่ (คงอยู่)
+* **Food Registration 8:**
+    * **registration_number:** 10-1-03856-5-0082
+    * **product_name:** กระชายดำ แคปซูล (ผลิตภัณฑ์เสริมอาหาร)(ตราแม่ขิง) / Kaempferia parviflora Capsule (Dietary Supplement Product)(MAE KHING Brand)
+    * **company_name:** บริษัท พีเคเอฟบี ฟาร์มาซูติคอล แมนูแฟคเจอริ่ง จำกัด
+    * **status:** สถานะผลิตภัณฑ์(คงอยู่)\ สถานะสถานที่ (คงอยู่)
+* **Food Registration 9:**
+    * **registration_number:** 10-1-04651-1-0002
+    * **product_name:** เอ-วัน (ตังกุยสกัด กระชายดำสกัด แอล-อาร์จินีน หอยนางรมสกัด และ แอล-ไลซีน)(ผลิตภัณฑ์เสริมอาหาร) / A-ONE (DONG QUAI EXTRACT, KRACHAIDUM EXTRACT, L-ARGININE, OYSTER EXTRACT AND L-LYSINE)(DIETARY SUPPLEMENT PRODUCT)
+    * **company_name:** บริษัท เอ มิราเคิล จำกัด
+    * **status:** สถานะผลิตภัณฑ์(คงอยู่)\ สถานะสถานที่ (คงอยู่)
+* **Food Registration 10:**
+    * **registration_number:** 10-1-08860-5-0005
+    * **product_name:** กระชายดำ ซี พลัส (ผลิตภัณฑ์เสริมอาหาร)(ตรา พีเอสที) /  KRACHAI DUM C PLUS (DIETARY SUPPLEMENT PRODUCT)(PST BRAND)
+    * **company_name:** บริษัท ปราสาททองโอสถ จำกัด
+    * **status:** สถานะผลิตภัณฑ์(ยกเลิกเนื่องจากย้ายใบอนุญาต ) \ สถานะสถานที่ (คงอยู่ 1/1/2443)

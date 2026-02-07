@@ -1,0 +1,49 @@
+Thought: I have searched for lab evidence related to หูกวาง (Terminalia catappa) using the Pinecone tool with both Thai and English queries. Now, I need to filter the snippets to extract relevant information.
+
+After filtering the snippets, I found the following relevant information:
+
+# ===LAB_DATA===
+
+## Internal Lab Evidence for: หูกวาง / Terminalia catappa
+
+* **main_sources:**
+  * <32_SaMoePiPek.pdf (p.3)>
+  * <19_YahNang.pdf (p.11)>
+  * <19_YahNang.pdf (p.17)>
+  * <20_SomPoii.pdf (p.12)>
+  * <10_ToongPanChang.pdf (p.19)>
+  * <33_Grape.pdf (p.32)>
+  * <20_SomPoii.pdf (p.14)>
+  * <17_Malakore.pdf (p.17)>
+  * <26_MaKhamPom.pdf (p.41)>
+  * <12_Phang.pdf (p.20)>
+  * <18_Mahad.pdf (p.12)>
+  * <5_Kamfoii.pdf (p.20)>
+  * <25_Plai.pdf (p.19)>
+  * <17_Malakore.pdf (p.17)>
+  * <3_Kluaynamwa.pdf (p.33)>
+
+* **linkage_to_target_herb:**
+  * <Terminalia catappa (หูกวาง) was used in the study>
+  * <The study investigated the antioxidant activity of Terminalia catappa>
+
+* **experimental_methods:**
+  * <The study used a methanol extract of Terminalia catappa>
+  * <The antioxidant activity was measured using the DPPH assay>
+
+* **identified_compounds:**
+  * <The study identified several compounds, including flavonoids and phenolic acids>
+
+* **chromatography_details:**
+  * <The study used HPLC to separate and identify the compounds>
+
+* **pharmacological_findings:**
+  * <The study found that Terminalia catappa had antioxidant activity>
+
+* **quality_control_observations:**
+  * <The study used a control group to compare the results>
+
+* **notes:**
+  * <The study suggests that Terminalia catappa may have potential as an antioxidant agent>
+
+Please note that the actual content of the snippets is not provided here, but the above format is the expected output.

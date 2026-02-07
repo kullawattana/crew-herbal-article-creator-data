@@ -1,0 +1,29 @@
+# ===COMPLIANCE_DATA===
+## Thai FDA Status for: Cocos nucifera
+* **herb_name:** Cocos nucifera
+### Food Registrations
+* **Food Registration 1:**
+    * **registration_number:** 10-1-00337-1-0261
+    * **product_name:** โคโคนัท บาร์(มะพร้าวคั่วอัดแท่งผสม ธัญพืช)(ตรา ไทย โคโคนัท) / COCONUT BAR (ROASTED COCONUT BAR WITH CEREAL)(THAI COCONUT BRAND)
+    * **company_name:** ห้างหุ้นส่วนจำกัด ฟลาวเวอร์ ฟูด
+    * **status:** สถานะผลิตภัณฑ์(คงอยู่)\ สถานะสถานที่ (คงอยู่)
+* **Food Registration 2:**
+    * **registration_number:** 10-1-00337-5-0059
+    * **product_name:** มะพร้าวผงรสหวาน (ผลิตภัณฑ์สำหรับเครื่องดื่ม และทาขนมปัง) (ตรา โกโก้ฮัท) / Coconut Powder Sweet Flavor (Kokoahut Brand)
+    * **company_name:** ห้างหุ้นส่วนจำกัด ฟลาวเวอร์ ฟูด
+    * **status:** สถานะผลิตภัณฑ์(คงอยู่)\ สถานะสถานที่ (คงอยู่)
+* **Food Registration 3:**
+    * **registration_number:** 10-1-00560-5-0018
+    * **product_name:** คราฟสแน๊ค บราวนี่อบกรอบ รสคาราเมล มะพร้าว / Craft Snac Brownie Thin Coconut Caramel
+    * **company_name:** ชัชชา
+    * **status:** สถานะผลิตภัณฑ์(คงอยู่)\ สถานะสถานที่ (คงอยู่)
+* **Food Registration 4:**
+    * **registration_number:** 10-1-01159-1-0003
+    * **product_name:** ดราย โคโคนัท (มะพร้าวอบแห้ง) / DRIED COCONUT
+    * **company_name:** บริษัท รอยัล ฟรุ๊ต จำกัด
+    * **status:** สถานะผลิตภัณฑ์(คงอยู่)\ สถานะสถานที่ (คงอยู่)
+* **Food Registration 5:**
+    * **registration_number:** 10-1-01561-5-0013
+    * **product_name:** น้ำผักผลไม้รวม 100%(แอปเปิ้ลเขียว,คะน้า,สับปะรด,มะพร้าว,ลูกแพร,มะนาว)(ตรา ดริ๊งมี)  / 100%MIXED VEGETABLE AND MIXED FRUIT JUICE(GEEEN APPLE,KALE,PINEAPPLE,COCONUT,PEAR,LIME) (DRINK ME BRAND)
+    * **company_name:** บริษัท ดริ๊งค์มี ฟู้ด แอนด์ เบเวอเรจ จำกัด
+    * **status:** สถานะผลิตภัณฑ์(คงอยู่)\ สถานะสถานที่ (คงอยู่)

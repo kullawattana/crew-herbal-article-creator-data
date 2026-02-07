@@ -1,0 +1,16 @@
+# ===SAFETY_DATA=== ## International Safety Data for: Senna alexandrina
+* **herb_name:** Senna alexandrina
+* **source_browsed:** https://dailymed.nlm.nih.gov/dailymed/drugInfo.cfm?setid=ea14be82-1d4d-41fe-9e2f-3f4df9393be5
+
+### Drug Facts Label
+* **active_ingredients:**
+    * **Ingredient 1:**
+        * **name:** Sennosides
+        * **strength:** 8.6 mg
+        * **purpose:** Laxative
+* **uses:** Relieves occasional constipation (irregularity), generally produces a bowel movement in 6-12 hours
+* **warnings:** Do not use laxative products for longer than 1 week unless directed by a doctor. Ask a doctor before use if you have stomach pain, nausea, vomiting, noticed a sudden change in bowel habits that continues over a period of 2 weeks. Stop use and ask a doctor if you have rectal bleeding or fail to have a bowel movement after use of a laxative. These may indicate a serious condition. If pregnant or breast-feeding, ask a health professional before use. Keep out of reach of children. In case of overdose, get medical help or contact a Poison Control Center right away.
+* **directions:** Take preferably at bedtime or as directed by a doctor. Adults and children 12 years of age or older: 2 tablets once a day, not to exceed 4 tablets twice a day. Children 6 to under 12 years: 1 tablet once a day, not to exceed 2 tablets twice a day. Children 2 to under 6 years: 1/2 tablet once a day, not to exceed 1 tablet twice a day. Children under 2 years: ask a doctor.
+* **other_information:** Each tablet contains: calcium 25mg. Store at 25°C (77°F); excursions permitted between 15°-30°C (59°-86°F).
+* **inactive_ingredients:** Maltodextrin, microcrystalline cellulose, croscarmellose sodium, stearic acid, silicon dioxide, magnesium stearate, hypromellose, mineral oil, water.
+* **questions:**

@@ -1,0 +1,7 @@
+# ===TRENDS_DATA===
+### Finding 1
+* **herb_name:** Moringa
+* **wellness_context_summary:** Moringa is mentioned in the context of traditional medicine and its potential benefits for skin care. The article discusses how traditional medicine is transforming skincare by incorporating natural ingredients and holistic approaches. Moringa oil is mentioned as a historical ingredient used in African traditions for skin and spirit conditioning.
+* **source_url:** https://globalwellnessinstitute.org/global-wellness-institute-blog/2025/10/21/ancient-beauty-modern-glow-how-traditional-medicine-is-quietly-transforming-skincare/
+
+Note: Since there is only one relevant article from GWI, there is only one finding.

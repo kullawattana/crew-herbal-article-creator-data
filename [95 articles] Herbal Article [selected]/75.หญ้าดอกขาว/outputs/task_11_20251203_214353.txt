@@ -1,0 +1,109 @@
+# ===MASTER_FACT_SHEET=== 
+## Consolidated Facts for: Vernonia cinerea
+* **Trend Fact:** Little ironweed is listed as an ingredient that can be used to support health conditions such as anemia, bleeding (external), and abdominal pain.
+* **Trend Fact:** Naturista Kohila Root Powder is a herbal powder that can be used to cure hemorrhoids and constipation. It is also beneficial for stomach fullness, anorexia, stomach ulcers, and diseases in the stomach. The powder can be consumed as a drink or porridge. It is recommended to drink at least 6-8 glasses of water a day and to avoid alcohol, drugs, and smoking. A well-ventilated perforated seat should also be used. The powder can be used to reduce fat absorption and control blood cholesterol. It is also beneficial for skin burns, tuberculosis, respiratory disorders, and pneumonia. The powder contains polyphenol and ascorbic acids which control blood pressure and heal wounds in internal tissues. At the beginning of the day, at least three days a week, drinking porridge (kola kenda) with kohila root and red kekulu rice, kohila root and Brahmi leaves, little ironweed, especially heen bovitiya.
+* **Lab Fact (Experimental Method):** None found
+* **Lab Fact (Extraction Method):** None found
+* **Lab Fact (Compound Identified):** None found
+* **Lab Fact (Chromatography - TLC):** None found
+* **Lab Fact (Pharmacological Finding):** None found
+* **Lab Fact (Cosmetic or Clinical Effect):** None found
+* **Lab Fact (Quality Control):** None found
+* **Science Fact (Herb):** Vernonia cinerea
+* **Science Fact (Compound):** Rutin
+* **Science Fact (Abstracts):**
+  * **Study 1:**
+    * **abstract_raw:** In-silico identification of COX-2 inhibitory phytochemicals from traditional medicinal plants: molecular docking, dynamics, and safety predictions.
+    * **citation_apa:** Abdollahi, F., Hadizadeh, F., Farhadian, S., Assaran-Darban, R., & Shakour, N. (2025). In-silico identification of COX-2 inhibitory phytochemicals from traditional medicinal plants: molecular docking, dynamics, and safety predictions. In Silico Pharmacology, 13(3), 133.
+  * **Study 2:**
+    * **abstract_raw:** Comparison of Herbal and Potassium Nitrate Toothpastes in Managing Dentin Hypersensitivity: A Randomized Controlled Trial.
+    * **citation_apa:** Vajrabhaya, L. O., Benjasupattananan, S., Sappayatosok, K., Sirikururat, P., Korsuwannawong, S., & Dechosilpa, V. (2025). Comparison of Herbal and Potassium Nitrate Toothpastes in Managing Dentin Hypersensitivity: A Randomized Controlled Trial. Dentistry Journal, 13(8), 369.
+* **Compliance Fact (Food Registration 1):** None found
+* **Compliance Fact (Herb/Drug Registration 1):** registration_number=G184/60, product_name=ยาชงหญ้าดอกขาว ตราเคเอ็มพี / VERNORIA CINEREA INFUSION KMP BRAND, company_name=แก้วมังกรเภสัช, status=คงอยู่
+* **Compliance Fact (Herb/Drug Registration 2):** registration_number=G50013/63, product_name=ยาชงหญ้าดอกขาว / VERNORIA CINEREA INFUSION, company_name=ลิ้มเซ่งฮึง, status=คงอยู่
+* **Compliance Fact (Herb/Drug Registration 3):** registration_number=G465/60, product_name=ยาชงหญ้าดอกขาว ตราสะม็อค / VERNONIA CINEREA INFUSION SMOC BRAND, company_name=ห้างธงทองโอสถ, status=คงอยู่
+* **Compliance Fact (Herb/Drug Registration 4):** registration_number=G51/60, product_name=ยาชงหญ้าดอกขาว / VERNONIA CINEREA INFUSION, company_name=ขาวละออเภสัช, status=คงอยู่
+* **Compliance Fact (Herb/Drug Registration 5):** registration_number=G418/59, product_name=ยาชงหญ้าดอกขาว ตราพระอินทร์ / -, company_name=หมอยาไทย 101, status=คงอยู่
+* **Compliance Fact (Safety Dosage):** Not found
+* **Compliance Fact (Safety Warning):** None found
+* **Safety Fact (Active Ingredient):** 
+    * **Ingredient 1:** Borax, strength=6X, purpose=Not found
+    * **Ingredient 2:** Bryonia (Alba), strength=6X, purpose=Not found
+    * **Ingredient 3:** Echinacea Purpurea, strength=6X, purpose=Not found
+    * **Ingredient 4:** Juglans Cinerea, strength=6X, purpose=Not found
+    * **Ingredient 5:** Kali Muriaticum, strength=6X, purpose=Not found
+    * **Ingredient 6:** Magnesia Muriatica, strength=6X, purpose=Not found
+    * **Ingredient 7:** Muriaticum Acidum, strength=6X, purpose=Not found
+    * **Ingredient 8:** Discus Intervertebralis Suis, strength=8X, 12X, 18X, 24X, 30X, purpose=Not found
+    * **Ingredient 9:** Oral Mucosa (Suis), strength=8X, 12X, 18X, 24X, 30X, purpose=Not found
+    * **Ingredient 10:** Antimonium Crudum, strength=12X, purpose=Not found
+    * **Ingredient 11:** Arsenicum Album, strength=12X, purpose=Not found
+    * **Ingredient 12:** Bismuthum Subnitricum, strength=12X, purpose=Not found
+    * **Ingredient 13:** Chamomilla, strength=12X, purpose=Not found
+    * **Ingredient 14:** Cinchona Officinalis, strength=12X, purpose=Not found
+    * **Ingredient 15:** Nux Moschata, strength=12X, purpose=Not found
+    * **Ingredient 16:** Sambucus Nigra, strength=12X, purpose=Not found
+    * **Ingredient 17:** Sepia, strength=12X, purpose=Not found
+    * **Ingredient 18:** Mercurius Solubilis, strength=12X, 18X, 24X, 30X, purpose=Not found
+    * **Ingredient 19:** Calcarea Phosphorica, strength=12X, 18X, 30X, purpose=Not found
+    * **Ingredient 20:** Ignatia Amara, strength=12X, 30X, purpose=Not found
+    * **Ingredient 21:** Oxygenium, strength=16X, purpose=Not found
+    * **Ingredient 22:** Candida Albicans, strength=16X, 18X, 24X, 30X, purpose=Not found
+* **Safety Fact (Ingredient Purpose):** Not found
+* **Safety Fact (Uses):** For temporary relief of symptoms related to oral health, such as cavitation, delayed dentition, dry mouth, painful eating, eruptions on the tongue and inner cheeks and tooth sensitivity.
+* **Safety Fact (Warnings):** Keep out of reach of children. In case of overdose, Contact physician or Poison Control Center right away. If pregnant or breast-feeding, seek advice of a health professional before use. Tamper seal: "Sealed for Your Protection." Do not use if seal is broken or missing.
+* **Safety Fact (Directions):** 1-10 drops under the tongue, 3 times a day or as directed by a health professional. Consult a physician for use in children under 12 years of age.
+* **Safety Fact (Other Info):** Disclaimer: This homeopathic product has not been evaluated by the Food and Drug Administration for safety or efficacy. FDA is not aware of scientific evidence to support homeopathy as effective.
+* **Safety Fact (Inactive Ingredients):** Demineralized Water, 25% Ethanol.
+* **Safety Fact (Questions):** Dist. By: Deseret Biologicals, Inc. 469 W. Parkland Drive Sandy, UT 84070 www.desbio.com
+* **Toxicity Fact (Summary):** The methanol extract of Vernonia cinerea Less (Asteraceae) was tested for toxicity. In an acute toxicity study using mice, the median lethal dose (LD(50)) of the extract was greater than 2000 mg/kg, and no pathological changes were found in macroscopic examination by necropsy of mice treated with extract. The brine shrimp lethality test was also done, and LC(50) values were 3.87 mg/mL (6 h) and 2.72 mg/mL (24 h), exhibiting no significant toxicity result.
+* **Toxicity Fact (Mechanism):** Not found
+* **Toxicity Fact (Side Effects):** Not found
+* **Toxicity Fact (Case Reports):** Not found
+* **Culture Fact (Community - Bang Noi-Tha Phru):** 
+    * **community_name:** Bang Noi-Tha Phru
+    * **location:** Narathiwat Province
+    * **ethnic_group:** Thai Buddhist, Thai Muslim, Thai-Chinese
+    * **community_highlight:** The Bang Noi-Tha Phru community has a total population of 782 people, consisting of 360 males and 442 females, with 403 households. The community is composed of Thai Buddhist, Thai Muslim, and Thai-Chinese ethnic groups. The community has a diverse cultural background, with various ethnic groups living together.
+    * **name_etymology:** The name "Bang Noi-Tha Phru" is derived from the Thai words "Bang" meaning "village" and "Noi" meaning "small". Tha Phru is a reference to the community's location near a river.
+    * **community_environment:** The community is situated in a rural area, surrounded by forests and rivers. The environment is conducive to the growth of various plants, including the White Flower Grass.
+    * **local_wisdom:** The community has a rich cultural heritage, with traditional knowledge passed down through generations. The use of White Flower Grass as a medicinal herb is an example of this local wisdom.
+    * **community_organizations:** The community has a strong sense of unity, with various organizations and groups working together to promote the community's well-being.
+    * **local_name:** White Flower Grass
+    * **traditional_use:** Medicinal herb
+    * **processing_method:** Planting White Flower Grass
+    * **source_url:** https://wikicommunity.sac.or.th/community/1042
+* **Culture Fact (Community - Akha Ban Pha Mi):** 
+    * **community_name:** Akha Ban Pha Mi
+    * **location:** Mae Sai District, Chiang Rai Province
+    * **ethnic_group:** Akha
+    * **community_highlight:** The Akha Ban Pha Mi community has a total population of 563 people, consisting of 286 females and 277 males. The community is led by a village head who is responsible for maintaining order and resolving conflicts.
+    * **name_etymology:** The name "Akha Ban Pha Mi" is derived from the Akha language, with "Akha" referring to the ethnic group and "Ban Pha Mi" referring to the community's location.
+    * **community_environment:** The community is situated in a rural area, surrounded by forests and mountains. The environment is conducive to the growth of various plants, including the White Flower Grass.
+    * **local_wisdom:** The community has a rich cultural heritage, with traditional knowledge passed down through generations. The use of White Flower Grass as a medicinal herb is an example of this local wisdom.
+    * **community_organizations:** The community has a strong sense of unity, with various organizations and groups working together to promote the community's well-being.
+    * **local_name:** White Flower Grass
+    * **traditional_use:** Medicinal herb
+    * **processing_method:** Planting White Flower Grass
+    * **source_url:** https://ethnicredb.sac.or.th/research_detail.php?id=1114
+* **Culture Fact (Community - Karen Community):** 
+    * **community_name:** Karen Community
+    * **location:** Uthai Thani Province
+    * **ethnic_group:** Karen
+    * **community_highlight:** The Karen community in Uthai Thani Province has a rich cultural heritage, with traditional knowledge passed down through generations. The use of White Flower Grass as a medicinal herb is an example of this local wisdom.
+    * **name_etymology:** The name "Karen" is derived from the Karen language, referring to the ethnic group.
+    * **community_environment:** The community is situated in a rural area, surrounded by forests and mountains. The environment is conducive to the growth of various plants, including the White Flower Grass.
+    * **local_wisdom:** The community has a rich cultural heritage, with traditional knowledge passed down through generations. The use of White Flower Grass as a medicinal herb is an example of this local wisdom.
+    * **community_organizations:** The community has a strong sense of unity, with various organizations and groups working together to promote the community's well-being.
+    * **local_name:** White Flower Grass
+    * **traditional_use:** Medicinal herb
+    * **processing_method:** Planting White Flower Grass
+    * **source_url:** https://sac-research.sac.or.th/uploads/article//2023_20230601083809-1.pdf
+* **Internal RAG Fact (Herbal):** Vernonia cinerea, also known as หญ้าดอกขาว, is not explicitly mentioned in the provided context. However, the context discusses Thai traditional medicine and its uses, benefits, and processes. It highlights the importance of using traditional Thai medicine to reduce healthcare costs and promote self-sufficiency. The context also mentions the use of various herbs and plants in traditional Thai medicine, although Vernonia cinerea is not specifically mentioned.
+* **Internal RAG Fact (Cultural):** No relevant information about หญ้าดอกขาว was found in the provided cultural context.
+* **Source URL (Trend):** https://caringsunshine.com/relationships/relationship-anemia-and-leucovorin/, https://caringsunshine.com/relationships/relationship-bleeding-external-and-vitamin-k-menadione/, https://caringsunshine.com/relationships/relationship-abdominal-pain-and-stinging-nettle/, https://www.naturistaceylon.com/product/naturista-kohila-root-powder/
+* **Source URL (Science):** https://doi.org/10.1007/s40203-025-00407-4, https://doi.org/10.3390/dj13080369
+* **Source URL (Compliance):** https://www.fda.moph.go.th/
+* **Source URL (Safety):** https://dailymed.nlm.nih.gov/dailymed/fda/fdaDrugXsl.cfm?setid=bb505479-8fab-427d-a705-afeca9d7108d
+* **Source URL (Toxicity):** https://pubmed.ncbi.nlm.nih.gov/20645763/
+* **Source URL (Culture):** https://wikicommunity.sac.or.th/community/1042, https://ethnicredb.sac.or.th/research_detail.php?id=1114, https://sac-research.sac.or.th/uploads/article//2023_20230601083809-1.pdf

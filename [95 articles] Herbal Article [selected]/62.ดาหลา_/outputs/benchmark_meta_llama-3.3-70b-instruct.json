@@ -1,0 +1,11 @@
+{
+  "model": "meta/llama-3.3-70b-instruct",
+  "herbs": "Etlingera elatior",
+  "runtime_sec": 1169.91,
+  "cpu_percent": -2.0,
+  "memory_mb_change": -190.81,
+  "total_tokens": 0,
+  "prompt_tokens": 0,
+  "completion_tokens": 0,
+  "total_cost": 0.0
+}

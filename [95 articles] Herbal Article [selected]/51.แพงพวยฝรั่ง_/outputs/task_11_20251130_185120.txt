@@ -1,0 +1,78 @@
+# ===MASTER_FACT_SHEET=== 
+## Consolidated Facts for: Catharanthus roseus
+* **Trend Fact:** No trend fact available
+* **Lab Fact (Experimental Method):** No experimental method available
+* **Lab Fact (Extraction Method):** No extraction method available
+* **Lab Fact (Compound Identified):** No compound identified available
+* **Lab Fact (Chromatography - TLC):** No chromatography details available
+* **Lab Fact (Pharmacological Finding):** No pharmacological findings available
+* **Lab Fact (Cosmetic or Clinical Effect):** No cosmetic or clinical effects available
+* **Lab Fact (Quality Control):** No quality control observations available
+* **Science Fact (Herb):** Catharanthus roseus
+* **Science Fact (Compound):** Vinca alkaloids
+* **Science Fact (Abstracts):**
+  * **Study 1:**
+    * **abstract_raw:** No abstract available
+    * **citation_apa:** No citation available
+* **Compliance Fact (Food Registration 1):** None found
+* **Compliance Fact (Safety Dosage):** No dosage found
+* **Compliance Fact (Safety Warning):** None found
+* **Safety Fact (Active Ingredient):** Vinca alkaloids
+* **Safety Fact (Ingredient Purpose):** No ingredient purpose available
+* **Safety Fact (Uses):** No uses available
+* **Safety Fact (Warnings):** Peripheral neuropathy, gastrointestinal distress, hematologic toxicity, cardiovascular effects, seizures, and syndrome of inappropriate antidiuretic hormone secretion
+* **Safety Fact (Directions):** No directions available
+* **Safety Fact (Other Info):** No other information available
+* **Safety Fact (Inactive Ingredients):** No inactive ingredients available
+* **Safety Fact (Questions):** No questions available
+* **Toxicity Fact (Summary):** Vinca alkaloids, derived from Catharanthus roseus, can cause toxicity affecting multiple organ systems, including the peripheral and central nervous, cardiovascular, hematologic, renal, and pulmonary systems. Neurotoxicity is the most commonly reported adverse event.
+* **Toxicity Fact (Mechanism):** The microtubular apparatus plays a pivotal role in axonal transport and secretory function. Vinca alkaloids bind to specific sites on the β-subunit and prevent propagation of the microtubule.
+* **Toxicity Fact (Side Effects):** Peripheral neuropathy, gastrointestinal distress, hematologic toxicity, cardiovascular effects, seizures, and syndrome of inappropriate antidiuretic hormone secretion
+* **Toxicity Fact (Case Reports):** Case reports of liver injury, hepatotoxicity, and hepatic veno-occlusive disease have been associated with vinca alkaloids
+* **Culture Fact (Community - Wat Nam Cham):** 
+    * **community_name:** Wat Nam Cham
+    * **location:** Rong Wua Daeng Subdistrict, San Kamphaeng District, Chiang Mai Province
+    * **ethnic_group:** Unspecified
+    * **community_highlight:** No herbal-related information found
+    * **name_etymology:** No herbal-related information found
+    * **community_environment:** No herbal-related information found
+    * **local_wisdom:** No herbal-related information found
+    * **community_organizations:** No herbal-related information found
+    * **local_name:** Kam Mawaja
+    * **traditional_use:** Kam Matthan
+    * **processing_method:** Kam Matthan 3 Heng
+    * **source_url:** https://db.sac.or.th/manuscriptsofthailand/
+* **Culture Fact (Community - Thailand Cultural Encyclopedia):** 
+    * **community_name:** Thailand Cultural Encyclopedia
+    * **location:** Southern Region
+    * **ethnic_group:** Unspecified
+    * **community_highlight:** No herbal-related information found
+    * **name_etymology:** No herbal-related information found
+    * **community_environment:** No herbal-related information found
+    * **local_wisdom:** No herbal-related information found
+    * **community_organizations:** No herbal-related information found
+    * **local_name:** Thailand Cultural Encyclopedia, Southern Region, Volume 1 (Ga - Ga, Proverbs - Islands, Boats)
+    * **traditional_use:** Thailand Cultural Encyclopedia, Southern Region, Volume 2 (Islands: Ayat - Kao, Fish)
+    * **processing_method:** Thailand Cultural Encyclopedia, Southern Region, Volume 3 (Elephant Enclosure: Wild Elephant Capture - Jit Dhammo)
+    * **source_url:** https://db.sac.or.th/thailand-cultural-encyclopedia/region_book.php?region=6
+* **Culture Fact (Community - Anthropological Archives Database):** 
+    * **community_name:** Anthropological Archives Database
+    * **location:** Unspecified
+    * **ethnic_group:** Unspecified
+    * **community_highlight:** No herbal-related information found
+    * **name_etymology:** No herbal-related information found
+    * **community_environment:** No herbal-related information found
+    * **local_wisdom:** No herbal-related information found
+    * **community_organizations:** No herbal-related information found
+    * **local_name:** Fieldwork (Jong) in Kwang Si
+    * **traditional_use:** Fieldwork (Jong) in Kwang Si
+    * **processing_method:** Fieldwork (Jong) in Kwang Si
+    * **source_url:** https://db.sac.or.th/anthroarchives/collection.php?c_id=104
+* **Internal RAG Fact (Herbal):** แพงพวยฝรั่ง (Catharanthus roseus) is not explicitly mentioned in the provided internal knowledge context. However, the context discusses Thai traditional medicine, its benefits, and the use of herbs in traditional Thai medicine.
+* **Internal RAG Fact (Cultural):** No relevant information about แพงพวยฝรั่ง was found in the provided cultural context.
+* **Source URL (Trend):** No trend URL available
+* **Source URL (Science):** No science URL available
+* **Source URL (Compliance):** No compliance URL available
+* **Source URL (Safety):** No safety URL available
+* **Source URL (Toxicity):** https://www.ncbi.nlm.nih.gov/books/NBK557842/
+* **Source URL (Culture):** https://db.sac.or.th/manuscriptsofthailand/, https://db.sac.or.th/thailand-cultural-encyclopedia/region_book.php?region=6, https://db.sac.or.th/anthroarchives/collection.php?c_id=104

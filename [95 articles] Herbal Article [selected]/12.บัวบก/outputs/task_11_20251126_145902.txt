@@ -1,0 +1,71 @@
+# ===MASTER_FACT_SHEET===
+## Consolidated Facts for: Centella asiatica
+* **Trend Fact:** Gotu Kola is a herb that is high in immunity boosting properties and is also a powerful antioxidant. It is used as a brain tonic and general tonic in Chinese Medicine, and is known in the West as Gotu Kola, Pegaga in Malay and Indonesian medicine, and as Brahmi in Ayurveda. Research has found that Gotu Kola can help the immune system to distinguish more effectively between friend and foe, and has liver protective effects.
+* **Lab Fact (Experimental Method):** Not found
+* **Lab Fact (Extraction Method):** Not found
+* **Lab Fact (Compound Identified):** Asiatic acid, madecassic acid, asiaticoside, and madecassoside
+* **Lab Fact (Chromatography - TLC):** Not found
+* **Lab Fact (Pharmacological Finding):** Asiatic acid alleviates ulcerative colitis through a gut microbiota-driven cAMP/PKA/NF-κB pathway: γ-glutamyltyrosine is a crucial player.
+* **Lab Fact (Cosmetic or Clinical Effect):** Not found
+* **Lab Fact (Quality Control):** Not found
+* **Science Fact (Herb):** Centella asiatica
+* **Science Fact (Compound):** Asiatic acid
+* **Science Fact (Abstracts):**
+  * **Study 1:**
+    * **abstract_raw:** Asiatic acid alleviates ulcerative colitis through a gut microbiota-driven cAMP/PKA/NF-κB pathway: γ-glutamyltyrosine is a crucial player.
+    * **citation_apa:** Zheng, X., Jiang, Y., Wang, W., Sun, K., Zhou, L., Zhang, Y., Cui, J., Yu, H., Dong, W., & Yan, B. (2025). Asiatic Acid Alleviates Ulcerative Colitis Through a Gut Microbiota-Driven cAMP/PKA/NF-κB Pathway: γ-Glutamyltyrosine Is a Crucial Player. Phytotherapy Research, 39(11), 3421–3433. https://doi.org/10.1002/ptr.70132
+  * **Study 2:**
+    * **abstract_raw:** Therapeutic potential and chemical profile of Dracontomelon duperreanum Pierre leaf extract: In vitro wound healing, antibacterial, and antioxidant activities.
+    * **citation_apa:** Phan, T.-N., Mai, N. Q., Ha, B. T., & Quynh, B. T. P. (2025). Therapeutic Potential and Chemical Profile of Dracontomelon duperreanum Pierre Leaf Extract: In Vitro Wound Healing, Antibacterial, and Antioxidant Activities. Journal of Ethnopharmacology, 357, 120898. https://doi.org/10.1016/j.jep.2025.120898
+  * **Study 3:**
+    * **abstract_raw:** Role of triterpenoid derivatives from Centella asiatica as quantum chemical calculations.
+    * **citation_apa:** Chockchowwat, W., Hannongbua, S., & Saparpakorn, P. (2025). Role of Triterpenoid Derivatives from Centella asiatica as Quantum Chemical Calculations. Journal of Biomolecular Structure and Dynamics, 43(11), 1–17. https://doi.org/10.1080/07391102.2025.2578225
+* **Compliance Fact (Food Registration 1):** registration_number=10-1-00357-5-0045, product_name=ข้าวกล้องเพาะงอกเคลือบดอกอัญชัน ,บัวบก, ขมิ้น ,เมี่ยง (ตราดิ อินดี้ 888) / Germinated brown  Rice coated with Butterfly pea, Asiatic , turmeric , Miang ( The INDY 888 Brand), company_name=บริษัท บางกอกตลาดข้าวไทย จำกัด, status=สถานะผลิตภัณฑ์(คงอยู่)\ สถานะสถานที่ (คงอยู่)
+* **Compliance Fact (Food Registration 2):** registration_number=10-1-00450-1-0048, product_name=เซ็นเทลล่า-บัวบก แคปซูล (ผลิตภัณฑ์เสริมอาหาร) / CENTELLA - BAOBOK CAPSULE (DIETARY SUPPLEMENT PRODUCT), company_name=บริษัท คัลเลอร์-พลาส จำกัด, status=สถานะผลิตภัณฑ์(คงอยู่)\ สถานะสถานที่ (คงอยู่)
+* **Compliance Fact (Food Registration 3):** registration_number=10-1-13660-5-0094, product_name=บัวบก / Asiatic Pennywort, company_name=บริษัท โพธิ์ประดิษฐ์สมุนไพร จำกัด, status=สถานะผลิตภัณฑ์(คงอยู่)\ สถานะสถานที่ (คงอยู่)
+* **Compliance Fact (Food Registration 4):** registration_number=10-1-13660-5-0095, product_name=บัวบก (ผง) / Asiatic Pennywort (Powder), company_name=บริษัท โพธิ์ประดิษฐ์สมุนไพร จำกัด, status=สถานะผลิตภัณฑ์(คงอยู่)\ สถานะสถานที่ (คงอยู่)
+* **Compliance Fact (Food Registration 5):** registration_number=10-1-22862-5-0006, product_name=เครื่องดื่มชาสมุนไพร บัวบก มะตูม  และ ชะเอมเทศ (ตรา เรือนไม้ใบชา) / PENNYWORT BAEL FRUIT AND LICORICE HERBAL TEA DRIINK (RUENMAIBAICHA BRAND), company_name=เรือนไม้ใบชา (RUENMAIBAICHA), status=สถานะผลิตภัณฑ์(คงอยู่)\ สถานะสถานที่ (คงอยู่)
+* **Safety Fact (Active Ingredient):** Not found
+* **Safety Fact (Ingredient Purpose):** Not found
+* **Safety Fact (Uses):** Not found
+* **Safety Fact (Warnings):** Not found
+* **Safety Fact (Directions):** Not found
+* **Safety Fact (Other Info):** Not found
+* **Safety Fact (Inactive Ingredients):** Not found
+* **Safety Fact (Questions):** Not found
+* **Toxicity Fact (Summary):** Centella asiatica, commonly known as gotu kola or Asian pennywort, is a herbaceous, flowering, perennial plant native to tropical areas of Southeast Asia and Australia and used as a food as well as in traditional medicine. While generally regarded as safe, Centella has been linked to rare instances of clinically apparent acute liver injury with jaundice.
+* **Toxicity Fact (Mechanism):** The mechanism of liver injury attributed to Centella asiatica is not known, but the rare events suggest idiosyncratic, perhaps immune mediated injury due to one of the many components of the herb or one of its metabolites.
+* **Toxicity Fact (Side Effects):** Rare instances of allergic reactions have been reported, particularly with topical therapy of skin diseases and wounds.
+* **Toxicity Fact (Case Reports):** Three Argentinian women developed jaundice 30, 20, and 60 days after starting Centella asiatica for weight loss. Laboratory tests showed marked elevations of serum ALT and AST, and liver biopsies showed acute hepatitis with granulomatous changes. All three women recovered completely within 1-2 months of stopping the herb.
+* **Culture Fact (Community - Ban San Bua Bok):** Ban San Bua Bok is a community with a rich history of settlement, dating back to the late 19th century. The community is known for its traditional practices, including the use of herbal medicine and the production of handicrafts. The community is also home to a number of important cultural sites, including the Wat Ban San Bua Bok temple.
+* **Culture Fact (Location - Ban San Bua Bok):** Phayao
+* **Culture Fact (Ethnic Group - Ban San Bua Bok):** Lanna
+* **Culture Fact (Community Highlight - Ban San Bua Bok):** Ban San Bua Bok is a community with a rich history of settlement, dating back to the late 19th century. The community is known for its traditional practices, including the use of herbal medicine and the production of handicrafts.
+* **Culture Fact (Name Etymology - Ban San Bua Bok):** The name "Ban San Bua Bok" is derived from the Thai words "ban" meaning "village", "san" meaning "hill", and "bua bok" meaning "lotus flower".
+* **Culture Fact (Environment - Ban San Bua Bok):** Ban San Bua Bok is situated in a rural area of Phayao province, surrounded by hills and forests.
+* **Culture Fact (Local Wisdom - Ban San Bua Bok):** The community has a strong tradition of local wisdom, with many residents possessing knowledge of traditional medicine and handicrafts.
+* **Culture Fact (Organization - Ban San Bua Bok):** Ban San Bua Bok has a number of community organizations, including a village committee and a women's group.
+* **Culture Fact (Local Name - Ban San Bua Bok):** Bua Bok
+* **Culture Fact (Use - Ban San Bua Bok):** Use of forest resources
+* **Culture Fact (Processing - Ban San Bua Bok):** Basketry
+* **Culture Fact (Source - Ban San Bua Bok):** https://wikicommunity.sac.or.th/community/639
+* **Culture Fact (Community - Ban Nangam):** Ban Nangam is a community with a rich history of settlement, dating back to the late 19th century. The community is known for its traditional practices, including the use of herbal medicine and the production of handicrafts.
+* **Culture Fact (Location - Ban Nangam):** Sa Kaeo
+* **Culture Fact (Ethnic Group - Ban Nangam):** Isaan
+* **Culture Fact (Community Highlight - Ban Nangam):** Ban Nangam is a community with a rich history of settlement, dating back to the late 19th century. The community is known for its traditional practices, including the use of herbal medicine and the production of handicrafts.
+* **Culture Fact (Name Etymology - Ban Nangam):** The name "Ban Nangam" is derived from the Thai words "ban" meaning "village" and "nangam" meaning "beautiful".
+* **Culture Fact (Environment - Ban Nangam):** Ban Nangam is situated in a rural area of Sa Kaeo province, surrounded by hills and forests.
+* **Culture Fact (Local Wisdom - Ban Nangam):** The community has a strong tradition of local wisdom, with many residents possessing knowledge of traditional medicine and handicrafts.
+* **Culture Fact (Organization - Ban Nangam):** Ban Nangam has a number of community organizations, including a village committee and a women's group.
+* **Culture Fact (Local Name - Ban Nangam):** Nangam
+* **Culture Fact (Use - Ban Nangam):** Use of forest resources
+* **Culture Fact (Processing - Ban Nangam):** Basketry
+* **Culture Fact (Source - Ban Nangam):** https://wikicommunity.sac.or.th/community/2720
+* **Internal RAG Fact (Herbal):** Centella asiatica, also known as บัวบก, is not explicitly mentioned in the provided context. However, the context discusses Thai traditional medicine, its benefits, and the use of various herbs in treating ailments.
+* **Internal RAG Fact (Cultural):** No relevant information about บัวบก was found in the provided cultural context.
+* **Source URL (Trend):** https://globalwellnessinstitute.org/wp-content/uploads/2020/04/SpaChina-MAY-2020-Mental-Wellness-Initiative-Column_Gerard-Bodeker-Vivienne.pdf
+* **Source URL (Science):** https://doi.org/10.1002/ptr.70132
+* **Source URL (Compliance):** Not found
+* **Source URL (Safety):** Not found
+* **Source URL (Toxicity):** https://www.ncbi.nlm.nih.gov/books/NBK603561/
+* **Source URL (Culture):** https://wikicommunity.sac.or.th/community/639

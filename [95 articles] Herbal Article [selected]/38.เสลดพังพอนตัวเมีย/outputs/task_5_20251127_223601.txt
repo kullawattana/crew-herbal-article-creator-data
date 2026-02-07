@@ -1,0 +1,21 @@
+# ===SAFETY_DATA===
+## International Safety Data for: Clinacanthus nutans
+* **herb_name:** Clinacanthus nutans
+* **source_browsed:** https://dailymed.nlm.nih.gov/dailymed/fda/fdaDrugXsl.cfm?setid=56f84aae-ea47-4207-80da-3657bc1e0af2&type=display
+
+### Drug Facts Label
+* **active_ingredients:**
+    * **Ingredient 1:**
+        * **name:** Camphor
+        * **strength:** 4.5%
+        * **purpose:** Topical Analgesic
+    * **Ingredient 2:**
+        * **name:** Menthol
+        * **strength:** 37%
+        * **purpose:** Topical Analgesic
+* **uses:** For temporarily relief of pain and itching associated with insect bites,minor skin irritations and infections, rashes, boils, minor aches and pains of muscles and joints, dizziness
+* **warnings:** For external use only When using this product Use only as directed Do not apply to wounds and broken skin Avoid contact with eyes Stop use and ask a doctor if condition worsens severe skin irritation occurs symptoms persist for more than 7 days or clear up and reoccur within a few days
+* **directions:** Apply thin layer to or rub gently upon the desired area or inhale as needed. Repeat 3 to 4 times daily. For infants under 12 months of age, consult physician before use
+* **other_information:** This product may cause allergic reaction in some individuals, test on small area before use Store at 68° to 85°F (20° to 30°C)
+* **inactive_ingredients:** Aloe Vera, Barleria Lupulina, Beach Morning Glory, Betel leaf, Clinacanthus Nutans Lindau, Coconut oil, Crinum Veld Lily, Garden Quinine, Paraffin, Petrolatum,Zingiber Cassamunar.
+* **questions:** Not found

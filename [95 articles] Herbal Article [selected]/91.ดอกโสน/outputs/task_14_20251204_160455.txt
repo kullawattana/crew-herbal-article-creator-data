@@ -1,0 +1,27 @@
+# ===AUDIT_DATA_INTEGRITY_REPORT===
+*   **Collaboration Robustness (Data Loss):** 70%
+*   **Explanation Clarity (Hallucination/Handling):** 92%
+*   **Dropped Entities (Facts in Fact Sheet but not Article):**
+    *   Culture Fact (Location - Klong Pho Community): Sam Ruean Subdistrict, Bang Pa-in District, Ayutthaya Province
+    *   Culture Fact (Ethnic Group - Klong Pho Community): Local Thai
+    *   Culture Fact (Community Highlight - Klong Pho Community): The Klong Pho community is known for its traditional way of life, with a strong emphasis on agriculture and water-based transportation. The community is surrounded by natural canals and waterways, making it an ideal location for farming and fishing.
+    *   Culture Fact (Name Etymology - Klong Pho Community): The name "Klong Pho" is derived from the Thai word for "canal," which reflects the community's reliance on water-based transportation and agriculture.
+    *   Culture Fact (Environment - Klong Pho Community): The community is situated in a low-lying area with a high water table, making it prone to flooding during the rainy season. However, this also makes it an ideal location for farming and fishing.
+    *   Culture Fact (Local Wisdom - Klong Pho Community): The community has a rich tradition of folk wisdom, with many residents possessing knowledge of traditional medicine, agriculture, and craftsmanship.
+    *   Culture Fact (Organization - Klong Pho Community): The community has several organizations that promote traditional culture and way of life, including the Klong Pho Community Development Center.
+    *   Culture Fact (Use - Klong Pho Community): Dok Khao is used as an ingredient in traditional desserts.
+    *   Culture Fact (Processing - Klong Pho Community): Dok Khao is used in traditional cooking methods such as steaming and boiling.
+    *   Culture Fact (Location - Tai Beung Community): Khok Salung Subdistrict, Phatthana Nikhom District, Lopburi Province
+    *   Culture Fact (Ethnic Group - Tai Beung Community): Tai Beung
+    *   Culture Fact (Community Highlight - Tai Beung Community): The Tai Beung community is known for its traditional way of life, with a strong emphasis on agriculture and water-based transportation. The community is surrounded by natural canals and waterways, making it an ideal location for farming and fishing.
+    *   Culture Fact (Name Etymology - Tai Beung Community): The name "Tai Beung" is derived from the Tai language, which reflects the community's cultural heritage.
+    *   Culture Fact (Environment - Tai Beung Community): The community is situated in a low-lying area with a high water table, making it prone to flooding during the rainy season. However, this also makes it an ideal location for farming and fishing.
+    *   Culture Fact (Local Wisdom - Tai Beung Community): The community has a rich tradition of folk wisdom, with many residents possessing knowledge of traditional medicine, agriculture, and craftsmanship.
+    *   Culture Fact (Organization - Tai Beung Community): The community has several organizations that promote traditional culture and way of life, including the Tai Beung Community Development Center.
+    *   Culture Fact (Use - Tai Beung Community): Dok Khao is used as an ingredient in traditional desserts.
+    *   Culture Fact (Processing - Tai Beung Community): Dok Khao is used in traditional cooking methods such as steaming and boiling.
+*   **Hallucinated Entities (Facts in Article but not Fact Sheet):**
+    *   The inference that the toxic saponin in Sesbania seeds "may also pose a risk to human health" (without direct support from the fact sheet for human risk).
+    *   The statement: "The market opportunity for Sesbania-based products is promising, particularly in the traditional medicine and herbal supplement industries."
+    *   The statement: "By leveraging the cultural significance and traditional uses of Sesbania, manufacturers can develop products that meet the needs of consumers and regulatory agencies."
+*   **Feedback:** The article successfully transferred all core trend facts, handled all "Not Found" and "None Found" science, compliance, safety, and toxicity facts appropriately, and accurately reproduced the Internal RAG Cultural fact and all source URLs. However, a significant amount of specific cultural details for both the Klong Pho and Tai Beung communities were dropped, leading to a 70% robustness score. The clarity score of 92% reflects generally accurate information and good handling of missing data, but is slightly reduced by a few instances of hallucination, primarily concerning market opportunities and an unsubstantiated inference about human health risk.

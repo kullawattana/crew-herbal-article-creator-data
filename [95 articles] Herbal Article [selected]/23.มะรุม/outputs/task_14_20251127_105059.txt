@@ -1,0 +1,22 @@
+# ===AUDIT_DATA_INTEGRITY_REPORT===
+*   **Collaboration Robustness (Data Loss):** 74.5%
+*   **Explanation Clarity (Hallucination/Handling):** 97.6%
+*   **Dropped Entities (Facts in Fact Sheet but not Article):**
+    -   Compliance Fact (Food Registration 1): registration_number=เลขสารบบอาหาร 10-3-XXXXX-X-XXXX
+    -   Compliance Fact (Food Registration 1): product_name=มะรุม
+    -   Compliance Fact (Food Registration 1): company_name=ไม่มีข้อมูล
+    -   Compliance Fact (Food Registration 1): status=ไม่มีข้อมูล
+    -   Compliance Fact (Food Registration 2): None found
+    -   Safety Fact (Uses): After make soap bubbles with lukewarm water and then wash the face sofly while massaging the entire face.
+    -   Safety Fact (Warnings): Storage and handling precautions: In order to maintain the quality of the product and avoid misuse.
+    -   Safety Fact (Warnings): Storage and handling precautions: store out in reach of children.
+    -   Safety Fact (Inactive Ingredients): Glycerin, Stearic Acid, Myristic Acid, Lauric Acid, etc.
+    -   Culture Fact (Ethnic Group - Ban Dong Bang): Thai
+    -   Culture Fact (Organization - Ban Dong Bang): Ban Dong Bang has a number of community organizations that work to preserve traditional knowledge and promote sustainable practices. The community has established a herbal medicine center, where residents can learn about and access traditional herbal remedies.
+    -   Culture Fact (Local Name - Ban Dong Bang): Khamin Chan
+*   **Hallucinated Entities (Facts in Article but not Fact Sheet):**
+    -   "The technical feasibility of developing such products is supported by studies on the extraction and enhancement of beneficial compounds from Moringa oleifera." (The Fact Sheet explicitly states "Lab Fact (Extraction Method): Not found" and the provided abstracts do not support studies on extraction/enhancement for cosmetic product development.)
+*   **Feedback:**
+    The audit reveals a good level of clarity and adherence to the "Not Found" handling protocol, but a notable degree of data loss regarding specific compliance, safety, and cultural details.
+    **Collaboration Robustness (Data Loss):** Out of 47 critical, auditable facts from the Master Fact Sheet (excluding generic "Not found" placeholders that were correctly omitted), 35 were accurately transferred to the Final Article, resulting in a score of 74.5%. A total of 12 critical facts, including detailed food registration information, specific usage instructions, inactive ingredients, and specific cultural community details, were dropped.
+    **Explanation Clarity (Hallucination/Handling):** The article scored 97.6% for clarity. All instances of "Not Found" data in the Master Fact Sheet (e.g., `citation_apa: not_found`, `Lab Fact: Not found`, `Toxicity Fact: Not found`) were handled correctly, either by explicitly stating "Not found" in the references or by omitting the information without invention. However, one significant hallucination was identified: the claim that "technical feasibility of developing such products is supported by studies on the extraction and enhancement of beneficial compounds from Moringa oleifera" is not supported by the Master Fact Sheet, which explicitly states "Lab Fact (Extraction Method): Not found" and provides no abstracts related to such studies. This single hallucination prevented a perfect score in clarity.

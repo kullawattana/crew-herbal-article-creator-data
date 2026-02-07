@@ -1,0 +1,11 @@
+{
+  "model": "meta/llama-3.3-70b-instruct",
+  "herbs": "Ocimum basilicum",
+  "runtime_sec": 535.14,
+  "cpu_percent": 4.7,
+  "memory_mb_change": -87.19,
+  "total_tokens": 0,
+  "prompt_tokens": 0,
+  "completion_tokens": 0,
+  "total_cost": 0.0
+}

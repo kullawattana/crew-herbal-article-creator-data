@@ -1,0 +1,27 @@
+# ===CULTURE_DATA===
+## Cultural Context for: Lelawadee (ลีลาวดี)
+### Finding 1
+* **source_url:** https://wikicommunity.sac.or.th/community/1835
+* **community_context:**
+    * **community_name:** Ban Tha Makharm (บ้านท่ามะขาม)
+    * **location:** Tambon Tanawsri, Amphoe Suan Phueng, Ratchaburi Province
+    * **ethnic_group:** Thai people of Karen ethnicity
+* **community_profile_summaries:**
+    * **community_highlight:** Ban Tha Makharm is a community of Thai people of Karen ethnicity with a long history of cultural identity. The area has a river, mountains, community forests, and abundant natural resources, making it a potential tourist destination for cultural and natural tourism. The community has developed itself into a major tourist destination in Amphoe Suan Phueng, with a Saturday-Sunday morning market called "Oo Poi Market" that generates income for the community and improves their quality of life.
+    * **name_etymology:** The name "Tha Makharm" comes from the first village head, Pu Khiao Khot, who planted a large makharm tree in the area. The tree has since died, but a nearby jamapa tree, also planted by Pu Khiao's second wife, remains. The jamapa tree is considered sacred and is used for worship and to fragrance the air.
+    * **community_environment:** The community has a strong connection to nature, with a river, mountains, and community forests providing abundant natural resources. The area is also home to a variety of flora and fauna, including the sacred jamapa tree.
+    * **local_wisdom:** The community has a deep understanding of the natural world and has developed traditional practices and beliefs surrounding the use of plants and natural resources. For example, the jamapa tree is considered sacred and is used for worship and to fragrance the air.
+    * **community_organizations:** The community has developed a number of organizations and initiatives aimed at promoting cultural and natural tourism, including the Oo Poi Market and a number of community-based tourism projects.
+* **specific_entities:**
+    * **local_names:**
+        * **Item 1:**
+            * **name:** Thuenyamangklong (ทึ้ยหมั่งคล๋อง)
+            * **context_quote:** "Tha Makharm" comes from the first village head, Pu Khiao Khot, who planted a large makharm tree in the area.
+    * **traditional_uses:**
+        * **Item 1:**
+            * **use:** Planting jamapa trees for worship and to fragrance the air
+            * **context_quote:** Planting jamapa trees for worship and to fragrance the air
+    * **processing_methods:**
+        * **Item 1:**
+            * **method:** Planting jamapa trees for worship and to fragrance the air
+            * **description_quote:** Planting jamapa trees for worship and to fragrance the air

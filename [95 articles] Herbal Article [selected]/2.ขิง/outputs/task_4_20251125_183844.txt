@@ -1,0 +1,28 @@
+# ===COMPLIANCE_DATA=== ## Thai FDA Status for: Zingiber officinale
+* **herb_name:** Zingiber officinale
+### Food Registrations
+* **Food Registration 1:**
+    * **registration_number:** 10-1-00155-5-0023
+    * **product_name:** ขิงผง / Ginger  Powder
+    * **company_name:** ร้าน ต เจริญ 88
+    * **status:** สถานะผลิตภัณฑ์(คงอยู่)\ สถานะสถานที่ (คงอยู่)
+* **Food Registration 2:**
+    * **registration_number:** 10-1-00337-5-0058
+    * **product_name:** โกโก้ ขิง (เครื่องดื่มโกโก้ปรุงสำเร็จชนิดผง)(ตราโกโก้ฮัท) / Cocoa Khing (Kokoa Hut Brand)
+    * **company_name:** ห้างหุ้นส่วนจำกัด ฟลาวเวอร์ ฟูด
+    * **status:** สถานะผลิตภัณฑ์(คงอยู่)\ สถานะสถานที่ (คงอยู่)
+* **Food Registration 3:**
+    * **registration_number:** 10-1-00450-1-0005
+    * **product_name:** ชาสมุนไพร ขิง (ตราเอ็นทู ที) / GINGER HERBAL TEA (N2 TEA BRAND)
+    * **company_name:** บริษัท คัลเลอร์-พลาส จำกัด
+    * **status:** สถานะผลิตภัณฑ์(คงอยู่)\ สถานะสถานที่ (คงอยู่)
+* **Food Registration 4:**
+    * **registration_number:** 10-1-00450-1-0025
+    * **product_name:** ชาสมุนไพร ขิง (ตรา จีอีโอ) / GINGER HERBAL TEA (GEO BRAND)
+    * **company_name:** บริษัท คัลเลอร์-พลาส จำกัด
+    * **status:** สถานะผลิตภัณฑ์(คงอยู่)\ สถานะสถานที่ (คงอยู่)
+* **Food Registration 5:**
+    * **registration_number:** 10-1-00450-1-0046
+    * **product_name:** จินเจอร์ - ขิง แคปซูล (ผลิตภัณฑ์เสริมอาหาร) / GINGER-KHING CAPSULE (DIETARY SUPPLEMENT PRODUCT)
+    * **company_name:** บริษัท คัลเลอร์-พลาส จำกัด
+    * **status:** สถานะผลิตภัณฑ์(คงอยู่)\ สถานะสถานที่ (คงอยู่)
