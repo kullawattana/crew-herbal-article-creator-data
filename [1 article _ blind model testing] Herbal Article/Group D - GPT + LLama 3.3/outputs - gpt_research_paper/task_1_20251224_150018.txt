@@ -1,0 +1,16 @@
+# ===TRENDS_DATA===
+## Wellness Trends for: Turmeric
+### Finding 1
+* **herb_name:** Turmeric
+* **wellness_context_summary:** Turmeric has seen a significant surge in popularity as a functional food ingredient, especially in the context of immune health during the COVID-19 pandemic. The Global Wellness Institute reports that, in the 14 weeks leading up to June 6, 2020, US retail sales of turmeric increased by 68% compared to the previous year. This trend is linked to consumers’ growing interest in foods and spices believed to bolster the immune system. While turmeric is celebrated for its potential health benefits, the article also notes that some experts caution against overreliance on supplements claiming immune-boosting properties, emphasizing the importance of evidence-based approaches. The broader context highlights turmeric as part of a larger movement toward holistic wellness, functional foods, and a more preventive approach to health.
+* **source_url:** https://globalwellnessinstitute.org/global-wellness-institute-blog/2020/07/14/accelerating-wellness-trends/
+
+### Finding 2
+* **herb_name:** Turmeric
+* **wellness_context_summary:** In the article exploring how traditional medicine is influencing modern skincare, turmeric is highlighted as a central botanical in Ayurveda. It is valued not only for its anti-inflammatory and balancing properties but also as a symbol of vitality and holistic well-being. Turmeric’s integration into skincare reflects a shift from quick-fix beauty solutions toward rituals that support inner and outer balance, emotional grounding, and overall resilience. The herb is recognized as both a cultural and therapeutic ingredient, offering benefits that go beyond topical effects to include emotional and spiritual alignment. Its resurgence in wellness trends is seen as part of a broader movement to reintroduce ancestral wisdom and sustainable practices into contemporary beauty and self-care.
+* **source_url:** https://globalwellnessinstitute.org/global-wellness-institute-blog/2025/10/21/ancient-beauty-modern-glow-how-traditional-medicine-is-quietly-transforming-skincare/
+
+### Finding 3
+* **herb_name:** Turmeric
+* **wellness_context_summary:** Turmeric (Curcuma longa) is listed among the most evidence-based immune-boosting herbs in the Global Wellness Institute’s synthesis on botanical therapies and hot springs. It is recommended for use in herbal teas, healing foods, infusions, and spa treatments to stimulate the immune system and enhance the body’s ability to combat illness. The article provides practical suggestions for integrating turmeric into wellness experiences, such as immune-boosting teas and culinary offerings, and emphasizes its role in holistic spa therapies. Turmeric’s inclusion underscores its well-established status in both traditional and modern wellness practices as a natural agent for supporting overall health and resilience.
+* **source_url:** https://globalwellnessinstitute.org/wp-content/uploads/2020/04/Immune-Boosting-Aroma-Bathing-at-Hot-Springs-Theme-Rains-Synthesis.pdf

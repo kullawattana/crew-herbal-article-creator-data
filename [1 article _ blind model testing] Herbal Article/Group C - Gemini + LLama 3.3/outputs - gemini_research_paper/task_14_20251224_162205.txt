@@ -1,0 +1,108 @@
+# ===AUDIT_DATA_INTEGRITY_REPORT===
+
+* **Collaboration Robustness (Data Loss):** 64%
+* **Explanation Clarity (Hallucination/Handling):** 88%
+
+---
+
+## Dropped Entities (Facts in Fact Sheet but not Article):
+
+### Trend Facts
+- None (all major trend facts included).
+
+### Science Facts
+- **Lab Fact (Experimental Method):** No specific experimental methods extracted from the snippets provided.  
+  (Not mentioned in article, but absence is justified.)
+- **Lab Fact (Extraction Method):** สารปร?  
+  (Not mentioned in article.)
+- **Lab Fact (Compound Identified):** สารกลูโ… (สารประกอบ?), องค์ประกอบ?  
+  (Not mentioned in article.)
+- **Lab Fact (Chromatography - TLC):** No chromatography details extracted from the snippets provided.  
+  (Not mentioned in article, but absence is justified.)
+- **Lab Fact (Pharmacological Finding):** No pharmacological findings extracted from the snippets provided.  
+  (Not mentioned in article, but absence is justified.)
+- **Lab Fact (Cosmetic or Clinical Effect):** Bioen?  
+  (Not mentioned in article.)
+- **Lab Fact (Quality Control):** No quality control observations extracted from the snippets provided.  
+  (Not mentioned in article, but absence is justified.)
+- **Science Fact (Abstracts):**  
+  - **Study 2** (TR instant granules, safety in rats, antioxidant gene upregulation, chlorogenic acid and curcumin, in silico docking, potential as safe nutraceutical)  
+  - **Study 3** (Curcuma caesia, oral cancer, cell line studies, GC-MS, furanodienone, molecular docking, CDK6, etc.)  
+  (Only Study 1 is quoted in detail in the article; Studies 2 and 3 are omitted.)
+
+### Compliance Facts
+- **Compliance Fact (Food Registration 1):** registration_number=10-1-00654-1-0112, product_name=ไก่ทอด รสสมุนไพร ... status=... (canceled)  
+- **Compliance Fact (Food Registration 2):** registration_number=10-1-00654-1-0117, product_name=ทอดมันปลาหมึก รสสมุนไพร ... status=... (canceled)  
+- **Compliance Fact (Food Registration 3):** registration_number=10-1-01454-1-0004, product_name=ขมิ้นชัน แคปซูล ... status=(existing)  
+- **Compliance Fact (Food Registration 4):** registration_number=10-1-04651-1-0012, product_name=ขมิ้นชัน บาย เอ ไรนา ... status=(existing)  
+- **Compliance Fact (Food Registration 5):** registration_number=10-1-05457-5-0241, product_name=เอวา ขมิ้นชัน ... status=(existing)  
+  (None of these specific product registrations or statuses are mentioned.)
+
+- **Compliance Fact (Safety Dosage):** Not found  
+- **Compliance Fact (Safety Warning):** Not found  
+  (Not mentioned, but "not found" is handled as absence.)
+
+### Safety Facts
+- **Safety Fact (Active Ingredient):** Tocopherol, Hydrolyzed Collagen, Curcuma Longa (Turmeric) Root Oil  
+- **Safety Fact (Ingredient Purpose):** Anti-wrinkle, moisturizes  
+- **Safety Fact (Uses):** Anti-wrinkle, moisturizes, nourishes and repairs skin, keeping skin hydrated, soft and smooth.  
+- **Safety Fact (Warnings):** For external use only...  
+- **Safety Fact (Directions):** 1. After cleansing...  
+- **Safety Fact (Other Info):** Please store in a cool, dry place away from direct sunlight.  
+- **Safety Fact (Inactive Ingredients):** Curcuma Longa (Turmeric) Root Oil, Simmondsia Chinensis (Jojoba) Seed Oil, etc.  
+- **Safety Fact (Questions):** Not found  
+  (None of these detailed safety/instruction facts are present.)
+
+### Toxicity Facts
+- **Toxicity Fact (Summary):** Partially included; the article mentions liver injury and side effects, but omits detailed statistics (incidence rate 1:10,000 to 1:100,000).
+- **Toxicity Fact (Mechanism):** Article mentions "idiosyncratic, potentially immunologically mediated, with an association with the HLA allele B*35:01," which is accurate.
+- **Toxicity Fact (Side Effects):** Dermatitis, Gastrointestinal upset, Fatigue, Nausea, Poor appetite, Dark urine, Jaundice  
+  (Partially included.)
+- **Toxicity Fact (Case Reports):** Case 1, 2, 3 (details of individual cases not included).
+
+### Culture Facts
+- Most major community, location, and processing facts for Dong Bang Agricultural Group, Ban Thoop Hom Samunphrai, and Wat Phra Chetuphon Wimon Mangkhalaram are summarized or included in the article, but detailed breakdowns, such as specific ethnic groups, environmental details, and processing details, are not explicitly listed.
+
+### Internal RAG Fact (Herbal/Cultural)
+- The article summarizes these well in the "Herbal Knowledge Summary" section.
+
+### Source URLs
+- All sources are listed.
+
+---
+
+## Hallucinated Entities (Facts in Article but not Fact Sheet):
+
+- None detected. All key claims in the article are traceable to the Master Fact Sheet.
+- The article does NOT invent any scientific citations. For the research abstracts, it uses a blockquote and follows the "not found" policy for references.
+
+---
+
+## Not Found Handling
+
+- **citation_apa: not_found**:  
+  The article lists "[1] not found" under References, which is correct and matches the instruction to handle "not found" as a finding, not a failure. No invented citations are present.
+
+---
+
+## Feedback
+
+**Collaboration Robustness (Data Loss) [64%]:**  
+Many key facts from the Master Fact Sheet are missing or only partially represented in the Final Article. Notably, the detailed compliance data (specific product registrations), detailed safety/instruction facts, and two out of three scientific study abstracts are omitted. The article tends to summarize or generalize rather than provide a comprehensive fact-by-fact transfer, especially for compliance, safety, and some culture facts. However, the most critical trend, scientific, and toxicity facts are included, and cultural summaries are present.
+
+**Explanation Clarity (Hallucination/Handling) [88%]:**  
+The article does not hallucinate data; all major assertions are traceable to the fact sheet. The handling of "not found" citations is correct. However, the article could have been clearer by explicitly stating when certain data (such as safety dosage or detailed compliance facts) were not found, rather than omitting them entirely. The absence of hallucinated facts is a strong point.
+
+---
+
+# Summary Table
+
+| Category         | Score | Dropped Entities                                                      | Hallucinated Entities | Not Found Handling      |
+|------------------|-------|----------------------------------------------------------------------|----------------------|------------------------|
+| Data Loss        | 64%   | See above (notably, compliance, safety, and some science facts)      | None                 | Correct                |
+| Hallucination    | 88%   | None                                                                 | None                 | Correct                |
+
+---
+
+**Final recommendation:**  
+The data pipeline is robust in avoiding hallucination and handles "not found" citations correctly. However, there is significant data loss, especially regarding compliance, safety, and some science/culture details. For full compliance, the article should explicitly include all critical facts from the Master Fact Sheet, especially product registrations, detailed safety information, and all scientific study abstracts.

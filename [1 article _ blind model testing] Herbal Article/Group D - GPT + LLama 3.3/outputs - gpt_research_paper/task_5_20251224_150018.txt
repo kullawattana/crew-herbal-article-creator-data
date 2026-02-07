@@ -1,0 +1,54 @@
+# ===SAFETY_DATA===
+## International Safety Data for: Curcuma longa
+* **herb_name:** Curcuma longa
+* **source_browsed:** https://dailymed.nlm.nih.gov/dailymed/drugInfo.cfm?setid=18941fbb-3b23-4443-9d84-9aa5fa917872
+
+### Drug Facts Label
+
+* **active_ingredients:**
+    * **Ingredient 1:**
+        * **name:** Cardiospermum (Cardiospermum grandiflorum whole)
+        * **strength:** 10X HPUS in 60 mL
+        * **purpose:** Anti-Fungal
+    * **Ingredient 2:**
+        * **name:** Curcuma longa (whole)
+        * **strength:** 10C HPUS in 60 mL
+        * **purpose:** Anti-microbial
+
+* **uses:** 
+    • Temporarily relieves swelling, itching, rash or skin irritation/inflammation.
+
+* **warnings:** 
+    For external use only.
+
+    Do not use
+    • on children under 2 years of age unless directed by a doctor
+    • Avoid contact with eyes.
+
+    When using this product
+    • mild increase in irritation or burning may occur.
+
+    Stop use and ask a doctor if
+    • If symptoms persist or inflammation increases after weeks of use or if the itch increases.
+    • Increase in redness on skin.
+
+    Pregnant or Breast Feeding
+    • Ask a Health Professional before use.
+
+    Keep out of reach of children.
+    If swallowed, get medical help or contact a Poison Control Center right away.
+
+* **directions:** 
+    Do Not use on Children less than 2 Years
+    • Please perform a patch test for sensitive skin. Take a small amount with your finger and gently apply it on the affected area. Apply Liberally and use often till symptoms subside.
+
+* **other_information:** 
+    Store in a cool dry place.
+
+* **inactive_ingredients:** 
+    Azadirachta Indica, Glycerin, Hydroxyethylcellulose, Peppermint oil, Olive Oil, Karanja oil, Sweet flag oil, Sweet Indrajao oil, Xanthan Gum, Water (Aqua)
+
+* **questions:** 
+    +1-734-726-0148  
+    You may also report serious side effects to this phone number.  
+    Mon-Fri 9:00 AM - 5:00 PM

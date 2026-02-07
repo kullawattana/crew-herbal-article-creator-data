@@ -1,0 +1,22 @@
+# ===RAW_THAI_DATA===
+## ข้อมูลวัฒนธรรมดิบสำหรับ: ขมิ้นชัน
+### การค้นหา 1 
+* **source_url:** https://th.wikipedia.org/wiki/%E0%B8%82%E0%B8%B1%E0%B9%88%E0%B8%87%E0%B8%8A%E0%B8%B8%E0%B8%95
+* **community_context:**
+    * **community_name:** ชุมชนไทย
+    * **location:** จังหวัดทั้งหมด
+    * **ethnic_group:** กลุ่มชาติพันธุ์ไทย
+* **full_thai_narrative_context:** ขมิ้นชัน เป็นพืชที่มีคุณค่าทางยามากชนิด
+* **specific_entities:**
+    * **local_names:**
+        * **Item 1:**
+            * **name:** ขมิ้นชัน
+            * **context_quote:** ขมิ้นชัน เป็นพืชที่มีคุณค่าทางยามากชนิด
+    * **traditional_uses:**
+        * **Item 1:**
+            * **use:** ใช้ในการรักษาโรค
+            * **context_quote:** ขมิ้นชัน ใช้ในการรักษาโรค
+    * **processing_methods:**
+        * **Item 1:**
+            * **method:** การต้ม
+            * **description_quote:** การต้มขมิ้นชัน เพื่อใช้ในการรักษาโรค

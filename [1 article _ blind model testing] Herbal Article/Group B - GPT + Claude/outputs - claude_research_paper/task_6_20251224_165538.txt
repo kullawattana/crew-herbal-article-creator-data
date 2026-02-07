@@ -1,0 +1,28 @@
+# ===TOXICITY_DATA===
+## Clinical Toxicity Data for: Curcuma longa
+* **herb_name:** Curcuma longa
+* **source_browsed:** https://www.ncbi.nlm.nih.gov/books/NBK548561/
+
+### Clinical Summary
+* **toxicity_summary:**  
+Curcuma longa (turmeric) has a long history of use in culinary and traditional medicine settings, with curcumin as its main active component. Historically, turmeric and curcumin were considered safe, with only occasional transient serum enzyme elevations reported in clinical studies. However, recent years have seen an increase in well-documented cases of acute liver injury associated with turmeric supplements, especially those containing highly bioavailable forms of curcumin (often combined with piperine or formulated as lipid nanoparticles). The latency period for liver injury typically ranges from a few weeks to eight months, with most cases developing symptoms within 1–4 months. Clinical presentation is usually insidious, starting with fatigue, nausea, and poor appetite, followed by dark urine and jaundice. Laboratory findings show marked elevations in serum aminotransferases (often >1000 U/L) and mild increases in alkaline phosphatase. Some patients develop autoantibodies, and the clinical and histological features may mimic autoimmune hepatitis. The majority of cases resolve rapidly upon cessation of turmeric, but rare instances of acute liver failure and death have occurred, particularly if use is continued after symptom onset. Turmeric is now recognized as the most common cause of clinically apparent herbal-related liver injury in the U.S., though the absolute risk remains very low (estimated at 1:10,000 to 1:100,000 users).
+
+* **mechanism_of_injury:**  
+The hepatotoxicity associated with turmeric appears to be idiosyncratic and likely immunologically mediated. A strong association has been found with the HLA-B*35:01 allele, suggesting immune system involvement—possibly through T-cell recognition of curcumin-modified self-antigens on hepatocytes. This allele is also associated with liver injury from other polyphenol-rich herbs (e.g., green tea, Garcinia cambogia, fo-ti). The mechanism is not dose-dependent and is distinct from direct hepatotoxicity.
+
+* **reported_side_effects:**  
+- Gastrointestinal upset (mild, common)
+- Dermatitis (mild, rare)
+- Transient serum enzyme elevations (infrequent)
+- Jaundice, pruritus, and fatigue (in acute liver injury cases)
+- Autoantibody development (in some cases of hepatotoxicity)
+- Rash and fever (uncommon, mild if present)
+
+* **case_report_summary:**  
+- Multiple recent case reports and small series detail acute hepatocellular liver injury with jaundice following turmeric supplement use, particularly high-bioavailability curcumin formulations.
+- Latency to onset is typically 1–4 months, with recovery usually within 1–3 months after stopping turmeric.
+- Most patients recover fully after discontinuation, but rare cases of acute liver failure and death have been reported.
+- Case 1: 57-year-old woman developed hepatitis and jaundice 2–3 weeks after starting turmeric (500 mg daily); recovered fully within 3 months after stopping.
+- Case 2: 35-year-old man developed hepatitis with jaundice after 2 months of curcumin (1000 mg with piperine); recovered within 2 months.
+- Case 3: 62-year-old woman developed fatal acute liver failure 14 months after starting turmeric (500 mg daily); died despite discontinuation and supportive care.
+- Most cases were associated with HLA-B*35:01; the majority resolved without chronic injury if turmeric was discontinued promptly.

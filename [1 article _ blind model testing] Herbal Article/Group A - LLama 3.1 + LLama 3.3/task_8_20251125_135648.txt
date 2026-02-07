@@ -1,0 +1,33 @@
+# ===CULTURE_DATA===
+
+## Cultural Context for: Abhai Bhubejhr (อภัยภูเบศร)
+
+### Finding 1
+* **source_url:** https://db.sac.or.th/museum/museum-detail/873
+* **community_context:**
+    * **community_name:** Abhai Bhubejhr Museum of Thai Traditional Medicine
+    * **location:** Prachinburi Province
+    * **ethnic_group:** Thai
+* **community_profile_summaries:**
+    * **community_highlight:** The Abhai Bhubejhr Museum of Thai Traditional Medicine is a significant cultural institution in Prachinburi Province, showcasing the history and development of traditional Thai medicine. The museum is located in a historic building that was once the residence of Prince Abhai Bhubejhr, a prominent figure in Thai medicine. The museum features a collection of traditional Thai medical texts, artifacts, and exhibits on the history of Thai medicine.
+    * **name_etymology:** The name "Abhai Bhubejhr" is derived from the name of Prince Abhai Bhubejhr, who was a renowned physician and traditional medicine practitioner in Thailand. The name is a combination of the Thai words "Abhai," meaning "medicine," and "Bhubejhr," which is the name of the prince.
+    * **community_environment:** The museum is situated in a historic building that is over 100 years old, and is surrounded by a beautiful garden that features a variety of traditional Thai medicinal plants. The building itself is a fine example of traditional Thai architecture, with intricate carvings and ornate details.
+    * **local_wisdom:** The museum showcases the local wisdom and traditional knowledge of Thai medicine, which has been passed down through generations of physicians and practitioners. The exhibits feature a range of traditional Thai medical texts, artifacts, and equipment, which provide insight into the history and development of Thai medicine.
+    * **community_organizations:** The museum is managed by the Abhai Bhubejhr Foundation, which is a non-profit organization dedicated to promoting and preserving traditional Thai medicine. The foundation works closely with local communities and organizations to promote the use of traditional Thai medicine and to support the development of traditional Thai medical practitioners.
+* **specific_entities:**
+    * **local_names:**
+        * **Item 1:**
+            * **name:** Khamin Chan
+            * **context_quote:** "Khamin Chan is a type of traditional Thai medicine that is used to relieve stomach pain and digestive problems."
+    * **traditional_uses:**
+        * **Item 1:**
+            * **use:** Relieve stomach pain and digestive problems
+            * **context_quote:** "Khamin Chan is used to relieve stomach pain and digestive problems, and is also used to treat a range of other health conditions, including fever and inflammation."
+    * **processing_methods:**
+        * **Item 1:**
+            * **method:** Drying
+            * **description_quote:** "The traditional method of drying Khamin Chan involves spreading the leaves out in the sun and allowing them to dry slowly over several days."
+
+### Finding 2
+* **source_url:** https://www.tat8.com/thai/pj/p_jaoprayaapai.htm
+* ... (etc.)

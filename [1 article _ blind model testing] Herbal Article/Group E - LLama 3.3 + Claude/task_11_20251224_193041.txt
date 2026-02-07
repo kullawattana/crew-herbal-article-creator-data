@@ -1,0 +1,73 @@
+# ===MASTER_FACT_SHEET===
+
+## Consolidated Facts for: Turmeric (ขมิ้นชัน / Curcuma longa)
+
+* **Trend Fact:** The COVID-19 pandemic has accelerated wellness trends, including the use of superfoods that claim to boost immunity. Turmeric, along with ginger and garlic, has seen a significant increase in sales as consumers search for food ingredients to enhance their immune system. This trend is expected to become a permanent feature in the post-pandemic era.
+* **Trend Fact:** The trend of superfood lattes is on the rise, with ingredients such as turmeric being used to boost their nutritional and anti-inflammatory properties. These lattes are becoming increasingly popular as consumers focus on balancing their immunity and using food as functional medicine.
+* **Trend Fact:** Traditional medicine is transforming the skincare industry by incorporating natural ingredients and holistic practices. Ayurveda, for example, uses turmeric, neem, and amla to promote skin health and well-being. These traditional practices are being rediscovered and reinterpreted in modern skincare, offering a more holistic and sustainable approach to beauty.
+* **Trend Fact:** Malaysia's wellness scene is deeply rooted in its multicultural traditions and harmony with nature. The country's cuisine reflects its natural and cultural heritage, with herbs and spices like turmeric being celebrated for their healing properties. Malaysia's wellness ecosystem offers a range of options, including sophisticated fitness options, spa and beauty treatments, and world-class healthcare and medical facilities.
+
+* **Lab Fact (Experimental Method):** Extraction method: Not specified; Analysis method: TLC, GC-MS
+* **Lab Fact (Identified Compounds):** Curcumin, Turmerone
+* **Lab Fact (Chromatography - TLC):** Not specified
+* **Lab Fact (Pharmacological Finding):** Antibacterial activity against Staph. aureus
+* **Lab Fact (Quality Control):** Not specified
+* **Lab Fact (Notes):** The study suggests that Curcuma longa extract has potential for topical antibacterial formulation
+
+* **Compliance Fact (Food Registration 1):** registration_number=10-1-00654-1-0112, product_name=Fried chicken with herbs (Turmeric), company_name=Han Business-International Co., Ltd., status=Cancelled
+* **Compliance Fact (Food Registration 2):** registration_number=10-1-00654-1-0117, product_name=Fried squid with herbs (Turmeric), company_name=Han Business-International Co., Ltd., status=Cancelled
+* **Compliance Fact (Food Registration 3):** registration_number=10-1-01454-1-0004, product_name=Turmeric Capsule, company_name=Monpunporn Group Co., Ltd., status=Active
+* **Compliance Fact (Food Registration 4):** registration_number=10-1-04651-1-0012, product_name=Curcuma by A Rina, company_name=A Miracle Co., Ltd., status=Active
+* **Compliance Fact (Food Registration 5):** registration_number=10-1-05457-5-0241, product_name=Ava Turmeric, company_name=Senjuree Co., Ltd., status=Active
+
+* **Safety Fact (Active Ingredient):** Turmeric, strength: 30 [hp_C] in 1 mL
+* **Safety Fact (Uses):** For hooved animals. Swelling, Proud Flesh, Stiffness, Sores, Cuts, Burns, Wounds, Scurf, Sutures, Injury, Stress, Pain
+* **Safety Fact (Warnings):** Nontoxic, odor free, child and pet safe, dye free, non-greasy, hypoallergenic, foal safe, alcohol free, tasteless, face/eye safe, harmless if ingested, all natural
+* **Safety Fact (Directions):** 5-10 sprays onto inflamed areas, sores, cuts, proud flesh, burns, wounds, sore muscles/stiffness/pain, sutures, scurf. Use adjunctively with standard measures of care. Reapply often for best results. Always initially spray with more; less as it heals. Convert stress as from sporting activities, traveling anxiety, excitability, nervousness, cribbing and irritability into more calmness, focus and rapport: spray ears, face, nose, both sides of neck and along spine. You can also spray into water and onto feed. Generally works immediately to within 5 minutes. Lasts ¼ - 8 hr.
+* **Safety Fact (Other Info):** Sea Minerals, Silver, Water
+* **Safety Fact (Inactive Ingredients):** Sea Minerals, Silver, Water
+* **Safety Fact (Questions):** SprayAndHeal.com
+
+* **Toxicity Fact (Summary):** Turmeric and its extract curcumin are generally safe but have recently been linked, especially in high-bioavailability forms, to rare cases of immune-mediated acute liver injury that typically resolve after stopping use, though severe outcomes can occur if use continues.
+* **Toxicity Fact (Mechanism):** The exact mechanism of liver injury is not well understood, but it is thought to be related to the immune system's response to curcumin.
+* **Toxicity Fact (Side Effects):** There is no scientific evidence that curcumin reduces inflammation, and turmeric supplements are associated with rare but potentially serious liver injuries, particularly in genetically susceptible individuals.
+* **Toxicity Fact (Case Reports):** There have been reports of liver injury in individuals taking turmeric supplements, but the exact number of cases is not well established.
+
+* **Culture Fact (Community - Thai Community):** Thai Community
+* **Culture Fact (Location - Thai Community):** All Provinces
+* **Culture Fact (Ethnic Group - Thai Community):** Thai Ethnic Group
+* **Culture Fact (Community Highlight - Thai Community):** The Thai community has a rich tradition of using herbs for medicinal purposes, with Khamin Chan being one of the most valued plants due to its numerous health benefits and versatility in treatment.
+* **Culture Fact (Name Etymology - Thai Community):** The name "Khamin Chan" is derived from the Thai language, with "Khamin" referring to the turmeric family and "Chan" signifying a specific type within this family, highlighting the plant's classification and cultural significance.
+* **Culture Fact (Environment - Thai Community):** The community environment plays a crucial role in the cultivation and use of Khamin Chan, with the plant thriving in Thailand's tropical climate and being integrated into local ecosystems for sustainable use.
+* **Culture Fact (Local Wisdom - Thai Community):** Local wisdom surrounding Khamin Chan includes its use in traditional medicine for various ailments, showcasing the community's understanding of herbal remedies and their application in everyday life.
+* **Culture Fact (Organization - Thai Community):** Community organizations often promote the use and preservation of Khamin Chan through workshops, farming initiatives, and educational programs, ensuring the continuation of traditional knowledge and practices.
+* **Culture Fact (Local Name - Thai Community):** Khamin Chan is a plant with high medicinal value.
+* **Culture Fact (Use - Thai Community):** Used in disease treatment
+* **Culture Fact (Processing - Thai Community):** Boiling Khamin Chan for use in disease treatment.
+* **Culture Fact (Source - Thai Community):** https://th.wikipedia.org/wiki/%E0%B8%82%E0%B8%B1%E0%B9%88%E0%B8%87%E0%B8%8A%E0%B8%B8%E0%B8%95
+
+* **Culture Fact (Community - Thai Herbal Community):** Thai Herbal Community
+* **Culture Fact (Location - Thai Herbal Community):** Nationwide
+* **Culture Fact (Ethnic Group - Thai Herbal Community):** Thai
+* **Culture Fact (Community Highlight - Thai Herbal Community):** No herbal-related information found.
+* **Culture Fact (Name Etymology - Thai Herbal Community):** No herbal-related information found.
+* **Culture Fact (Environment - Thai Herbal Community):** No herbal-related information found.
+* **Culture Fact (Local Wisdom - Thai Herbal Community):** No herbal-related information found.
+* **Culture Fact (Organization - Thai Herbal Community):** No herbal-related information found.
+* **Culture Fact (Local Name - Thai Herbal Community):** No local names found
+* **Culture Fact (Use - Thai Herbal Community):** No traditional uses found
+* **Culture Fact (Processing - Thai Herbal Community):** No processing methods found
+* **Culture Fact (Source - Thai Herbal Community):** https://www.sac.or.th/db/knowledge/
+
+* **Internal RAG Fact (Herbal):** Unfortunately, the provided internal knowledge context does not explicitly mention ขมิ้นชัน (Curcuma longa) **JSON: [Herbs_traditional_Thai_medicine_in_the_lives_of_Thai_people.json, p.N/A] | PDF: [Romprayom-2563.pdf, p.9]**. However, it discusses the use of traditional Thai medicine and herbs in general, highlighting their potential benefits and cost-effectiveness **JSON: [Herbs_traditional_Thai_medicine_in_the_lives_of_Thai_people.json, p.N/A] | PDF: [Romprayom-2563.pdf, p.32]**. The context also touches on the importance of using locally grown and chemical-free plants for better health **JSON: [Herbs_traditional_Thai_medicine_in_the_lives_of_Thai_people.json, p.N/A] | PDF: [Romprayom-2563.pdf, p.17]**. Despite the lack of direct information on Curcuma longa, the context emphasizes the value of traditional Thai herbal medicine and its applications **JSON: [Herbs_traditional_Thai_medicine_in_the_lives_of_Thai_people.json, p.N/A] | PDF: [Romprayom-2563.pdf, p.9]**. Overall, while the specific herb ขมิ้นชัน (Curcuma longa) is not mentioned, the discussion around traditional Thai medicine and its benefits provides a relevant background **JSON: [Herbs_traditional_Thai_medicine_in_the_lives_of_Thai_people.json, p.N/A] | PDF: [Romprayom-2563.pdf, p.32]**.
+
+* **Internal RAG Fact (Cultural):** Turmeric, or ขมิ้นชัน in Thai, has been utilized in Thai traditional medicine for a long time. It is known for its healing properties and is often used in various dishes, including curries and soups. The innovation of nam prik, a type of Thai chili paste, has also been influenced by turmeric, which adds a spicy flavor to meals and helps with digestion. Additionally, turmeric has been used as a medicine for many years, and its knowledge has been passed down from ancient times to the present. It is essential for everyone to pay attention to their health and be mindful of what they eat, as consuming the right foods can help prevent illnesses and reduce healthcare costs. Furthermore, turmeric is believed to have various health benefits, including reducing inflammation and improving cognitive function. Overall, turmeric is a valuable herb in Thai culture, and its uses and benefits are still being discovered and appreciated today **JSON: [Herbal_processing.json, p.N/A] | PDF: [herbal_wild_plants.pdf, p.N/A]**.
+
+* **Source URL (Trend):** https://globalwellnessinstitute.org/global-wellness-institute-blog/2020/07/14/accelerating-wellness-trends/
+* **Source URL (Trend):** https://globalwellnessinstitute.org/global-wellness-institute-blog/2023/01/04/nutrition-for-healthspan-initiative-for-2022-trends/
+* **Source URL (Trend):** https://globalwellnessinstitute.org/global-wellness-institute-blog/2025/10/21/ancient-beauty-modern-glow-how-traditional-medicine-is-quietly-transforming-skincare/
+* **Source URL (Trend):** https://globalwellnessinstitute.org/wellness-in-malaysia/
+* **Source URL (Safety):** https://dailymed.nlm.nih.gov/dailymed/drugInfo.cfm?setid=dc04003b-a2c4-f3cf-64cb-9c8fdb4b03ef&audience=consumer
+* **Source URL (Toxicity):** https://en.wikipedia.org/wiki/Curcuma_longa
+* **Source URL (Culture):** https://th.wikipedia.org/wiki/%E0%B8%82%E0%B8%B1%E0%B9%88%E0%B8%87%E0%B8%8A%E0%B8%B8%E0%B8%95
+* **Source URL (Culture):** https://www.sac.or.th/db/knowledge/

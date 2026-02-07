@@ -1,0 +1,85 @@
+# ===CULTURE_DATA===
+
+## Cultural Context for: Turmeric (ขมิ้นชัน)
+
+### Finding 1
+* **source_url:** https://db.sac.or.th/museum/museum-detail/873
+* **community_context:**
+    * **community_name:** Dong Bang Agricultural Group
+    * **location:** Prachinburi Province
+    * **ethnic_group:** Thai
+* **community_profile_summaries:**
+    * **community_highlight:** The Dong Bang Agricultural Group is recognized for its expertise in organic herbal cultivation, especially turmeric. This community supplies high-quality raw materials to hospitals, where herbs are processed into capsules, herbal drinks, teas, cosmetics, and other products. Their strict quality control measures ensure residue-free ingredients. The community's strong collaboration with the Abhaibhubejhr Thai Traditional Medicine Museum enhances knowledge preservation and dissemination, making them a leader in integrating traditional herbal wisdom with modern production standards and generating a stable income for local families.
+    * **name_etymology:** No herbal-related information found.
+    * **community_environment:** The community is situated in Prachinburi Province, an area suitable for organic agriculture. The favorable environment supports the cultivation of various medicinal herbs, with a focus on sustainable and chemical-free practices to ensure the quality and safety of herbal products.
+    * **local_wisdom:** The Dong Bang Agricultural Group utilizes traditional Thai medical knowledge, passed down through generations, to guide the cultivation, selection, and processing of turmeric and other herbs. Their expertise is evident in their ability to transform raw herbs into accessible forms, such as capsules, making traditional remedies more convenient for contemporary users.
+    * **community_organizations:** The group operates in close partnership with the Abhaibhubejhr Thai Traditional Medicine Museum and maintains a dedicated Thai pharmacy, Pho Ngoen-Abhaibhubejhr Osot, which provides herbal consultations and decoctions. These organizations play a crucial role in supporting the community's economic and knowledge-sharing activities.
+* **specific_entities:**
+    * **local_names:**
+        * **Item 1:**
+            * **name:** Turmeric
+            * **context_quote:** Turmeric comes from the southern region.
+    * **traditional_uses:**
+        * **Item 1:**
+            * **use:** Used as an ingredient in traditional Thai medicines, ancient remedies, and various herbal products.
+            * **context_quote:** Herbal medicines produced by the hospital have become high-quality products in the herbal medicine market due to advanced processing methods, such as encapsulating herbs that are difficult to consume, making them easy to take.
+    * **processing_methods:**
+        * **Item 1:**
+            * **method:** Processing turmeric into capsules, liquid medicines, teas, cosmetics, and herbal drinks.
+            * **description_quote:** The products undergo research and strict selection of high-quality, residue-free raw materials.
+
+---
+
+### Finding 2
+* **source_url:** https://wikicommunity.sac.or.th/community/2737
+* **community_context:**
+    * **community_name:** Ban Thoop Hom Samunphrai Bang Nam Phueng
+    * **location:** Bang Nam Phueng Subdistrict, Phra Pradaeng District, Samut Prakan Province
+    * **ethnic_group:** Mon (Raman), Thai of Chinese descent
+* **community_profile_summaries:**
+    * **community_highlight:** Ban Thoop Hom Samunphrai is a community enterprise that specializes in producing and processing local herbs, including turmeric, into mosquito-repellent incense, herbal sprays, and other handcrafted products. The group leverages traditional wisdom to create value-added goods, such as natural-dyed fabrics and eco-friendly products, supporting local tourism and offering educational workshops for visitors and youth. Their initiatives preserve local heritage while promoting sustainable livelihoods.
+    * **name_etymology:** No herbal-related information found.
+    * **community_environment:** Located in the Bang Nam Phueng area, the community benefits from a rich variety of local herbs and a supportive environment for small-scale agriculture and handicrafts. The natural surroundings provide abundant raw materials for herbal product development.
+    * **local_wisdom:** The community applies inherited knowledge of herbal properties, particularly turmeric, for practical uses such as mosquito repellents and natural dyes. Skills are passed down and shared through workshops, ensuring the survival of traditional practices in a modern context.
+    * **community_organizations:** The Ban Thoop Hom Samunphrai community enterprise organizes collective production, knowledge transfer, and tourism activities, fostering strong collaboration among members and with external visitors. These organizations help sustain the community's herbal wisdom and economic resilience.
+* **specific_entities:**
+    * **local_names:**
+        * **Item 1:**
+            * **name:** Turmeric
+            * **context_quote:** Uncle Toi switched to using local herbs such as turmeric, kaffir lime, cinnamon, citronella, neem leaves, etc.
+    * **traditional_uses:**
+        * **Item 1:**
+            * **use:** Using turmeric as an ingredient in herbal incense to repel mosquitoes.
+            * **context_quote:** Producing herbal mosquito-repellent incense from natural raw materials, herbal sprays, and other products derived from local wisdom.
+    * **processing_methods:**
+        * **Item 1:**
+            * **method:** Processing turmeric into herbal incense and herbal sprays.
+            * **description_quote:** Local herbs such as citronella, turmeric, neem leaves, and cinnamon are grown for use in incense production.
+
+---
+
+### Finding 3
+* **source_url:** https://db.sac.or.th/inscriptions/inscribe/detail/17721
+* **community_context:**
+    * **community_name:** Not specified (Wat Phra Chetuphon Wimon Mangkhalaram)
+    * **location:** Phra Borom Maha Ratchawang Subdistrict, Phra Nakhon District, Bangkok
+    * **ethnic_group:** Not specified (but refers to ancient Thai medical texts)
+* **community_profile_summaries:**
+    * **community_highlight:** Wat Phra Chetuphon Wimon Mangkhalaram is renowned for its stone inscriptions of traditional Thai medical knowledge, including the uses and properties of turmeric. These records, commissioned by King Rama III, serve as invaluable references for both the public and practitioners, ensuring the preservation and accessibility of ancient herbal wisdom for disease treatment.
+    * **name_etymology:** No herbal-related information found.
+    * **community_environment:** The temple environment is a center for cultural and intellectual exchange, hosting historic inscriptions that detail the medicinal uses of herbs like turmeric, thus fostering a legacy of public health education.
+    * **local_wisdom:** The knowledge inscribed at Wat Pho represents the culmination of generations of herbal wisdom, particularly regarding the medicinal uses of turmeric in traditional remedies. This legacy continues to inspire contemporary studies and applications in Thai medicine.
+    * **community_organizations:** The temple itself functions as a knowledge hub, with its medical inscriptions and educational activities preserving and disseminating traditional herbal practices to the wider community.
+* **specific_entities:**
+    * **local_names:**
+        * **Item 1:**
+            * **name:** Turmeric
+            * **context_quote:** The inscription of medical recipes at Wat Phra Chetuphon Wimon Mangkhalaram (regarding the properties of medicines, spices, and herbs: coriander, turmeric, wild turmeric, dong dueng, asafoetida, camphor, musk, borneol, Chinese gold amalgam, and Western gold amalgam).
+    * **traditional_uses:**
+        * **Item 1:**
+            * **use:** Used as an ingredient in disease-treating formulas according to ancient Thai medical texts.
+            * **context_quote:** Describes the properties of various spices and herbs, including turmeric, for public study and application in disease treatment using herbs.
+    * **processing_methods:**
+        * **Item 1:**
+            * **method:** Recording medical formulas and the properties of turmeric on stone inscriptions.
+            * **description_quote:** King Rama III ordered Phra Bamrern Ratchapet to inscribe the medical texts on stone tablets, which were then placed in various temple pavilions.

@@ -1,0 +1,11 @@
+{
+  "model": "meta/llama-3.3-70b-instruct",
+  "herbs": "Curcuma longa",
+  "runtime_sec": 594.38,
+  "cpu_percent": -3.9,
+  "memory_mb_change": -20.03,
+  "total_tokens": 0,
+  "prompt_tokens": 0,
+  "completion_tokens": 0,
+  "total_cost": 0.0
+}

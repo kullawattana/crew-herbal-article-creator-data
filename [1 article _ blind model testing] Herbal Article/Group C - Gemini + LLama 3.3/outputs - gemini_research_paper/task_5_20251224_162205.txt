@@ -1,0 +1,42 @@
+```
+# ===SAFETY_DATA===
+## International Safety Data for: Curcuma longa
+* **herb_name:** Curcuma longa
+* **source_browsed:** https://dailymed.nlm.nih.gov/dailymed/drugInfo.cfm?setid=2351796b-7f99-8377-e063-6394a90a4623
+### Drug Facts Label
+* **active_ingredients:**
+    * **Ingredient 1:**
+        * **name:** Tocopherol
+        * **strength:** Not found
+        * **purpose:** Anti-wrinkle, moisturizes
+    * **Ingredient 2:**
+        * **name:** Hydrolyzed Collagen
+        * **strength:** Not found
+        * **purpose:** Anti-wrinkle, moisturizes
+    * **Ingredient 3:**
+        * **name:** Curcuma Longa (Turmeric) Root Oil
+        * **strength:** Not found
+        * **purpose:** Anti-wrinkle, moisturizes
+* **uses:** Anti-wrinkle, moisturizes, nourishes and repairs skin, keeping skin hydrated, soft and smooth.
+* **warnings:** For external use only
+-   
+
+Do not use on damaged or broken skin
+-   
+
+When using this product keep out of eyes. Rinse with water to remove.
+  
+
+Stop use and ask a doctor if rash occurs
+-   
+
+Keep out of reach of children.If swallowed, get medical help or contacta Poison Control Center right away.
+* **directions:** 1. After cleansing the face, take an appropriate amount of spot lightening cream.
+  
+
+2. Apply evenly to the area on the face that needs to lighten spots, and massage gently until completely absorbed.
+3. Use once in the morning and evening. Continuous use will provide better results.
+* **other_information:** Please store in a cool, dry place away from direct sunlight.
+* **inactive_ingredients:** Curcuma Longa (Turmeric) Root Oil, Simmondsia Chinensis (Jojoba)Seed Oil, Prunus Amygdalus Dulcis (Sweet Almond) Oil, Vitis Vinifera(Grape)Seed Oil, Sodium Hyaluronate, Tocopherol, Hydrolyzed Collagen
+* **questions:** Not found
+```

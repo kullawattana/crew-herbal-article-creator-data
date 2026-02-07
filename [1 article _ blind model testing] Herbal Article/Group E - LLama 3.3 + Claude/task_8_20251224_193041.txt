@@ -1,0 +1,53 @@
+# ===CULTURE_DATA=== 
+## Cultural Context for: Khamin Chan (ขมิ้นชัน)
+### Finding 1 
+* **source_url:** https://th.wikipedia.org/wiki/%E0%B8%82%E0%B8%B1%E0%B9%88%E0%B8%87%E0%B8%8A%E0%B8%B8%E0%B8%95
+* **community_context:**
+    * **community_name:** Thai Community
+    * **location:** All Provinces
+    * **ethnic_group:** Thai Ethnic Group
+* **community_profile_summaries:**
+    * **community_highlight:** The Thai community has a rich tradition of using herbs for medicinal purposes, with Khamin Chan being one of the most valued plants due to its numerous health benefits and versatility in treatment.
+    * **name_etymology:** The name "Khamin Chan" is derived from the Thai language, with "Khamin" referring to the turmeric family and "Chan" signifying a specific type within this family, highlighting the plant's classification and cultural significance.
+    * **community_environment:** The community environment plays a crucial role in the cultivation and use of Khamin Chan, with the plant thriving in Thailand's tropical climate and being integrated into local ecosystems for sustainable use.
+    * **local_wisdom:** Local wisdom surrounding Khamin Chan includes its use in traditional medicine for various ailments, showcasing the community's understanding of herbal remedies and their application in everyday life.
+    * **community_organizations:** Community organizations often promote the use and preservation of Khamin Chan through workshops, farming initiatives, and educational programs, ensuring the continuation of traditional knowledge and practices.
+* **specific_entities:**
+    * **local_names:**
+        * **Item 1:**
+            * **name:** Khamin Chan
+            * **context_quote:** Khamin Chan is a plant with high medicinal value.
+    * **traditional_uses:**
+        * **Item 1:**
+            * **use:** Used in disease treatment
+            * **context_quote:** Khamin Chan is used in the treatment of diseases.
+    * **processing_methods:**
+        * **Item 1:**
+            * **method:** Boiling
+            * **description_quote:** Boiling Khamin Chan for use in disease treatment.
+
+### Finding 2 
+* **source_url:** https://www.sac.or.th/db/knowledge/ 
+* **community_context:**
+    * **community_name:** Thai Herbal Community
+    * **location:** Nationwide
+    * **ethnic_group:** Thai
+* **community_profile_summaries:**
+    * **community_highlight:** No herbal-related information found.
+    * **name_etymology:** No herbal-related information found.
+    * **community_environment:** No herbal-related information found.
+    * **local_wisdom:** No herbal-related information found.
+    * **community_organizations:** No herbal-related information found.
+* **specific_entities:**
+    * **local_names:**
+        * **Item 1:**
+            * **name:** No local names found
+            * **context_quote:** No context quote available
+    * **traditional_uses:**
+        * **Item 1:**
+            * **use:** No traditional uses found
+            * **context_quote:** No context quote available
+    * **processing_methods:**
+        * **Item 1:**
+            * **method:** No processing methods found
+            * **description_quote:** No description quote available

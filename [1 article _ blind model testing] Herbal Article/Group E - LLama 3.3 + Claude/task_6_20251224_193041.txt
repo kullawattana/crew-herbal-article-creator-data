@@ -1,0 +1,9 @@
+# ===TOXICITY_DATA=== 
+## Clinical Toxicity Data for: Turmeric 
+* **herb_name:** Turmeric 
+* **source_browsed:** https://en.wikipedia.org/wiki/Curcuma_longa
+### Clinical Summary 
+* **toxicity_summary:** Turmeric and its extract curcumin are generally safe but have recently been linked, especially in high-bioavailability forms, to rare cases of immune-mediated acute liver injury that typically resolve after stopping use, though severe outcomes can occur if use continues.
+* **mechanism_of_injury:** The exact mechanism of liver injury is not well understood, but it is thought to be related to the immune system's response to curcumin.
+* **reported_side_effects:** There is no scientific evidence that curcumin reduces inflammation, and turmeric supplements are associated with rare but potentially serious liver injuries, particularly in genetically susceptible individuals.
+* **case_report_summary:** There have been reports of liver injury in individuals taking turmeric supplements, but the exact number of cases is not well established.

@@ -1,0 +1,80 @@
+```
+# ===LAB_DATA===
+## Internal Lab Evidence for: ขมิ้นชัน / Curcuma longa
+
+* **main_sources:**
+  * 42_KhaMinChun.pdf (p.1, p.5, p.34, p.35, p.36, p.38, p.39, p.40)
+
+* **linkage_to_target_herb:**
+  * All referenced studies and experimental data below are explicitly conducted on ขมิ้นชัน (Curcuma longa), as indicated by both Thai and scientific names in the document titles and content.
+
+---
+
+* **experimental_methods:**
+  * HPLC-PDA and HPLC-DAD used for quantification and profiling of curcuminoids in Curcuma longa rhizome extracts ([42_KhaMinChun.pdf_p34_c1], [42_KhaMinChun.pdf_p34_c3]).
+  * TLC methods used for curcumin identification and quality control ([42_KhaMinChun.pdf_p34_c1]).
+  * Comparative extraction studies using ethanol, methanol, n-hexane, and microwave-assisted extraction for curcumin and essential oil yield ([42_KhaMinChun.pdf_p34_c3], [42_KhaMinChun.pdf_p35_c2], [42_KhaMinChun.pdf_p34_c2]).
+  * GC-MS used for volatile oil and turmerone profiling ([42_KhaMinChun.pdf_p35_c2]).
+  * Antioxidant activity tested by DPPH, ABTS assays ([42_KhaMinChun.pdf_p38_c3], [42_KhaMinChun.pdf_p38_c2]).
+  * Anti-inflammatory, cytotoxic, and anti-melanogenesis assays in cell models ([42_KhaMinChun.pdf_p39_c1], [42_KhaMinChun.pdf_p36_c1], [42_KhaMinChun.pdf_p35_c1]).
+  * Subchronic oral toxicity studies in rats ([42_KhaMinChun.pdf_p40_c1]).
+
+---
+
+* **identified_compounds:**
+  * Curcumin, demethoxycurcumin, bisdemethoxycurcumin (major curcuminoids) ([42_KhaMinChun.pdf_p34_c1], [42_KhaMinChun.pdf_p34_c3]).
+  * Aromatic turmerones (ar-turmerone, α-turmerone, β-turmerone) in essential oil ([42_KhaMinChun.pdf_p35_c2]).
+  * Phenolics and flavonoids identified via phytochemical screening ([42_KhaMinChun.pdf_p38_c3], [42_KhaMinChun.pdf_p38_c2]).
+  * Calebin-A, curcuminoid analogs ([42_KhaMinChun.pdf_p35_c1]).
+
+---
+
+* **chromatography_details:**
+  * HPLC: Quantification of curcumin and analogs using PDA/DAD detectors, retention times and calibration curves established ([42_KhaMinChun.pdf_p34_c1], [42_KhaMinChun.pdf_p34_c3]).
+  * TLC: Silica gel F254, multiple bands corresponding to curcuminoids ([42_KhaMinChun.pdf_p34_c1]).
+  * GC-MS: Essential oil composition analyzed; major peaks for turmerones identified and matched with NIST database ([42_KhaMinChun.pdf_p35_c2]).
+
+---
+
+* **extraction_methods:**
+  * Ethanol and methanol maceration for 7 days, followed by filtration and evaporation ([42_KhaMinChun.pdf_p34_c3], [42_KhaMinChun.pdf_p34_c2]).
+  * Microwave-assisted extraction optimized for curcumin and antioxidants ([42_KhaMinChun.pdf_p34_c2], [42_KhaMinChun.pdf_p35_c2]).
+  * n-Hexane used for essential oil extraction ([42_KhaMinChun.pdf_p38_c2], [42_KhaMinChun.pdf_p35_c2]).
+  * Comparative extraction from different Curcuma longa varieties ([42_KhaMinChun.pdf_p34_c1]).
+
+---
+
+* **pharmacological_findings:**
+  * Antioxidant activity: High DPPH and ABTS radical scavenging activity in ethanol/methanol extracts ([42_KhaMinChun.pdf_p38_c3], [42_KhaMinChun.pdf_p38_c2]).
+  * Anti-inflammatory: Curcumin and essential oil (turmerones) exhibit significant anti-inflammatory effects in vitro and in vivo ([42_KhaMinChun.pdf_p39_c1], [42_KhaMinChun.pdf_p35_c1]).
+  * Antimicrobial: Ethanolic extracts show antibacterial activity against Staphylococcus aureus and other pathogens ([42_KhaMinChun.pdf_p38_c1]).
+  * Anti-melanogenesis: Curcuminoid analogs inhibit tyrosinase and melanin production in B16F10 mouse melanoma cells ([42_KhaMinChun.pdf_p35_c1], [42_KhaMinChun.pdf_p36_c1]).
+  * Cytotoxicity: Curcumin and extracts show cytotoxic effects on cancer cell lines ([42_KhaMinChun.pdf_p39_c1]).
+  * Safety: Subchronic toxicity studies (90 days, rats) show no significant adverse effects at tested doses ([42_KhaMinChun.pdf_p40_c1], [42_KhaMinChun.pdf_p39_c2]).
+
+---
+
+* **cosmetic_or_clinical_snippets:**
+  * Curcuminoid-loaded nanoparticles formulated in facial creams show anti-aging effects and skin safety ([42_KhaMinChun.pdf_p36_c1]).
+  * Turmeric extract and essential oil evaluated for skin protection against UVB-induced damage ([42_KhaMinChun.pdf_p35_c1]).
+
+---
+
+* **quality_control_observations:**
+  * HPLC and TLC profiles used for standardization and QC of Curcuma longa extracts ([42_KhaMinChun.pdf_p34_c1]).
+  * Batch-to-batch consistency evaluated by curcumin content and chromatographic fingerprinting ([42_KhaMinChun.pdf_p34_c1]).
+  * No significant contaminants detected in standardized extracts ([42_KhaMinChun.pdf_p40_c1]).
+
+---
+
+* **notes:**
+  * Experimental evidence supports the use of ขมิ้นชัน / Curcuma longa extracts for antioxidant, anti-inflammatory, antimicrobial, and cosmetic applications.
+  * Quality control relies on HPLC/TLC fingerprinting and curcumin quantification.
+  * Subchronic toxicity and safety studies reinforce suitability for topical and oral formulations.
+
+---
+
+**source_file and page_number references:**
+  * 42_KhaMinChun.pdf (p.1: taxonomy/identification; p.5: general info; p.34–p.40: experimental, pharmacological, QC, and clinical evidence)
+
+```

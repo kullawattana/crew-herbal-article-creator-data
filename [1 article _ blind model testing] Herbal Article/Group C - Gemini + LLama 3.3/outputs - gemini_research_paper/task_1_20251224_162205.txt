@@ -1,0 +1,15 @@
+# ===TRENDS_DATA===
+### Finding 1
+* **herb_name:** Turmeric
+* **wellness_context_summary:** Turmeric is experiencing a surge in popularity as consumers seek food ingredients to boost their immune systems. In the 14 weeks leading up to June 6, US retail sales of turmeric rose by 68% compared to the same period last year. This increase suggests a growing awareness of turmeric's potential health benefits and its role in supporting overall wellness during the pandemic. However, it's important to note that some experts caution against relying solely on supplements for immune boosting, emphasizing the need for evidence-based approaches.
+* **source_url:** https://globalwellnessinstitute.org/global-wellness-institute-blog/2020/07/14/accelerating-wellness-trends/
+
+### Finding 2
+* **herb_name:** Turmeric
+* **wellness_context_summary:** Malaysia's cuisine and wellness traditions leverage a variety of local fruits, vegetables, herbs, and spices, including turmeric. These ingredients are celebrated not only for their taste and color but also for their healing properties. The use of turmeric highlights the integration of natural ingredients into daily life for both culinary enjoyment and wellness benefits, reflecting a holistic approach to health that values the power of nature.
+* **source_url:** https://globalwellnessinstitute.org/wellness-in-malaysia/
+
+### Finding 3
+* **herb_name:** Turmeric
+* **wellness_context_summary:** In the context of ancient beauty and modern skincare, Ayurveda employs turmeric as a key botanical for its healing properties. Across various traditions, nature serves as both healer and teacher, with turmeric being a cultural symbol connected to land, heritage, and community. Its use in modern skincare introduces an emotional and ecological depth that enhances user connection, especially in a world where in-office treatments can deliver faster visible results, but rarely emotional resonance.
+* **source_url:** https://globalwellnessinstitute.org/global-wellness-institute-blog/2025/10/21/ancient-beauty-modern-glow-how-traditional-medicine-is-quietly-transforming-skincare/

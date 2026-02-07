@@ -1,0 +1,18 @@
+# ===TRENDS_DATA===
+## Wellness Trends for: Turmeric 
+### Finding 1
+* **herb_name:** Turmeric 
+* **wellness_context_summary:** The COVID-19 pandemic has accelerated wellness trends, including the use of superfoods that claim to boost immunity. Turmeric, along with ginger and garlic, has seen a significant increase in sales as consumers search for food ingredients to enhance their immune system. This trend is expected to become a permanent feature in the post-pandemic era.
+* **source_url:** https://globalwellnessinstitute.org/global-wellness-institute-blog/2020/07/14/accelerating-wellness-trends/
+### Finding 2
+* **herb_name:** Turmeric 
+* **wellness_context_summary:** The trend of superfood lattes is on the rise, with ingredients such as turmeric being used to boost their nutritional and anti-inflammatory properties. These lattes are becoming increasingly popular as consumers focus on balancing their immunity and using food as functional medicine.
+* **source_url:** https://globalwellnessinstitute.org/global-wellness-institute-blog/2023/01/04/nutrition-for-healthspan-initiative-for-2022-trends/
+### Finding 3
+* **herb_name:** Turmeric 
+* **wellness_context_summary:** Traditional medicine is transforming the skincare industry by incorporating natural ingredients and holistic practices. Ayurveda, for example, uses turmeric, neem, and amla to promote skin health and well-being. These traditional practices are being rediscovered and reinterpreted in modern skincare, offering a more holistic and sustainable approach to beauty.
+* **source_url:** https://globalwellnessinstitute.org/global-wellness-institute-blog/2025/10/21/ancient-beauty-modern-glow-how-traditional-medicine-is-quietly-transforming-skincare/
+### Finding 4
+* **herb_name:** Turmeric 
+* **wellness_context_summary:** Malaysia's wellness scene is deeply rooted in its multicultural traditions and harmony with nature. The country's cuisine reflects its natural and cultural heritage, with herbs and spices like turmeric being celebrated for their healing properties. Malaysia's wellness ecosystem offers a range of options, including sophisticated fitness options, spa and beauty treatments, and world-class healthcare and medical facilities.
+* **source_url:** https://globalwellnessinstitute.org/wellness-in-malaysia/

@@ -1,0 +1,83 @@
+# ===CULTURE_DATA===
+## Cultural Context for: Turmeric (ขมิ้นชัน)
+### Finding 1 
+* **source_url:** https://db.sac.or.th/museum/museum-detail/873
+* **community_context:**
+    * **community_name:** Abhaibhubejhr Thai Traditional Medicine Museum
+    * **location:** Prachinburi Province
+    * **ethnic_group:** Not specified (Thai community/Thai traditional medicine wisdom)
+* **community_profile_summaries:**
+    * **community_highlight:** The Abhaibhubejhr Thai Traditional Medicine Museum serves as a central hub for preserving and sharing knowledge on Thai herbal medicine, traditional remedies, and folk healing practices in Prachinburi. It features an extensive collection of 233 handwritten ancient medical texts in Pali, Sanskrit, and Thai, and displays a wide array of herbal products, including traditional medicines, herbal drinks, and cosmetics. Turmeric is highlighted as a significant herb, sourced from southern Thailand, and widely used in various forms such as shampoos, soaps, facial scrubs, creams, and toothpaste, demonstrating the community’s expertise in herbal processing and product innovation.
+    * **name_etymology:** No herbal-related information found.
+    * **community_environment:** No herbal-related information found.
+    * **local_wisdom:** The museum embodies the local wisdom of integrating traditional herbal knowledge with modern practices. It showcases how difficult-to-consume herbal medicines, like turmeric, are processed into easily consumable capsule forms, making traditional remedies more accessible to the public. This demonstrates a blend of heritage preservation and adaptation to contemporary health needs.
+    * **community_organizations:** The museum itself acts as an organization dedicated to collecting, conserving, and disseminating Thai traditional medical knowledge. It fosters collaboration among practitioners, researchers, and the wider community to sustain and innovate Thai herbal practices.
+* **specific_entities:**
+    * **local_names:**
+        * **Item 1:**
+            * **name:** Turmeric
+            * **context_quote:** "Turmeric is brought from the South."
+    * **traditional_uses:**
+        * **Item 1:**
+            * **use:** Used as an herb in Thai traditional medicine, health products, and cosmetics
+            * **context_quote:** "Turmeric is one of the important herbs used in Thai medicine recipes and processed into various products such as shampoo, soap, facial herbal powder, skin cream, toothpaste, etc."
+    * **processing_methods:**
+        * **Item 1:**
+            * **method:** Processing turmeric into various products
+            * **description_quote:** "There are methods for processing difficult-to-consume herbal medicines into modern capsules, making them easier to consume."
+
+---
+
+### Finding 2 
+* **source_url:** https://wikicommunity.sac.or.th/community/2737
+* **community_context:**
+    * **community_name:** Ban Herbal Incense Community, Bang Nam Phueng
+    * **location:** Bang Nam Phueng Subdistrict, Phra Pradaeng District, Samut Prakan Province
+    * **ethnic_group:** Mon (Raman), Thai of Chinese descent
+* **community_profile_summaries:**
+    * **community_highlight:** The Ban Herbal Incense Community in Bang Nam Phueng is recognized for its innovative use of local herbs in producing mosquito-repellent incense and herbal products. Since the late 1990s, the community has combined indigenous wisdom with local resources, notably turmeric, citronella, neem leaves, and cinnamon, to create incense and sprays. The enterprise has grown into a well-known community business, attracting tourists for workshops and supporting local cultivation and processing of herbs.
+    * **name_etymology:** No herbal-related information found.
+    * **community_environment:** The community environment supports the cultivation of various medicinal plants such as citronella, turmeric, neem leaves, and cinnamon. These are grown locally to ensure a sustainable supply for herbal product manufacturing, reflecting an ecosystem that values biodiversity and traditional agricultural practices.
+    * **local_wisdom:** The community demonstrates local wisdom through its adaptation of traditional herbal knowledge into value-added products. By transforming turmeric and other herbs into mosquito-repellent incense and sprays, the community preserves folk practices while innovating for modern needs.
+    * **community_organizations:** The herbal incense enterprise operates as a community business and learning center. It organizes workshops for visitors and residents, supporting knowledge transfer and economic development through herbal product innovation.
+* **specific_entities:**
+    * **local_names:**
+        * **Item 1:**
+            * **name:** Turmeric
+            * **context_quote:** "Turmeric, kaffir lime, cinnamon, citronella, neem leaves, etc."
+    * **traditional_uses:**
+        * **Item 1:**
+            * **use:** Used as an ingredient in mosquito-repellent incense and herbal products
+            * **context_quote:** "Uncle Toi then adapted to use local herbs such as turmeric, kaffir lime, cinnamon, citronella, neem leaves, etc."
+    * **processing_methods:**
+        * **Item 1:**
+            * **method:** Processing turmeric into powder for use in herbal incense
+            * **description_quote:** "Grow local herbs such as citronella, turmeric, neem leaves, cinnamon, etc. to be used in incense production."
+
+---
+
+### Finding 3 
+* **source_url:** https://db.sac.or.th/inscriptions/inscribe/detail/17721
+* **community_context:**
+    * **community_name:** Inscription of Medical Recipes at Wat Phra Chetuphon Vimolmangklararm
+    * **location:** Wat Phra Chetuphon Vimolmangklararm, Phra Borom Maha Ratchawang Subdistrict, Phra Nakhon District, Bangkok
+    * **ethnic_group:** Not specified (Thai royal court cultural context)
+* **community_profile_summaries:**
+    * **community_highlight:** The inscriptions at Wat Phra Chetuphon Vimolmangklararm (Wat Pho) represent a significant effort by the Thai royal court to document and transmit traditional medical and herbal knowledge. King Rama III ordered the engraving of herbal and spice recipes on stone tablets, including details on turmeric and other important medicinal plants, preserving this wisdom for future generations.
+    * **name_etymology:** No herbal-related information found.
+    * **community_environment:** No herbal-related information found.
+    * **local_wisdom:** The initiative to inscribe medical knowledge on stone tablets showcases the value placed on preserving and disseminating traditional wisdom. The records include the uses and benefits of turmeric and other herbs in ancient Thai medicine.
+    * **community_organizations:** No herbal-related information found.
+* **specific_entities:**
+    * **local_names:**
+        * **Item 1:**
+            * **name:** Turmeric
+            * **context_quote:** "Turmeric, kamin khruea, dong dueng, asafoetida, camphor, musk, borneol, Chinese amalgam, and Western amalgam."
+    * **traditional_uses:**
+        * **Item 1:**
+            * **use:** Used as an ingredient in ancient Thai medicinal recipes
+            * **context_quote:** "Describes the properties of various spices and herbs such as coriander, turmeric, kamin khruea, dong dueng, asafoetida, camphor, musk, borneol, Chinese amalgam, and Western amalgam."
+    * **processing_methods:**
+        * **Item 1:**
+            * **method:** Grinding turmeric for use in ancient medicinal recipes
+            * **description_quote:** "The medical recipes were inscribed on stone tablets and displayed around the pavilions."

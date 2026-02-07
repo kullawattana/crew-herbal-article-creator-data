@@ -1,0 +1,30 @@
+# ===COMPLIANCE_DATA===
+## Thai FDA Status for: Turmeric
+* **herb_name:** Turmeric
+### Food Registrations
+* **Food Registration 1:**
+    * **registration_number:** 10-1-00654-1-0112
+    * **product_name:** Fried chicken with herbs (Turmeric)
+    * **company_name:** Han Business-International Co., Ltd.
+    * **status:** Cancelled
+* **Food Registration 2:**
+    * **registration_number:** 10-1-00654-1-0117
+    * **product_name:** Fried squid with herbs (Turmeric)
+    * **company_name:** Han Business-International Co., Ltd.
+    * **status:** Cancelled
+* **Food Registration 3:**
+    * **registration_number:** 10-1-01454-1-0004
+    * **product_name:** Turmeric Capsule
+    * **company_name:** Monpunporn Group Co., Ltd.
+    * **status:** Active
+* **Food Registration 4:**
+    * **registration_number:** 10-1-04651-1-0012
+    * **product_name:** Curcuma by A Rina
+    * **company_name:** A Miracle Co., Ltd.
+    * **status:** Active
+* **Food Registration 5:**
+    * **registration_number:** 10-1-05457-5-0241
+    * **product_name:** Ava Turmeric
+    * **company_name:** Senjuree Co., Ltd.
+    * **status:** Active
+* None found.

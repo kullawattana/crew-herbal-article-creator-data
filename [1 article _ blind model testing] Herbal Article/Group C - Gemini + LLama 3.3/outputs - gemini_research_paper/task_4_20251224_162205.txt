@@ -1,0 +1,31 @@
+```
+# ===COMPLIANCE_DATA===
+## Thai FDA Status for: Turmeric
+* **herb_name:** Turmeric
+### Food Registrations
+* **Food Registration 1:**
+    * **registration_number:** 10-1-00654-1-0112
+    * **product_name:** ไก่ทอด รสสมุนไพร (ตะไคร้, ใบเตย, พริกไทยดำ, ขมิ้นชัน) (ตรา ใต้ตะวัน) / Fried Chicken, Herb Flavor (Lemongrass, Pandan Leaves, Black Pepper, Turmeric) (Tai Tawan Brand)
+    * **company_name:** ห้างหุ้นส่วนจำกัด หาญบิสิเนส-อินเตอร์เนชั่นแนล / Limited Partnership Han Business-International
+    * **status:** สถานะผลิตภัณฑ์(ยกเลิก 8/3/2560) \ สถานะสถานที่ (ขาดต่ออายุ 31/12/2559) / Product status (canceled 8/3/2017) \ Place status (renewal expired 31/12/2016)
+* **Food Registration 2:**
+    * **registration_number:** 10-1-00654-1-0117
+    * **product_name:** ทอดมันปลาหมึก รสสมุนไพร (ตะไคร้, ใบเตย, พริกไทยดำ, ขมิ้นชัน) (ตรา ใต้ตะวัน) / Fried Squid Cake, Herb Flavor (Lemongrass, Pandan Leaves, Black Pepper, Turmeric) (Tai Tawan Brand)
+    * **company_name:** ห้างหุ้นส่วนจำกัด หาญบิสิเนส-อินเตอร์เนชั่นแนล / Limited Partnership Han Business-International
+    * **status:** สถานะผลิตภัณฑ์(ยกเลิก 8/3/2560) \ สถานะสถานที่ (ขาดต่ออายุ 31/12/2559) / Product status (canceled 8/3/2017) \ Place status (renewal expired 31/12/2016)
+* **Food Registration 3:**
+    * **registration_number:** 10-1-01454-1-0004
+    * **product_name:** ขมิ้นชัน แคปซูล (ผลิตภัณฑ์เสริมอาหาร) / TURMERIC CAPSULE (DIETARY SUPPLEMENT PRODUCT)
+    * **company_name:** บริษัท หมอนพพร กรุ๊ป จำกัด / Mor Nopporn Group Co., Ltd.
+    * **status:** สถานะผลิตภัณฑ์(คงอยู่)\ สถานะสถานที่ (คงอยู่) / Product status (existing) \ Place status (existing)
+* **Food Registration 4:**
+    * **registration_number:** 10-1-04651-1-0012
+    * **product_name:** ขมิ้นชัน บาย เอ ไรนา (ผลิตภัณฑ์เสริมอาหาร) / CURCUMA BY A RAINA (DIETARY SUPPLEMENT PRODUCT)
+    * **company_name:** บริษัท เอ มิราเคิล จำกัด / A Miracle Co., Ltd.
+    * **status:** สถานะผลิตภัณฑ์(คงอยู่)\ สถานะสถานที่ (คงอยู่) / Product status (existing) \ Place status (existing)
+* **Food Registration 5:**
+    * **registration_number:** 10-1-05457-5-0241
+    * **product_name:** เอวา ขมิ้นชัน (ผลิตภัณฑ์เสริมอาหาร) / Ava Turmeric (DIETARY SUPPLEMENT PRODUCT)
+    * **company_name:** บริษัท เซนจูเรีย จำกัด / Century Co., Ltd.
+    * **status:** สถานะผลิตภัณฑ์(คงอยู่)\ สถานะสถานที่ (คงอยู่) / Product status (existing) \ Place status (existing)
+```

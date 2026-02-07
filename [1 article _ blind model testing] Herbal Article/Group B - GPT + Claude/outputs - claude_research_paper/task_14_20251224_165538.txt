@@ -1,0 +1,12 @@
+```markdown
+# ===AUDIT_DATA_INTEGRITY_REPORT===
+* **Collaboration Robustness (Data Loss):** 90%
+* **Explanation Clarity (Hallucination/Handling):** 100%
+* **Dropped Entities (Facts in Fact Sheet but not Article):**
+    - Punvittayagul, C., Thongtharb, A., Umsumarng, S., Chaichit, S., Okonogi, S., Ampasavate, C., Hongwiset, D., Taya, S. (2025). Thai rice instant granules containing turmeric extract and. Frontiers in toxicology, 7, 1691014. https://doi.org/10.3389/ftox.2025.1691014 (Present in the Master Fact Sheet references, but only the study itself is mentioned in the Article, not the full citation in the main text. The citation *is* present in the "Scientific Deep-Dive" section, but not in the final references section.)
+    - Thai FDA approval of "Turmeric Capsule" from Mor Nopporn Group Co., Ltd. and "Curcuma by A Raina" from A Miracle Co., Ltd. (Mentioned in the Safety section of the Fact Sheet, but not explicitly named in the article, only generally referred to)
+* **Hallucinated Entities (Facts in Article but not Fact Sheet):**
+    - None
+* **Feedback:**
+The article demonstrates strong data integrity, accurately incorporating most facts from the Master Fact Sheet. The dropped entities are minor, with the full Punvittayagul citation being present within the article body and the Thai FDA approvals being generally referenced. The article contains no hallucinated entities. The dropped items are minor, hence the 90% score.
+```

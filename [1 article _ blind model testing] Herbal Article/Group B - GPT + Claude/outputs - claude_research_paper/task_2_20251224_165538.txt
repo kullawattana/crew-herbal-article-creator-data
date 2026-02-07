@@ -1,0 +1,57 @@
+```
+# ===LAB_DATA===
+## Internal Lab Evidence for: ขมิ้นชัน / Curcuma longa
+
+* **main_sources:**
+  * 42_KhaMinChun.pdf (p.34, p.35, p.36, p.38, p.39, p.40)
+
+* **linkage_to_target_herb:**
+  * All cited experiments and reviews are explicitly linked to Curcuma longa L. (turmeric, ขมิ้นชัน), as stated in both Thai and English within the source file.
+
+* **experimental_methods:**
+  * Extraction: Multiple studies referenced, including microwave-assisted extraction, ethanol maceration, and comparison of extraction solvents for curcumin and turmerones (see p.34, p.35).
+  * HPLC-DAD and HPLC-PDA: Used for quantification and phenolic profiling of curcuminoids from Curcuma longa rhizomes (p.34, p.35).
+  * GC-MS: Applied for essential oil composition analysis of Curcuma longa cultivars (p.35).
+  * Antioxidant assays: DPPH and other free radical scavenging methods on Curcuma longa extracts (p.38).
+  * In vitro anti-inflammatory and anti-proliferative assays using cell models (p.39).
+  * Subchronic oral toxicity study in rats using standardized extract (p.40).
+
+* **identified_compounds:**
+  * Curcumin, demethoxycurcumin, bisdemethoxycurcumin (main curcuminoids, via HPLC, p.34).
+  * Turmerones (ar-turmerone, α-turmerone, β-turmerone) and other volatile oils (via GC-MS, p.35).
+  * Total phenolics and antioxidants quantified (p.38).
+
+* **chromatography_details:**
+  * HPLC-DAD/PDA: Used for separation and quantification of curcumin and analogues (p.34).
+  * GC-MS: Volatile compounds of essential oil identified and compared across cultivars using NIST library (p.35).
+  * TLC methods referenced for curcuminoid detection in comparative studies (p.34).
+
+* **extraction_methods:**
+  * Microwave-assisted extraction optimized for curcumin and antioxidants using natural deep eutectic solvents (p.34).
+  * Solvent comparison (ethanol, hexane, etc.) for curcumin extraction yield (p.34, p.35).
+  * Maceration and distillation for essential oil extraction (p.35).
+
+* **pharmacological_findings:**
+  * Antioxidant activity: High free radical scavenging and phenolic content in Curcuma longa extracts (p.38).
+  * Anti-inflammatory: Nanoencapsulated curcuminoids and extracts reduce inflammatory markers in cell and animal models (p.39).
+  * Antiproliferative/anti-aging: Curcuma longa essential oil shown to have antiaging effect on UV-irradiated skin models (p.35).
+  * Toxicity: 90-day subchronic oral toxicity study in rats showed safety of standardized extract (p.40).
+
+* **cosmetic_or_clinical_snippets:**
+  * Curcuminoids-loaded nanoparticles tested in facial cream for anti-aging efficacy (p.36).
+  * Inhibition of mushroom tyrosinase and reduction of melanogenesis in B16 mouse melanoma cells by Curcuma longa components (p.36).
+  * UVB protection in human keratinocytes by Curcuma longa extract (p.39).
+
+* **quality_control_observations:**
+  * HPLC and GC-MS used for standardization and quality assessment of extracts (p.34, p.35).
+  * Quantitative evaluation of essential oil yield and curcuminoid content across cultivars (p.35).
+
+* **notes:**
+  * Studies confirm the suitability of Curcuma longa extracts and oils for use in topical, cosmetic, and oral preparations, with established safety and potent biological activity.
+  * Multiple extraction and analytical techniques validate the presence and quantity of active compounds relevant to pharmacological and cosmetic applications.
+
+---
+**source_file**: 42_KhaMinChun.pdf  
+**page_number**: 34, 35, 36, 38, 39, 40  
+**snippet_hash**: [f35b6f9e53], [d1ba86fa7c], [65c0a3c327], [85c7946b30], [87406289b9], [8dff7f83b6]
+```

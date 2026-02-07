@@ -1,0 +1,12 @@
+# ===TRENDS_DATA===
+## Wellness Trends for: Turmeric
+
+### Finding 1
+* **herb_name:** Turmeric
+* **wellness_context_summary:** Turmeric has seen a significant rise in popularity as a functional food and immune-boosting ingredient, particularly during the COVID-19 pandemic. According to GWI, US retail sales of turmeric increased by 68% in the 14 weeks leading up to June 6, 2020, compared to the previous year. This surge is attributed to consumers seeking natural ways to strengthen their immune systems. Turmeric, along with ginger and garlic, is highlighted as part of a broader trend toward superfoods that claim to enhance wellness and resilience. However, the article also cautions that while turmeric is celebrated for its potential, not all supplement claims are evidence-based, and a balanced perspective is needed. The trend suggests that turmeric may become a staple in post-pandemic wellness routines, reflecting a shift toward holistic health and preventative self-care.
+* **source_url:** https://globalwellnessinstitute.org/global-wellness-institute-blog/2020/07/14/accelerating-wellness-trends/
+
+### Finding 2
+* **herb_name:** Turmeric
+* **wellness_context_summary:** Turmeric is prominently featured within Ayurveda as a key botanical for both health and beauty, embodying the tradition’s holistic approach to wellbeing. In the context of modern skincare, GWI notes that turmeric is valued not only for its active compounds but also for its cultural and symbolic significance. The use of turmeric in contemporary formulations is inspired by its historical role in supporting vitality, immunity, and internal balance. This reflects a shift in wellness and beauty trends from quick fixes to integrative, ritual-based care that nurtures both mind and body. Turmeric’s inclusion in beauty rituals is seen as a way to reconnect individuals with themselves, providing emotional grounding and a sense of continuity with ancestral wisdom. The herb thus bridges ancient traditions and modern wellness, offering benefits that go beyond skin-deep to support holistic wellbeing.
+* **source_url:** https://globalwellnessinstitute.org/global-wellness-institute-blog/2025/10/21/ancient-beauty-modern-glow-how-traditional-medicine-is-quietly-transforming-skincare/

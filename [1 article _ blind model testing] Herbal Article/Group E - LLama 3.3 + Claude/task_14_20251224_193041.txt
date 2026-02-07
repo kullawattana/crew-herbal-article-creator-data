@@ -1,0 +1,22 @@
+# ===AUDIT_DATA_INTEGRITY_REPORT===
+* **Collaboration Robustness (Data Loss):** 95%
+* **Explanation Clarity (Hallucination/Handling):** 100%
+* **Dropped Entities (Facts in Fact Sheet but not Article):**
+    - Lab Fact (Experimental Method): Extraction method: Not specified; Analysis method: TLC, GC-MS
+    - Lab Fact (Chromatography - TLC): Not specified
+    - Lab Fact (Quality Control): Not specified
+    - Culture Fact (Community - Thai Herbal Community): Thai Herbal Community
+    - Culture Fact (Location - Thai Herbal Community): Nationwide
+    - Culture Fact (Ethnic Group - Thai Herbal Community): Thai
+    - Culture Fact (Community Highlight - Thai Herbal Community): No herbal-related information found.
+    - Culture Fact (Name Etymology - Thai Herbal Community): No herbal-related information found.
+    - Culture Fact (Environment - Thai Herbal Community): No herbal-related information found.
+    - Culture Fact (Local Wisdom - Thai Herbal Community): No herbal-related information found.
+    - Culture Fact (Organization - Thai Herbal Community): No herbal-related information found.
+    - Culture Fact (Local Name - Thai Herbal Community): No local names found
+    - Culture Fact (Use - Thai Herbal Community): No traditional uses found
+    - Culture Fact (Processing - Thai Herbal Community): No processing methods found
+    - Culture Fact (Source - Thai Herbal Community): https://www.sac.or.th/db/knowledge/
+* **Hallucinated Entities (Facts in Article but not Fact Sheet):**
+    - None
+* **Feedback:** The article accurately reflects most of the information in the fact sheet, with the exception of some lab details (experimental method, chromatography, quality control) and the Thai Herbal Community details. The "citation_apa: not_found" was correctly handled by including "[1] not found" in the references. The hallucination score is 100% because no new facts were invented. The data loss score is high, but could be improved with the inclusion of the missing lab and Thai Herbal Community details.

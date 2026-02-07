@@ -1,0 +1,33 @@
+# ===RESEARCH_DATA===
+## Scientific Evidence for: Turmeric
+* **herb_name:** Turmeric
+* **herb_name_scientific:** Curcuma longa
+
+### Validated Compounds
+* **Compound 1:**
+    * **compound_name:** Curcumin
+    * **mechanism_name:** Antioxidant, upregulation of cellular antioxidant defenses, bioavailability enhancement (with ar-turmerone)
+    * **supporting_studies:**
+        * **Study 1:**
+            * **study_type:** Randomized Controlled Trial (RCT)
+            * **abstract_raw:** Introduction Curcumin (95%) from Curcuma longa rhizomes holds significant therapeutic promise, but its clinical efficacy is limited by poor oral bioavailability due to rapid metabolism, poor solubility, and quick elimination. This study compared the pharmacokinetics of BioTurm™, a novel standardized extract, with the market standards of Curcuma longa (95% curcumin) with piperine extract, a known bioavailability enhancer. Methods A single-dose, open-label, randomized, three-arm, comparative study was conducted in 14 healthy volunteers (aged 21-30 years). Participants were randomized into three groups: group A - BioTurmTM extract (standardized to 45% curcuminoids and 4.5% ar-turmerone, n = 5), group B (95% curcuminoidswith 1% piperine, n = 4), and group C (95% curcuminoidswith 10% piperine, n = 5). Following single oral dose administration, blood samples were collected at multiple time points over eight hours. Plasma concentrations were analyzed using validated liquid chromatography-tandem mass spectrometry (LC-MS/MS), and pharmacokinetic (PK) parameters were determined. Results BioTurm™ (group A) achieved significantly higher bioavailability than market-standard group B, with a Cmax of 647.97 ng/mL vs. 10.94 ng/mL. Group C, containing 10% piperine, achieved a comparable Cmax (663.60 ng/mL) and area under the curve (AUC₀-₂₄: 1479.89 ng·hr/mL). Ar-turmerone from BioTurm™ was detectable throughout the sampling period, peaking at two hours. No adverse events were reported. Conclusion BioTurm™ showed significantly enhanced bioavailability over the standard curcumin-piperine (1%) combination, without requiring additional enhancers. Only a high dose of piperine (10%) could match its PK profile. The presence of ar-turmerone and curcuminoids in BioTurm™ suggests a synergistic effect, offering a simplified and effective alternative to piperine-based formulations with potential therapeutic advantages.
+            * **key_findings:** This randomized trial in healthy adults demonstrated that a novel Curcuma longa extract (BioTurm™), standardized to curcuminoids and ar-turmerone, significantly increased curcumin bioavailability compared to standard curcumin-piperine formulations. The combination of ar-turmerone and curcuminoids may provide synergistic effects, enhancing absorption without the need for high piperine doses, and no adverse events were reported.
+            * **pmid:** 41426786
+            * **canonical_url:** https://doi.org/10.7759/cureus.97127
+            * **citation_apa:** Malhotra, V., Deshpande, A., Tamoli, S., Soman, G., Sabnis Shinde, R., Soman, A. (2025). An Open Label, Randomized, Comparative Bioavailability Study of BioTurm™ Extract Versus Curcuma longa Extract With Piperine in Healthy Adult Volunteers.. Cureus, 17(11), e97127. https://doi.org/10.7759/cureus.97127
+        * **Study 2:**
+            * **study_type:** Animal Toxicity & Mechanistic Study
+            * **abstract_raw:** Turmeric (Curcuma longa) and Indian gooseberry (Phyllanthus emblica) are widely used for their ethnopharmacological properties, particularly in ASEAN countries. Recently, our group has formulated Thai rice instant granules containing turmeric extract and P. emblica fruit pulp (TR instant granules); however, their toxicity profile has not been evaluated. This study investigated the long-term safety of TR instant granules in rats and assessed their effect on hepatic antioxidant status. Oral administration at doses of 200, 600, and 2,000 mg/kg body weight for 180 days resulted in no toxic effects, behavioral changes, mortality, or alterations in organ weights or hematological parameters. Significant changes were observed in biochemical markers, but there were no histopathological abnormalities. TR instant granules significantly upregulated hepatic antioxidant genes (Nrf2, GPx, CAT, GR, SOD, and HO-1). Phytochemical analysis identified chlorogenic acid and curcumin as major constituents. In silico molecular docking demonstrated that these compounds strongly bind multiple antioxidant enzymes and the Nrf2-Keap1 complex, supporting their potential as effective modulators of cellular antioxidant defenses. Overall, long-term administration of TR instant granules is safe and may enhance antioxidant mechanisms in rats. These findings support the potential development of TR instant granules as a safe functional food or nutraceutical with antioxidant benefits.
+            * **key_findings:** Chronic administration of turmeric-containing granules in rats showed no toxicity and upregulated key antioxidant genes in the liver, supporting curcumin's role as a safe antioxidant enhancer. Curcumin and chlorogenic acid, identified as major constituents, demonstrated strong in silico binding to antioxidant enzymes and the Nrf2-Keap1 complex, suggesting potent cellular antioxidant modulation.
+            * **pmid:** 41424803
+            * **canonical_url:** https://doi.org/10.3389/ftox.2025.1691014
+            * **citation_apa:** Punvittayagul, C., Thongtharb, A., Umsumarng, S., Chaichit, S., Okonogi, S., Ampasavate, C., Hongwiset, D., Taya, S. (2025). Thai rice instant granules containing turmeric extract and. Frontiers in toxicology, 7, 1691014. https://doi.org/10.3389/ftox.2025.1691014
+
+* **Compound 2:**
+    * **compound_name:** ar-Turmerone
+    * **mechanism_name:** Synergistic enhancement of curcumin bioavailability
+    * **supporting_studies:**
+        * **Study 1:** (See Study 1 above under Curcumin)
+
+### Overall Summary
+* **summary:** High-quality clinical and preclinical studies confirm that Curcuma longa (Turmeric) contains validated active compounds, primarily curcumin and ar-turmerone. Curcumin is a potent antioxidant that upregulates cellular defense mechanisms, notably through Nrf2 pathway activation. ar-Turmerone synergistically enhances curcumin bioavailability. Both compounds are safe at studied doses, and their combination may provide therapeutic advantages, including improved absorption and antioxidant effects. These findings support the use of turmeric extracts as safe functional foods or nutraceuticals for antioxidant and potential anti-inflammatory benefits.

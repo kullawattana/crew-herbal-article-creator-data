@@ -1,0 +1,85 @@
+# ===CULTURE_DATA===
+## Cultural Context for: Turmeric (ขมิ้นชัน)
+### Finding 1 
+* **source_url:** https://db.sac.or.th/museum/museum-detail/873
+* **community_context:**
+    * **community_name:** Abhaibhubejhr Thai Traditional Medicine Museum
+    * **location:** Prachinburi Province
+    * **ethnic_group:** -
+* **community_profile_summaries:**
+    * **community_highlight:** Abhaibhubejhr Thai Traditional Medicine Museum serves as a central hub for the collection, preservation, and dissemination of knowledge about Thai traditional medicine and herbs. The museum plays a vital role in integrating herbal wisdom into modern healthcare by offering traditional herbal medicines, including those containing turmeric, alongside modern pharmaceuticals. Local communities have benefited economically from shifting to herbal cultivation, with increased family incomes, and the museum's products are recognized for their quality and research-backed efficacy.
+    * **name_etymology:** No herbal-related information found.
+    * **community_environment:** The museum sources herbs from various regions in Thailand to ensure quality and availability. Turmeric, for example, is obtained from the southern part of the country, while other herbs are sourced from the north and northeast, reflecting a diverse and interconnected herbal network supporting the community's needs.
+    * **local_wisdom:** The local wisdom preserved by the museum encompasses traditional Thai medical recipes and the integration of herbal medicines in daily healthcare. By making herbal treatments accessible and combining them with conventional medicine, the community continues to value and rely on indigenous herbal knowledge for health and wellness.
+    * **community_organizations:** The museum operates under the Chao Phraya Abhaibhubejhr Foundation, which oversees the production and distribution of traditional medicines. The foundation ensures quality control and research, supporting sustainable herbal practices and providing economic opportunities for local farmers and producers.
+* **specific_entities:**
+    * **local_names:**
+        * **Item 1:**
+            * **name:** Turmeric
+            * **context_quote:** "Turmeric comes from the southern region."
+    * **traditional_uses:**
+        * **Item 1:**
+            * **use:** Herb used in Thai traditional medicine recipes, production of traditional medicines, shampoos, soaps, cosmetics, toothpaste, and herbal drinks
+            * **context_quote:** "Traditional Thai medicines here are sold under the Chao Phraya Abhaibhubejhr Foundation... including traditional medicines such as capsules, liquid medicines... cosmetics such as shampoo, soap, herbal facial scrub, skin cream, toothpaste, and herbal drinks."
+    * **processing_methods:**
+        * **Item 1:**
+            * **method:** Selection of herbal raw materials from chemical-free sources, processing into capsules, liquid medicines, and cosmetics
+            * **description_quote:** "Products have undergone research and quality control to select raw materials free from residues... and have methods for processing hard-to-consume herbal medicines into modern capsules for easy consumption."
+
+---
+
+### Finding 2 
+* **source_url:** https://wikicommunity.sac.or.th/community/2737
+* **community_context:**
+    * **community_name:** Ban Thoop Hom Samunphrai Bang Nam Phueng (Herbal Incense Community)
+    * **location:** Bang Nam Phueng Subdistrict, Phra Pradaeng District, Samut Prakan Province
+    * **ethnic_group:** Mon (Raman), Thai of Chinese descent
+* **community_profile_summaries:**
+    * **community_highlight:** Ban Thoop Hom Samunphrai Bang Nam Phueng has evolved into a community enterprise focused on utilizing local herbs, such as turmeric, to address high production costs and add value to local resources. The community is recognized for its innovative workshops and herbal incense products, attracting tourists and groups interested in learning traditional skills, and providing hands-on experiences that go beyond mere market sales.
+    * **name_etymology:** No herbal-related information found.
+    * **community_environment:** The community is rooted in traditional agriculture, with residents cultivating fruit orchards and local herbs. Herbs like citronella, turmeric, neem leaves, and cinnamon are grown and used as natural raw materials, reflecting the community's close relationship with their environment and commitment to sustainable practices.
+    * **local_wisdom:** Local wisdom is demonstrated through the adaptation and continuation of traditional herbal incense-making, herbal water, and spray production. These practices are passed down through generations, ensuring the survival of indigenous knowledge and providing new avenues for economic development.
+    * **community_organizations:** The establishment of the Ban Thoop Hom Samunphrai community enterprise has formalized local herbal production. The group organizes workshops, product development, and skill training for both residents and visitors, fostering community engagement and knowledge sharing.
+* **specific_entities:**
+    * **local_names:**
+        * **Item 1:**
+            * **name:** Turmeric
+            * **context_quote:** "Turmeric, kaffir lime, cinnamon, citronella, neem leaves, etc."
+    * **traditional_uses:**
+        * **Item 1:**
+            * **use:** Production of herbal mosquito-repellent incense, herbal water, herbal spray, and household processed products
+            * **context_quote:** "Used in the production of herbal incense, herbal product processing, mosquito-repellent incense from natural raw materials, herbal water/herbal spray."
+    * **processing_methods:**
+        * **Item 1:**
+            * **method:** Using local herbs ground and mixed to make incense, production of herbal water and spray
+            * **description_quote:** "Shifted to using local herbs such as turmeric... and since 2005-2006... the community continues to inherit the process of making incense from herbs."
+
+---
+
+### Finding 3 
+* **source_url:** https://db.sac.or.th/inscriptions/inscribe/detail/17721
+* **community_context:**
+    * **community_name:** Wat Phra Chetuphon Vimolmangklararm (Wat Pho)
+    * **location:** Bangkok
+    * **ethnic_group:** -
+* **community_profile_summaries:**
+    * **community_highlight:** Wat Pho is renowned for its historical role in preserving and disseminating traditional Thai medical knowledge. The temple houses stone inscriptions detailing the properties and uses of various herbs, including turmeric, which have served as reference materials for practitioners and the public for generations.
+    * **name_etymology:** No herbal-related information found.
+    * **community_environment:** No herbal-related information found.
+    * **local_wisdom:** The wisdom of the community is embodied in the ancient inscriptions that document the medicinal properties of herbs like turmeric. These records, commissioned by King Rama III, ensure the transmission and accessibility of traditional herbal knowledge across time.
+    * **community_organizations:** No herbal-related information found.
+* **specific_entities:**
+    * **local_names:**
+        * **Item 1:**
+            * **name:** Turmeric
+            * **context_quote:** "Inscription of Thai traditional medicine at Wat Phra Chetuphon Vimolmangklararm (regarding the properties of medicines, spices, and herbs, stone tablet 13: coriander, turmeric, wild turmeric, dongdueng, asafoetida, camphor, civet, borneol, Chinese amalgam, and foreign amalgam...)"
+    * **traditional_uses:**
+        * **Item 1:**
+            * **use:** Traditional medicine as recorded in inscriptions
+            * **context_quote:** "Describes the properties of various spices and herbs, including... turmeric..."
+    * **processing_methods:**
+        * **Item 1:**
+            * **method:** Inscribing traditional medical recipes on stone tablets
+            * **description_quote:** "King Rama III ordered Phaya Bamrung Ratchapet to inscribe medical recipes on stone tablets and display them in various pavilions."
+
+---

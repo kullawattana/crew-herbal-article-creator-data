@@ -1,0 +1,31 @@
+# ===COMPLIANCE_DATA===
+## Thai FDA Status for: Turmeric
+* **herb_name:** Turmeric
+
+### Food Registrations
+
+* **Food Registration 1:**
+    * **registration_number:** 10-1-01454-1-0004
+    * **product_name:** Turmeric Capsule (Dietary Supplement Product)
+    * **company_name:** Mor Nopporn Group Co., Ltd.
+    * **status:** Product status (Active), Establishment status (Active)
+* **Food Registration 2:**
+    * **registration_number:** 10-1-04651-1-0012
+    * **product_name:** Curcuma by A Raina (Dietary Supplement Product)
+    * **company_name:** A Miracle Co., Ltd.
+    * **status:** Product status (Active), Establishment status (Active)
+* **Food Registration 3:**
+    * **registration_number:** 10-1-05457-5-0241
+    * **product_name:** Ava Turmeric (Dietary Supplement Product)
+    * **company_name:** Century Co., Ltd.
+    * **status:** Product status (Active), Establishment status (Active)
+* **Food Registration 4:**
+    * **registration_number:** 10-1-08758-1-0007
+    * **product_name:** Sashay Three Fruits Plus Dietary Supplement Product (Triphala, Garcinia, Roselle, Black Pepper, Turmeric, Safflower, White Kidney Bean, Psyllium Husk, Jujube)
+    * **company_name:** Krungthep Thip Co., Ltd.
+    * **status:** Product status (Active), Establishment status (Active)
+* **Food Registration 5:**
+    * **registration_number:** 10-1-11652-5-0025
+    * **product_name:** Turmeric Powder (Im-Erb Brand)
+    * **company_name:** Cheewarom Co., Ltd.
+    * **status:** Product status (Active), Establishment status (Active)

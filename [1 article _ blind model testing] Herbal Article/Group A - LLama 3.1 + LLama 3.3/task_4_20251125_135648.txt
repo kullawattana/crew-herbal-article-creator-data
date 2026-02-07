@@ -1,0 +1,7 @@
+# ===COMPLIANCE_DATA===
+## Thai FDA Status for: Turmeric
+* **herb_name:** Turmeric
+### Food Registrations
+* None found.
+### Drug Registrations
+* None found.

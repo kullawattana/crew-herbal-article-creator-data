@@ -1,0 +1,15 @@
+16.11
+GLOBAL_LLM_MODEL: gemini - Creating Gemini LLM
+🧠 Assigning [Gemini 2.0 flash] to research agent: trend_analyst_agent
+🧠 Assigning [Gemini 2.0 flash] to research agent: herbal_laboratory_agent
+🧠 Assigning [Gemini 2.0 flash] to research agent: research_agent
+🧠 Assigning [Gemini 2.0 flash] to research agent: compliance_checker_agent
+🧠 Assigning [Gemini 2.0 flash] to research agent: safety_inspector_agent
+🧠 Assigning [Gemini 2.0 flash] to research agent: clinical_toxicologist_agent
+🧠 Assigning [GPT-4.1] to evaluate agent: cultural_editor_agent
+🧠 Assigning [GPT-4.1] to evaluate agent: internal_knowledge_agent
+🧠 Assigning [Llama 3.3-70B] to agent: writer_agent
+🧠 Assigning [Llama 3.3-70B] to agent: planner_agent
+🧠 Assigning [GPT-4.1] to evaluate agent: qa_auditor_agent
+🧠 Assigning [GPT-4.1] to evaluate agent: content_strategist_agent
+🧠 Assigning [Llama 3.3-70B] to agent: formatter_agent

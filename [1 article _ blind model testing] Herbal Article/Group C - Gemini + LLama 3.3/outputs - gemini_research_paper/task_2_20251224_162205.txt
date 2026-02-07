@@ -1,0 +1,40 @@
+# ===LAB_DATA===
+## Internal Lab Evidence for: ขมิ้นชัน / Curcuma longa
+
+* **main_sources:**
+  * 4_Khreua.pdf (p.10)
+  * 31_AloeVera.pdf (p.7, p.8, p.6)
+  * 24_Prik.pdf (p.7, p.8, p.5)
+  * 41_Hemp.pdf (p.9, p.5, p.7, p.8, p.6)
+  * 29_Marum.pdf (p.13)
+  * 40_KraJiebDang.pdf (p.5)
+  * 42_KhaMinChun.pdf (p.5, p.1, p.34, p.38, p.40, p.39, p.33, p.35, p.36)
+
+* **linkage_to_target_herb:**
+  * <Document mentions both ขมิ้นชัน and Curcuma longa>
+  * <Many entries are general mentions, need specific lab details from within the documents>
+
+* **experimental_methods:**
+  * <No specific experimental methods extracted from the snippets provided.>
+
+* **identified_compounds:**
+  * <สารกลูโ… (สารประกอบ?)>
+  * <องค์ประกอบ?>
+
+* **chromatography_details:**
+  * <No chromatography details extracted from the snippets provided.>
+
+* **extraction_methods:**
+  * <สารปร?>
+
+* **pharmacological_findings:**
+  * <No pharmacological findings extracted from the snippets provided.>
+
+* **cosmetic_or_clinical_snippets:**
+  * <Bioen?>
+
+* **quality_control_observations:**
+  * <No quality control observations extracted from the snippets provided.>
+
+* **notes:**
+  * <More detailed analysis of the full documents is needed to extract specific lab evidence.>

@@ -1,0 +1,15 @@
+16.46
+GLOBAL_LLM_MODEL: anthropic - Creating Anthropic LLM
+🧠 Assigning [GPT-4.1] to evaluate agent: trend_analyst_agent
+🧠 Assigning [GPT-4.1] to evaluate agent: herbal_laboratory_agent
+🧠 Assigning [GPT-4.1] to evaluate agent: research_agent
+🧠 Assigning [GPT-4.1] to evaluate agent: compliance_checker_agent
+🧠 Assigning [GPT-4.1] to evaluate agent: safety_inspector_agent
+🧠 Assigning [GPT-4.1] to evaluate agent: clinical_toxicologist_agent
+🧠 Assigning [GPT-4.1] to evaluate agent: cultural_editor_agent
+🧠 Assigning [GPT-4.1] to evaluate agent: internal_knowledge_agent
+🧠 Assigning [Claude 3.7] to research agent: writer_agent
+🧠 Assigning [Claude 3.7] to research agent: planner_agent
+🧠 Assigning [Gemini 2.0 flash] to research agent: qa_auditor_agent
+🧠 Assigning [Gemini 2.0 flash] to research agent: content_strategist_agent
+🧠 Assigning [Claude 3.7] to research agent: formatter_agent

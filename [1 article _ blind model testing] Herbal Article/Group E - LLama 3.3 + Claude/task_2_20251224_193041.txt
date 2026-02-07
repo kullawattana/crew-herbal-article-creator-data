@@ -1,0 +1,22 @@
+# ===LAB_DATA===
+## Internal Lab Evidence for: ขมิ้นชัน / Curcuma longa
+* **main_sources:**
+  * 42_KhaMinChun.pdf (p.1, p.34, p.38, p.40)
+* **linkage_to_target_herb:**
+  * Curcuma longa is the scientific name for ขมิ้นชัน
+  * The study is about the extraction and analysis of Curcuma longa
+* **experimental_methods:**
+  * Extraction method: Not specified
+  * Analysis method: TLC, GC-MS
+* **identified_compounds:**
+  * Curcumin
+  * Turmerone
+* **chromatography_details:**
+  * TLC: Not specified
+  * GC-MS: Not specified
+* **pharmacological_findings:**
+  * Antibacterial activity against Staph. aureus
+* **quality_control_observations:**
+  * Not specified
+* **notes:**
+  * The study suggests that Curcuma longa extract has potential for topical antibacterial formulation
