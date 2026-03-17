@@ -8,7 +8,8 @@ This repository contains all data, outputs, and analysis artifacts from an autom
 
 ```
 crew-herbal-article-creator-data/
-├── [95 articles] Herbal Article [selected]/     # Main dataset: 95 herb articles
+├── [Present] THAI HERBAL ARTICLES.pdf           # Final compiled publication (all 95 articles)
+├── [95 articles] Herbal Article [selected]/     # Main dataset: 95 herb articles (raw pipeline outputs)
 ├── [1 article - 1st time] Experiment Thesis Article - baseline/  # Initial baseline experiment
 ├── [1 article] blind model testing Herbal Article/              # Blind multi-model comparison
 ├── Model Exploration with Visualization/        # Jupyter notebooks & analysis CSVs
@@ -17,7 +18,29 @@ crew-herbal-article-creator-data/
 
 ---
 
-## Folders
+## Files & Folders
+
+### `[Present] THAI HERBAL ARTICLES.pdf`
+
+The final compiled publication — **Thai Herbal Articles to Support Modern Wellness Applications, Version 1.0** — submitted as part of the Master of Arts and Science Program in Interdisciplinary Studies at **Thammasat University** (2025) by Mr. Suttipong Kullawattana.
+
+This PDF consolidates all 95 AI-generated herb articles into a single ~350-page document. Articles were generated on **November 25, 2025** and are labelled *"Prepared by Academic Research by Crew with students of Thammasat University"*.
+
+Each article in the PDF follows a consistent 7-section structure:
+
+| Section | Content |
+|---------|---------|
+| **Herbal in Wellness Trends** | Market trends and consumer demand context |
+| **Scientific Deep-Dive** | Lab findings, active compounds, peer-reviewed research with DOI citations |
+| **Traditional Wisdom** | Cultural heritage, community knowledge, and traditional Thai medicinal use |
+| **Safety, Regulatory, and Constraints** | Thai FDA registrations, dosage guidelines, known side effects |
+| **Strategic Analysis and Product Opportunities** | Market positioning and new product development recommendations |
+| **Herbal Knowledge Summary** | Consolidated synthesis of all above sections |
+| **Conclusion + References** | Summary and cited sources |
+
+The 95 herbs covered span common Thai medicinal plants including Turmeric, Ginger, Kaempferia parviflora (Thai Ginseng), Galangal, Kaffir Lime, Garlic, Centella Asiatica, Cannabis sativa, Kratom, Moringa, and many more (full list in the Table of Contents, pages 2–5 of the PDF).
+
+---
 
 ### `[95 articles] Herbal Article [selected]/`
 
